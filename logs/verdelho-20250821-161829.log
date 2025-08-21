@@ -1,0 +1,41 @@
+2025-08-21 16:18:29,092 INFO [25/240] Processing Verdelho  https://www.polytec.com.au/colour/verdelho/
+2025-08-21 16:18:29,092 INFO run start colour=https://www.polytec.com.au/colour/verdelho/
+2025-08-21 16:18:29,394 INFO colour name: Verdelho
+2025-08-21 16:18:29,486 INFO finish tabs: 1
+2025-08-21 16:18:29,518 INFO tab 1/1 -> Smooth
+2025-08-21 16:18:29,573 INFO items in finish 'Smooth': 14
+2025-08-21 16:18:29,573 INFO range -> Board Decorative
+2025-08-21 16:18:32,663 INFO row 1: sku=52828 title='MDF 162412 DS Verdelho Smooth MR E0 Film' stock=OK price=OK time=3.09s
+2025-08-21 16:18:34,949 INFO row 2: sku=56693 title='MDF 183112 DS Verdelho Smooth MR E0 Film Down' stock=OK price=OK time=2.28s
+2025-08-21 16:18:37,230 INFO row 3: sku=56695 title='MDF 323112 DS Verdelho Smooth MR E0 Film Down' stock=OK price=OK time=2.27s
+2025-08-21 16:18:39,504 INFO row 4: sku=56694 title='MDF 253112 DS Verdelho Smooth MR E0 Film Down' stock=OK price=OK time=2.26s
+2025-08-21 16:18:39,514 INFO range -> Edgetape Decorative
+2025-08-21 16:18:42,186 INFO row 5: sku=52831 title='ABS 1mm x 21mm UG 100m Verdelho Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:44,870 INFO row 6: sku=52829 title='ABS 1mm x 21mm UG 20m Verdelho Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:47,552 INFO row 7: sku=52832 title='ABS 1mm x 29mm UG 100m Verdelho Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:50,248 INFO row 8: sku=53487 title='ABS 1mm x 38mm UG 100m Verdelho Smooth' stock=OK price=OK time=2.69s
+2025-08-21 16:18:50,259 INFO range -> Laminate
+2025-08-21 16:18:52,927 INFO row 9: sku=57827 title='Laminate Verdelho Smooth 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:18:55,618 INFO row 10: sku=57828 title='Laminate Verdelho Smooth HL 0.7mm 3650x680' stock=OK price=OK time=2.68s
+2025-08-21 16:18:58,303 INFO row 11: sku=57830 title='Laminate Verdelho Smooth Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:19:00,977 INFO row 12: sku=57829 title='Laminate Verdelho Smooth HS 0.7mm 1825x1360' stock=OK price=OK time=2.66s
+2025-08-21 16:19:00,988 INFO range -> Compact
+2025-08-21 16:19:03,261 INFO row 13: sku=52503 title='Compact Laminate Verdelho Smooth BC 3660x1830 13mm' stock=OK price=OK time=2.27s
+2025-08-21 16:19:03,272 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:19:09,068 INFO row 14: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.80s
+2025-08-21 16:19:09,077 INFO run end rows=14
+2025-08-21 16:19:09,078 INFO csv write: board_decorative.csv sku=52828 colour='Verdelho'
+2025-08-21 16:19:09,079 INFO csv write: board_decorative.csv sku=56693 colour='Verdelho'
+2025-08-21 16:19:09,079 INFO csv write: board_decorative.csv sku=56695 colour='Verdelho'
+2025-08-21 16:19:09,080 INFO csv write: board_decorative.csv sku=56694 colour='Verdelho'
+2025-08-21 16:19:09,080 INFO csv write: edgetape_decorative.csv sku=52831 colour='Verdelho'
+2025-08-21 16:19:09,081 INFO csv write: edgetape_decorative.csv sku=52829 colour='Verdelho'
+2025-08-21 16:19:09,081 INFO csv write: edgetape_decorative.csv sku=52832 colour='Verdelho'
+2025-08-21 16:19:09,081 INFO csv write: edgetape_decorative.csv sku=53487 colour='Verdelho'
+2025-08-21 16:19:09,082 INFO csv write: laminate.csv sku=57827 colour='Verdelho'
+2025-08-21 16:19:09,082 INFO csv write: laminate.csv sku=57828 colour='Verdelho'
+2025-08-21 16:19:09,082 INFO csv write: laminate.csv sku=57830 colour='Verdelho'
+2025-08-21 16:19:09,083 INFO csv write: laminate.csv sku=57829 colour='Verdelho'
+2025-08-21 16:19:09,083 INFO csv write: compact.csv sku=52503 colour='Verdelho'
+2025-08-21 16:19:09,084 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Verdelho'
+2025-08-21 16:19:09,084 INFO [25/240] Done Verdelho, rows=14, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

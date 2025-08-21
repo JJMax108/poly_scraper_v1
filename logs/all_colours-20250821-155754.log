@@ -1,0 +1,142 @@
+2025-08-21 15:57:54,193 INFO ===============================================
+2025-08-21 15:57:54,194 INFO Polytec all colours scraper starting
+2025-08-21 15:57:54,194 INFO Input count: 240
+2025-08-21 15:57:54,194 INFO Headless: False
+2025-08-21 15:57:54,194 INFO CSV dir: /Users/jaymorris/Desktop/poly_scraper_v1/csv
+2025-08-21 15:57:54,194 INFO Logs dir: /Users/jaymorris/Desktop/poly_scraper_v1/logs
+2025-08-21 15:57:54,194 INFO State file: /Users/jaymorris/Desktop/poly_scraper_v1/run_state.json
+2025-08-21 15:57:54,194 INFO Worker: colour_worker.process_colour
+2025-08-21 15:57:54,194 INFO ===============================================
+2025-08-21 15:57:55,122 INFO [1/240] Processing Adriatic  https://www.polytec.com.au/colour/adriatic/
+2025-08-21 15:57:55,122 INFO run start colour=https://www.polytec.com.au/colour/adriatic/
+2025-08-21 15:57:55,701 INFO colour name: Adriatic
+2025-08-21 15:57:55,714 INFO finish tabs: 2
+2025-08-21 15:57:55,783 INFO tab 1/2 -> Smooth
+2025-08-21 15:57:55,834 INFO items in finish 'Smooth': 10
+2025-08-21 15:57:55,834 INFO range -> Board Decorative
+2025-08-21 15:57:58,878 INFO row 1: sku=51418 title='MDF 162412 DS Adriatic Smooth MR E0 Film' stock=OK price=OK time=3.04s
+2025-08-21 15:58:01,166 INFO row 2: sku=56670 title='MDF 183112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK time=2.28s
+2025-08-21 15:58:03,442 INFO row 3: sku=56672 title='MDF 323112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK time=2.27s
+2025-08-21 15:58:05,713 INFO row 4: sku=56671 title='MDF 253112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK time=2.26s
+2025-08-21 15:58:05,724 INFO range -> Edgetape Decorative
+2025-08-21 15:58:08,386 INFO row 5: sku=51439 title='ABS 1mm x 21mm UG 100m Adriatic Smooth' stock=OK price=OK time=2.66s
+2025-08-21 15:58:11,055 INFO row 6: sku=51425 title='ABS 1mm x 21mm UG 20m Adriatic Smooth' stock=OK price=OK time=2.66s
+2025-08-21 15:58:13,733 INFO row 7: sku=53911 title='ABS 1mm x 38mm UG 100m Adriatic Smooth' stock=OK price=OK time=2.67s
+2025-08-21 15:58:16,392 INFO row 8: sku=51452 title='ABS 1mm x 29mm UG 100m Adriatic Smooth' stock=OK price=OK time=2.65s
+2025-08-21 15:58:16,402 INFO range -> Laminate
+2025-08-21 15:58:19,063 INFO row 9: sku=52118 title='Laminate Adriatic Smooth 0.7mm 3650 x 1220' stock=OK price=OK time=2.66s
+2025-08-21 15:58:19,074 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 15:58:24,857 INFO row 10: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 15:58:26,682 ERROR [1/240] Error on Adriatic: Locator.click: Timeout 1800ms exceeded.
+Call log:
+  - waiting for locator("#product-tabs li.tabs-title a").nth(1)
+    - locator resolved to <a role="tab" aria-selected="false" href="#finish-adriatic-venette" id="finish-adriatic-venette-label" aria-controls="finish-adriatic-venette">Venette</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    3 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+
+2025-08-21 15:58:26,809 INFO [2/240] Processing Aegean Oak  https://www.polytec.com.au/colour/aegean-oak/
+2025-08-21 15:58:26,809 INFO run start colour=https://www.polytec.com.au/colour/aegean-oak/
+2025-08-21 15:58:27,164 INFO colour name: Aegean Oak
+2025-08-21 15:58:27,276 INFO finish tabs: 1
+2025-08-21 15:58:27,308 INFO tab 1/1 -> Ravine
+2025-08-21 15:58:27,318 INFO items in finish 'Ravine': 1
+2025-08-21 15:58:27,318 INFO range -> Laminate
+2025-08-21 15:58:30,771 INFO row 1: sku=43803 title='Laminate Aegean Oak Ravine 0.7mm 3650x1220' stock=OK price=OK time=3.45s
+2025-08-21 15:58:30,780 INFO run end rows=1
+2025-08-21 15:58:30,781 INFO csv new: laminate.csv
+2025-08-21 15:58:30,781 INFO csv write: laminate.csv sku=43803 colour='Aegean Oak'
+2025-08-21 15:58:30,781 INFO [2/240] Done Aegean Oak, rows=1, ranges=['Laminate']
+2025-08-21 15:58:30,903 INFO [3/240] Processing Agave  https://www.polytec.com.au/colour/agave/
+2025-08-21 15:58:30,904 INFO run start colour=https://www.polytec.com.au/colour/agave/
+2025-08-21 15:58:31,206 INFO colour name: Agave
+2025-08-21 15:58:31,213 INFO finish tabs: 1
+2025-08-21 15:58:31,241 INFO tab 1/1 -> Smooth
+2025-08-21 15:58:31,268 INFO items in finish 'Smooth': 7
+2025-08-21 15:58:31,268 INFO range -> Board Decorative
+2025-08-21 15:58:34,352 INFO row 1: sku=51419 title='MDF 162412 DS Agave Smooth MR E0 Film' stock=OK price=OK time=3.08s
+2025-08-21 15:58:34,362 INFO range -> Edgetape Decorative
+2025-08-21 15:58:37,016 INFO row 2: sku=51440 title='ABS 1mm x 21mm UG 100m Agave Smooth' stock=OK price=OK time=2.65s
+2025-08-21 15:58:39,693 INFO row 3: sku=51426 title='ABS 1mm x 21mm UG 20m Agave Smooth' stock=OK price=OK time=2.67s
+2025-08-21 15:58:42,362 INFO row 4: sku=51453 title='ABS 1mm x 29mm UG 100m Agave Smooth' stock=OK price=OK time=2.66s
+2025-08-21 15:58:42,373 INFO range -> Laminate
+2025-08-21 15:58:45,024 INFO row 5: sku=52115 title='Laminate Agave Smooth 0.7mm 3650 x 1220' stock=OK price=OK time=2.65s
+2025-08-21 15:58:45,035 INFO range -> Compact
+2025-08-21 15:58:47,292 INFO row 6: sku=52504 title='Compact Laminate Agave Smooth BC 3660x1830 13mm' stock=OK price=OK time=2.26s
+2025-08-21 15:58:47,302 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 15:58:53,068 INFO row 7: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.77s
+2025-08-21 15:58:53,080 INFO run end rows=7
+2025-08-21 15:58:53,080 INFO csv new: board_decorative.csv
+2025-08-21 15:58:53,081 INFO csv write: board_decorative.csv sku=51419 colour='Agave'
+2025-08-21 15:58:53,081 INFO csv new: edgetape_decorative.csv
+2025-08-21 15:58:53,081 INFO csv write: edgetape_decorative.csv sku=51440 colour='Agave'
+2025-08-21 15:58:53,082 INFO csv write: edgetape_decorative.csv sku=51426 colour='Agave'
+2025-08-21 15:58:53,082 INFO csv write: edgetape_decorative.csv sku=51453 colour='Agave'
+2025-08-21 15:58:53,082 INFO csv write: laminate.csv sku=52115 colour='Agave'
+2025-08-21 15:58:53,082 INFO csv new: compact.csv
+2025-08-21 15:58:53,083 INFO csv write: compact.csv sku=52504 colour='Agave'
+2025-08-21 15:58:53,083 INFO csv new: thermolaminated_doors_and_panels.csv
+2025-08-21 15:58:53,083 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Agave'
+2025-08-21 15:58:53,084 INFO [3/240] Done Agave, rows=7, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 15:58:53,209 INFO [4/240] Processing Alabaster  https://www.polytec.com.au/colour/alabaster/
+2025-08-21 15:58:53,209 INFO run start colour=https://www.polytec.com.au/colour/alabaster/
+2025-08-21 15:58:53,594 INFO colour name: Alabaster
+2025-08-21 15:58:53,695 INFO finish tabs: 4
+2025-08-21 15:58:53,723 INFO tab 1/4 -> Gloss
+2025-08-21 15:58:53,735 INFO items in finish 'Gloss': 1
+2025-08-21 15:58:53,736 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 15:59:00,365 INFO row 1: sku= title='Style 1 - 3' stock=EMPTY price=EMPTY time=6.63s
+2025-08-21 15:59:02,192 ERROR [4/240] Error on Alabaster: Locator.click: Timeout 1800ms exceeded.
+Call log:
+  - waiting for locator("#product-tabs li.tabs-title a").nth(1)
+    - locator resolved to <a role="tab" aria-selected="false" href="#finish-alabaster-matt" id="finish-alabaster-matt-label" aria-controls="finish-alabaster-matt">Matt</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    3 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+
+2025-08-21 15:59:02,320 INFO [5/240] Processing Alboran Stone  https://www.polytec.com.au/colour/alboran-stone/
+2025-08-21 15:59:02,321 INFO run start colour=https://www.polytec.com.au/colour/alboran-stone/
+2025-08-21 15:59:02,715 INFO colour name: Alboran Stone
+2025-08-21 15:59:02,720 INFO finish tabs: 1
+2025-08-21 15:59:02,741 INFO tab 1/1 -> Smooth
+2025-08-21 15:59:02,760 INFO items in finish 'Smooth': 4
+2025-08-21 15:59:02,760 INFO range -> Laminate
+2025-08-21 15:59:06,237 INFO row 1: sku=52283 title='Laminate Alboran Stone Smooth 0.7mm 3650x1360' stock=OK price=OK time=3.48s

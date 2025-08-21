@@ -1,0 +1,28 @@
+2025-08-21 16:15:16,746 INFO [17/240] Processing Dark Batten Oak  https://www.polytec.com.au/colour/dark-batten-oak/
+2025-08-21 16:15:16,746 INFO run start colour=https://www.polytec.com.au/colour/dark-batten-oak/
+2025-08-21 16:15:17,053 INFO colour name: Dark Batten Oak
+2025-08-21 16:15:17,135 INFO finish tabs: 1
+2025-08-21 16:15:17,157 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:15:17,190 INFO items in finish 'Woodmatt': 8
+2025-08-21 16:15:17,190 INFO range -> Board Decorative
+2025-08-21 16:15:20,300 INFO row 1: sku=57264 title='MDF 092412 DS Dark Batten Oak Woodmatt MR E0' stock=OK price=OK time=3.11s
+2025-08-21 16:15:22,580 INFO row 2: sku=57262 title='MDF 182412 DS Dark Batten Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:15:24,863 INFO row 3: sku=57263 title='MDF 183112 DS Dark Batten Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:15:24,874 INFO range -> Edgetape Decorative
+2025-08-21 16:15:27,531 INFO row 4: sku=57270 title='ABS 1mm x 29mm UG 100m Dark Batten Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:15:30,213 INFO row 5: sku=57267 title='ABS 1mm x 21mm UG 100m Dark Batten Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:15:32,880 INFO row 6: sku=57268 title='ABS 1mm x 21mm UG 20m Dark Batten Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:15:32,891 INFO range -> Laminate
+2025-08-21 16:15:35,562 INFO row 7: sku=57273 title='Laminate Dark Batten Oak Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.67s
+2025-08-21 16:15:35,573 INFO range -> Compact
+2025-08-21 16:15:37,844 INFO row 8: sku=57457 title='Compact Laminate Dark Batten Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK time=2.27s
+2025-08-21 16:15:37,855 INFO run end rows=8
+2025-08-21 16:15:37,855 INFO csv write: board_decorative.csv sku=57264 colour='Dark Batten Oak'
+2025-08-21 16:15:37,856 INFO csv write: board_decorative.csv sku=57262 colour='Dark Batten Oak'
+2025-08-21 16:15:37,856 INFO csv write: board_decorative.csv sku=57263 colour='Dark Batten Oak'
+2025-08-21 16:15:37,856 INFO csv write: edgetape_decorative.csv sku=57270 colour='Dark Batten Oak'
+2025-08-21 16:15:37,856 INFO csv write: edgetape_decorative.csv sku=57267 colour='Dark Batten Oak'
+2025-08-21 16:15:37,857 INFO csv write: edgetape_decorative.csv sku=57268 colour='Dark Batten Oak'
+2025-08-21 16:15:37,857 INFO csv write: laminate.csv sku=57273 colour='Dark Batten Oak'
+2025-08-21 16:15:37,857 INFO csv write: compact.csv sku=57457 colour='Dark Batten Oak'
+2025-08-21 16:15:37,858 INFO [17/240] Done Dark Batten Oak, rows=8, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']

@@ -1,0 +1,25 @@
+2025-08-21 16:19:37,268 INFO [27/240] Processing Elemental Grey  https://www.polytec.com.au/colour/elemental-grey/
+2025-08-21 16:19:37,268 INFO run start colour=https://www.polytec.com.au/colour/elemental-grey/
+2025-08-21 16:19:37,619 INFO colour name: Elemental Grey
+2025-08-21 16:19:37,627 INFO finish tabs: 2
+2025-08-21 16:19:37,649 INFO tab 1/2 -> Ravine
+2025-08-21 16:19:37,709 INFO items in finish 'Ravine': 9
+2025-08-21 16:19:37,709 INFO range -> Board Decorative
+2025-08-21 16:19:40,306 INFO row 1: sku=55622 title='MDF 322412 DS Elemental Grey Ravine MR E0' stock=OK price=OK time=2.60s
+2025-08-21 16:19:42,582 INFO row 2: sku=55619 title='MDF 182412 DS Elemental Grey Ravine MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:19:44,843 INFO row 3: sku=55620 title='MDF 183112 DS Elemental Grey Ravine MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:19:47,085 INFO row 4: sku=55621 title='MDF 252412 DS Elemental Grey Ravine MR E0' stock=OK price=OK time=2.23s
+2025-08-21 16:19:47,094 INFO range -> Edgetape Decorative
+2025-08-21 16:19:49,745 INFO row 5: sku=55624 title='ABS 1mm x 22mm UG 100m Elemental Grey Ravine' stock=OK price=OK time=2.65s
+2025-08-21 16:19:52,396 INFO row 6: sku=55626 title='ABS 1mm x 22mm UG 20m Elemental Grey Ravine' stock=OK price=OK time=2.64s
+2025-08-21 16:19:55,066 INFO row 7: sku=55627 title='ABS 1mm x 29mm UG 100m Elemental Grey Ravine' stock=OK price=OK time=2.66s
+2025-08-21 16:19:57,741 INFO row 8: sku=55628 title='ABS 1mm x 38mm UG 100m Elemental Grey Ravine' stock=OK price=OK time=2.66s
+2025-08-21 16:19:57,750 INFO range -> Laminate
+2025-08-21 16:20:00,387 INFO row 9: sku=55629 title='Laminate Elemental Grey Ravine 0.7mm 3650x1220' stock=OK price=OK time=2.64s
+2025-08-21 16:20:00,462 INFO tab 2/2 -> Smooth
+2025-08-21 16:20:00,499 INFO items in finish 'Smooth': 9
+2025-08-21 16:20:00,499 INFO range -> Board Decorative
+2025-08-21 16:20:03,566 INFO row 1: sku=52872 title='MDF 162412 DS Elemental Grey Smooth MR E0 Film' stock=OK price=OK time=3.07s
+2025-08-21 16:20:03,577 INFO range -> Edgetape Decorative
+2025-08-21 16:20:06,242 INFO row 2: sku=52875 title='ABS 1mm x 21mm UG 100m Elemental Grey Smooth' stock=OK price=OK time=2.66s
+2025-08-21 16:20:08,912 INFO row 3: sku=52873 title='ABS 1mm x 21mm UG 20m Elemental Grey Smooth' stock=OK price=OK time=2.66s

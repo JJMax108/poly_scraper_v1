@@ -1,8 +1,9 @@
 # run_all_colours.py
-# Iterate every colour in colours_index.json, write per range CSVs, resilient with resume and clear logs
+# Iterate every colour in colours_index.json in JSON order, with clear logs and controllable resume
 
 import asyncio
 import json
+import argparse
 from pathlib import Path
 from datetime import datetime
 import logging
@@ -16,7 +17,7 @@ from csv_writer import RangeCsvWriter
 
 SESSION_FILE = Path("storage_state.json")
 COLOURS_JSON = Path("colours_index.json")
-CSV_DIR = Path("csv")
+DEFAULT_CSV_DIR = Path("csv")
 LOG_DIR = Path("logs")
 STATE_FILE = Path("run_state.json")
 
@@ -33,7 +34,7 @@ CORE_FIELDS = [
     "checked_at_iso",
 ]
 
-def setup_root_logging():
+def setup_root_logging() -> logging.Logger:
     LOG_DIR.mkdir(exist_ok=True)
     logger = logging.getLogger("poly")
     logger.setLevel(logging.INFO)
@@ -66,34 +67,66 @@ def load_state() -> Dict[str, Any]:
 def save_state(done: Set[str]):
     STATE_FILE.write_text(json.dumps({"done": sorted(done)}, indent=2))
 
-async def run_all(start_index: int = 0, limit: int = 0):
+def load_colours_in_json_order() -> List[Dict[str, Any]]:
+    if not COLOURS_JSON.exists():
+        raise SystemExit("colours_index.json not found. Run colours_index.py first.")
+    data = json.loads(COLOURS_JSON.read_text())
+    if not isinstance(data, list) or not data:
+        raise SystemExit("No colours found in colours_index.json")
+    return data  # preserve file order exactly
+
+def slice_from_name(items: List[Dict[str, Any]], from_name: str) -> List[Dict[str, Any]]:
+    if not from_name:
+        return items
+    target = from_name.strip().lower()
+    for i, c in enumerate(items):
+        if c.get("name", "").strip().lower() == target:
+            return items[i:]
+    return items
+
+async def run_all(
+    outdir: Path,
+    start_index: int = 0,
+    limit: int = 0,
+    headless: bool = False,
+    reset_state: bool = False,
+    from_name: str = "",
+    stop_after_error: bool = False
+):
     logger = logging.getLogger("poly")
 
     if not SESSION_FILE.exists():
         raise SystemExit("storage_state.json not found. Run login_polytec.py first.")
-    if not COLOURS_JSON.exists():
-        raise SystemExit("colours_index.json not found. Run colours_index.py first.")
 
-    colours: List[Dict[str, Any]] = json.loads(COLOURS_JSON.read_text())
-    if not colours:
-        raise SystemExit("No colours found in colours_index.json")
-
-    # slice if requested
+    colours = load_colours_in_json_order()
+    if from_name:
+        colours = slice_from_name(colours, from_name)
     if start_index:
         colours = colours[start_index:]
     if limit and limit > 0:
         colours = colours[:limit]
 
+    if reset_state and STATE_FILE.exists():
+        STATE_FILE.unlink(missing_ok=True)
+
     state = load_state()
     done: Set[str] = set(state.get("done", []))
 
-    writer = RangeCsvWriter(base_dir=CSV_DIR, core_fields=CORE_FIELDS)
+    writer = RangeCsvWriter(base_dir=outdir, core_fields=CORE_FIELDS)
 
     total = len(colours)
-    logger.info(f"Starting run across {total} colours")
+    logger.info("===============================================")
+    logger.info("Polytec all colours scraper starting")
+    logger.info(f"Input count: {total}")
+    logger.info(f"Headless: {headless}")
+    logger.info(f"CSV dir: {outdir.resolve()}")
+    logger.info(f"Logs dir: {LOG_DIR.resolve()}")
+    logger.info(f"State file: {STATE_FILE.resolve()}")
+    logger.info(f"Worker: colour_worker.process_colour")
+    logger.info("===============================================")
 
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=False)
+        browser = await pw.chromium.launch(headless=headless)
         context = await browser.new_context(storage_state=str(SESSION_FILE))
         context.set_default_timeout(1800)
         context.set_default_navigation_timeout(6000)
@@ -114,7 +147,6 @@ async def run_all(start_index: int = 0, limit: int = 0):
                 logger.info(f"[{idx}/{total}] Skip, already done, {name}")
                 continue
 
-            # per colour log file
             ts = datetime.now().strftime("%Y%m%d-%H%M%S")
             file_handler = RotatingFileHandler(str(LOG_DIR / f"{slug}-{ts}.log"), maxBytes=2_000_000, backupCount=2)
             file_handler.setLevel(logging.INFO)
@@ -144,20 +176,43 @@ async def run_all(start_index: int = 0, limit: int = 0):
 
             except Exception as exc:
                 logger.error(f"[{idx}/{total}] Error on {name}: {exc}")
-                # keep going to the next colour
+                if stop_after_error:
+                    raise
             finally:
-                # remove the per colour handler so the next colour gets a fresh file
                 logger.removeHandler(file_handler)
                 file_handler.close()
-
-                # tiny breather to avoid hammering
                 await page.wait_for_timeout(120)
 
         await browser.close()
 
+    logger.info("===============================================")
     logger.info(f"All colours complete. Rows written={written_rows}. Ranges touched={sorted(touched_overall)}")
-    logger.info(f"State file at {STATE_FILE.resolve()}, CSV dir at {CSV_DIR.resolve()}, logs at {LOG_DIR.resolve()}")
+    logger.info(f"State at {STATE_FILE.resolve()}, CSVs at {outdir.resolve()}, logs at {LOG_DIR.resolve()}")
+    logger.info("===============================================")
+
+def build_arg_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(description="Run Polytec scraper for all colours")
+    p.add_argument("--start", type=int, default=0, help="Start index within the JSON order")
+    p.add_argument("--limit", type=int, default=0, help="Limit number of colours")
+    p.add_argument("--outdir", type=str, default=str(DEFAULT_CSV_DIR), help="Output CSV folder")
+    p.add_argument("--headless", action="store_true", help="Run browser headless")
+    p.add_argument("--reset-state", action="store_true", help="Delete run_state.json first")
+    p.add_argument("--from-name", type=str, default="", help="Start from this colour name")
+    p.add_argument("--stop-after-error", action="store_true", help="Abort on first error")
+    return p
 
 if __name__ == "__main__":
-    # Optional slicing by editing these numbers before running
-    asyncio.run(run_all(start_index=0, limit=0))
+    setup_root_logging()
+    args = build_arg_parser().parse_args()
+    outdir = Path(args.outdir)
+    asyncio.run(
+        run_all(
+            outdir=outdir,
+            start_index=args.start,
+            limit=args.limit,
+            headless=args.headless,
+            reset_state=args.reset_state,
+            from_name=args.from_name,
+            stop_after_error=args.stop_after_error,
+        )
+    )

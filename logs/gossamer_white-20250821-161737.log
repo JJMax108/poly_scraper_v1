@@ -1,0 +1,53 @@
+2025-08-21 16:17:37,855 INFO [24/240] Processing Gossamer White  https://www.polytec.com.au/colour/gossamer-white/
+2025-08-21 16:17:37,855 INFO run start colour=https://www.polytec.com.au/colour/gossamer-white/
+2025-08-21 16:17:38,215 INFO colour name: Gossamer White
+2025-08-21 16:17:38,314 INFO finish tabs: 2
+2025-08-21 16:17:38,351 INFO tab 1/2 -> Ravine
+2025-08-21 16:17:38,391 INFO items in finish 'Ravine': 9
+2025-08-21 16:17:38,392 INFO range -> Board Decorative
+2025-08-21 16:17:41,486 INFO row 1: sku=55474 title='MDF 182412 DS Gossamer White Ravine MR E0' stock=OK price=OK time=3.09s
+2025-08-21 16:17:43,767 INFO row 2: sku=55475 title='MDF 183112 DS Gossamer White Ravine MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:17:46,035 INFO row 3: sku=55660 title='MDF 322412 DS Gossamer White Ravine MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:17:48,322 INFO row 4: sku=55476 title='MDF 252412 DS Gossamer White Ravine MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:17:48,333 INFO range -> Edgetape Decorative
+2025-08-21 16:17:51,003 INFO row 5: sku=55478 title='ABS 1mm x 22mm UG 100m Gossamer White Ravine' stock=OK price=OK time=2.67s
+2025-08-21 16:17:53,686 INFO row 6: sku=55480 title='ABS 1mm x 22mm UG 20m Gossamer White Ravine' stock=OK price=OK time=2.67s
+2025-08-21 16:17:56,361 INFO row 7: sku=55481 title='ABS 1mm x 29mm UG 100m Gossamer White Ravine' stock=OK price=OK time=2.66s
+2025-08-21 16:17:59,042 INFO row 8: sku=55661 title='ABS 1mm x 38mm UG 100m Gossamer White Ravine' stock=OK price=OK time=2.67s
+2025-08-21 16:17:59,052 INFO range -> Laminate
+2025-08-21 16:18:01,694 INFO row 9: sku=55482 title='Laminate Gossamer White Ravine 0.7mm 3650x1220' stock=OK price=OK time=2.64s
+2025-08-21 16:18:01,776 INFO tab 2/2 -> Smooth
+2025-08-21 16:18:01,808 INFO items in finish 'Smooth': 9
+2025-08-21 16:18:01,808 INFO range -> Board Decorative
+2025-08-21 16:18:04,395 INFO row 1: sku=52854 title='MDF 162412 DS Gossamer White Smooth MR E0 Film' stock=OK price=OK time=2.59s
+2025-08-21 16:18:04,406 INFO range -> Edgetape Decorative
+2025-08-21 16:18:07,074 INFO row 2: sku=52869 title='ABS 1mm x 21mm UG 100m Gossamer White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:09,746 INFO row 3: sku=52867 title='ABS 1mm x 21mm UG 20m Gossamer White Smooth' stock=OK price=OK time=2.66s
+2025-08-21 16:18:12,427 INFO row 4: sku=52870 title='ABS 1mm x 29mm UG 100m Gossamer White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:12,439 INFO range -> Laminate
+2025-08-21 16:18:15,104 INFO row 5: sku=57552 title='Laminate Gossamer White Smooth 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:18:17,786 INFO row 6: sku=57610 title='Laminate Gossamer White Smooth HL 0.7mm 3650x680' stock=OK price=OK time=2.67s
+2025-08-21 16:18:20,468 INFO row 7: sku=57737 title='Laminate Gossamer White Smooth Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:18:23,153 INFO row 8: sku=57735 title='Laminate Gossamer White Smooth HS 0.7mm 1825x1360' stock=OK price=OK time=2.68s
+2025-08-21 16:18:23,164 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:18:28,948 INFO row 9: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 16:18:28,960 INFO run end rows=18
+2025-08-21 16:18:28,961 INFO csv write: board_decorative.csv sku=55474 colour='Gossamer White'
+2025-08-21 16:18:28,962 INFO csv write: board_decorative.csv sku=55475 colour='Gossamer White'
+2025-08-21 16:18:28,962 INFO csv write: board_decorative.csv sku=55660 colour='Gossamer White'
+2025-08-21 16:18:28,963 INFO csv write: board_decorative.csv sku=55476 colour='Gossamer White'
+2025-08-21 16:18:28,964 INFO csv write: edgetape_decorative.csv sku=55478 colour='Gossamer White'
+2025-08-21 16:18:28,964 INFO csv write: edgetape_decorative.csv sku=55480 colour='Gossamer White'
+2025-08-21 16:18:28,964 INFO csv write: edgetape_decorative.csv sku=55481 colour='Gossamer White'
+2025-08-21 16:18:28,964 INFO csv write: edgetape_decorative.csv sku=55661 colour='Gossamer White'
+2025-08-21 16:18:28,965 INFO csv write: laminate.csv sku=55482 colour='Gossamer White'
+2025-08-21 16:18:28,965 INFO csv write: board_decorative.csv sku=52854 colour='Gossamer White'
+2025-08-21 16:18:28,965 INFO csv write: edgetape_decorative.csv sku=52869 colour='Gossamer White'
+2025-08-21 16:18:28,966 INFO csv write: edgetape_decorative.csv sku=52867 colour='Gossamer White'
+2025-08-21 16:18:28,966 INFO csv write: edgetape_decorative.csv sku=52870 colour='Gossamer White'
+2025-08-21 16:18:28,966 INFO csv write: laminate.csv sku=57552 colour='Gossamer White'
+2025-08-21 16:18:28,966 INFO csv write: laminate.csv sku=57610 colour='Gossamer White'
+2025-08-21 16:18:28,967 INFO csv write: laminate.csv sku=57737 colour='Gossamer White'
+2025-08-21 16:18:28,967 INFO csv write: laminate.csv sku=57735 colour='Gossamer White'
+2025-08-21 16:18:28,967 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Gossamer White'
+2025-08-21 16:18:28,968 INFO [24/240] Done Gossamer White, rows=18, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

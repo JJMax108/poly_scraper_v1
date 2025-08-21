@@ -1,0 +1,36 @@
+2025-08-21 16:15:37,983 INFO [18/240] Processing Batten Oak  https://www.polytec.com.au/colour/batten-oak/
+2025-08-21 16:15:37,983 INFO run start colour=https://www.polytec.com.au/colour/batten-oak/
+2025-08-21 16:15:38,296 INFO colour name: Batten Oak
+2025-08-21 16:15:38,380 INFO finish tabs: 1
+2025-08-21 16:15:38,409 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:15:38,449 INFO items in finish 'Woodmatt': 11
+2025-08-21 16:15:38,449 INFO range -> Board Decorative
+2025-08-21 16:15:41,563 INFO row 1: sku=56254 title='MDF 182412 DS Batten Oak Woodmatt MR E0' stock=OK price=OK time=3.11s
+2025-08-21 16:15:43,849 INFO row 2: sku=56255 title='MDF 183112 DS Batten Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:15:46,122 INFO row 3: sku=56493 title='MDF 092412 DS Batten Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:15:46,134 INFO range -> Edgetape Decorative
+2025-08-21 16:15:48,399 INFO row 4: sku=56256 title='ABS 1mm x 21mm UG 100m Batten Oak Woodmatt' stock=OK price=OK time=2.27s
+2025-08-21 16:15:50,668 INFO row 5: sku=56257 title='ABS 1mm x 21mm UG 20m Batten Oak Woodmatt' stock=OK price=OK time=2.26s
+2025-08-21 16:15:53,355 INFO row 6: sku=56258 title='ABS 1mm x 29mm UG 100m Batten Oak Woodmatt' stock=OK price=OK time=2.68s
+2025-08-21 16:15:56,038 INFO row 7: sku=56724 title='ABS 1mm x 29mm UG 100m Batten Oak Woodmatt (Cross Cut)' stock=OK price=OK time=2.67s
+2025-08-21 16:15:56,049 INFO range -> Laminate
+2025-08-21 16:15:58,712 INFO row 8: sku=56261 title='Laminate Batten Oak Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.66s
+2025-08-21 16:15:58,724 INFO range -> Compact
+2025-08-21 16:16:00,990 INFO row 9: sku=56260 title='Compact Laminate Batten Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK time=2.27s
+2025-08-21 16:16:03,274 INFO row 10: sku=56715 title='Compact Laminate Batten Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK time=2.27s
+2025-08-21 16:16:03,285 INFO range -> Edgetape Decorative WIP
+2025-08-21 16:16:05,950 INFO row 11: sku=56723 title='ABS 1mm x 21mm UG 100m Batten Oak Woodmatt (Cross Cut)' stock=OK price=OK time=2.67s
+2025-08-21 16:16:05,962 INFO run end rows=11
+2025-08-21 16:16:05,963 INFO csv write: board_decorative.csv sku=56254 colour='Batten Oak'
+2025-08-21 16:16:05,964 INFO csv write: board_decorative.csv sku=56255 colour='Batten Oak'
+2025-08-21 16:16:05,964 INFO csv write: board_decorative.csv sku=56493 colour='Batten Oak'
+2025-08-21 16:16:05,965 INFO csv write: edgetape_decorative.csv sku=56256 colour='Batten Oak'
+2025-08-21 16:16:05,965 INFO csv write: edgetape_decorative.csv sku=56257 colour='Batten Oak'
+2025-08-21 16:16:05,965 INFO csv write: edgetape_decorative.csv sku=56258 colour='Batten Oak'
+2025-08-21 16:16:05,965 INFO csv write: edgetape_decorative.csv sku=56724 colour='Batten Oak'
+2025-08-21 16:16:05,966 INFO csv write: laminate.csv sku=56261 colour='Batten Oak'
+2025-08-21 16:16:05,966 INFO csv write: compact.csv sku=56260 colour='Batten Oak'
+2025-08-21 16:16:05,966 INFO csv write: compact.csv sku=56715 colour='Batten Oak'
+2025-08-21 16:16:05,966 INFO csv new: edgetape_decorative_wip.csv
+2025-08-21 16:16:05,967 INFO csv write: edgetape_decorative_wip.csv sku=56723 colour='Batten Oak'
+2025-08-21 16:16:05,967 INFO [18/240] Done Batten Oak, rows=11, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Edgetape Decorative WIP', 'Laminate']

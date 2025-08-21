@@ -1,0 +1,1010 @@
+2025-08-21 16:03:59,529 INFO ===============================================
+2025-08-21 16:03:59,530 INFO Polytec all colours scraper starting
+2025-08-21 16:03:59,530 INFO Input count: 240
+2025-08-21 16:03:59,530 INFO Headless: False
+2025-08-21 16:03:59,530 INFO CSV dir: /Users/jaymorris/Desktop/poly_scraper_v1/csv
+2025-08-21 16:03:59,530 INFO Logs dir: /Users/jaymorris/Desktop/poly_scraper_v1/logs
+2025-08-21 16:03:59,530 INFO State file: /Users/jaymorris/Desktop/poly_scraper_v1/run_state.json
+2025-08-21 16:03:59,530 INFO Worker: colour_worker.process_colour
+2025-08-21 16:03:59,530 INFO ===============================================
+2025-08-21 16:04:00,468 INFO [1/240] Processing Australian Native  https://www.polytec.com.au/colour/australian-native/
+2025-08-21 16:04:00,468 INFO run start colour=https://www.polytec.com.au/colour/australian-native/
+2025-08-21 16:04:01,008 INFO colour name: Australian Native
+2025-08-21 16:04:01,016 INFO finish tabs: 1
+2025-08-21 16:04:01,093 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:04:01,147 INFO items in finish 'Woodmatt': 12
+2025-08-21 16:04:01,148 INFO range -> Board Decorative
+2025-08-21 16:04:03,727 INFO row 1: sku=57479 title='MDF 162412 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.58s
+2025-08-21 16:04:06,019 INFO row 2: sku=57482 title='MDF 183618 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:04:08,284 INFO row 3: sku=57480 title='MDF 252412 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:04:10,559 INFO row 4: sku=57481 title='MDF 322412 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:04:12,842 INFO row 5: sku=57484 title='LDF 333618 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:04:15,130 INFO row 6: sku=57483 title='LDF 253618 DS Australian Native Woodmatt STD E0' stock=OK price=OK time=2.28s
+2025-08-21 16:04:15,140 INFO range -> Edgetape Decorative
+2025-08-21 16:04:17,810 INFO row 7: sku=57474 title='ABS 1mm x 21mm UG 100m Australian Native Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:04:20,472 INFO row 8: sku=57475 title='ABS 1mm x 21mm UG 20m Australian Native Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:04:23,151 INFO row 9: sku=57478 title='ABS 1mm x 38mm UG 100m Australian Native Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:04:25,825 INFO row 10: sku=57477 title='ABS 1mm x 29mm UG 100m Australian Native Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:04:25,835 INFO range -> Laminate
+2025-08-21 16:04:28,519 INFO row 11: sku=57473 title='Laminate Australian Native Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.68s
+2025-08-21 16:04:28,529 INFO range -> Compact
+2025-08-21 16:04:30,792 INFO row 12: sku=57889 title='Compact Laminate Australian Native Woodmatt BC 3660x1830 13m' stock=OK price=OK time=2.26s
+2025-08-21 16:04:30,802 INFO run end rows=12
+2025-08-21 16:04:30,803 INFO csv new: board_decorative.csv
+2025-08-21 16:04:30,803 INFO csv write: board_decorative.csv sku=57479 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57482 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57480 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57481 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57484 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57483 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv new: edgetape_decorative.csv
+2025-08-21 16:04:30,805 INFO csv write: edgetape_decorative.csv sku=57474 colour='Australian Native'
+2025-08-21 16:04:30,805 INFO csv write: edgetape_decorative.csv sku=57475 colour='Australian Native'
+2025-08-21 16:04:30,805 INFO csv write: edgetape_decorative.csv sku=57478 colour='Australian Native'
+2025-08-21 16:04:30,805 INFO csv write: edgetape_decorative.csv sku=57477 colour='Australian Native'
+2025-08-21 16:04:30,805 INFO csv new: laminate.csv
+2025-08-21 16:04:30,806 INFO csv write: laminate.csv sku=57473 colour='Australian Native'
+2025-08-21 16:04:30,806 INFO csv new: compact.csv
+2025-08-21 16:04:30,806 INFO csv write: compact.csv sku=57889 colour='Australian Native'
+2025-08-21 16:04:30,806 INFO [1/240] Done Australian Native, rows=12, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']
+2025-08-21 16:04:30,930 INFO [2/240] Processing Grey Taj  https://www.polytec.com.au/colour/grey-taj/
+2025-08-21 16:04:30,930 INFO run start colour=https://www.polytec.com.au/colour/grey-taj/
+2025-08-21 16:04:31,296 INFO colour name: Grey Taj
+2025-08-21 16:04:31,410 INFO finish tabs: 1
+2025-08-21 16:04:31,437 INFO tab 1/1 -> Smooth
+2025-08-21 16:04:31,463 INFO items in finish 'Smooth': 4
+2025-08-21 16:04:31,463 INFO range -> Laminate
+2025-08-21 16:04:34,946 INFO row 1: sku=57278 title='Laminate Grey Taj Smooth 0.7mm 3650x1360 - Film' stock=OK price=OK time=3.48s
+2025-08-21 16:04:37,617 INFO row 2: sku=57279 title='Laminate Grey Taj Smooth HL 0.7mm 3650x680 - Film' stock=OK price=OK time=2.66s
+2025-08-21 16:04:40,286 INFO row 3: sku=57280 title='Laminate Grey Taj Smooth HS 0.7mm 1825x1360 - Film' stock=OK price=OK time=2.66s
+2025-08-21 16:04:42,944 INFO row 4: sku=57281 title='Laminate Grey Taj Smooth Q 1825 x 680 - Film' stock=OK price=OK time=2.65s
+2025-08-21 16:04:42,954 INFO run end rows=4
+2025-08-21 16:04:42,954 INFO csv write: laminate.csv sku=57278 colour='Grey Taj'
+2025-08-21 16:04:42,954 INFO csv write: laminate.csv sku=57279 colour='Grey Taj'
+2025-08-21 16:04:42,955 INFO csv write: laminate.csv sku=57280 colour='Grey Taj'
+2025-08-21 16:04:42,955 INFO csv write: laminate.csv sku=57281 colour='Grey Taj'
+2025-08-21 16:04:42,955 INFO [2/240] Done Grey Taj, rows=4, ranges=['Laminate']
+2025-08-21 16:04:43,079 INFO [3/240] Processing Taj Mahal  https://www.polytec.com.au/colour/taj-mahal/
+2025-08-21 16:04:43,079 INFO run start colour=https://www.polytec.com.au/colour/taj-mahal/
+2025-08-21 16:04:43,451 INFO colour name: Taj Mahal
+2025-08-21 16:04:43,457 INFO finish tabs: 1
+2025-08-21 16:04:43,487 INFO tab 1/1 -> Smooth
+2025-08-21 16:04:43,503 INFO items in finish 'Smooth': 4
+2025-08-21 16:04:43,503 INFO range -> Laminate
+2025-08-21 16:04:46,971 INFO row 1: sku=57274 title='Laminate Taj Mahal Smooth 0.7mm 3650x1360 - Film' stock=OK price=OK time=3.47s
+2025-08-21 16:04:49,649 INFO row 2: sku=57275 title='Laminate Taj Mahal Smooth HL 0.7mm 3650x680 - Film' stock=OK price=OK time=2.67s
+2025-08-21 16:04:52,310 INFO row 3: sku=57277 title='Laminate Taj Mahal Smooth Q 1825 x 680 - Film' stock=OK price=OK time=2.65s
+2025-08-21 16:04:54,978 INFO row 4: sku=57276 title='Laminate Taj Mahal Smooth HS 0.7mm 1825x1360 - Film' stock=OK price=OK time=2.66s
+2025-08-21 16:04:54,988 INFO run end rows=4
+2025-08-21 16:04:54,988 INFO csv write: laminate.csv sku=57274 colour='Taj Mahal'
+2025-08-21 16:04:54,989 INFO csv write: laminate.csv sku=57275 colour='Taj Mahal'
+2025-08-21 16:04:54,989 INFO csv write: laminate.csv sku=57277 colour='Taj Mahal'
+2025-08-21 16:04:54,989 INFO csv write: laminate.csv sku=57276 colour='Taj Mahal'
+2025-08-21 16:04:54,989 INFO [3/240] Done Taj Mahal, rows=4, ranges=['Laminate']
+2025-08-21 16:04:55,111 INFO [4/240] Processing Blonde Oak  https://www.polytec.com.au/colour/blonde-oak/
+2025-08-21 16:04:55,111 INFO run start colour=https://www.polytec.com.au/colour/blonde-oak/
+2025-08-21 16:04:55,473 INFO colour name: Blonde Oak
+2025-08-21 16:04:55,480 INFO finish tabs: 1
+2025-08-21 16:04:55,509 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:04:55,578 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:04:55,579 INFO range -> Board Decorative
+2025-08-21 16:04:58,651 INFO row 1: sku=57143 title='MDF 182412 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK time=3.07s
+2025-08-21 16:05:00,936 INFO row 2: sku=57144 title='MDF 183112 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:05:03,222 INFO row 3: sku=57145 title='MDF 252412 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:05:05,503 INFO row 4: sku=58453 title='MDF 183618 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:05:07,798 INFO row 5: sku=58064 title='MDF 092712 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:05:10,089 INFO row 6: sku=58455 title='LDF 333618 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:05:12,364 INFO row 7: sku=58454 title='LDF 253618 DS Blonde Oak Woodmatt STD E0' stock=OK price=OK time=2.27s
+2025-08-21 16:05:12,375 INFO range -> Edgetape Decorative
+2025-08-21 16:05:15,052 INFO row 8: sku=56872 title='ABS 1mm x 21mm UG 100m Blonde Oak Woodmatt' stock=OK price=OK time=2.68s
+2025-08-21 16:05:17,735 INFO row 9: sku=56873 title='ABS 1mm x 21mm UG 20m Blonde Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:05:20,409 INFO row 10: sku=56875 title='ABS 1mm x 29mm UG 100m Blonde Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:05:23,090 INFO row 11: sku=57413 title='ABS 1mm x 38mm UG 100m Blonde Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:05:23,100 INFO range -> Laminate
+2025-08-21 16:05:25,765 INFO row 12: sku=56805 title='Laminate Blonde Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.66s
+2025-08-21 16:05:28,432 INFO row 13: sku=56806 title='Laminate Blonde Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.66s
+2025-08-21 16:05:31,106 INFO row 14: sku=56808 title='Laminate Blonde Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:05:33,780 INFO row 15: sku=56807 title='Laminate Blonde Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.66s
+2025-08-21 16:05:33,791 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:05:39,561 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.77s
+2025-08-21 16:05:39,573 INFO run end rows=16
+2025-08-21 16:05:39,574 INFO csv write: board_decorative.csv sku=57143 colour='Blonde Oak'
+2025-08-21 16:05:39,574 INFO csv write: board_decorative.csv sku=57144 colour='Blonde Oak'
+2025-08-21 16:05:39,575 INFO csv write: board_decorative.csv sku=57145 colour='Blonde Oak'
+2025-08-21 16:05:39,575 INFO csv write: board_decorative.csv sku=58453 colour='Blonde Oak'
+2025-08-21 16:05:39,576 INFO csv write: board_decorative.csv sku=58064 colour='Blonde Oak'
+2025-08-21 16:05:39,576 INFO csv write: board_decorative.csv sku=58455 colour='Blonde Oak'
+2025-08-21 16:05:39,576 INFO csv write: board_decorative.csv sku=58454 colour='Blonde Oak'
+2025-08-21 16:05:39,576 INFO csv write: edgetape_decorative.csv sku=56872 colour='Blonde Oak'
+2025-08-21 16:05:39,577 INFO csv write: edgetape_decorative.csv sku=56873 colour='Blonde Oak'
+2025-08-21 16:05:39,577 INFO csv write: edgetape_decorative.csv sku=56875 colour='Blonde Oak'
+2025-08-21 16:05:39,577 INFO csv write: edgetape_decorative.csv sku=57413 colour='Blonde Oak'
+2025-08-21 16:05:39,577 INFO csv write: laminate.csv sku=56805 colour='Blonde Oak'
+2025-08-21 16:05:39,578 INFO csv write: laminate.csv sku=56806 colour='Blonde Oak'
+2025-08-21 16:05:39,578 INFO csv write: laminate.csv sku=56808 colour='Blonde Oak'
+2025-08-21 16:05:39,578 INFO csv write: laminate.csv sku=56807 colour='Blonde Oak'
+2025-08-21 16:05:39,578 INFO csv new: thermolaminated_doors_and_panels.csv
+2025-08-21 16:05:39,579 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Blonde Oak'
+2025-08-21 16:05:39,579 INFO [4/240] Done Blonde Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:05:39,703 INFO [5/240] Processing Ecru Oak  https://www.polytec.com.au/colour/ecru-oak/
+2025-08-21 16:05:39,704 INFO run start colour=https://www.polytec.com.au/colour/ecru-oak/
+2025-08-21 16:05:40,021 INFO colour name: Ecru Oak
+2025-08-21 16:05:40,042 INFO finish tabs: 1
+2025-08-21 16:05:40,147 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:05:40,214 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:05:40,214 INFO range -> Board Decorative
+2025-08-21 16:05:43,310 INFO row 1: sku=57099 title='MDF 182412 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK time=3.10s
+2025-08-21 16:05:45,586 INFO row 2: sku=57140 title='MDF 183112 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:05:47,859 INFO row 3: sku=57141 title='MDF 252412 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:05:50,148 INFO row 4: sku=58465 title='MDF 183618 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:05:52,435 INFO row 5: sku=58467 title='LDF 333618 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:05:54,718 INFO row 6: sku=58076 title='MDF 092712 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:05:57,017 INFO row 7: sku=58466 title='LDF 253618 DS Ecru Oak Woodmatt STD E0' stock=OK price=OK time=2.29s
+2025-08-21 16:05:57,027 INFO range -> Edgetape Decorative
+2025-08-21 16:05:59,676 INFO row 8: sku=56868 title='ABS 1mm x 21mm UG 100m Ecru Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:06:02,340 INFO row 9: sku=56869 title='ABS 1mm x 21mm UG 20m Ecru Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:06:05,002 INFO row 10: sku=56871 title='ABS 1mm x 29mm UG 100m Ecru Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:06:07,660 INFO row 11: sku=57412 title='ABS 1mm x 38mm UG 100m Ecru Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:06:07,669 INFO range -> Laminate
+2025-08-21 16:06:10,322 INFO row 12: sku=56801 title='Laminate Ecru Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:06:13,001 INFO row 13: sku=56802 title='Laminate Ecru Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.67s
+2025-08-21 16:06:15,682 INFO row 14: sku=56804 title='Laminate Ecru Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:06:18,338 INFO row 15: sku=56803 title='Laminate Ecru Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:06:18,348 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:06:24,137 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.79s
+2025-08-21 16:06:24,150 INFO run end rows=16
+2025-08-21 16:06:24,151 INFO csv write: board_decorative.csv sku=57099 colour='Ecru Oak'
+2025-08-21 16:06:24,151 INFO csv write: board_decorative.csv sku=57140 colour='Ecru Oak'
+2025-08-21 16:06:24,152 INFO csv write: board_decorative.csv sku=57141 colour='Ecru Oak'
+2025-08-21 16:06:24,152 INFO csv write: board_decorative.csv sku=58465 colour='Ecru Oak'
+2025-08-21 16:06:24,152 INFO csv write: board_decorative.csv sku=58467 colour='Ecru Oak'
+2025-08-21 16:06:24,153 INFO csv write: board_decorative.csv sku=58076 colour='Ecru Oak'
+2025-08-21 16:06:24,153 INFO csv write: board_decorative.csv sku=58466 colour='Ecru Oak'
+2025-08-21 16:06:24,153 INFO csv write: edgetape_decorative.csv sku=56868 colour='Ecru Oak'
+2025-08-21 16:06:24,154 INFO csv write: edgetape_decorative.csv sku=56869 colour='Ecru Oak'
+2025-08-21 16:06:24,154 INFO csv write: edgetape_decorative.csv sku=56871 colour='Ecru Oak'
+2025-08-21 16:06:24,154 INFO csv write: edgetape_decorative.csv sku=57412 colour='Ecru Oak'
+2025-08-21 16:06:24,155 INFO csv write: laminate.csv sku=56801 colour='Ecru Oak'
+2025-08-21 16:06:24,155 INFO csv write: laminate.csv sku=56802 colour='Ecru Oak'
+2025-08-21 16:06:24,155 INFO csv write: laminate.csv sku=56804 colour='Ecru Oak'
+2025-08-21 16:06:24,156 INFO csv write: laminate.csv sku=56803 colour='Ecru Oak'
+2025-08-21 16:06:24,156 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Ecru Oak'
+2025-08-21 16:06:24,156 INFO [5/240] Done Ecru Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:06:24,280 INFO [6/240] Processing Boston Oak  https://www.polytec.com.au/colour/boston-oak/
+2025-08-21 16:06:24,280 INFO run start colour=https://www.polytec.com.au/colour/boston-oak/
+2025-08-21 16:06:24,647 INFO colour name: Boston Oak
+2025-08-21 16:06:24,661 INFO finish tabs: 1
+2025-08-21 16:06:24,809 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:06:24,976 INFO items in finish 'Woodmatt': 37
+2025-08-21 16:06:24,976 INFO range -> Board Decorative
+2025-08-21 16:06:27,456 INFO row 1: sku=51913 title='MDF 162412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.48s
+2025-08-21 16:06:29,769 INFO row 2: sku=54309 title='MDF 163112 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.30s
+2025-08-21 16:06:32,074 INFO row 3: sku=56472 title='MDF 182412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.30s
+2025-08-21 16:06:34,357 INFO row 4: sku=51909 title='MDF 183618 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:06:36,633 INFO row 5: sku=51916 title='MDF 322412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:06:38,912 INFO row 6: sku=56912 title='MDF 183112 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:06:41,207 INFO row 7: sku=51915 title='MDF 252412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:06:43,497 INFO row 8: sku=51911 title='LDF 333618 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:06:45,801 INFO row 9: sku=51910 title='LDF 253618 DS Boston Oak Woodmatt STD E0' stock=OK price=OK time=2.29s
+2025-08-21 16:06:48,106 INFO row 10: sku=58066 title='MDF 092712 DS Boston Oak Woodmatt MR E0' stock=OK price=OK time=2.29s
+2025-08-21 16:06:48,116 INFO range -> Edgetape Decorative
+2025-08-21 16:06:50,807 INFO row 11: sku=52531 title='ABS 1mm x 21mm UG 100m Boston Oak Woodmatt' stock=OK price=OK time=2.69s
+2025-08-21 16:06:53,499 INFO row 12: sku=52529 title='ABS 1mm x 21mm UG 20m Boston Oak Woodmatt' stock=OK price=OK time=2.68s
+2025-08-21 16:06:56,204 INFO row 13: sku=52534 title='ABS 1mm x 38mm UG 100m Boston Oak Woodmatt' stock=OK price=OK time=2.69s
+2025-08-21 16:06:58,902 INFO row 14: sku=52533 title='ABS 1mm x 29mm UG 100m Boston Oak Woodmatt' stock=OK price=OK time=2.69s
+2025-08-21 16:07:01,593 INFO row 15: sku=57561 title='ABS 1mm x 55mm UG 100m Boston Oak Woodmatt' stock=OK price=OK time=2.68s
+2025-08-21 16:07:04,289 INFO row 16: sku=52532 title='ABS 1mm x 21mm UG 100m Boston Oak Woodmatt (Cross Cut)' stock=OK price=OK time=2.69s
+2025-08-21 16:07:06,977 INFO row 17: sku=54611 title='ABS 1mm x 29mm UG 100m Boston Oak Woodmatt (Cross Cut)' stock=OK price=OK time=2.68s
+2025-08-21 16:07:06,987 INFO range -> Laminate
+2025-08-21 16:07:09,670 INFO row 18: sku=52133 title='Laminate Boston Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.68s
+2025-08-21 16:07:12,351 INFO row 19: sku=52535 title='Laminate Boston Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.67s
+2025-08-21 16:07:15,029 INFO row 20: sku=52536 title='Laminate Boston Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:07:17,716 INFO row 21: sku=52537 title='Laminate Boston Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.68s
+2025-08-21 16:07:17,726 INFO range -> Compact
+2025-08-21 16:07:20,020 INFO row 22: sku=55215 title='Compact Laminate Boston Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK time=2.29s
+2025-08-21 16:07:22,320 INFO row 23: sku=55439 title='Compact Laminate Boston Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK time=2.29s
+2025-08-21 16:07:22,331 INFO range -> Architectural
+2025-08-21 16:07:26,816 INFO row 24: sku=57296 title='Steccawood 17x34x3600 MDF MR E0 Boston Oak Half Round' stock=EMPTY price=EMPTY time=4.49s
+2025-08-21 16:07:31,302 INFO row 25: sku=57299 title='Steccawood 17x34x3600 MDF MR E0 Boston Oak Cove' stock=EMPTY price=EMPTY time=4.48s
+2025-08-21 16:07:35,815 INFO row 26: sku=57290 title='Steccawood 17x38x3600 MDF MR E0 Boston Oak' stock=EMPTY price=EMPTY time=4.50s
+2025-08-21 16:07:40,330 INFO row 27: sku=57291 title='Steccawood 31x31x3600 MDF MR E0 Boston Oak' stock=EMPTY price=EMPTY time=4.50s
+2025-08-21 16:07:44,792 INFO row 28: sku=57298 title='Steccawood 24x48x3600 MDF MR E0 Boston Oak Half Round' stock=EMPTY price=EMPTY time=4.51s
+2025-08-21 16:07:49,297 INFO row 29: sku=57294 title='Steccawood 50x100x3600 LDF MR E0 Boston Oak' stock=EMPTY price=EMPTY time=4.49s
+2025-08-21 16:07:53,813 INFO row 30: sku=57292 title='Steccawood 31x65x3600 MDF MR E0 Boston Oak' stock=EMPTY price=EMPTY time=4.51s
+2025-08-21 16:07:58,341 INFO row 31: sku=57295 title='Steccawood 40x100x3600 LDF MR E0 Boston Oak' stock=EMPTY price=EMPTY time=4.52s
+2025-08-21 16:08:02,850 INFO row 32: sku=57293 title='Steccawood 50x70x3600 LDF MR E0 Boston Oak' stock=EMPTY price=EMPTY time=4.50s
+2025-08-21 16:08:07,365 INFO row 33: sku=57297 title='Steccawood 31x62x3600 MDF MR E0 Boston Oak Half Round' stock=EMPTY price=EMPTY time=4.50s
+2025-08-21 16:08:11,873 INFO row 34: sku=57300 title='Steccawood 24x34x3600 MDF MR E0 Boston Oak Peak' stock=EMPTY price=EMPTY time=4.50s
+2025-08-21 16:08:11,885 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:08:17,692 INFO row 35: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.81s
+2025-08-21 16:08:17,703 INFO range -> Architectural Internal Doors
+2025-08-21 16:08:23,485 INFO row 36: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 16:08:23,500 INFO range -> Alfresco Doors
+2025-08-21 16:08:29,272 INFO row 37: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY time=5.77s
+2025-08-21 16:08:29,282 INFO run end rows=37
+2025-08-21 16:08:29,284 INFO csv write: board_decorative.csv sku=51913 colour='Boston Oak'
+2025-08-21 16:08:29,284 INFO csv write: board_decorative.csv sku=54309 colour='Boston Oak'
+2025-08-21 16:08:29,285 INFO csv write: board_decorative.csv sku=56472 colour='Boston Oak'
+2025-08-21 16:08:29,285 INFO csv write: board_decorative.csv sku=51909 colour='Boston Oak'
+2025-08-21 16:08:29,285 INFO csv write: board_decorative.csv sku=51916 colour='Boston Oak'
+2025-08-21 16:08:29,285 INFO csv write: board_decorative.csv sku=56912 colour='Boston Oak'
+2025-08-21 16:08:29,285 INFO csv write: board_decorative.csv sku=51915 colour='Boston Oak'
+2025-08-21 16:08:29,285 INFO csv write: board_decorative.csv sku=51911 colour='Boston Oak'
+2025-08-21 16:08:29,286 INFO csv write: board_decorative.csv sku=51910 colour='Boston Oak'
+2025-08-21 16:08:29,286 INFO csv write: board_decorative.csv sku=58066 colour='Boston Oak'
+2025-08-21 16:08:29,286 INFO csv write: edgetape_decorative.csv sku=52531 colour='Boston Oak'
+2025-08-21 16:08:29,286 INFO csv write: edgetape_decorative.csv sku=52529 colour='Boston Oak'
+2025-08-21 16:08:29,287 INFO csv write: edgetape_decorative.csv sku=52534 colour='Boston Oak'
+2025-08-21 16:08:29,287 INFO csv write: edgetape_decorative.csv sku=52533 colour='Boston Oak'
+2025-08-21 16:08:29,287 INFO csv write: edgetape_decorative.csv sku=57561 colour='Boston Oak'
+2025-08-21 16:08:29,287 INFO csv write: edgetape_decorative.csv sku=52532 colour='Boston Oak'
+2025-08-21 16:08:29,287 INFO csv write: edgetape_decorative.csv sku=54611 colour='Boston Oak'
+2025-08-21 16:08:29,288 INFO csv write: laminate.csv sku=52133 colour='Boston Oak'
+2025-08-21 16:08:29,288 INFO csv write: laminate.csv sku=52535 colour='Boston Oak'
+2025-08-21 16:08:29,288 INFO csv write: laminate.csv sku=52536 colour='Boston Oak'
+2025-08-21 16:08:29,288 INFO csv write: laminate.csv sku=52537 colour='Boston Oak'
+2025-08-21 16:08:29,288 INFO csv write: compact.csv sku=55215 colour='Boston Oak'
+2025-08-21 16:08:29,289 INFO csv write: compact.csv sku=55439 colour='Boston Oak'
+2025-08-21 16:08:29,289 INFO csv new: architectural.csv
+2025-08-21 16:08:29,289 INFO csv write: architectural.csv sku=57296 colour='Boston Oak'
+2025-08-21 16:08:29,289 INFO csv write: architectural.csv sku=57299 colour='Boston Oak'
+2025-08-21 16:08:29,289 INFO csv write: architectural.csv sku=57290 colour='Boston Oak'
+2025-08-21 16:08:29,289 INFO csv write: architectural.csv sku=57291 colour='Boston Oak'
+2025-08-21 16:08:29,290 INFO csv write: architectural.csv sku=57298 colour='Boston Oak'
+2025-08-21 16:08:29,290 INFO csv write: architectural.csv sku=57294 colour='Boston Oak'
+2025-08-21 16:08:29,290 INFO csv write: architectural.csv sku=57292 colour='Boston Oak'
+2025-08-21 16:08:29,290 INFO csv write: architectural.csv sku=57295 colour='Boston Oak'
+2025-08-21 16:08:29,290 INFO csv write: architectural.csv sku=57293 colour='Boston Oak'
+2025-08-21 16:08:29,290 INFO csv write: architectural.csv sku=57297 colour='Boston Oak'
+2025-08-21 16:08:29,290 INFO csv write: architectural.csv sku=57300 colour='Boston Oak'
+2025-08-21 16:08:29,291 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Boston Oak'
+2025-08-21 16:08:29,291 INFO csv new: architectural_internal_doors.csv
+2025-08-21 16:08:29,291 INFO csv write: architectural_internal_doors.csv sku= colour='Boston Oak'
+2025-08-21 16:08:29,291 INFO csv new: alfresco_doors.csv
+2025-08-21 16:08:29,292 INFO csv write: alfresco_doors.csv sku= colour='Boston Oak'
+2025-08-21 16:08:29,292 INFO [6/240] Done Boston Oak, rows=37, ranges=['Alfresco Doors', 'Architectural', 'Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:08:29,414 INFO [7/240] Processing Laurel Oak  https://www.polytec.com.au/colour/laurel-oak/
+2025-08-21 16:08:29,415 INFO run start colour=https://www.polytec.com.au/colour/laurel-oak/
+2025-08-21 16:08:29,724 INFO colour name: Laurel Oak
+2025-08-21 16:08:29,816 INFO finish tabs: 1
+2025-08-21 16:08:29,842 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:08:29,928 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:08:29,928 INFO range -> Board Decorative
+2025-08-21 16:08:33,024 INFO row 1: sku=57147 title='MDF 182412 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK time=3.10s
+2025-08-21 16:08:35,300 INFO row 2: sku=58472 title='LDF 253618 DS Laurel Oak Woodmatt STD E0' stock=OK price=OK time=2.27s
+2025-08-21 16:08:37,586 INFO row 3: sku=58473 title='LDF 333618 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:08:39,865 INFO row 4: sku=57148 title='MDF 183112 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:08:42,144 INFO row 5: sku=57149 title='MDF 252412 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:08:44,414 INFO row 6: sku=58082 title='MDF 092712 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:08:46,707 INFO row 7: sku=58471 title='MDF 183618 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:08:46,718 INFO range -> Edgetape Decorative
+2025-08-21 16:08:49,382 INFO row 8: sku=56876 title='ABS 1mm x 21mm UG 100m Laurel Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:08:52,041 INFO row 9: sku=56877 title='ABS 1mm x 21mm UG 20m Laurel Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:08:54,712 INFO row 10: sku=56879 title='ABS 1mm x 29mm UG 100m Laurel Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:08:57,691 INFO row 11: sku=57414 title='ABS 1mm x 38mm UG 100m Laurel Oak Woodmatt' stock=OK price=OK time=2.97s
+2025-08-21 16:08:57,701 INFO range -> Laminate
+2025-08-21 16:09:00,373 INFO row 12: sku=56832 title='Laminate Laurel Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:09:03,051 INFO row 13: sku=56833 title='Laminate Laurel Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.67s
+2025-08-21 16:09:05,724 INFO row 14: sku=56835 title='Laminate Laurel Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.66s
+2025-08-21 16:09:08,398 INFO row 15: sku=56834 title='Laminate Laurel Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.66s
+2025-08-21 16:09:08,408 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:09:14,198 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.79s
+2025-08-21 16:09:14,209 INFO run end rows=16
+2025-08-21 16:09:14,210 INFO csv write: board_decorative.csv sku=57147 colour='Laurel Oak'
+2025-08-21 16:09:14,211 INFO csv write: board_decorative.csv sku=58472 colour='Laurel Oak'
+2025-08-21 16:09:14,212 INFO csv write: board_decorative.csv sku=58473 colour='Laurel Oak'
+2025-08-21 16:09:14,212 INFO csv write: board_decorative.csv sku=57148 colour='Laurel Oak'
+2025-08-21 16:09:14,212 INFO csv write: board_decorative.csv sku=57149 colour='Laurel Oak'
+2025-08-21 16:09:14,213 INFO csv write: board_decorative.csv sku=58082 colour='Laurel Oak'
+2025-08-21 16:09:14,213 INFO csv write: board_decorative.csv sku=58471 colour='Laurel Oak'
+2025-08-21 16:09:14,213 INFO csv write: edgetape_decorative.csv sku=56876 colour='Laurel Oak'
+2025-08-21 16:09:14,214 INFO csv write: edgetape_decorative.csv sku=56877 colour='Laurel Oak'
+2025-08-21 16:09:14,214 INFO csv write: edgetape_decorative.csv sku=56879 colour='Laurel Oak'
+2025-08-21 16:09:14,214 INFO csv write: edgetape_decorative.csv sku=57414 colour='Laurel Oak'
+2025-08-21 16:09:14,215 INFO csv write: laminate.csv sku=56832 colour='Laurel Oak'
+2025-08-21 16:09:14,215 INFO csv write: laminate.csv sku=56833 colour='Laurel Oak'
+2025-08-21 16:09:14,216 INFO csv write: laminate.csv sku=56835 colour='Laurel Oak'
+2025-08-21 16:09:14,216 INFO csv write: laminate.csv sku=56834 colour='Laurel Oak'
+2025-08-21 16:09:14,216 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Laurel Oak'
+2025-08-21 16:09:14,216 INFO [7/240] Done Laurel Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:09:14,340 INFO [8/240] Processing Botany Oak  https://www.polytec.com.au/colour/botany-oak/
+2025-08-21 16:09:14,341 INFO run start colour=https://www.polytec.com.au/colour/botany-oak/
+2025-08-21 16:09:14,678 INFO colour name: Botany Oak
+2025-08-21 16:09:14,771 INFO finish tabs: 1
+2025-08-21 16:09:14,799 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:09:14,858 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:09:14,858 INFO range -> Board Decorative
+2025-08-21 16:09:17,950 INFO row 1: sku=57151 title='MDF 182412 DS Botany Oak Woodmatt MR E0' stock=OK price=OK time=3.09s
+2025-08-21 16:09:20,236 INFO row 2: sku=57152 title='MDF 183112 DS Botany Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:09:22,519 INFO row 3: sku=57153 title='MDF 252412 DS Botany Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:09:24,810 INFO row 4: sku=58456 title='MDF 183618 DS Botany Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:09:27,083 INFO row 5: sku=58068 title='MDF 092712 DS Botany Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:09:29,368 INFO row 6: sku=58457 title='LDF 253618 DS Botany Oak Woodmatt STD E0' stock=OK price=OK time=2.27s
+2025-08-21 16:09:31,642 INFO row 7: sku=58458 title='LDF 333618 DS Botany Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:09:31,652 INFO range -> Edgetape Decorative
+2025-08-21 16:09:34,322 INFO row 8: sku=56880 title='ABS 1mm x 21mm UG 100m Botany Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:09:37,004 INFO row 9: sku=56881 title='ABS 1mm x 21mm UG 20m Botany Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:09:39,700 INFO row 10: sku=56883 title='ABS 1mm x 29mm UG 100m Botany Oak Woodmatt' stock=OK price=OK time=2.69s
+2025-08-21 16:09:42,383 INFO row 11: sku=57415 title='ABS 1mm x 38mm UG 100m Botany Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:09:42,393 INFO range -> Laminate
+2025-08-21 16:09:45,040 INFO row 12: sku=56836 title='Laminate Botany Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:09:47,695 INFO row 13: sku=56837 title='Laminate Botany Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.64s
+2025-08-21 16:09:50,392 INFO row 14: sku=56838 title='Laminate Botany Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.69s
+2025-08-21 16:09:53,071 INFO row 15: sku=56839 title='Laminate Botany Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:09:53,081 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:09:58,859 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 16:09:58,869 INFO run end rows=16
+2025-08-21 16:09:58,870 INFO csv write: board_decorative.csv sku=57151 colour='Botany Oak'
+2025-08-21 16:09:58,870 INFO csv write: board_decorative.csv sku=57152 colour='Botany Oak'
+2025-08-21 16:09:58,870 INFO csv write: board_decorative.csv sku=57153 colour='Botany Oak'
+2025-08-21 16:09:58,871 INFO csv write: board_decorative.csv sku=58456 colour='Botany Oak'
+2025-08-21 16:09:58,871 INFO csv write: board_decorative.csv sku=58068 colour='Botany Oak'
+2025-08-21 16:09:58,871 INFO csv write: board_decorative.csv sku=58457 colour='Botany Oak'
+2025-08-21 16:09:58,871 INFO csv write: board_decorative.csv sku=58458 colour='Botany Oak'
+2025-08-21 16:09:58,871 INFO csv write: edgetape_decorative.csv sku=56880 colour='Botany Oak'
+2025-08-21 16:09:58,871 INFO csv write: edgetape_decorative.csv sku=56881 colour='Botany Oak'
+2025-08-21 16:09:58,872 INFO csv write: edgetape_decorative.csv sku=56883 colour='Botany Oak'
+2025-08-21 16:09:58,872 INFO csv write: edgetape_decorative.csv sku=57415 colour='Botany Oak'
+2025-08-21 16:09:58,872 INFO csv write: laminate.csv sku=56836 colour='Botany Oak'
+2025-08-21 16:09:58,872 INFO csv write: laminate.csv sku=56837 colour='Botany Oak'
+2025-08-21 16:09:58,872 INFO csv write: laminate.csv sku=56838 colour='Botany Oak'
+2025-08-21 16:09:58,872 INFO csv write: laminate.csv sku=56839 colour='Botany Oak'
+2025-08-21 16:09:58,872 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Botany Oak'
+2025-08-21 16:09:58,873 INFO [8/240] Done Botany Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:09:58,995 INFO [9/240] Processing Manor Oak  https://www.polytec.com.au/colour/manor-oak/
+2025-08-21 16:09:58,995 INFO run start colour=https://www.polytec.com.au/colour/manor-oak/
+2025-08-21 16:09:59,295 INFO colour name: Manor Oak
+2025-08-21 16:09:59,316 INFO finish tabs: 1
+2025-08-21 16:09:59,421 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:09:59,481 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:09:59,481 INFO range -> Board Decorative
+2025-08-21 16:10:02,086 INFO row 1: sku=57155 title='MDF 182412 DS Manor Oak Woodmatt MR E0' stock=OK price=OK time=2.61s
+2025-08-21 16:10:04,368 INFO row 2: sku=57156 title='MDF 183112 DS Manor Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:10:06,651 INFO row 3: sku=57157 title='MDF 252412 DS Manor Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:10:08,919 INFO row 4: sku=58474 title='MDF 183618 DS Manor Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:10:11,198 INFO row 5: sku=58476 title='LDF 333618 DS Manor Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:10:13,494 INFO row 6: sku=58084 title='MDF 092712 DS Manor Oak Woodmatt MR E0' stock=OK price=OK time=2.29s
+2025-08-21 16:10:15,775 INFO row 7: sku=58475 title='LDF 253618 DS Manor Oak Woodmatt STD E0' stock=OK price=OK time=2.27s
+2025-08-21 16:10:15,785 INFO range -> Edgetape Decorative
+2025-08-21 16:10:18,462 INFO row 8: sku=56884 title='ABS 1mm x 21mm UG 100m Manor Oak Woodmatt' stock=OK price=OK time=2.68s
+2025-08-21 16:10:21,119 INFO row 9: sku=56885 title='ABS 1mm x 21mm UG 20m Manor Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:10:23,793 INFO row 10: sku=56887 title='ABS 1mm x 29mm UG 100m Manor Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:10:26,468 INFO row 11: sku=57416 title='ABS 1mm x 38mm UG 100m Manor Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:10:26,479 INFO range -> Laminate
+2025-08-21 16:10:29,148 INFO row 12: sku=56840 title='Laminate Manor Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:10:31,833 INFO row 13: sku=56841 title='Laminate Manor Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.67s
+2025-08-21 16:10:34,519 INFO row 14: sku=56842 title='Laminate Manor Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.68s
+2025-08-21 16:10:37,195 INFO row 15: sku=56843 title='Laminate Manor Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:10:37,205 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:10:42,999 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.79s
+2025-08-21 16:10:43,011 INFO run end rows=16
+2025-08-21 16:10:43,012 INFO csv write: board_decorative.csv sku=57155 colour='Manor Oak'
+2025-08-21 16:10:43,012 INFO csv write: board_decorative.csv sku=57156 colour='Manor Oak'
+2025-08-21 16:10:43,013 INFO csv write: board_decorative.csv sku=57157 colour='Manor Oak'
+2025-08-21 16:10:43,013 INFO csv write: board_decorative.csv sku=58474 colour='Manor Oak'
+2025-08-21 16:10:43,013 INFO csv write: board_decorative.csv sku=58476 colour='Manor Oak'
+2025-08-21 16:10:43,014 INFO csv write: board_decorative.csv sku=58084 colour='Manor Oak'
+2025-08-21 16:10:43,014 INFO csv write: board_decorative.csv sku=58475 colour='Manor Oak'
+2025-08-21 16:10:43,014 INFO csv write: edgetape_decorative.csv sku=56884 colour='Manor Oak'
+2025-08-21 16:10:43,015 INFO csv write: edgetape_decorative.csv sku=56885 colour='Manor Oak'
+2025-08-21 16:10:43,015 INFO csv write: edgetape_decorative.csv sku=56887 colour='Manor Oak'
+2025-08-21 16:10:43,015 INFO csv write: edgetape_decorative.csv sku=57416 colour='Manor Oak'
+2025-08-21 16:10:43,015 INFO csv write: laminate.csv sku=56840 colour='Manor Oak'
+2025-08-21 16:10:43,016 INFO csv write: laminate.csv sku=56841 colour='Manor Oak'
+2025-08-21 16:10:43,016 INFO csv write: laminate.csv sku=56842 colour='Manor Oak'
+2025-08-21 16:10:43,016 INFO csv write: laminate.csv sku=56843 colour='Manor Oak'
+2025-08-21 16:10:43,016 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Manor Oak'
+2025-08-21 16:10:43,017 INFO [9/240] Done Manor Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:10:43,142 INFO [10/240] Processing Hazel Oak  https://www.polytec.com.au/colour/hazel-oak/
+2025-08-21 16:10:43,142 INFO run start colour=https://www.polytec.com.au/colour/hazel-oak/
+2025-08-21 16:10:43,444 INFO colour name: Hazel Oak
+2025-08-21 16:10:43,464 INFO finish tabs: 1
+2025-08-21 16:10:43,578 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:10:43,640 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:10:43,640 INFO range -> Board Decorative
+2025-08-21 16:10:46,795 INFO row 1: sku=57163 title='MDF 182412 DS Hazel Oak Woodmatt MR E0' stock=OK price=OK time=3.15s
+2025-08-21 16:10:49,064 INFO row 2: sku=57164 title='MDF 183112 DS Hazel Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:10:51,333 INFO row 3: sku=58468 title='MDF 183618 DS Hazel Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:10:53,617 INFO row 4: sku=57165 title='MDF 252412 DS Hazel Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:10:55,900 INFO row 5: sku=58470 title='LDF 333618 DS Hazel Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:10:58,181 INFO row 6: sku=58080 title='MDF 092712 DS Hazel Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:11:00,481 INFO row 7: sku=58469 title='LDF 253618 DS Hazel Oak Woodmatt STD E0' stock=OK price=OK time=2.29s
+2025-08-21 16:11:00,491 INFO range -> Edgetape Decorative
+2025-08-21 16:11:03,164 INFO row 8: sku=56892 title='ABS 1mm x 21mm UG 100m Hazel Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:11:05,840 INFO row 9: sku=56893 title='ABS 1mm x 21mm UG 20m Hazel Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:11:08,520 INFO row 10: sku=56895 title='ABS 1mm x 29mm UG 100m Hazel Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:11:11,201 INFO row 11: sku=57418 title='ABS 1mm x 38mm UG 100m Hazel Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:11:11,210 INFO range -> Laminate
+2025-08-21 16:11:13,858 INFO row 12: sku=56848 title='Laminate Hazel Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:11:16,514 INFO row 13: sku=56851 title='Laminate Hazel Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.65s
+2025-08-21 16:11:19,167 INFO row 14: sku=56849 title='Laminate Hazel Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.64s
+2025-08-21 16:11:21,829 INFO row 15: sku=56850 title='Laminate Hazel Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:11:21,839 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:11:27,596 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.76s
+2025-08-21 16:11:27,607 INFO run end rows=16
+2025-08-21 16:11:27,608 INFO csv write: board_decorative.csv sku=57163 colour='Hazel Oak'
+2025-08-21 16:11:27,608 INFO csv write: board_decorative.csv sku=57164 colour='Hazel Oak'
+2025-08-21 16:11:27,608 INFO csv write: board_decorative.csv sku=58468 colour='Hazel Oak'
+2025-08-21 16:11:27,608 INFO csv write: board_decorative.csv sku=57165 colour='Hazel Oak'
+2025-08-21 16:11:27,609 INFO csv write: board_decorative.csv sku=58470 colour='Hazel Oak'
+2025-08-21 16:11:27,609 INFO csv write: board_decorative.csv sku=58080 colour='Hazel Oak'
+2025-08-21 16:11:27,609 INFO csv write: board_decorative.csv sku=58469 colour='Hazel Oak'
+2025-08-21 16:11:27,609 INFO csv write: edgetape_decorative.csv sku=56892 colour='Hazel Oak'
+2025-08-21 16:11:27,609 INFO csv write: edgetape_decorative.csv sku=56893 colour='Hazel Oak'
+2025-08-21 16:11:27,609 INFO csv write: edgetape_decorative.csv sku=56895 colour='Hazel Oak'
+2025-08-21 16:11:27,609 INFO csv write: edgetape_decorative.csv sku=57418 colour='Hazel Oak'
+2025-08-21 16:11:27,610 INFO csv write: laminate.csv sku=56848 colour='Hazel Oak'
+2025-08-21 16:11:27,610 INFO csv write: laminate.csv sku=56851 colour='Hazel Oak'
+2025-08-21 16:11:27,610 INFO csv write: laminate.csv sku=56849 colour='Hazel Oak'
+2025-08-21 16:11:27,610 INFO csv write: laminate.csv sku=56850 colour='Hazel Oak'
+2025-08-21 16:11:27,610 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Hazel Oak'
+2025-08-21 16:11:27,610 INFO [10/240] Done Hazel Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:11:27,733 INFO [11/240] Processing Society Oak  https://www.polytec.com.au/colour/society-oak/
+2025-08-21 16:11:27,733 INFO run start colour=https://www.polytec.com.au/colour/society-oak/
+2025-08-21 16:11:28,066 INFO colour name: Society Oak
+2025-08-21 16:11:28,161 INFO finish tabs: 1
+2025-08-21 16:11:28,183 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:11:28,250 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:11:28,250 INFO range -> Board Decorative
+2025-08-21 16:11:30,813 INFO row 1: sku=58092 title='MDF 092712 DS Society Oak Woodmatt MR E0' stock=OK price=OK time=2.56s
+2025-08-21 16:11:33,069 INFO row 2: sku=57159 title='MDF 182412 DS Society Oak Woodmatt MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:11:35,340 INFO row 3: sku=57160 title='MDF 183112 DS Society Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:11:37,608 INFO row 4: sku=57161 title='MDF 252412 DS Society Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:11:39,868 INFO row 5: sku=58480 title='MDF 183618 DS Society Oak Woodmatt MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:11:42,149 INFO row 6: sku=58481 title='LDF 253618 DS Society Oak Woodmatt STD E0' stock=OK price=OK time=2.27s
+2025-08-21 16:11:44,409 INFO row 7: sku=58482 title='LDF 333618 DS Society Oak Woodmatt MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:11:44,419 INFO range -> Edgetape Decorative
+2025-08-21 16:11:47,053 INFO row 8: sku=56888 title='ABS 1mm x 21mm UG 100m Society Oak Woodmatt' stock=OK price=OK time=2.63s
+2025-08-21 16:11:49,700 INFO row 9: sku=56891 title='ABS 1mm x 29mm UG 100m Society Oak Woodmatt' stock=OK price=OK time=2.64s
+2025-08-21 16:11:52,363 INFO row 10: sku=56889 title='ABS 1mm x 21mm UG 20m Society Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:11:55,031 INFO row 11: sku=57417 title='ABS 1mm x 38mm UG 100m Society Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:11:55,041 INFO range -> Laminate
+2025-08-21 16:11:57,696 INFO row 12: sku=56844 title='Laminate Society Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:12:00,333 INFO row 13: sku=56845 title='Laminate Society Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.63s
+2025-08-21 16:12:03,004 INFO row 14: sku=56847 title='Laminate Society Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.66s
+2025-08-21 16:12:05,667 INFO row 15: sku=56846 title='Laminate Society Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:12:05,678 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:12:11,427 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.75s
+2025-08-21 16:12:11,437 INFO run end rows=16
+2025-08-21 16:12:11,438 INFO csv write: board_decorative.csv sku=58092 colour='Society Oak'
+2025-08-21 16:12:11,438 INFO csv write: board_decorative.csv sku=57159 colour='Society Oak'
+2025-08-21 16:12:11,438 INFO csv write: board_decorative.csv sku=57160 colour='Society Oak'
+2025-08-21 16:12:11,438 INFO csv write: board_decorative.csv sku=57161 colour='Society Oak'
+2025-08-21 16:12:11,438 INFO csv write: board_decorative.csv sku=58480 colour='Society Oak'
+2025-08-21 16:12:11,438 INFO csv write: board_decorative.csv sku=58481 colour='Society Oak'
+2025-08-21 16:12:11,438 INFO csv write: board_decorative.csv sku=58482 colour='Society Oak'
+2025-08-21 16:12:11,439 INFO csv write: edgetape_decorative.csv sku=56888 colour='Society Oak'
+2025-08-21 16:12:11,439 INFO csv write: edgetape_decorative.csv sku=56891 colour='Society Oak'
+2025-08-21 16:12:11,439 INFO csv write: edgetape_decorative.csv sku=56889 colour='Society Oak'
+2025-08-21 16:12:11,439 INFO csv write: edgetape_decorative.csv sku=57417 colour='Society Oak'
+2025-08-21 16:12:11,439 INFO csv write: laminate.csv sku=56844 colour='Society Oak'
+2025-08-21 16:12:11,439 INFO csv write: laminate.csv sku=56845 colour='Society Oak'
+2025-08-21 16:12:11,439 INFO csv write: laminate.csv sku=56847 colour='Society Oak'
+2025-08-21 16:12:11,440 INFO csv write: laminate.csv sku=56846 colour='Society Oak'
+2025-08-21 16:12:11,440 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Society Oak'
+2025-08-21 16:12:11,440 INFO [11/240] Done Society Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:12:11,562 INFO [12/240] Processing District Oak  https://www.polytec.com.au/colour/district-oak/
+2025-08-21 16:12:11,563 INFO run start colour=https://www.polytec.com.au/colour/district-oak/
+2025-08-21 16:12:11,859 INFO colour name: District Oak
+2025-08-21 16:12:11,954 INFO finish tabs: 1
+2025-08-21 16:12:11,981 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:12:12,050 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:12:12,050 INFO range -> Board Decorative
+2025-08-21 16:12:15,146 INFO row 1: sku=57167 title='MDF 182412 DS District Oak Woodmatt MR E0' stock=OK price=OK time=3.10s
+2025-08-21 16:12:17,417 INFO row 2: sku=58463 title='LDF 253618 DS District Oak Woodmatt STD E0' stock=OK price=OK time=2.26s
+2025-08-21 16:12:19,677 INFO row 3: sku=58464 title='LDF 333618 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:12:21,942 INFO row 4: sku=57168 title='MDF 183112 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:12:24,211 INFO row 5: sku=57169 title='MDF 252412 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:12:26,483 INFO row 6: sku=58462 title='MDF 183618 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:12:28,735 INFO row 7: sku=58074 title='MDF 092712 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.24s
+2025-08-21 16:12:28,745 INFO range -> Edgetape Decorative
+2025-08-21 16:12:31,389 INFO row 8: sku=56896 title='ABS 1mm x 21mm UG 100m District Oak Woodmatt' stock=OK price=OK time=2.64s
+2025-08-21 16:12:34,046 INFO row 9: sku=56899 title='ABS 1mm x 29mm UG 100m District Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:12:36,681 INFO row 10: sku=56897 title='ABS 1mm x 21mm UG 20m District Oak Woodmatt' stock=OK price=OK time=2.62s
+2025-08-21 16:12:39,326 INFO row 11: sku=57419 title='ABS 1mm x 38mm UG 100m District Oak Woodmatt' stock=OK price=OK time=2.64s
+2025-08-21 16:12:39,335 INFO range -> Laminate
+2025-08-21 16:12:41,984 INFO row 12: sku=56852 title='Laminate District Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:12:44,631 INFO row 13: sku=56853 title='Laminate District Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.64s
+2025-08-21 16:12:47,274 INFO row 14: sku=56855 title='Laminate District Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.63s
+2025-08-21 16:12:49,910 INFO row 15: sku=56854 title='Laminate District Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.63s
+2025-08-21 16:12:49,918 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:12:55,658 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.74s
+2025-08-21 16:12:55,667 INFO run end rows=16
+2025-08-21 16:12:55,668 INFO csv write: board_decorative.csv sku=57167 colour='District Oak'
+2025-08-21 16:12:55,669 INFO csv write: board_decorative.csv sku=58463 colour='District Oak'
+2025-08-21 16:12:55,670 INFO csv write: board_decorative.csv sku=58464 colour='District Oak'
+2025-08-21 16:12:55,670 INFO csv write: board_decorative.csv sku=57168 colour='District Oak'
+2025-08-21 16:12:55,671 INFO csv write: board_decorative.csv sku=57169 colour='District Oak'
+2025-08-21 16:12:55,671 INFO csv write: board_decorative.csv sku=58462 colour='District Oak'
+2025-08-21 16:12:55,671 INFO csv write: board_decorative.csv sku=58074 colour='District Oak'
+2025-08-21 16:12:55,671 INFO csv write: edgetape_decorative.csv sku=56896 colour='District Oak'
+2025-08-21 16:12:55,672 INFO csv write: edgetape_decorative.csv sku=56899 colour='District Oak'
+2025-08-21 16:12:55,672 INFO csv write: edgetape_decorative.csv sku=56897 colour='District Oak'
+2025-08-21 16:12:55,672 INFO csv write: edgetape_decorative.csv sku=57419 colour='District Oak'
+2025-08-21 16:12:55,673 INFO csv write: laminate.csv sku=56852 colour='District Oak'
+2025-08-21 16:12:55,673 INFO csv write: laminate.csv sku=56853 colour='District Oak'
+2025-08-21 16:12:55,673 INFO csv write: laminate.csv sku=56855 colour='District Oak'
+2025-08-21 16:12:55,673 INFO csv write: laminate.csv sku=56854 colour='District Oak'
+2025-08-21 16:12:55,674 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='District Oak'
+2025-08-21 16:12:55,674 INFO [12/240] Done District Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:12:55,798 INFO [13/240] Processing Bronzed Oak  https://www.polytec.com.au/colour/bronzed-oak/
+2025-08-21 16:12:55,799 INFO run start colour=https://www.polytec.com.au/colour/bronzed-oak/
+2025-08-21 16:12:56,112 INFO colour name: Bronzed Oak
+2025-08-21 16:12:56,205 INFO finish tabs: 1
+2025-08-21 16:12:56,231 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:12:56,296 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:12:56,296 INFO range -> Board Decorative
+2025-08-21 16:12:59,373 INFO row 1: sku=57171 title='MDF 182412 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK time=3.08s
+2025-08-21 16:13:01,630 INFO row 2: sku=58460 title='LDF 253618 DS Bronzed Oak Woodmatt STD E0' stock=OK price=OK time=2.25s
+2025-08-21 16:13:03,885 INFO row 3: sku=57172 title='MDF 183112 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:13:06,141 INFO row 4: sku=57173 title='MDF 252412 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:13:08,405 INFO row 5: sku=58072 title='MDF 092712 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:13:10,671 INFO row 6: sku=58459 title='MDF 183618 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:13:12,920 INFO row 7: sku=58461 title='LDF 333618 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK time=2.24s
+2025-08-21 16:13:12,930 INFO range -> Edgetape Decorative
+2025-08-21 16:13:15,583 INFO row 8: sku=56900 title='ABS 1mm x 21mm UG 100m Bronzed Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:13:18,244 INFO row 9: sku=56901 title='ABS 1mm x 21mm UG 20m Bronzed Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:13:20,918 INFO row 10: sku=56903 title='ABS 1mm x 29mm UG 100m Bronzed Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:13:23,603 INFO row 11: sku=57420 title='ABS 1mm x 38mm UG 100m Bronzed Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:13:23,613 INFO range -> Laminate
+2025-08-21 16:13:26,282 INFO row 12: sku=56856 title='Laminate Bronzed Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:13:28,973 INFO row 13: sku=56858 title='Laminate Bronzed Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.68s
+2025-08-21 16:13:31,660 INFO row 14: sku=56857 title='Laminate Bronzed Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.68s
+2025-08-21 16:13:34,334 INFO row 15: sku=56859 title='Laminate Bronzed Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.66s
+2025-08-21 16:13:34,345 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:13:40,126 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 16:13:40,136 INFO run end rows=16
+2025-08-21 16:13:40,137 INFO csv write: board_decorative.csv sku=57171 colour='Bronzed Oak'
+2025-08-21 16:13:40,138 INFO csv write: board_decorative.csv sku=58460 colour='Bronzed Oak'
+2025-08-21 16:13:40,138 INFO csv write: board_decorative.csv sku=57172 colour='Bronzed Oak'
+2025-08-21 16:13:40,139 INFO csv write: board_decorative.csv sku=57173 colour='Bronzed Oak'
+2025-08-21 16:13:40,139 INFO csv write: board_decorative.csv sku=58072 colour='Bronzed Oak'
+2025-08-21 16:13:40,139 INFO csv write: board_decorative.csv sku=58459 colour='Bronzed Oak'
+2025-08-21 16:13:40,139 INFO csv write: board_decorative.csv sku=58461 colour='Bronzed Oak'
+2025-08-21 16:13:40,140 INFO csv write: edgetape_decorative.csv sku=56900 colour='Bronzed Oak'
+2025-08-21 16:13:40,140 INFO csv write: edgetape_decorative.csv sku=56901 colour='Bronzed Oak'
+2025-08-21 16:13:40,140 INFO csv write: edgetape_decorative.csv sku=56903 colour='Bronzed Oak'
+2025-08-21 16:13:40,141 INFO csv write: edgetape_decorative.csv sku=57420 colour='Bronzed Oak'
+2025-08-21 16:13:40,141 INFO csv write: laminate.csv sku=56856 colour='Bronzed Oak'
+2025-08-21 16:13:40,141 INFO csv write: laminate.csv sku=56858 colour='Bronzed Oak'
+2025-08-21 16:13:40,141 INFO csv write: laminate.csv sku=56857 colour='Bronzed Oak'
+2025-08-21 16:13:40,142 INFO csv write: laminate.csv sku=56859 colour='Bronzed Oak'
+2025-08-21 16:13:40,142 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Bronzed Oak'
+2025-08-21 16:13:40,142 INFO [13/240] Done Bronzed Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:13:40,268 INFO [14/240] Processing Rubra Oak  https://www.polytec.com.au/colour/rubra-oak/
+2025-08-21 16:13:40,269 INFO run start colour=https://www.polytec.com.au/colour/rubra-oak/
+2025-08-21 16:13:40,592 INFO colour name: Rubra Oak
+2025-08-21 16:13:40,685 INFO finish tabs: 1
+2025-08-21 16:13:40,714 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:13:40,775 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:13:40,775 INFO range -> Board Decorative
+2025-08-21 16:13:43,873 INFO row 1: sku=57179 title='MDF 182412 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK time=3.10s
+2025-08-21 16:13:46,164 INFO row 2: sku=57180 title='MDF 183112 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:13:48,449 INFO row 3: sku=57181 title='MDF 252412 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:13:50,730 INFO row 4: sku=58477 title='MDF 183618 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:13:53,023 INFO row 5: sku=58090 title='MDF 092712 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:13:55,289 INFO row 6: sku=58479 title='LDF 333618 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:13:57,569 INFO row 7: sku=58478 title='LDF 253618 DS Rubra Oak Woodmatt STD E0' stock=OK price=OK time=2.27s
+2025-08-21 16:13:57,579 INFO range -> Edgetape Decorative
+2025-08-21 16:14:00,256 INFO row 8: sku=56908 title='ABS 1mm x 21mm UG 100m Rubra Oak Woodmatt' stock=OK price=OK time=2.68s
+2025-08-21 16:14:02,941 INFO row 9: sku=56909 title='ABS 1mm x 21mm UG 20m Rubra Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:14:05,615 INFO row 10: sku=56911 title='ABS 1mm x 29mm UG 100m Rubra Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:14:08,299 INFO row 11: sku=57422 title='ABS 1mm x 38mm UG 100m Rubra Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:14:08,308 INFO range -> Laminate
+2025-08-21 16:14:10,982 INFO row 12: sku=56864 title='Laminate Rubra Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:14:13,664 INFO row 13: sku=56865 title='Laminate Rubra Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.67s
+2025-08-21 16:14:16,339 INFO row 14: sku=56866 title='Laminate Rubra Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.66s
+2025-08-21 16:14:19,017 INFO row 15: sku=56867 title='Laminate Rubra Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:14:19,027 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:14:24,809 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 16:14:24,819 INFO run end rows=16
+2025-08-21 16:14:24,820 INFO csv write: board_decorative.csv sku=57179 colour='Rubra Oak'
+2025-08-21 16:14:24,821 INFO csv write: board_decorative.csv sku=57180 colour='Rubra Oak'
+2025-08-21 16:14:24,821 INFO csv write: board_decorative.csv sku=57181 colour='Rubra Oak'
+2025-08-21 16:14:24,822 INFO csv write: board_decorative.csv sku=58477 colour='Rubra Oak'
+2025-08-21 16:14:24,822 INFO csv write: board_decorative.csv sku=58090 colour='Rubra Oak'
+2025-08-21 16:14:24,822 INFO csv write: board_decorative.csv sku=58479 colour='Rubra Oak'
+2025-08-21 16:14:24,823 INFO csv write: board_decorative.csv sku=58478 colour='Rubra Oak'
+2025-08-21 16:14:24,823 INFO csv write: edgetape_decorative.csv sku=56908 colour='Rubra Oak'
+2025-08-21 16:14:24,823 INFO csv write: edgetape_decorative.csv sku=56909 colour='Rubra Oak'
+2025-08-21 16:14:24,823 INFO csv write: edgetape_decorative.csv sku=56911 colour='Rubra Oak'
+2025-08-21 16:14:24,824 INFO csv write: edgetape_decorative.csv sku=57422 colour='Rubra Oak'
+2025-08-21 16:14:24,824 INFO csv write: laminate.csv sku=56864 colour='Rubra Oak'
+2025-08-21 16:14:24,824 INFO csv write: laminate.csv sku=56865 colour='Rubra Oak'
+2025-08-21 16:14:24,825 INFO csv write: laminate.csv sku=56866 colour='Rubra Oak'
+2025-08-21 16:14:24,825 INFO csv write: laminate.csv sku=56867 colour='Rubra Oak'
+2025-08-21 16:14:24,825 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Rubra Oak'
+2025-08-21 16:14:24,825 INFO [14/240] Done Rubra Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:14:24,949 INFO [15/240] Processing Blackened Oak  https://www.polytec.com.au/colour/blackened-oak/
+2025-08-21 16:14:24,950 INFO run start colour=https://www.polytec.com.au/colour/blackened-oak/
+2025-08-21 16:14:25,261 INFO colour name: Blackened Oak
+2025-08-21 16:14:25,351 INFO finish tabs: 1
+2025-08-21 16:14:25,380 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:14:25,441 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:14:25,441 INFO range -> Board Decorative
+2025-08-21 16:14:28,542 INFO row 1: sku=57175 title='MDF 182412 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK time=3.10s
+2025-08-21 16:14:30,818 INFO row 2: sku=57176 title='MDF 183112 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:14:33,097 INFO row 3: sku=57177 title='MDF 252412 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:14:35,366 INFO row 4: sku=58450 title='MDF 183618 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:14:37,647 INFO row 5: sku=58452 title='LDF 333618 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:14:39,931 INFO row 6: sku=58062 title='MDF 092712 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:14:42,208 INFO row 7: sku=58451 title='LDF 253618 DS Blackened Oak Woodmatt STD E0' stock=OK price=OK time=2.27s
+2025-08-21 16:14:42,218 INFO range -> Edgetape Decorative
+2025-08-21 16:14:44,892 INFO row 8: sku=56904 title='ABS 1mm x 21mm UG 100m Blackened Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:14:47,563 INFO row 9: sku=56905 title='ABS 1mm x 21mm UG 20m Blackened Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:14:50,249 INFO row 10: sku=56907 title='ABS 1mm x 29mm UG 100m Blackened Oak Woodmatt' stock=OK price=OK time=2.68s
+2025-08-21 16:14:52,922 INFO row 11: sku=57421 title='ABS 1mm x 38mm UG 100m Blackened Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:14:52,932 INFO range -> Laminate
+2025-08-21 16:14:55,607 INFO row 12: sku=56860 title='Laminate Blackened Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:14:58,289 INFO row 13: sku=56861 title='Laminate Blackened Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.67s
+2025-08-21 16:15:00,972 INFO row 14: sku=56863 title='Laminate Blackened Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:15:03,664 INFO row 15: sku=56862 title='Laminate Blackened Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.68s
+2025-08-21 16:15:03,676 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:15:09,465 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.79s
+2025-08-21 16:15:09,478 INFO run end rows=16
+2025-08-21 16:15:09,479 INFO csv write: board_decorative.csv sku=57175 colour='Blackened Oak'
+2025-08-21 16:15:09,479 INFO csv write: board_decorative.csv sku=57176 colour='Blackened Oak'
+2025-08-21 16:15:09,479 INFO csv write: board_decorative.csv sku=57177 colour='Blackened Oak'
+2025-08-21 16:15:09,480 INFO csv write: board_decorative.csv sku=58450 colour='Blackened Oak'
+2025-08-21 16:15:09,480 INFO csv write: board_decorative.csv sku=58452 colour='Blackened Oak'
+2025-08-21 16:15:09,480 INFO csv write: board_decorative.csv sku=58062 colour='Blackened Oak'
+2025-08-21 16:15:09,481 INFO csv write: board_decorative.csv sku=58451 colour='Blackened Oak'
+2025-08-21 16:15:09,481 INFO csv write: edgetape_decorative.csv sku=56904 colour='Blackened Oak'
+2025-08-21 16:15:09,481 INFO csv write: edgetape_decorative.csv sku=56905 colour='Blackened Oak'
+2025-08-21 16:15:09,482 INFO csv write: edgetape_decorative.csv sku=56907 colour='Blackened Oak'
+2025-08-21 16:15:09,482 INFO csv write: edgetape_decorative.csv sku=57421 colour='Blackened Oak'
+2025-08-21 16:15:09,482 INFO csv write: laminate.csv sku=56860 colour='Blackened Oak'
+2025-08-21 16:15:09,482 INFO csv write: laminate.csv sku=56861 colour='Blackened Oak'
+2025-08-21 16:15:09,483 INFO csv write: laminate.csv sku=56863 colour='Blackened Oak'
+2025-08-21 16:15:09,483 INFO csv write: laminate.csv sku=56862 colour='Blackened Oak'
+2025-08-21 16:15:09,483 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Blackened Oak'
+2025-08-21 16:15:09,484 INFO [15/240] Done Blackened Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:15:09,608 INFO [16/240] Processing Britannia  https://www.polytec.com.au/colour/britannia/
+2025-08-21 16:15:09,608 INFO run start colour=https://www.polytec.com.au/colour/britannia/
+2025-08-21 16:15:09,895 INFO colour name: Britannia
+2025-08-21 16:15:09,914 INFO finish tabs: 1
+2025-08-21 16:15:10,016 INFO tab 1/1 -> Super Matt
+2025-08-21 16:15:10,022 INFO items in finish 'Super Matt': 1
+2025-08-21 16:15:10,022 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:15:16,604 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=6.58s
+2025-08-21 16:15:16,618 INFO run end rows=1
+2025-08-21 16:15:16,619 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Britannia'
+2025-08-21 16:15:16,619 INFO [16/240] Done Britannia, rows=1, ranges=['Thermolaminated Doors and Panels']
+2025-08-21 16:15:16,746 INFO [17/240] Processing Dark Batten Oak  https://www.polytec.com.au/colour/dark-batten-oak/
+2025-08-21 16:15:16,746 INFO run start colour=https://www.polytec.com.au/colour/dark-batten-oak/
+2025-08-21 16:15:17,053 INFO colour name: Dark Batten Oak
+2025-08-21 16:15:17,135 INFO finish tabs: 1
+2025-08-21 16:15:17,157 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:15:17,190 INFO items in finish 'Woodmatt': 8
+2025-08-21 16:15:17,190 INFO range -> Board Decorative
+2025-08-21 16:15:20,300 INFO row 1: sku=57264 title='MDF 092412 DS Dark Batten Oak Woodmatt MR E0' stock=OK price=OK time=3.11s
+2025-08-21 16:15:22,580 INFO row 2: sku=57262 title='MDF 182412 DS Dark Batten Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:15:24,863 INFO row 3: sku=57263 title='MDF 183112 DS Dark Batten Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:15:24,874 INFO range -> Edgetape Decorative
+2025-08-21 16:15:27,531 INFO row 4: sku=57270 title='ABS 1mm x 29mm UG 100m Dark Batten Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:15:30,213 INFO row 5: sku=57267 title='ABS 1mm x 21mm UG 100m Dark Batten Oak Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:15:32,880 INFO row 6: sku=57268 title='ABS 1mm x 21mm UG 20m Dark Batten Oak Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:15:32,891 INFO range -> Laminate
+2025-08-21 16:15:35,562 INFO row 7: sku=57273 title='Laminate Dark Batten Oak Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.67s
+2025-08-21 16:15:35,573 INFO range -> Compact
+2025-08-21 16:15:37,844 INFO row 8: sku=57457 title='Compact Laminate Dark Batten Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK time=2.27s
+2025-08-21 16:15:37,855 INFO run end rows=8
+2025-08-21 16:15:37,855 INFO csv write: board_decorative.csv sku=57264 colour='Dark Batten Oak'
+2025-08-21 16:15:37,856 INFO csv write: board_decorative.csv sku=57262 colour='Dark Batten Oak'
+2025-08-21 16:15:37,856 INFO csv write: board_decorative.csv sku=57263 colour='Dark Batten Oak'
+2025-08-21 16:15:37,856 INFO csv write: edgetape_decorative.csv sku=57270 colour='Dark Batten Oak'
+2025-08-21 16:15:37,856 INFO csv write: edgetape_decorative.csv sku=57267 colour='Dark Batten Oak'
+2025-08-21 16:15:37,857 INFO csv write: edgetape_decorative.csv sku=57268 colour='Dark Batten Oak'
+2025-08-21 16:15:37,857 INFO csv write: laminate.csv sku=57273 colour='Dark Batten Oak'
+2025-08-21 16:15:37,857 INFO csv write: compact.csv sku=57457 colour='Dark Batten Oak'
+2025-08-21 16:15:37,858 INFO [17/240] Done Dark Batten Oak, rows=8, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']
+2025-08-21 16:15:37,983 INFO [18/240] Processing Batten Oak  https://www.polytec.com.au/colour/batten-oak/
+2025-08-21 16:15:37,983 INFO run start colour=https://www.polytec.com.au/colour/batten-oak/
+2025-08-21 16:15:38,296 INFO colour name: Batten Oak
+2025-08-21 16:15:38,380 INFO finish tabs: 1
+2025-08-21 16:15:38,409 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:15:38,449 INFO items in finish 'Woodmatt': 11
+2025-08-21 16:15:38,449 INFO range -> Board Decorative
+2025-08-21 16:15:41,563 INFO row 1: sku=56254 title='MDF 182412 DS Batten Oak Woodmatt MR E0' stock=OK price=OK time=3.11s
+2025-08-21 16:15:43,849 INFO row 2: sku=56255 title='MDF 183112 DS Batten Oak Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:15:46,122 INFO row 3: sku=56493 title='MDF 092412 DS Batten Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:15:46,134 INFO range -> Edgetape Decorative
+2025-08-21 16:15:48,399 INFO row 4: sku=56256 title='ABS 1mm x 21mm UG 100m Batten Oak Woodmatt' stock=OK price=OK time=2.27s
+2025-08-21 16:15:50,668 INFO row 5: sku=56257 title='ABS 1mm x 21mm UG 20m Batten Oak Woodmatt' stock=OK price=OK time=2.26s
+2025-08-21 16:15:53,355 INFO row 6: sku=56258 title='ABS 1mm x 29mm UG 100m Batten Oak Woodmatt' stock=OK price=OK time=2.68s
+2025-08-21 16:15:56,038 INFO row 7: sku=56724 title='ABS 1mm x 29mm UG 100m Batten Oak Woodmatt (Cross Cut)' stock=OK price=OK time=2.67s
+2025-08-21 16:15:56,049 INFO range -> Laminate
+2025-08-21 16:15:58,712 INFO row 8: sku=56261 title='Laminate Batten Oak Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.66s
+2025-08-21 16:15:58,724 INFO range -> Compact
+2025-08-21 16:16:00,990 INFO row 9: sku=56260 title='Compact Laminate Batten Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK time=2.27s
+2025-08-21 16:16:03,274 INFO row 10: sku=56715 title='Compact Laminate Batten Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK time=2.27s
+2025-08-21 16:16:03,285 INFO range -> Edgetape Decorative WIP
+2025-08-21 16:16:05,950 INFO row 11: sku=56723 title='ABS 1mm x 21mm UG 100m Batten Oak Woodmatt (Cross Cut)' stock=OK price=OK time=2.67s
+2025-08-21 16:16:05,962 INFO run end rows=11
+2025-08-21 16:16:05,963 INFO csv write: board_decorative.csv sku=56254 colour='Batten Oak'
+2025-08-21 16:16:05,964 INFO csv write: board_decorative.csv sku=56255 colour='Batten Oak'
+2025-08-21 16:16:05,964 INFO csv write: board_decorative.csv sku=56493 colour='Batten Oak'
+2025-08-21 16:16:05,965 INFO csv write: edgetape_decorative.csv sku=56256 colour='Batten Oak'
+2025-08-21 16:16:05,965 INFO csv write: edgetape_decorative.csv sku=56257 colour='Batten Oak'
+2025-08-21 16:16:05,965 INFO csv write: edgetape_decorative.csv sku=56258 colour='Batten Oak'
+2025-08-21 16:16:05,965 INFO csv write: edgetape_decorative.csv sku=56724 colour='Batten Oak'
+2025-08-21 16:16:05,966 INFO csv write: laminate.csv sku=56261 colour='Batten Oak'
+2025-08-21 16:16:05,966 INFO csv write: compact.csv sku=56260 colour='Batten Oak'
+2025-08-21 16:16:05,966 INFO csv write: compact.csv sku=56715 colour='Batten Oak'
+2025-08-21 16:16:05,966 INFO csv new: edgetape_decorative_wip.csv
+2025-08-21 16:16:05,967 INFO csv write: edgetape_decorative_wip.csv sku=56723 colour='Batten Oak'
+2025-08-21 16:16:05,967 INFO [18/240] Done Batten Oak, rows=11, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Edgetape Decorative WIP', 'Laminate']
+2025-08-21 16:16:06,093 INFO [19/240] Processing Danish Rattan  https://www.polytec.com.au/colour/danish-rattan/
+2025-08-21 16:16:06,093 INFO run start colour=https://www.polytec.com.au/colour/danish-rattan/
+2025-08-21 16:16:06,404 INFO colour name: Danish Rattan
+2025-08-21 16:16:06,488 INFO finish tabs: 1
+2025-08-21 16:16:06,509 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:16:06,525 INFO items in finish 'Woodmatt': 4
+2025-08-21 16:16:06,525 INFO range -> Board Decorative
+2025-08-21 16:16:09,589 INFO row 1: sku=56524 title='MDF 182412 DS Danish Rattan Woodmatt MR E0' stock=OK price=OK time=3.06s
+2025-08-21 16:16:11,865 INFO row 2: sku=56526 title='MDF 092712 DS Danish Rattan Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:16:14,141 INFO row 3: sku=56525 title='MDF 183112 DS Danish Rattan Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:16:14,152 INFO range -> Laminate
+2025-08-21 16:16:16,824 INFO row 4: sku=56523 title='Laminate Danish Rattan Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.67s
+2025-08-21 16:16:16,834 INFO run end rows=4
+2025-08-21 16:16:16,834 INFO csv write: board_decorative.csv sku=56524 colour='Danish Rattan'
+2025-08-21 16:16:16,835 INFO csv write: board_decorative.csv sku=56526 colour='Danish Rattan'
+2025-08-21 16:16:16,835 INFO csv write: board_decorative.csv sku=56525 colour='Danish Rattan'
+2025-08-21 16:16:16,835 INFO csv write: laminate.csv sku=56523 colour='Danish Rattan'
+2025-08-21 16:16:16,835 INFO [19/240] Done Danish Rattan, rows=4, ranges=['Board Decorative', 'Laminate']
+2025-08-21 16:16:16,961 INFO [20/240] Processing Swiss Rattan  https://www.polytec.com.au/colour/swiss-rattan/
+2025-08-21 16:16:16,962 INFO run start colour=https://www.polytec.com.au/colour/swiss-rattan/
+2025-08-21 16:16:17,254 INFO colour name: Swiss Rattan
+2025-08-21 16:16:17,337 INFO finish tabs: 1
+2025-08-21 16:16:17,361 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:16:17,376 INFO items in finish 'Woodmatt': 4
+2025-08-21 16:16:17,376 INFO range -> Board Decorative
+2025-08-21 16:16:20,501 INFO row 1: sku=56521 title='MDF 183112 DS Swiss Rattan Woodmatt MR E0' stock=OK price=OK time=3.12s
+2025-08-21 16:16:22,772 INFO row 2: sku=56520 title='MDF 182412 DS Swiss Rattan Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:16:25,042 INFO row 3: sku=56522 title='MDF 092712 DS Swiss Rattan Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:16:25,051 INFO range -> Laminate
+2025-08-21 16:16:27,723 INFO row 4: sku=56519 title='Laminate Swiss Rattan Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.67s
+2025-08-21 16:16:27,735 INFO run end rows=4
+2025-08-21 16:16:27,735 INFO csv write: board_decorative.csv sku=56521 colour='Swiss Rattan'
+2025-08-21 16:16:27,736 INFO csv write: board_decorative.csv sku=56520 colour='Swiss Rattan'
+2025-08-21 16:16:27,736 INFO csv write: board_decorative.csv sku=56522 colour='Swiss Rattan'
+2025-08-21 16:16:27,736 INFO csv write: laminate.csv sku=56519 colour='Swiss Rattan'
+2025-08-21 16:16:27,736 INFO [20/240] Done Swiss Rattan, rows=4, ranges=['Board Decorative', 'Laminate']
+2025-08-21 16:16:27,861 INFO [21/240] Processing Italian Cotton  https://www.polytec.com.au/colour/italian-cotton/
+2025-08-21 16:16:27,861 INFO run start colour=https://www.polytec.com.au/colour/italian-cotton/
+2025-08-21 16:16:28,179 INFO colour name: Italian Cotton
+2025-08-21 16:16:28,266 INFO finish tabs: 1
+2025-08-21 16:16:28,294 INFO tab 1/1 -> Matt
+2025-08-21 16:16:28,336 INFO items in finish 'Matt': 4
+2025-08-21 16:16:28,336 INFO range -> Board Decorative
+2025-08-21 16:16:31,431 INFO row 1: sku=55362 title='Particle 162412 DS Italian Cotton Matt MR' stock=OK price=OK time=3.10s
+2025-08-21 16:16:33,707 INFO row 2: sku=55364 title='Particle 162418 DS Italian Cotton Matt MR' stock=OK price=OK time=2.26s
+2025-08-21 16:16:33,717 INFO range -> Edgetape Decorative
+2025-08-21 16:16:36,374 INFO row 3: sku=55224 title='ABS 1mm x 22mm UG 100m Italian Cotton Matt' stock=OK price=OK time=2.66s
+2025-08-21 16:16:36,385 INFO range -> Laminate
+2025-08-21 16:16:39,049 INFO row 4: sku=55501 title='Laminate Italian Cotton Matt 0.7mm 3650x1220' stock=OK price=OK time=2.66s
+2025-08-21 16:16:39,060 INFO run end rows=4
+2025-08-21 16:16:39,061 INFO csv write: board_decorative.csv sku=55362 colour='Italian Cotton'
+2025-08-21 16:16:39,061 INFO csv write: board_decorative.csv sku=55364 colour='Italian Cotton'
+2025-08-21 16:16:39,063 INFO csv write: edgetape_decorative.csv sku=55224 colour='Italian Cotton'
+2025-08-21 16:16:39,063 INFO csv write: laminate.csv sku=55501 colour='Italian Cotton'
+2025-08-21 16:16:39,063 INFO [21/240] Done Italian Cotton, rows=4, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']
+2025-08-21 16:16:39,188 INFO [22/240] Processing Natural Cotton  https://www.polytec.com.au/colour/natural-cotton/
+2025-08-21 16:16:39,188 INFO run start colour=https://www.polytec.com.au/colour/natural-cotton/
+2025-08-21 16:16:39,552 INFO colour name: Natural Cotton
+2025-08-21 16:16:39,560 INFO finish tabs: 1
+2025-08-21 16:16:39,582 INFO tab 1/1 -> Matt
+2025-08-21 16:16:39,602 INFO items in finish 'Matt': 4
+2025-08-21 16:16:39,602 INFO range -> Board Decorative
+2025-08-21 16:16:42,724 INFO row 1: sku=55363 title='Particle 162412 DS Natural Cotton Matt MR' stock=OK price=OK time=3.12s
+2025-08-21 16:16:45,000 INFO row 2: sku=55365 title='Particle 162418 DS Natural Cotton Matt MR' stock=OK price=OK time=2.26s
+2025-08-21 16:16:45,012 INFO range -> Edgetape Decorative
+2025-08-21 16:16:47,672 INFO row 3: sku=55225 title='ABS 1mm x 22mm UG 100m Natural Cotton Matt' stock=OK price=OK time=2.66s
+2025-08-21 16:16:47,682 INFO range -> Laminate
+2025-08-21 16:16:50,346 INFO row 4: sku=55502 title='Laminate Natural Cotton Matt 0.7mm 3650x1220' stock=OK price=OK time=2.66s
+2025-08-21 16:16:50,357 INFO run end rows=4
+2025-08-21 16:16:50,358 INFO csv write: board_decorative.csv sku=55363 colour='Natural Cotton'
+2025-08-21 16:16:50,358 INFO csv write: board_decorative.csv sku=55365 colour='Natural Cotton'
+2025-08-21 16:16:50,358 INFO csv write: edgetape_decorative.csv sku=55225 colour='Natural Cotton'
+2025-08-21 16:16:50,358 INFO csv write: laminate.csv sku=55502 colour='Natural Cotton'
+2025-08-21 16:16:50,359 INFO [22/240] Done Natural Cotton, rows=4, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']
+2025-08-21 16:16:50,484 INFO [23/240] Processing Aston White  https://www.polytec.com.au/colour/aston-white/
+2025-08-21 16:16:50,484 INFO run start colour=https://www.polytec.com.au/colour/aston-white/
+2025-08-21 16:16:50,885 INFO colour name: Aston White
+2025-08-21 16:16:50,895 INFO finish tabs: 2
+2025-08-21 16:16:50,917 INFO tab 1/2 -> Matt
+2025-08-21 16:16:50,941 INFO items in finish 'Matt': 6
+2025-08-21 16:16:50,941 INFO range -> Board Decorative
+2025-08-21 16:16:54,044 INFO row 1: sku=53258 title='Particle 183618 DS Aston White Matt MR' stock=OK price=OK time=3.10s
+2025-08-21 16:16:56,324 INFO row 2: sku=57071 title='LDF 333618 DS Aston White Matt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:16:58,594 INFO row 3: sku=57070 title='LDF 253618 DS Aston White Matt STD E0' stock=OK price=OK time=2.26s
+2025-08-21 16:16:58,604 INFO range -> Edgetape Decorative
+2025-08-21 16:17:01,288 INFO row 4: sku=57072 title='ABS 1mm x 21mm UG 100m Aston White Matt' stock=OK price=OK time=2.68s
+2025-08-21 16:17:03,964 INFO row 5: sku=57073 title='ABS 1mm x 29mm UG 100m Aston White Matt' stock=OK price=OK time=2.67s
+2025-08-21 16:17:06,631 INFO row 6: sku=57074 title='ABS 1mm x 38mm UG 100m Aston White Matt' stock=OK price=OK time=2.66s
+2025-08-21 16:17:06,708 INFO tab 2/2 -> Smooth
+2025-08-21 16:17:06,747 INFO items in finish 'Smooth': 11
+2025-08-21 16:17:06,747 INFO range -> Board Decorative
+2025-08-21 16:17:09,381 INFO row 1: sku=51420 title='MDF 162412 DS Aston White Smooth MR E0 Film' stock=OK price=OK time=2.63s
+2025-08-21 16:17:11,656 INFO row 2: sku=56245 title='MDF 183112 DS Aston White Smooth MR E0 Film Down' stock=OK price=OK time=2.26s
+2025-08-21 16:17:13,930 INFO row 3: sku=56673 title='MDF 253112 DS Aston White Smooth MR E0 Film Down' stock=OK price=OK time=2.26s
+2025-08-21 16:17:16,208 INFO row 4: sku=56674 title='MDF 323112 DS Aston White Smooth MR E0 Film Down' stock=OK price=OK time=2.27s
+2025-08-21 16:17:16,218 INFO range -> Edgetape Decorative
+2025-08-21 16:17:18,887 INFO row 5: sku=51441 title='ABS 1mm x 21mm UG 100m Aston White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:17:21,564 INFO row 6: sku=51429 title='ABS 1mm x 21mm UG 20m Aston White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:17:24,245 INFO row 7: sku=51454 title='ABS 1mm x 29mm UG 100m Aston White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:17:26,929 INFO row 8: sku=53486 title='ABS 1mm x 38mm UG 100m Aston White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:17:26,940 INFO range -> Laminate
+2025-08-21 16:17:29,611 INFO row 9: sku=52113 title='Laminate Aston White Smooth 0.7mm 3650 x 1220' stock=OK price=OK time=2.67s
+2025-08-21 16:17:29,623 INFO range -> Compact
+2025-08-21 16:17:31,894 INFO row 10: sku=52501 title='Compact Laminate Aston White Smooth BC 3660x1830 13mm' stock=OK price=OK time=2.27s
+2025-08-21 16:17:31,905 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:17:37,713 INFO row 11: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.81s
+2025-08-21 16:17:37,724 INFO run end rows=17
+2025-08-21 16:17:37,725 INFO csv write: board_decorative.csv sku=53258 colour='Aston White'
+2025-08-21 16:17:37,725 INFO csv write: board_decorative.csv sku=57071 colour='Aston White'
+2025-08-21 16:17:37,726 INFO csv write: board_decorative.csv sku=57070 colour='Aston White'
+2025-08-21 16:17:37,726 INFO csv write: edgetape_decorative.csv sku=57072 colour='Aston White'
+2025-08-21 16:17:37,727 INFO csv write: edgetape_decorative.csv sku=57073 colour='Aston White'
+2025-08-21 16:17:37,727 INFO csv write: edgetape_decorative.csv sku=57074 colour='Aston White'
+2025-08-21 16:17:37,727 INFO csv write: board_decorative.csv sku=51420 colour='Aston White'
+2025-08-21 16:17:37,728 INFO csv write: board_decorative.csv sku=56245 colour='Aston White'
+2025-08-21 16:17:37,728 INFO csv write: board_decorative.csv sku=56673 colour='Aston White'
+2025-08-21 16:17:37,728 INFO csv write: board_decorative.csv sku=56674 colour='Aston White'
+2025-08-21 16:17:37,728 INFO csv write: edgetape_decorative.csv sku=51441 colour='Aston White'
+2025-08-21 16:17:37,729 INFO csv write: edgetape_decorative.csv sku=51429 colour='Aston White'
+2025-08-21 16:17:37,729 INFO csv write: edgetape_decorative.csv sku=51454 colour='Aston White'
+2025-08-21 16:17:37,729 INFO csv write: edgetape_decorative.csv sku=53486 colour='Aston White'
+2025-08-21 16:17:37,730 INFO csv write: laminate.csv sku=52113 colour='Aston White'
+2025-08-21 16:17:37,730 INFO csv write: compact.csv sku=52501 colour='Aston White'
+2025-08-21 16:17:37,731 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Aston White'
+2025-08-21 16:17:37,731 INFO [23/240] Done Aston White, rows=17, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:17:37,855 INFO [24/240] Processing Gossamer White  https://www.polytec.com.au/colour/gossamer-white/
+2025-08-21 16:17:37,855 INFO run start colour=https://www.polytec.com.au/colour/gossamer-white/
+2025-08-21 16:17:38,215 INFO colour name: Gossamer White
+2025-08-21 16:17:38,314 INFO finish tabs: 2
+2025-08-21 16:17:38,351 INFO tab 1/2 -> Ravine
+2025-08-21 16:17:38,391 INFO items in finish 'Ravine': 9
+2025-08-21 16:17:38,392 INFO range -> Board Decorative
+2025-08-21 16:17:41,486 INFO row 1: sku=55474 title='MDF 182412 DS Gossamer White Ravine MR E0' stock=OK price=OK time=3.09s
+2025-08-21 16:17:43,767 INFO row 2: sku=55475 title='MDF 183112 DS Gossamer White Ravine MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:17:46,035 INFO row 3: sku=55660 title='MDF 322412 DS Gossamer White Ravine MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:17:48,322 INFO row 4: sku=55476 title='MDF 252412 DS Gossamer White Ravine MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:17:48,333 INFO range -> Edgetape Decorative
+2025-08-21 16:17:51,003 INFO row 5: sku=55478 title='ABS 1mm x 22mm UG 100m Gossamer White Ravine' stock=OK price=OK time=2.67s
+2025-08-21 16:17:53,686 INFO row 6: sku=55480 title='ABS 1mm x 22mm UG 20m Gossamer White Ravine' stock=OK price=OK time=2.67s
+2025-08-21 16:17:56,361 INFO row 7: sku=55481 title='ABS 1mm x 29mm UG 100m Gossamer White Ravine' stock=OK price=OK time=2.66s
+2025-08-21 16:17:59,042 INFO row 8: sku=55661 title='ABS 1mm x 38mm UG 100m Gossamer White Ravine' stock=OK price=OK time=2.67s
+2025-08-21 16:17:59,052 INFO range -> Laminate
+2025-08-21 16:18:01,694 INFO row 9: sku=55482 title='Laminate Gossamer White Ravine 0.7mm 3650x1220' stock=OK price=OK time=2.64s
+2025-08-21 16:18:01,776 INFO tab 2/2 -> Smooth
+2025-08-21 16:18:01,808 INFO items in finish 'Smooth': 9
+2025-08-21 16:18:01,808 INFO range -> Board Decorative
+2025-08-21 16:18:04,395 INFO row 1: sku=52854 title='MDF 162412 DS Gossamer White Smooth MR E0 Film' stock=OK price=OK time=2.59s
+2025-08-21 16:18:04,406 INFO range -> Edgetape Decorative
+2025-08-21 16:18:07,074 INFO row 2: sku=52869 title='ABS 1mm x 21mm UG 100m Gossamer White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:09,746 INFO row 3: sku=52867 title='ABS 1mm x 21mm UG 20m Gossamer White Smooth' stock=OK price=OK time=2.66s
+2025-08-21 16:18:12,427 INFO row 4: sku=52870 title='ABS 1mm x 29mm UG 100m Gossamer White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:12,439 INFO range -> Laminate
+2025-08-21 16:18:15,104 INFO row 5: sku=57552 title='Laminate Gossamer White Smooth 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:18:17,786 INFO row 6: sku=57610 title='Laminate Gossamer White Smooth HL 0.7mm 3650x680' stock=OK price=OK time=2.67s
+2025-08-21 16:18:20,468 INFO row 7: sku=57737 title='Laminate Gossamer White Smooth Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:18:23,153 INFO row 8: sku=57735 title='Laminate Gossamer White Smooth HS 0.7mm 1825x1360' stock=OK price=OK time=2.68s
+2025-08-21 16:18:23,164 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:18:28,948 INFO row 9: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 16:18:28,960 INFO run end rows=18
+2025-08-21 16:18:28,961 INFO csv write: board_decorative.csv sku=55474 colour='Gossamer White'
+2025-08-21 16:18:28,962 INFO csv write: board_decorative.csv sku=55475 colour='Gossamer White'
+2025-08-21 16:18:28,962 INFO csv write: board_decorative.csv sku=55660 colour='Gossamer White'
+2025-08-21 16:18:28,963 INFO csv write: board_decorative.csv sku=55476 colour='Gossamer White'
+2025-08-21 16:18:28,964 INFO csv write: edgetape_decorative.csv sku=55478 colour='Gossamer White'
+2025-08-21 16:18:28,964 INFO csv write: edgetape_decorative.csv sku=55480 colour='Gossamer White'
+2025-08-21 16:18:28,964 INFO csv write: edgetape_decorative.csv sku=55481 colour='Gossamer White'
+2025-08-21 16:18:28,964 INFO csv write: edgetape_decorative.csv sku=55661 colour='Gossamer White'
+2025-08-21 16:18:28,965 INFO csv write: laminate.csv sku=55482 colour='Gossamer White'
+2025-08-21 16:18:28,965 INFO csv write: board_decorative.csv sku=52854 colour='Gossamer White'
+2025-08-21 16:18:28,965 INFO csv write: edgetape_decorative.csv sku=52869 colour='Gossamer White'
+2025-08-21 16:18:28,966 INFO csv write: edgetape_decorative.csv sku=52867 colour='Gossamer White'
+2025-08-21 16:18:28,966 INFO csv write: edgetape_decorative.csv sku=52870 colour='Gossamer White'
+2025-08-21 16:18:28,966 INFO csv write: laminate.csv sku=57552 colour='Gossamer White'
+2025-08-21 16:18:28,966 INFO csv write: laminate.csv sku=57610 colour='Gossamer White'
+2025-08-21 16:18:28,967 INFO csv write: laminate.csv sku=57737 colour='Gossamer White'
+2025-08-21 16:18:28,967 INFO csv write: laminate.csv sku=57735 colour='Gossamer White'
+2025-08-21 16:18:28,967 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Gossamer White'
+2025-08-21 16:18:28,968 INFO [24/240] Done Gossamer White, rows=18, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:18:29,092 INFO [25/240] Processing Verdelho  https://www.polytec.com.au/colour/verdelho/
+2025-08-21 16:18:29,092 INFO run start colour=https://www.polytec.com.au/colour/verdelho/
+2025-08-21 16:18:29,394 INFO colour name: Verdelho
+2025-08-21 16:18:29,486 INFO finish tabs: 1
+2025-08-21 16:18:29,518 INFO tab 1/1 -> Smooth
+2025-08-21 16:18:29,573 INFO items in finish 'Smooth': 14
+2025-08-21 16:18:29,573 INFO range -> Board Decorative
+2025-08-21 16:18:32,663 INFO row 1: sku=52828 title='MDF 162412 DS Verdelho Smooth MR E0 Film' stock=OK price=OK time=3.09s
+2025-08-21 16:18:34,949 INFO row 2: sku=56693 title='MDF 183112 DS Verdelho Smooth MR E0 Film Down' stock=OK price=OK time=2.28s
+2025-08-21 16:18:37,230 INFO row 3: sku=56695 title='MDF 323112 DS Verdelho Smooth MR E0 Film Down' stock=OK price=OK time=2.27s
+2025-08-21 16:18:39,504 INFO row 4: sku=56694 title='MDF 253112 DS Verdelho Smooth MR E0 Film Down' stock=OK price=OK time=2.26s
+2025-08-21 16:18:39,514 INFO range -> Edgetape Decorative
+2025-08-21 16:18:42,186 INFO row 5: sku=52831 title='ABS 1mm x 21mm UG 100m Verdelho Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:44,870 INFO row 6: sku=52829 title='ABS 1mm x 21mm UG 20m Verdelho Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:47,552 INFO row 7: sku=52832 title='ABS 1mm x 29mm UG 100m Verdelho Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:18:50,248 INFO row 8: sku=53487 title='ABS 1mm x 38mm UG 100m Verdelho Smooth' stock=OK price=OK time=2.69s
+2025-08-21 16:18:50,259 INFO range -> Laminate
+2025-08-21 16:18:52,927 INFO row 9: sku=57827 title='Laminate Verdelho Smooth 0.7mm 3650x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:18:55,618 INFO row 10: sku=57828 title='Laminate Verdelho Smooth HL 0.7mm 3650x680' stock=OK price=OK time=2.68s
+2025-08-21 16:18:58,303 INFO row 11: sku=57830 title='Laminate Verdelho Smooth Q 0.7mm 1825x680' stock=OK price=OK time=2.67s
+2025-08-21 16:19:00,977 INFO row 12: sku=57829 title='Laminate Verdelho Smooth HS 0.7mm 1825x1360' stock=OK price=OK time=2.66s
+2025-08-21 16:19:00,988 INFO range -> Compact
+2025-08-21 16:19:03,261 INFO row 13: sku=52503 title='Compact Laminate Verdelho Smooth BC 3660x1830 13mm' stock=OK price=OK time=2.27s
+2025-08-21 16:19:03,272 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:19:09,068 INFO row 14: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.80s
+2025-08-21 16:19:09,077 INFO run end rows=14
+2025-08-21 16:19:09,078 INFO csv write: board_decorative.csv sku=52828 colour='Verdelho'
+2025-08-21 16:19:09,079 INFO csv write: board_decorative.csv sku=56693 colour='Verdelho'
+2025-08-21 16:19:09,079 INFO csv write: board_decorative.csv sku=56695 colour='Verdelho'
+2025-08-21 16:19:09,080 INFO csv write: board_decorative.csv sku=56694 colour='Verdelho'
+2025-08-21 16:19:09,080 INFO csv write: edgetape_decorative.csv sku=52831 colour='Verdelho'
+2025-08-21 16:19:09,081 INFO csv write: edgetape_decorative.csv sku=52829 colour='Verdelho'
+2025-08-21 16:19:09,081 INFO csv write: edgetape_decorative.csv sku=52832 colour='Verdelho'
+2025-08-21 16:19:09,081 INFO csv write: edgetape_decorative.csv sku=53487 colour='Verdelho'
+2025-08-21 16:19:09,082 INFO csv write: laminate.csv sku=57827 colour='Verdelho'
+2025-08-21 16:19:09,082 INFO csv write: laminate.csv sku=57828 colour='Verdelho'
+2025-08-21 16:19:09,082 INFO csv write: laminate.csv sku=57830 colour='Verdelho'
+2025-08-21 16:19:09,083 INFO csv write: laminate.csv sku=57829 colour='Verdelho'
+2025-08-21 16:19:09,083 INFO csv write: compact.csv sku=52503 colour='Verdelho'
+2025-08-21 16:19:09,084 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Verdelho'
+2025-08-21 16:19:09,084 INFO [25/240] Done Verdelho, rows=14, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:19:09,206 INFO [26/240] Processing Pallido  https://www.polytec.com.au/colour/pallido/
+2025-08-21 16:19:09,206 INFO run start colour=https://www.polytec.com.au/colour/pallido/
+2025-08-21 16:19:09,411 INFO colour name: Pallido
+2025-08-21 16:19:09,416 INFO finish tabs: 1
+2025-08-21 16:19:09,438 INFO tab 1/1 -> Smooth
+2025-08-21 16:19:09,476 INFO items in finish 'Smooth': 9
+2025-08-21 16:19:09,476 INFO range -> Board Decorative
+2025-08-21 16:19:12,583 INFO row 1: sku=51423 title='MDF 162412 DS Pallido Smooth MR E0 Film' stock=OK price=OK time=3.11s
+2025-08-21 16:19:12,595 INFO range -> Edgetape Decorative
+2025-08-21 16:19:15,258 INFO row 2: sku=51443 title='ABS 1mm x 21mm UG 100m Pallido Smooth' stock=OK price=OK time=2.66s
+2025-08-21 16:19:17,934 INFO row 3: sku=51431 title='ABS 1mm x 21mm UG 20m Pallido Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:19:20,610 INFO row 4: sku=51456 title='ABS 1mm x 29mm UG 100m Pallido Smooth' stock=OK price=OK time=2.66s
+2025-08-21 16:19:20,622 INFO range -> Laminate
+2025-08-21 16:19:23,292 INFO row 5: sku=57821 title='Laminate Pallido Smooth HS 0.7mm 1825x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:19:25,978 INFO row 6: sku=57819 title='Laminate Pallido Smooth 0.7mm 3650x1360' stock=OK price=OK time=2.68s
+2025-08-21 16:19:28,649 INFO row 7: sku=57822 title='Laminate Pallido Smooth Q 0.7mm 1825x680' stock=OK price=OK time=2.66s
+2025-08-21 16:19:31,337 INFO row 8: sku=57820 title='Laminate Pallido Smooth HL 0.7mm 3650x680' stock=OK price=OK time=2.68s
+2025-08-21 16:19:31,348 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:19:37,127 INFO row 9: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 16:19:37,139 INFO run end rows=9
+2025-08-21 16:19:37,140 INFO csv write: board_decorative.csv sku=51423 colour='Pallido'
+2025-08-21 16:19:37,140 INFO csv write: edgetape_decorative.csv sku=51443 colour='Pallido'
+2025-08-21 16:19:37,140 INFO csv write: edgetape_decorative.csv sku=51431 colour='Pallido'
+2025-08-21 16:19:37,141 INFO csv write: edgetape_decorative.csv sku=51456 colour='Pallido'
+2025-08-21 16:19:37,141 INFO csv write: laminate.csv sku=57821 colour='Pallido'
+2025-08-21 16:19:37,141 INFO csv write: laminate.csv sku=57819 colour='Pallido'
+2025-08-21 16:19:37,142 INFO csv write: laminate.csv sku=57822 colour='Pallido'
+2025-08-21 16:19:37,142 INFO csv write: laminate.csv sku=57820 colour='Pallido'
+2025-08-21 16:19:37,142 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Pallido'
+2025-08-21 16:19:37,143 INFO [26/240] Done Pallido, rows=9, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:19:37,268 INFO [27/240] Processing Elemental Grey  https://www.polytec.com.au/colour/elemental-grey/
+2025-08-21 16:19:37,268 INFO run start colour=https://www.polytec.com.au/colour/elemental-grey/
+2025-08-21 16:19:37,619 INFO colour name: Elemental Grey
+2025-08-21 16:19:37,627 INFO finish tabs: 2
+2025-08-21 16:19:37,649 INFO tab 1/2 -> Ravine
+2025-08-21 16:19:37,709 INFO items in finish 'Ravine': 9
+2025-08-21 16:19:37,709 INFO range -> Board Decorative
+2025-08-21 16:19:40,306 INFO row 1: sku=55622 title='MDF 322412 DS Elemental Grey Ravine MR E0' stock=OK price=OK time=2.60s
+2025-08-21 16:19:42,582 INFO row 2: sku=55619 title='MDF 182412 DS Elemental Grey Ravine MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:19:44,843 INFO row 3: sku=55620 title='MDF 183112 DS Elemental Grey Ravine MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:19:47,085 INFO row 4: sku=55621 title='MDF 252412 DS Elemental Grey Ravine MR E0' stock=OK price=OK time=2.23s
+2025-08-21 16:19:47,094 INFO range -> Edgetape Decorative
+2025-08-21 16:19:49,745 INFO row 5: sku=55624 title='ABS 1mm x 22mm UG 100m Elemental Grey Ravine' stock=OK price=OK time=2.65s
+2025-08-21 16:19:52,396 INFO row 6: sku=55626 title='ABS 1mm x 22mm UG 20m Elemental Grey Ravine' stock=OK price=OK time=2.64s
+2025-08-21 16:19:55,066 INFO row 7: sku=55627 title='ABS 1mm x 29mm UG 100m Elemental Grey Ravine' stock=OK price=OK time=2.66s
+2025-08-21 16:19:57,741 INFO row 8: sku=55628 title='ABS 1mm x 38mm UG 100m Elemental Grey Ravine' stock=OK price=OK time=2.66s
+2025-08-21 16:19:57,750 INFO range -> Laminate
+2025-08-21 16:20:00,387 INFO row 9: sku=55629 title='Laminate Elemental Grey Ravine 0.7mm 3650x1220' stock=OK price=OK time=2.64s
+2025-08-21 16:20:00,462 INFO tab 2/2 -> Smooth
+2025-08-21 16:20:00,499 INFO items in finish 'Smooth': 9
+2025-08-21 16:20:00,499 INFO range -> Board Decorative
+2025-08-21 16:20:03,566 INFO row 1: sku=52872 title='MDF 162412 DS Elemental Grey Smooth MR E0 Film' stock=OK price=OK time=3.07s
+2025-08-21 16:20:03,577 INFO range -> Edgetape Decorative
+2025-08-21 16:20:06,242 INFO row 2: sku=52875 title='ABS 1mm x 21mm UG 100m Elemental Grey Smooth' stock=OK price=OK time=2.66s
+2025-08-21 16:20:08,912 INFO row 3: sku=52873 title='ABS 1mm x 21mm UG 20m Elemental Grey Smooth' stock=OK price=OK time=2.66s

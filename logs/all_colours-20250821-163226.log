@@ -1,0 +1,144 @@
+2025-08-21 16:32:26,196 INFO ===============================================
+2025-08-21 16:32:26,196 INFO Polytec all colours scraper starting
+2025-08-21 16:32:26,196 INFO Input count: 1
+2025-08-21 16:32:26,196 INFO Headless: False
+2025-08-21 16:32:26,196 INFO CSV dir: /Users/jaymorris/Desktop/poly_scraper_v1/csv
+2025-08-21 16:32:26,196 INFO Logs dir: /Users/jaymorris/Desktop/poly_scraper_v1/logs
+2025-08-21 16:32:26,196 INFO State file: /Users/jaymorris/Desktop/poly_scraper_v1/run_state.json
+2025-08-21 16:32:26,196 INFO Worker: colour_worker.process_colour
+2025-08-21 16:32:26,196 INFO ===============================================
+2025-08-21 16:32:27,077 INFO [1/1] Processing Boston Oak  https://www.polytec.com.au/colour/boston-oak/
+2025-08-21 16:32:27,077 INFO run start colour=https://www.polytec.com.au/colour/boston-oak/
+2025-08-21 16:32:27,696 INFO colour name: Boston Oak
+2025-08-21 16:32:27,706 INFO finish tabs: 1
+2025-08-21 16:32:27,788 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:32:28,021 INFO items in finish 'Woodmatt': 37
+2025-08-21 16:32:28,021 INFO range -> Board Decorative
+2025-08-21 16:32:30,597 INFO row 1: sku=51913 title='MDF 162412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.58s
+2025-08-21 16:32:32,924 INFO row 2: sku=54309 title='MDF 163112 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.32s
+2025-08-21 16:32:35,237 INFO row 3: sku=56472 title='MDF 182412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.30s
+2025-08-21 16:32:37,559 INFO row 4: sku=51909 title='MDF 183618 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.31s
+2025-08-21 16:32:39,869 INFO row 5: sku=51916 title='MDF 322412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.30s
+2025-08-21 16:32:42,168 INFO row 6: sku=56912 title='MDF 183112 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.29s
+2025-08-21 16:32:44,474 INFO row 7: sku=51915 title='MDF 252412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.30s
+2025-08-21 16:32:46,791 INFO row 8: sku=51911 title='LDF 333618 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.31s
+2025-08-21 16:32:49,107 INFO row 9: sku=51910 title='LDF 253618 DS Boston Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.31s
+2025-08-21 16:32:51,411 INFO row 10: sku=58066 title='MDF 092712 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.29s
+2025-08-21 16:32:51,421 INFO range -> Edgetape Decorative
+2025-08-21 16:32:54,139 INFO row 11: sku=52531 title='ABS 1mm x 21mm UG 100m Boston Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.72s
+2025-08-21 16:32:56,850 INFO row 12: sku=52529 title='ABS 1mm x 21mm UG 20m Boston Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.70s
+2025-08-21 16:32:59,548 INFO row 13: sku=52534 title='ABS 1mm x 38mm UG 100m Boston Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.69s
+2025-08-21 16:33:02,263 INFO row 14: sku=52533 title='ABS 1mm x 29mm UG 100m Boston Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.71s
+2025-08-21 16:33:04,978 INFO row 15: sku=57561 title='ABS 1mm x 55mm UG 100m Boston Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.71s
+2025-08-21 16:33:07,681 INFO row 16: sku=52532 title='ABS 1mm x 21mm UG 100m Boston Oak Woodmatt (Cross Cut)' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.69s
+2025-08-21 16:33:10,396 INFO row 17: sku=54611 title='ABS 1mm x 29mm UG 100m Boston Oak Woodmatt (Cross Cut)' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.71s
+2025-08-21 16:33:10,407 INFO range -> Laminate
+2025-08-21 16:33:13,114 INFO row 18: sku=52133 title='Laminate Boston Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.71s
+2025-08-21 16:33:15,824 INFO row 19: sku=52535 title='Laminate Boston Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.70s
+2025-08-21 16:33:18,538 INFO row 20: sku=52536 title='Laminate Boston Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.70s
+2025-08-21 16:33:21,247 INFO row 21: sku=52537 title='Laminate Boston Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.70s
+2025-08-21 16:33:21,258 INFO range -> Compact
+2025-08-21 16:33:23,573 INFO row 22: sku=55215 title='Compact Laminate Boston Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.32s
+2025-08-21 16:33:25,889 INFO row 23: sku=55439 title='Compact Laminate Boston Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=2.31s
+2025-08-21 16:33:25,898 INFO range -> Architectural
+2025-08-21 16:33:26,008 INFO MOQ for SKU 57296 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:26,008 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:26,008 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:28,217 INFO row 24: sku=57296 title='Steccawood 17x34x3600 MDF MR E0 Boston Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.32s
+2025-08-21 16:33:28,326 INFO MOQ for SKU 57299 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:28,326 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:28,326 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:30,524 INFO row 25: sku=57299 title='Steccawood 17x34x3600 MDF MR E0 Boston Oak Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:33:30,634 INFO MOQ for SKU 57290 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:30,634 INFO MOQ hint: Ordering details .
+2025-08-21 16:33:30,634 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:32,836 INFO row 26: sku=57290 title='Steccawood 17x38x3600 MDF MR E0 Boston Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:33:32,947 INFO MOQ for SKU 57291 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:32,947 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:32,947 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:35,150 INFO row 27: sku=57291 title='Steccawood 31x31x3600 MDF MR E0 Boston Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:33:35,264 INFO MOQ for SKU 57298 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:35,265 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:35,265 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:37,468 INFO row 28: sku=57298 title='Steccawood 24x48x3600 MDF MR E0 Boston Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:33:37,575 INFO MOQ for SKU 57294 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:37,575 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:37,575 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:39,780 INFO row 29: sku=57294 title='Steccawood 50x100x3600 LDF MR E0 Boston Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:33:39,892 INFO MOQ for SKU 57292 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:39,893 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:39,893 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:42,091 INFO row 30: sku=57292 title='Steccawood 31x65x3600 MDF MR E0 Boston Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:33:42,199 INFO MOQ for SKU 57295 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:42,200 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:42,200 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:44,403 INFO row 31: sku=57295 title='Steccawood 40x100x3600 LDF MR E0 Boston Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:33:44,512 INFO MOQ for SKU 57293 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:44,512 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:44,512 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:46,715 INFO row 32: sku=57293 title='Steccawood 50x70x3600 LDF MR E0 Boston Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:33:46,819 INFO MOQ for SKU 57297 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:46,819 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:33:46,819 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:49,025 INFO row 33: sku=57297 title='Steccawood 31x62x3600 MDF MR E0 Boston Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:33:49,143 INFO MOQ for SKU 57300 min=5 step=1 qty 1 -> 5
+2025-08-21 16:33:49,143 INFO MOQ hint: Pack Size: 15 .
+2025-08-21 16:33:49,143 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:33:51,344 INFO row 34: sku=57300 title='Steccawood 24x34x3600 MDF MR E0 Boston Oak Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:33:51,353 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:34:01,993 INFO row 35: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=10.64s
+2025-08-21 16:34:02,005 INFO range -> Architectural Internal Doors
+2025-08-21 16:34:12,660 INFO row 36: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=10.65s
+2025-08-21 16:34:12,671 INFO range -> Alfresco Doors
+2025-08-21 16:34:23,301 INFO row 37: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=10.63s
+2025-08-21 16:34:23,312 INFO run end rows=37
+2025-08-21 16:34:23,313 INFO csv new: board_decorative.csv
+2025-08-21 16:34:23,313 INFO csv write: board_decorative.csv sku=51913 colour='Boston Oak'
+2025-08-21 16:34:23,314 INFO csv write: board_decorative.csv sku=54309 colour='Boston Oak'
+2025-08-21 16:34:23,314 INFO csv write: board_decorative.csv sku=56472 colour='Boston Oak'
+2025-08-21 16:34:23,314 INFO csv write: board_decorative.csv sku=51909 colour='Boston Oak'
+2025-08-21 16:34:23,315 INFO csv write: board_decorative.csv sku=51916 colour='Boston Oak'
+2025-08-21 16:34:23,315 INFO csv write: board_decorative.csv sku=56912 colour='Boston Oak'
+2025-08-21 16:34:23,315 INFO csv write: board_decorative.csv sku=51915 colour='Boston Oak'
+2025-08-21 16:34:23,315 INFO csv write: board_decorative.csv sku=51911 colour='Boston Oak'
+2025-08-21 16:34:23,316 INFO csv write: board_decorative.csv sku=51910 colour='Boston Oak'
+2025-08-21 16:34:23,316 INFO csv write: board_decorative.csv sku=58066 colour='Boston Oak'
+2025-08-21 16:34:23,316 INFO csv new: edgetape_decorative.csv
+2025-08-21 16:34:23,316 INFO csv write: edgetape_decorative.csv sku=52531 colour='Boston Oak'
+2025-08-21 16:34:23,317 INFO csv write: edgetape_decorative.csv sku=52529 colour='Boston Oak'
+2025-08-21 16:34:23,317 INFO csv write: edgetape_decorative.csv sku=52534 colour='Boston Oak'
+2025-08-21 16:34:23,318 INFO csv write: edgetape_decorative.csv sku=52533 colour='Boston Oak'
+2025-08-21 16:34:23,318 INFO csv write: edgetape_decorative.csv sku=57561 colour='Boston Oak'
+2025-08-21 16:34:23,319 INFO csv write: edgetape_decorative.csv sku=52532 colour='Boston Oak'
+2025-08-21 16:34:23,319 INFO csv write: edgetape_decorative.csv sku=54611 colour='Boston Oak'
+2025-08-21 16:34:23,319 INFO csv new: laminate.csv
+2025-08-21 16:34:23,319 INFO csv write: laminate.csv sku=52133 colour='Boston Oak'
+2025-08-21 16:34:23,320 INFO csv write: laminate.csv sku=52535 colour='Boston Oak'
+2025-08-21 16:34:23,320 INFO csv write: laminate.csv sku=52536 colour='Boston Oak'
+2025-08-21 16:34:23,320 INFO csv write: laminate.csv sku=52537 colour='Boston Oak'
+2025-08-21 16:34:23,320 INFO csv new: compact.csv
+2025-08-21 16:34:23,320 INFO csv write: compact.csv sku=55215 colour='Boston Oak'
+2025-08-21 16:34:23,321 INFO csv write: compact.csv sku=55439 colour='Boston Oak'
+2025-08-21 16:34:23,321 INFO csv new: architectural.csv
+2025-08-21 16:34:23,321 INFO csv write: architectural.csv sku=57296 colour='Boston Oak'
+2025-08-21 16:34:23,321 INFO csv write: architectural.csv sku=57299 colour='Boston Oak'
+2025-08-21 16:34:23,321 INFO csv write: architectural.csv sku=57290 colour='Boston Oak'
+2025-08-21 16:34:23,322 INFO csv write: architectural.csv sku=57291 colour='Boston Oak'
+2025-08-21 16:34:23,322 INFO csv write: architectural.csv sku=57298 colour='Boston Oak'
+2025-08-21 16:34:23,322 INFO csv write: architectural.csv sku=57294 colour='Boston Oak'
+2025-08-21 16:34:23,322 INFO csv write: architectural.csv sku=57292 colour='Boston Oak'
+2025-08-21 16:34:23,323 INFO csv write: architectural.csv sku=57295 colour='Boston Oak'
+2025-08-21 16:34:23,323 INFO csv write: architectural.csv sku=57293 colour='Boston Oak'
+2025-08-21 16:34:23,323 INFO csv write: architectural.csv sku=57297 colour='Boston Oak'
+2025-08-21 16:34:23,323 INFO csv write: architectural.csv sku=57300 colour='Boston Oak'
+2025-08-21 16:34:23,323 INFO csv new: thermolaminated_doors_and_panels.csv
+2025-08-21 16:34:23,324 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Boston Oak'
+2025-08-21 16:34:23,324 INFO csv new: architectural_internal_doors.csv
+2025-08-21 16:34:23,324 INFO csv write: architectural_internal_doors.csv sku= colour='Boston Oak'
+2025-08-21 16:34:23,324 INFO csv new: alfresco_doors.csv
+2025-08-21 16:34:23,325 INFO csv write: alfresco_doors.csv sku= colour='Boston Oak'
+2025-08-21 16:34:23,325 INFO [1/1] Done Boston Oak, rows=37, ranges=['Alfresco Doors', 'Architectural', 'Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:34:23,541 INFO ===============================================
+2025-08-21 16:34:23,541 INFO All colours complete. Rows written=37. Ranges touched=['Alfresco Doors', 'Architectural', 'Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
+2025-08-21 16:34:23,541 INFO State at /Users/jaymorris/Desktop/poly_scraper_v1/run_state.json, CSVs at /Users/jaymorris/Desktop/poly_scraper_v1/csv, logs at /Users/jaymorris/Desktop/poly_scraper_v1/logs
+2025-08-21 16:34:23,542 INFO ===============================================

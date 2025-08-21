@@ -1,0 +1,19 @@
+2025-08-21 16:16:27,861 INFO [21/240] Processing Italian Cotton  https://www.polytec.com.au/colour/italian-cotton/
+2025-08-21 16:16:27,861 INFO run start colour=https://www.polytec.com.au/colour/italian-cotton/
+2025-08-21 16:16:28,179 INFO colour name: Italian Cotton
+2025-08-21 16:16:28,266 INFO finish tabs: 1
+2025-08-21 16:16:28,294 INFO tab 1/1 -> Matt
+2025-08-21 16:16:28,336 INFO items in finish 'Matt': 4
+2025-08-21 16:16:28,336 INFO range -> Board Decorative
+2025-08-21 16:16:31,431 INFO row 1: sku=55362 title='Particle 162412 DS Italian Cotton Matt MR' stock=OK price=OK time=3.10s
+2025-08-21 16:16:33,707 INFO row 2: sku=55364 title='Particle 162418 DS Italian Cotton Matt MR' stock=OK price=OK time=2.26s
+2025-08-21 16:16:33,717 INFO range -> Edgetape Decorative
+2025-08-21 16:16:36,374 INFO row 3: sku=55224 title='ABS 1mm x 22mm UG 100m Italian Cotton Matt' stock=OK price=OK time=2.66s
+2025-08-21 16:16:36,385 INFO range -> Laminate
+2025-08-21 16:16:39,049 INFO row 4: sku=55501 title='Laminate Italian Cotton Matt 0.7mm 3650x1220' stock=OK price=OK time=2.66s
+2025-08-21 16:16:39,060 INFO run end rows=4
+2025-08-21 16:16:39,061 INFO csv write: board_decorative.csv sku=55362 colour='Italian Cotton'
+2025-08-21 16:16:39,061 INFO csv write: board_decorative.csv sku=55364 colour='Italian Cotton'
+2025-08-21 16:16:39,063 INFO csv write: edgetape_decorative.csv sku=55224 colour='Italian Cotton'
+2025-08-21 16:16:39,063 INFO csv write: laminate.csv sku=55501 colour='Italian Cotton'
+2025-08-21 16:16:39,063 INFO [21/240] Done Italian Cotton, rows=4, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

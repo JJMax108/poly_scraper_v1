@@ -1,0 +1,51 @@
+2025-08-21 16:16:50,484 INFO [23/240] Processing Aston White  https://www.polytec.com.au/colour/aston-white/
+2025-08-21 16:16:50,484 INFO run start colour=https://www.polytec.com.au/colour/aston-white/
+2025-08-21 16:16:50,885 INFO colour name: Aston White
+2025-08-21 16:16:50,895 INFO finish tabs: 2
+2025-08-21 16:16:50,917 INFO tab 1/2 -> Matt
+2025-08-21 16:16:50,941 INFO items in finish 'Matt': 6
+2025-08-21 16:16:50,941 INFO range -> Board Decorative
+2025-08-21 16:16:54,044 INFO row 1: sku=53258 title='Particle 183618 DS Aston White Matt MR' stock=OK price=OK time=3.10s
+2025-08-21 16:16:56,324 INFO row 2: sku=57071 title='LDF 333618 DS Aston White Matt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:16:58,594 INFO row 3: sku=57070 title='LDF 253618 DS Aston White Matt STD E0' stock=OK price=OK time=2.26s
+2025-08-21 16:16:58,604 INFO range -> Edgetape Decorative
+2025-08-21 16:17:01,288 INFO row 4: sku=57072 title='ABS 1mm x 21mm UG 100m Aston White Matt' stock=OK price=OK time=2.68s
+2025-08-21 16:17:03,964 INFO row 5: sku=57073 title='ABS 1mm x 29mm UG 100m Aston White Matt' stock=OK price=OK time=2.67s
+2025-08-21 16:17:06,631 INFO row 6: sku=57074 title='ABS 1mm x 38mm UG 100m Aston White Matt' stock=OK price=OK time=2.66s
+2025-08-21 16:17:06,708 INFO tab 2/2 -> Smooth
+2025-08-21 16:17:06,747 INFO items in finish 'Smooth': 11
+2025-08-21 16:17:06,747 INFO range -> Board Decorative
+2025-08-21 16:17:09,381 INFO row 1: sku=51420 title='MDF 162412 DS Aston White Smooth MR E0 Film' stock=OK price=OK time=2.63s
+2025-08-21 16:17:11,656 INFO row 2: sku=56245 title='MDF 183112 DS Aston White Smooth MR E0 Film Down' stock=OK price=OK time=2.26s
+2025-08-21 16:17:13,930 INFO row 3: sku=56673 title='MDF 253112 DS Aston White Smooth MR E0 Film Down' stock=OK price=OK time=2.26s
+2025-08-21 16:17:16,208 INFO row 4: sku=56674 title='MDF 323112 DS Aston White Smooth MR E0 Film Down' stock=OK price=OK time=2.27s
+2025-08-21 16:17:16,218 INFO range -> Edgetape Decorative
+2025-08-21 16:17:18,887 INFO row 5: sku=51441 title='ABS 1mm x 21mm UG 100m Aston White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:17:21,564 INFO row 6: sku=51429 title='ABS 1mm x 21mm UG 20m Aston White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:17:24,245 INFO row 7: sku=51454 title='ABS 1mm x 29mm UG 100m Aston White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:17:26,929 INFO row 8: sku=53486 title='ABS 1mm x 38mm UG 100m Aston White Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:17:26,940 INFO range -> Laminate
+2025-08-21 16:17:29,611 INFO row 9: sku=52113 title='Laminate Aston White Smooth 0.7mm 3650 x 1220' stock=OK price=OK time=2.67s
+2025-08-21 16:17:29,623 INFO range -> Compact
+2025-08-21 16:17:31,894 INFO row 10: sku=52501 title='Compact Laminate Aston White Smooth BC 3660x1830 13mm' stock=OK price=OK time=2.27s
+2025-08-21 16:17:31,905 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:17:37,713 INFO row 11: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.81s
+2025-08-21 16:17:37,724 INFO run end rows=17
+2025-08-21 16:17:37,725 INFO csv write: board_decorative.csv sku=53258 colour='Aston White'
+2025-08-21 16:17:37,725 INFO csv write: board_decorative.csv sku=57071 colour='Aston White'
+2025-08-21 16:17:37,726 INFO csv write: board_decorative.csv sku=57070 colour='Aston White'
+2025-08-21 16:17:37,726 INFO csv write: edgetape_decorative.csv sku=57072 colour='Aston White'
+2025-08-21 16:17:37,727 INFO csv write: edgetape_decorative.csv sku=57073 colour='Aston White'
+2025-08-21 16:17:37,727 INFO csv write: edgetape_decorative.csv sku=57074 colour='Aston White'
+2025-08-21 16:17:37,727 INFO csv write: board_decorative.csv sku=51420 colour='Aston White'
+2025-08-21 16:17:37,728 INFO csv write: board_decorative.csv sku=56245 colour='Aston White'
+2025-08-21 16:17:37,728 INFO csv write: board_decorative.csv sku=56673 colour='Aston White'
+2025-08-21 16:17:37,728 INFO csv write: board_decorative.csv sku=56674 colour='Aston White'
+2025-08-21 16:17:37,728 INFO csv write: edgetape_decorative.csv sku=51441 colour='Aston White'
+2025-08-21 16:17:37,729 INFO csv write: edgetape_decorative.csv sku=51429 colour='Aston White'
+2025-08-21 16:17:37,729 INFO csv write: edgetape_decorative.csv sku=51454 colour='Aston White'
+2025-08-21 16:17:37,729 INFO csv write: edgetape_decorative.csv sku=53486 colour='Aston White'
+2025-08-21 16:17:37,730 INFO csv write: laminate.csv sku=52113 colour='Aston White'
+2025-08-21 16:17:37,730 INFO csv write: compact.csv sku=52501 colour='Aston White'
+2025-08-21 16:17:37,731 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Aston White'
+2025-08-21 16:17:37,731 INFO [23/240] Done Aston White, rows=17, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

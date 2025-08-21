@@ -1,0 +1,30 @@
+2025-08-21 16:19:09,206 INFO [26/240] Processing Pallido  https://www.polytec.com.au/colour/pallido/
+2025-08-21 16:19:09,206 INFO run start colour=https://www.polytec.com.au/colour/pallido/
+2025-08-21 16:19:09,411 INFO colour name: Pallido
+2025-08-21 16:19:09,416 INFO finish tabs: 1
+2025-08-21 16:19:09,438 INFO tab 1/1 -> Smooth
+2025-08-21 16:19:09,476 INFO items in finish 'Smooth': 9
+2025-08-21 16:19:09,476 INFO range -> Board Decorative
+2025-08-21 16:19:12,583 INFO row 1: sku=51423 title='MDF 162412 DS Pallido Smooth MR E0 Film' stock=OK price=OK time=3.11s
+2025-08-21 16:19:12,595 INFO range -> Edgetape Decorative
+2025-08-21 16:19:15,258 INFO row 2: sku=51443 title='ABS 1mm x 21mm UG 100m Pallido Smooth' stock=OK price=OK time=2.66s
+2025-08-21 16:19:17,934 INFO row 3: sku=51431 title='ABS 1mm x 21mm UG 20m Pallido Smooth' stock=OK price=OK time=2.67s
+2025-08-21 16:19:20,610 INFO row 4: sku=51456 title='ABS 1mm x 29mm UG 100m Pallido Smooth' stock=OK price=OK time=2.66s
+2025-08-21 16:19:20,622 INFO range -> Laminate
+2025-08-21 16:19:23,292 INFO row 5: sku=57821 title='Laminate Pallido Smooth HS 0.7mm 1825x1360' stock=OK price=OK time=2.67s
+2025-08-21 16:19:25,978 INFO row 6: sku=57819 title='Laminate Pallido Smooth 0.7mm 3650x1360' stock=OK price=OK time=2.68s
+2025-08-21 16:19:28,649 INFO row 7: sku=57822 title='Laminate Pallido Smooth Q 0.7mm 1825x680' stock=OK price=OK time=2.66s
+2025-08-21 16:19:31,337 INFO row 8: sku=57820 title='Laminate Pallido Smooth HL 0.7mm 3650x680' stock=OK price=OK time=2.68s
+2025-08-21 16:19:31,348 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:19:37,127 INFO row 9: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 16:19:37,139 INFO run end rows=9
+2025-08-21 16:19:37,140 INFO csv write: board_decorative.csv sku=51423 colour='Pallido'
+2025-08-21 16:19:37,140 INFO csv write: edgetape_decorative.csv sku=51443 colour='Pallido'
+2025-08-21 16:19:37,140 INFO csv write: edgetape_decorative.csv sku=51431 colour='Pallido'
+2025-08-21 16:19:37,141 INFO csv write: edgetape_decorative.csv sku=51456 colour='Pallido'
+2025-08-21 16:19:37,141 INFO csv write: laminate.csv sku=57821 colour='Pallido'
+2025-08-21 16:19:37,141 INFO csv write: laminate.csv sku=57819 colour='Pallido'
+2025-08-21 16:19:37,142 INFO csv write: laminate.csv sku=57822 colour='Pallido'
+2025-08-21 16:19:37,142 INFO csv write: laminate.csv sku=57820 colour='Pallido'
+2025-08-21 16:19:37,142 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Pallido'
+2025-08-21 16:19:37,143 INFO [26/240] Done Pallido, rows=9, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

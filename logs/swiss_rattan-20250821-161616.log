@@ -1,0 +1,18 @@
+2025-08-21 16:16:16,961 INFO [20/240] Processing Swiss Rattan  https://www.polytec.com.au/colour/swiss-rattan/
+2025-08-21 16:16:16,962 INFO run start colour=https://www.polytec.com.au/colour/swiss-rattan/
+2025-08-21 16:16:17,254 INFO colour name: Swiss Rattan
+2025-08-21 16:16:17,337 INFO finish tabs: 1
+2025-08-21 16:16:17,361 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:16:17,376 INFO items in finish 'Woodmatt': 4
+2025-08-21 16:16:17,376 INFO range -> Board Decorative
+2025-08-21 16:16:20,501 INFO row 1: sku=56521 title='MDF 183112 DS Swiss Rattan Woodmatt MR E0' stock=OK price=OK time=3.12s
+2025-08-21 16:16:22,772 INFO row 2: sku=56520 title='MDF 182412 DS Swiss Rattan Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:16:25,042 INFO row 3: sku=56522 title='MDF 092712 DS Swiss Rattan Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:16:25,051 INFO range -> Laminate
+2025-08-21 16:16:27,723 INFO row 4: sku=56519 title='Laminate Swiss Rattan Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.67s
+2025-08-21 16:16:27,735 INFO run end rows=4
+2025-08-21 16:16:27,735 INFO csv write: board_decorative.csv sku=56521 colour='Swiss Rattan'
+2025-08-21 16:16:27,736 INFO csv write: board_decorative.csv sku=56520 colour='Swiss Rattan'
+2025-08-21 16:16:27,736 INFO csv write: board_decorative.csv sku=56522 colour='Swiss Rattan'
+2025-08-21 16:16:27,736 INFO csv write: laminate.csv sku=56519 colour='Swiss Rattan'
+2025-08-21 16:16:27,736 INFO [20/240] Done Swiss Rattan, rows=4, ranges=['Board Decorative', 'Laminate']

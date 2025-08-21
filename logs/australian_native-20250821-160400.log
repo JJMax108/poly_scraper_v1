@@ -1,0 +1,40 @@
+2025-08-21 16:04:00,468 INFO [1/240] Processing Australian Native  https://www.polytec.com.au/colour/australian-native/
+2025-08-21 16:04:00,468 INFO run start colour=https://www.polytec.com.au/colour/australian-native/
+2025-08-21 16:04:01,008 INFO colour name: Australian Native
+2025-08-21 16:04:01,016 INFO finish tabs: 1
+2025-08-21 16:04:01,093 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:04:01,147 INFO items in finish 'Woodmatt': 12
+2025-08-21 16:04:01,148 INFO range -> Board Decorative
+2025-08-21 16:04:03,727 INFO row 1: sku=57479 title='MDF 162412 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.58s
+2025-08-21 16:04:06,019 INFO row 2: sku=57482 title='MDF 183618 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.28s
+2025-08-21 16:04:08,284 INFO row 3: sku=57480 title='MDF 252412 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:04:10,559 INFO row 4: sku=57481 title='MDF 322412 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:04:12,842 INFO row 5: sku=57484 title='LDF 333618 DS Australian Native Woodmatt MR E0' stock=OK price=OK time=2.27s
+2025-08-21 16:04:15,130 INFO row 6: sku=57483 title='LDF 253618 DS Australian Native Woodmatt STD E0' stock=OK price=OK time=2.28s
+2025-08-21 16:04:15,140 INFO range -> Edgetape Decorative
+2025-08-21 16:04:17,810 INFO row 7: sku=57474 title='ABS 1mm x 21mm UG 100m Australian Native Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:04:20,472 INFO row 8: sku=57475 title='ABS 1mm x 21mm UG 20m Australian Native Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:04:23,151 INFO row 9: sku=57478 title='ABS 1mm x 38mm UG 100m Australian Native Woodmatt' stock=OK price=OK time=2.67s
+2025-08-21 16:04:25,825 INFO row 10: sku=57477 title='ABS 1mm x 29mm UG 100m Australian Native Woodmatt' stock=OK price=OK time=2.66s
+2025-08-21 16:04:25,835 INFO range -> Laminate
+2025-08-21 16:04:28,519 INFO row 11: sku=57473 title='Laminate Australian Native Woodmatt 0.7mm 3650x1220' stock=OK price=OK time=2.68s
+2025-08-21 16:04:28,529 INFO range -> Compact
+2025-08-21 16:04:30,792 INFO row 12: sku=57889 title='Compact Laminate Australian Native Woodmatt BC 3660x1830 13m' stock=OK price=OK time=2.26s
+2025-08-21 16:04:30,802 INFO run end rows=12
+2025-08-21 16:04:30,803 INFO csv new: board_decorative.csv
+2025-08-21 16:04:30,803 INFO csv write: board_decorative.csv sku=57479 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57482 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57480 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57481 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57484 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv write: board_decorative.csv sku=57483 colour='Australian Native'
+2025-08-21 16:04:30,804 INFO csv new: edgetape_decorative.csv
+2025-08-21 16:04:30,805 INFO csv write: edgetape_decorative.csv sku=57474 colour='Australian Native'
+2025-08-21 16:04:30,805 INFO csv write: edgetape_decorative.csv sku=57475 colour='Australian Native'
+2025-08-21 16:04:30,805 INFO csv write: edgetape_decorative.csv sku=57478 colour='Australian Native'
+2025-08-21 16:04:30,805 INFO csv write: edgetape_decorative.csv sku=57477 colour='Australian Native'
+2025-08-21 16:04:30,805 INFO csv new: laminate.csv
+2025-08-21 16:04:30,806 INFO csv write: laminate.csv sku=57473 colour='Australian Native'
+2025-08-21 16:04:30,806 INFO csv new: compact.csv
+2025-08-21 16:04:30,806 INFO csv write: compact.csv sku=57889 colour='Australian Native'
+2025-08-21 16:04:30,806 INFO [1/240] Done Australian Native, rows=12, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']

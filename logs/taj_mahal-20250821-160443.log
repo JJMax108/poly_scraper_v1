@@ -1,0 +1,17 @@
+2025-08-21 16:04:43,079 INFO [3/240] Processing Taj Mahal  https://www.polytec.com.au/colour/taj-mahal/
+2025-08-21 16:04:43,079 INFO run start colour=https://www.polytec.com.au/colour/taj-mahal/
+2025-08-21 16:04:43,451 INFO colour name: Taj Mahal
+2025-08-21 16:04:43,457 INFO finish tabs: 1
+2025-08-21 16:04:43,487 INFO tab 1/1 -> Smooth
+2025-08-21 16:04:43,503 INFO items in finish 'Smooth': 4
+2025-08-21 16:04:43,503 INFO range -> Laminate
+2025-08-21 16:04:46,971 INFO row 1: sku=57274 title='Laminate Taj Mahal Smooth 0.7mm 3650x1360 - Film' stock=OK price=OK time=3.47s
+2025-08-21 16:04:49,649 INFO row 2: sku=57275 title='Laminate Taj Mahal Smooth HL 0.7mm 3650x680 - Film' stock=OK price=OK time=2.67s
+2025-08-21 16:04:52,310 INFO row 3: sku=57277 title='Laminate Taj Mahal Smooth Q 1825 x 680 - Film' stock=OK price=OK time=2.65s
+2025-08-21 16:04:54,978 INFO row 4: sku=57276 title='Laminate Taj Mahal Smooth HS 0.7mm 1825x1360 - Film' stock=OK price=OK time=2.66s
+2025-08-21 16:04:54,988 INFO run end rows=4
+2025-08-21 16:04:54,988 INFO csv write: laminate.csv sku=57274 colour='Taj Mahal'
+2025-08-21 16:04:54,989 INFO csv write: laminate.csv sku=57275 colour='Taj Mahal'
+2025-08-21 16:04:54,989 INFO csv write: laminate.csv sku=57277 colour='Taj Mahal'
+2025-08-21 16:04:54,989 INFO csv write: laminate.csv sku=57276 colour='Taj Mahal'
+2025-08-21 16:04:54,989 INFO [3/240] Done Taj Mahal, rows=4, ranges=['Laminate']

@@ -1,0 +1,67 @@
+2025-08-21 16:22:12,574 INFO [1/1] Processing Boston Oak  https://www.polytec.com.au/colour/boston-oak/
+2025-08-21 16:22:12,574 INFO run start colour=https://www.polytec.com.au/colour/boston-oak/
+2025-08-21 16:22:13,179 INFO colour name: Boston Oak
+2025-08-21 16:22:13,189 INFO finish tabs: 1
+2025-08-21 16:22:13,273 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:22:13,507 INFO items in finish 'Woodmatt': 37
+2025-08-21 16:22:13,507 INFO range -> Board Decorative
+2025-08-21 16:22:13,790 INFO MOQ detected for SKU 51913 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:13,790 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:15,992 INFO row 1: sku=51913 title='MDF 162412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.49s
+2025-08-21 16:22:16,109 INFO MOQ detected for SKU 54309 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:16,109 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:18,301 INFO row 2: sku=54309 title='MDF 163112 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:22:18,419 INFO MOQ detected for SKU 56472 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:18,419 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:20,624 INFO row 3: sku=56472 title='MDF 182412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:22:20,739 INFO MOQ detected for SKU 51909 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:20,740 INFO MOQ hint: Pack Size: 20
+2025-08-21 16:22:22,942 INFO row 4: sku=51909 title='MDF 183618 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:22:23,059 INFO MOQ detected for SKU 51916 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:23,060 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:22:23,060 INFO MOQ hint: This item requires a Forklift
+2025-08-21 16:22:25,263 INFO row 5: sku=51916 title='MDF 322412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:22:25,375 INFO MOQ detected for SKU 56912 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:25,375 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:27,581 INFO row 6: sku=56912 title='MDF 183112 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:22:27,693 INFO MOQ detected for SKU 51915 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:27,693 INFO MOQ hint: Pack Size: 20
+2025-08-21 16:22:29,900 INFO row 7: sku=51915 title='MDF 252412 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:22:30,025 INFO MOQ detected for SKU 51911 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:30,026 INFO MOQ hint: Pack Size: 10
+2025-08-21 16:22:32,223 INFO row 8: sku=51911 title='LDF 333618 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:22:32,329 INFO MOQ detected for SKU 51910 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:32,330 INFO MOQ hint: Pack Size: 15
+2025-08-21 16:22:34,534 INFO row 9: sku=51910 title='LDF 253618 DS Boston Oak Woodmatt STD E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.30s
+2025-08-21 16:22:34,645 INFO MOQ detected for SKU 58066 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:34,645 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:36,852 INFO row 10: sku=58066 title='MDF 092712 DS Boston Oak Woodmatt MR E0' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.31s
+2025-08-21 16:22:36,862 INFO range -> Edgetape Decorative
+2025-08-21 16:22:37,362 INFO MOQ detected for SKU 52531 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:37,363 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:39,570 INFO row 11: sku=52531 title='ABS 1mm x 21mm UG 100m Boston Oak Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.71s
+2025-08-21 16:22:40,076 INFO MOQ detected for SKU 52529 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:40,076 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:42,272 INFO row 12: sku=52529 title='ABS 1mm x 21mm UG 20m Boston Oak Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.69s
+2025-08-21 16:22:42,779 INFO MOQ detected for SKU 52534 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:42,780 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:44,989 INFO row 13: sku=52534 title='ABS 1mm x 38mm UG 100m Boston Oak Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=2.71s
+2025-08-21 16:22:46,318 INFO MOQ detected for SKU 52533 min=5 step=1. qty 1 -> 5
+2025-08-21 16:22:46,318 INFO MOQ hint: Pack Size: 30
+2025-08-21 16:22:48,523 INFO row 14: sku=52533 title='ABS 1mm x 29mm UG 100m Boston Oak Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=3.52s
+2025-08-21 16:22:50,339 ERROR [1/1] Error on Boston Oak: Locator.scroll_into_view_if_needed: Timeout 1796ms exceeded.
+Call log:
+  - attempting scroll into view action
+    2 × waiting for element to be stable
+      - element is not stable
+    - retrying scroll into view action
+    - waiting 20ms
+    2 × waiting for element to be stable
+      - element is not stable
+    - retrying scroll into view action
+      - waiting 100ms
+    3 × waiting for element to be stable
+      - element is not stable
+    - retrying scroll into view action
+      - waiting 500ms
+

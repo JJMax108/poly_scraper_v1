@@ -1,0 +1,44 @@
+2025-08-21 16:12:11,562 INFO [12/240] Processing District Oak  https://www.polytec.com.au/colour/district-oak/
+2025-08-21 16:12:11,563 INFO run start colour=https://www.polytec.com.au/colour/district-oak/
+2025-08-21 16:12:11,859 INFO colour name: District Oak
+2025-08-21 16:12:11,954 INFO finish tabs: 1
+2025-08-21 16:12:11,981 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:12:12,050 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:12:12,050 INFO range -> Board Decorative
+2025-08-21 16:12:15,146 INFO row 1: sku=57167 title='MDF 182412 DS District Oak Woodmatt MR E0' stock=OK price=OK time=3.10s
+2025-08-21 16:12:17,417 INFO row 2: sku=58463 title='LDF 253618 DS District Oak Woodmatt STD E0' stock=OK price=OK time=2.26s
+2025-08-21 16:12:19,677 INFO row 3: sku=58464 title='LDF 333618 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.25s
+2025-08-21 16:12:21,942 INFO row 4: sku=57168 title='MDF 183112 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:12:24,211 INFO row 5: sku=57169 title='MDF 252412 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:12:26,483 INFO row 6: sku=58462 title='MDF 183618 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.26s
+2025-08-21 16:12:28,735 INFO row 7: sku=58074 title='MDF 092712 DS District Oak Woodmatt MR E0' stock=OK price=OK time=2.24s
+2025-08-21 16:12:28,745 INFO range -> Edgetape Decorative
+2025-08-21 16:12:31,389 INFO row 8: sku=56896 title='ABS 1mm x 21mm UG 100m District Oak Woodmatt' stock=OK price=OK time=2.64s
+2025-08-21 16:12:34,046 INFO row 9: sku=56899 title='ABS 1mm x 29mm UG 100m District Oak Woodmatt' stock=OK price=OK time=2.65s
+2025-08-21 16:12:36,681 INFO row 10: sku=56897 title='ABS 1mm x 21mm UG 20m District Oak Woodmatt' stock=OK price=OK time=2.62s
+2025-08-21 16:12:39,326 INFO row 11: sku=57419 title='ABS 1mm x 38mm UG 100m District Oak Woodmatt' stock=OK price=OK time=2.64s
+2025-08-21 16:12:39,335 INFO range -> Laminate
+2025-08-21 16:12:41,984 INFO row 12: sku=56852 title='Laminate District Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK time=2.65s
+2025-08-21 16:12:44,631 INFO row 13: sku=56853 title='Laminate District Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK time=2.64s
+2025-08-21 16:12:47,274 INFO row 14: sku=56855 title='Laminate District Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK time=2.63s
+2025-08-21 16:12:49,910 INFO row 15: sku=56854 title='Laminate District Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK time=2.63s
+2025-08-21 16:12:49,918 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:12:55,658 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.74s
+2025-08-21 16:12:55,667 INFO run end rows=16
+2025-08-21 16:12:55,668 INFO csv write: board_decorative.csv sku=57167 colour='District Oak'
+2025-08-21 16:12:55,669 INFO csv write: board_decorative.csv sku=58463 colour='District Oak'
+2025-08-21 16:12:55,670 INFO csv write: board_decorative.csv sku=58464 colour='District Oak'
+2025-08-21 16:12:55,670 INFO csv write: board_decorative.csv sku=57168 colour='District Oak'
+2025-08-21 16:12:55,671 INFO csv write: board_decorative.csv sku=57169 colour='District Oak'
+2025-08-21 16:12:55,671 INFO csv write: board_decorative.csv sku=58462 colour='District Oak'
+2025-08-21 16:12:55,671 INFO csv write: board_decorative.csv sku=58074 colour='District Oak'
+2025-08-21 16:12:55,671 INFO csv write: edgetape_decorative.csv sku=56896 colour='District Oak'
+2025-08-21 16:12:55,672 INFO csv write: edgetape_decorative.csv sku=56899 colour='District Oak'
+2025-08-21 16:12:55,672 INFO csv write: edgetape_decorative.csv sku=56897 colour='District Oak'
+2025-08-21 16:12:55,672 INFO csv write: edgetape_decorative.csv sku=57419 colour='District Oak'
+2025-08-21 16:12:55,673 INFO csv write: laminate.csv sku=56852 colour='District Oak'
+2025-08-21 16:12:55,673 INFO csv write: laminate.csv sku=56853 colour='District Oak'
+2025-08-21 16:12:55,673 INFO csv write: laminate.csv sku=56855 colour='District Oak'
+2025-08-21 16:12:55,673 INFO csv write: laminate.csv sku=56854 colour='District Oak'
+2025-08-21 16:12:55,674 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='District Oak'
+2025-08-21 16:12:55,674 INFO [12/240] Done District Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

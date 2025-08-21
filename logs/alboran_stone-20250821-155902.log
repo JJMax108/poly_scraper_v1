@@ -1,0 +1,8 @@
+2025-08-21 15:59:02,320 INFO [5/240] Processing Alboran Stone  https://www.polytec.com.au/colour/alboran-stone/
+2025-08-21 15:59:02,321 INFO run start colour=https://www.polytec.com.au/colour/alboran-stone/
+2025-08-21 15:59:02,715 INFO colour name: Alboran Stone
+2025-08-21 15:59:02,720 INFO finish tabs: 1
+2025-08-21 15:59:02,741 INFO tab 1/1 -> Smooth
+2025-08-21 15:59:02,760 INFO items in finish 'Smooth': 4
+2025-08-21 15:59:02,760 INFO range -> Laminate
+2025-08-21 15:59:06,237 INFO row 1: sku=52283 title='Laminate Alboran Stone Smooth 0.7mm 3650x1360' stock=OK price=OK time=3.48s

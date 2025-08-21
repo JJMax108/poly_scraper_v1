@@ -1,0 +1,47 @@
+2025-08-21 15:57:55,122 INFO [1/240] Processing Adriatic  https://www.polytec.com.au/colour/adriatic/
+2025-08-21 15:57:55,122 INFO run start colour=https://www.polytec.com.au/colour/adriatic/
+2025-08-21 15:57:55,701 INFO colour name: Adriatic
+2025-08-21 15:57:55,714 INFO finish tabs: 2
+2025-08-21 15:57:55,783 INFO tab 1/2 -> Smooth
+2025-08-21 15:57:55,834 INFO items in finish 'Smooth': 10
+2025-08-21 15:57:55,834 INFO range -> Board Decorative
+2025-08-21 15:57:58,878 INFO row 1: sku=51418 title='MDF 162412 DS Adriatic Smooth MR E0 Film' stock=OK price=OK time=3.04s
+2025-08-21 15:58:01,166 INFO row 2: sku=56670 title='MDF 183112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK time=2.28s
+2025-08-21 15:58:03,442 INFO row 3: sku=56672 title='MDF 323112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK time=2.27s
+2025-08-21 15:58:05,713 INFO row 4: sku=56671 title='MDF 253112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK time=2.26s
+2025-08-21 15:58:05,724 INFO range -> Edgetape Decorative
+2025-08-21 15:58:08,386 INFO row 5: sku=51439 title='ABS 1mm x 21mm UG 100m Adriatic Smooth' stock=OK price=OK time=2.66s
+2025-08-21 15:58:11,055 INFO row 6: sku=51425 title='ABS 1mm x 21mm UG 20m Adriatic Smooth' stock=OK price=OK time=2.66s
+2025-08-21 15:58:13,733 INFO row 7: sku=53911 title='ABS 1mm x 38mm UG 100m Adriatic Smooth' stock=OK price=OK time=2.67s
+2025-08-21 15:58:16,392 INFO row 8: sku=51452 title='ABS 1mm x 29mm UG 100m Adriatic Smooth' stock=OK price=OK time=2.65s
+2025-08-21 15:58:16,402 INFO range -> Laminate
+2025-08-21 15:58:19,063 INFO row 9: sku=52118 title='Laminate Adriatic Smooth 0.7mm 3650 x 1220' stock=OK price=OK time=2.66s
+2025-08-21 15:58:19,074 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 15:58:24,857 INFO row 10: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY time=5.78s
+2025-08-21 15:58:26,682 ERROR [1/240] Error on Adriatic: Locator.click: Timeout 1800ms exceeded.
+Call log:
+  - waiting for locator("#product-tabs li.tabs-title a").nth(1)
+    - locator resolved to <a role="tab" aria-selected="false" href="#finish-adriatic-venette" id="finish-adriatic-venette-label" aria-controls="finish-adriatic-venette">Venette</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    3 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+
