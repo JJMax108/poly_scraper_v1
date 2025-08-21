@@ -1,88 +1,146 @@
 # colour_worker.py
-# Faster waits + detailed logging
-# Visit a single colour page, iterate finishes and SKUs, capture specs, check stock and price
+# Clamp waits, force clicks, JS qty set, and wait on network responses that include the SKU code
 
 from dataclasses import dataclass
 from datetime import datetime
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, Optional, Callable
 import time
 import logging
-from playwright.async_api import Page, TimeoutError as PWTimeout, Locator
+from playwright.async_api import Page, TimeoutError as PWTimeout, Locator, Response
 
 log = logging.getLogger("poly")
 
 @dataclass
 class ColourRow:
-    product_range_display: str   # H4 text as shown on site
-    core: Dict[str, str]         # fixed identifying fields
-    specs: Dict[str, str]        # flexible specs, keys become CSV columns
+    product_range_display: str
+    core: Dict[str, str]
+    specs: Dict[str, str]
 
-async def _visible_text_or_empty(loc: Locator) -> str:
+async def _visible_text_or_empty(loc: Locator, timeout: int = 1000) -> str:
     try:
-        txt = await loc.text_content()
+        txt = await loc.text_content(timeout=timeout)
         return (txt or "").strip()
     except Exception:
         return ""
 
 async def _clear_result_box(loc: Locator):
     try:
-        await loc.evaluate("el => { el.textContent = ''; }")
+        await loc.evaluate("el => { el.textContent = ''; el.classList.remove('hide'); }")
     except Exception:
         pass
 
-async def _wait_until_nonempty(loc: Locator, max_wait_ms: int = 2200) -> str:
-    """Fast path. Return as soon as there is any text. Never wait for a change."""
-    end = time.monotonic() + max_wait_ms / 1000.0
-    while time.monotonic() < end:
-        txt = await _visible_text_or_empty(loc)
-        if txt:
-            return txt
-        await loc.page.wait_for_timeout(120)
-    return await _visible_text_or_empty(loc)
-
-async def _click_and_get_result(item: Locator, qty: int) -> Tuple[str, str]:
-    await item.scroll_into_view_if_needed()
-    await item.page.wait_for_timeout(40)
-
-    # quantity can be absent on some rows
-    qty_input = item.locator("input[name='truck-item-qty']").first
+async def _wait_text_fast(loc: Locator, max_wait_ms: int = 1200) -> str:
     try:
-        await qty_input.fill(str(qty))
+        handle = await loc.element_handle(timeout=500)
+    except Exception:
+        handle = None
+    try:
+        if handle:
+            await loc.page.wait_for_function(
+                "el => el && el.textContent && el.textContent.trim().length > 0",
+                arg=handle,
+                timeout=max_wait_ms
+            )
+    except PWTimeout:
+        pass
+    return await _visible_text_or_empty(loc, timeout=300)
+
+async def _js_set_qty(qty_input: Locator, value: int):
+    try:
+        el = await qty_input.element_handle(timeout=400)
+        if el:
+            await qty_input.page.evaluate(
+                """(el, v) => {
+                    el.value = String(v);
+                    el.dispatchEvent(new Event('input', { bubbles: true }));
+                    el.dispatchEvent(new Event('change', { bubbles: true }));
+                }""",
+                el, value
+            )
+            return
+    except Exception:
+        pass
+    try:
+        await qty_input.fill(str(value), timeout=500)
         await qty_input.blur()
     except Exception:
         pass
 
-    # result boxes
-    stock_btn = item.locator("button.check-stock, .get-price.check-stock button:has-text('Check Stock')").first
-    stock_result = item.locator("div.check-stock-result").first
-    price_btn = item.locator("button.get-price, .get-price.check-stock button:has-text('Get My Price')").first
-    price_result = item.locator("div.get-price-result").first
+async def _safe_click(btn: Locator, fast_timeout_ms: int = 700):
+    try:
+        await btn.click(force=True, no_wait_after=True, timeout=fast_timeout_ms)
+        return True
+    except Exception:
+        pass
+    try:
+        handle = await btn.element_handle(timeout=300)
+        if handle:
+            await btn.page.evaluate("el => el.click()", handle)
+            return True
+    except Exception:
+        pass
+    return False
 
-    # clear old text so we do not wait on stale content
+def _resp_matcher_contains(code: str) -> Callable[[Response], bool]:
+    # Many sites include the SKU or data-code in the 2 ajax endpoints.
+    # We keep it generic so we do not depend on exact paths.
+    def ok(r: Response) -> bool:
+        try:
+            u = r.url or ""
+            return code and code in u
+        except Exception:
+            return False
+    return ok
+
+async def _click_and_get_result(page: Page, item: Locator, qty: int) -> Tuple[str, str]:
+    await item.scroll_into_view_if_needed()
+    await item.page.wait_for_timeout(10)
+
+    # get the per row code so we can latch onto network traffic
+    code = ""
+    try:
+        code = await item.locator(".item-inputs").first.get_attribute("data-code", timeout=500) or ""
+    except Exception:
+        pass
+
+    qty_input = item.locator("input[name='truck-item-qty']").first
+    await _js_set_qty(qty_input, qty)
+
+    stock_btn = item.locator(":scope button.check-stock, :scope .get-price.check-stock button:has-text('Check Stock')").first
+    stock_result = item.locator(":scope div.check-stock-result").first
+    price_btn = item.locator(":scope button.get-price, :scope .get-price.check-stock button:has-text('Get My Price')").first
+    price_result = item.locator(":scope div.get-price-result").first
+
     await _clear_result_box(stock_result)
     await _clear_result_box(price_result)
 
-    # stock
+    # stock - click, then wait for either the matching response or quick text
     stock_text = ""
     try:
-        await stock_btn.click(timeout=1500)
-        try:
-            await stock_result.wait_for(state="visible", timeout=1200)
-        except PWTimeout:
-            pass
-        stock_text = await _wait_until_nonempty(stock_result, max_wait_ms=1800) or "EMPTY"
+        if code:
+            try:
+                async with page.expect_response(_resp_matcher_contains(code), timeout=1200):
+                    await _safe_click(stock_btn)
+            except PWTimeout:
+                await _safe_click(stock_btn)
+        else:
+            await _safe_click(stock_btn)
+        stock_text = await _wait_text_fast(stock_result, max_wait_ms=1200) or "EMPTY"
     except Exception:
         stock_text = "ERROR"
 
-    # price
+    # price - same idea
     price_text = ""
     try:
-        await price_btn.click(timeout=1500)
-        try:
-            await price_result.wait_for(state="visible", timeout=1200)
-        except PWTimeout:
-            pass
-        price_text = await _wait_until_nonempty(price_result, max_wait_ms=1800) or "EMPTY"
+        if code:
+            try:
+                async with page.expect_response(_resp_matcher_contains(code), timeout=1200):
+                    await _safe_click(price_btn)
+            except PWTimeout:
+                await _safe_click(price_btn)
+        else:
+            await _safe_click(price_btn)
+        price_text = await _wait_text_fast(price_result, max_wait_ms=1200) or "EMPTY"
     except Exception:
         price_text = "ERROR"
 
@@ -90,25 +148,26 @@ async def _click_and_get_result(item: Locator, qty: int) -> Tuple[str, str]:
 
 async def _extract_specs_from_item(item: Locator) -> Dict[str, str]:
     await item.scroll_into_view_if_needed()
-    await item.page.wait_for_timeout(30)
+    await item.page.wait_for_timeout(5)
 
-    # SKU and Title are best effort
     try:
-        sku = (await item.locator("span.label").first.text_content() or "").strip()
+        sku = (await item.locator("span.label").first.text_content(timeout=600) or "").strip()
     except Exception:
         sku = ""
     try:
-        title = (await item.locator("h5").first.text_content() or "").strip()
+        title = (await item.locator("h5").first.text_content(timeout=600) or "").strip()
     except Exception:
         title = ""
 
-    # Flexible attributes Strong: Value
     specs: Dict[str, str] = {}
     try:
         lis = item.locator("ul.item-attributes li")
         count = await lis.count()
         for i in range(count):
-            txt = await lis.nth(i).text_content()
+            try:
+                txt = await lis.nth(i).text_content(timeout=400)
+            except Exception:
+                txt = ""
             if not txt:
                 continue
             txt = txt.strip()
@@ -121,9 +180,8 @@ async def _extract_specs_from_item(item: Locator) -> Dict[str, str]:
     except Exception:
         pass
 
-    # Pack Size
     try:
-        info = await item.locator("h5.info").first.text_content()
+        info = await item.locator("h5.info").first.text_content(timeout=500)
         if info and "Pack Size:" in info:
             specs["Pack Size"] = info.split("Pack Size:", 1)[1].strip()
     except Exception:
@@ -131,7 +189,6 @@ async def _extract_specs_from_item(item: Locator) -> Dict[str, str]:
 
     specs.setdefault("SKU", sku)
     specs.setdefault("Title", title)
-
     return specs
 
 async def _iter_family_items_in_active_panel(page: Page):
@@ -140,7 +197,6 @@ async def _iter_family_items_in_active_panel(page: Page):
     families = []
     handles = []
     count = await items.count()
-    # We will also emit a marker when the range (H4) changes
     for i in range(count):
         el = items.nth(i)
         fam = await el.evaluate("""
@@ -160,9 +216,9 @@ async def _iter_family_items_in_active_panel(page: Page):
 async def process_colour(page: Page, url: str) -> List[ColourRow]:
     log.info(f"run start colour={url}")
     await page.goto(url, wait_until="domcontentloaded")
-    await page.wait_for_selector("#product-tabs", timeout=10000)
+    await page.wait_for_selector("#product-tabs", timeout=6000)
 
-    colour_name = (await page.locator(".product-hero h1").first.text_content() or "").strip()
+    colour_name = (await page.locator(".product-hero h1").first.text_content(timeout=1000) or "").strip()
     log.info(f"colour name: {colour_name}")
 
     tab_titles = page.locator("#product-tabs li.tabs-title a")
@@ -173,10 +229,10 @@ async def process_colour(page: Page, url: str) -> List[ColourRow]:
 
     for i in range(n_tabs):
         tab_link = tab_titles.nth(i)
-        finish_text = (await tab_link.text_content() or "").strip()
+        finish_text = (await tab_link.text_content(timeout=800) or "").strip()
         log.info(f"tab {i+1}/{n_tabs} -> {finish_text}")
         await tab_link.click()
-        await page.wait_for_selector("div.tabs-panel.content.is-active", timeout=5000)
+        await page.wait_for_selector("div.tabs-panel.content.is-active", timeout=3000)
 
         panel = page.locator("div.tabs-panel.content.is-active").first
         panel_finish = (await panel.get_attribute("data-finish")) or finish_text
@@ -192,7 +248,7 @@ async def process_colour(page: Page, url: str) -> List[ColourRow]:
 
             t0 = time.monotonic()
             specs = await _extract_specs_from_item(item)
-            stock_text, price_text = await _click_and_get_result(item, qty=1)
+            stock_text, price_text = await _click_and_get_result(page, item, qty=1)
             dt = time.monotonic() - t0
 
             core = {
@@ -208,8 +264,6 @@ async def process_colour(page: Page, url: str) -> List[ColourRow]:
                 "checked_at_iso": datetime.utcnow().isoformat(timespec="seconds") + "Z",
             }
 
-            # Normalise spec keys
-            normalised_specs: Dict[str, str] = {}
             rename = {
                 "Substrate": "substrate",
                 "Thickness": "thickness",
@@ -218,6 +272,7 @@ async def process_colour(page: Page, url: str) -> List[ColourRow]:
                 "Pack Size": "pack_size",
                 "Finish": "finish_attr",
             }
+            normalised_specs: Dict[str, str] = {}
             for k, v in specs.items():
                 if k in ("SKU", "Title"):
                     continue
@@ -232,13 +287,11 @@ async def process_colour(page: Page, url: str) -> List[ColourRow]:
                 specs=normalised_specs
             ))
 
-            # concise status for console and file log
             stock_flag = "OK" if stock_text not in ("", "EMPTY", "ERROR") else stock_text or "EMPTY"
             price_flag = "OK" if price_text not in ("", "EMPTY", "ERROR") else price_text or "EMPTY"
             log.info(f"row {idx}: sku={core['sku_code']} title='{core['title_raw'][:60]}' stock={stock_flag} price={price_flag} time={dt:.2f}s")
 
-            # tiny pause only
-            await page.wait_for_timeout(40)
+            await page.wait_for_timeout(10)
 
     log.info(f"run end rows={len(rows)}")
     return rows

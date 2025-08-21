@@ -1,6 +1,6 @@
 # run_one_colour.py
 # Process the first colour and write to per range CSVs
-# Sets up console + file logging so you can track speed and actions
+# Sets up console + file logging and clamps Playwright default timeouts
 
 import asyncio
 import json
@@ -35,17 +35,13 @@ def setup_logging(colour_slug: str):
     LOG_DIR.mkdir(exist_ok=True)
     logger = logging.getLogger("poly")
     logger.setLevel(logging.INFO)
-
-    # clear old handlers if re running in same process
     logger.handlers.clear()
 
-    # console
     ch = logging.StreamHandler()
     ch.setLevel(logging.INFO)
     ch.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(message)s", "%H:%M:%S"))
     logger.addHandler(ch)
 
-    # file
     ts = datetime.now().strftime("%Y%m%d-%H%M%S")
     fh = RotatingFileHandler(str(LOG_DIR / f"{colour_slug}-{ts}.log"), maxBytes=2_000_000, backupCount=2)
     fh.setLevel(logging.INFO)
@@ -79,7 +75,14 @@ async def main():
     async with async_playwright() as pw:
         browser = await pw.chromium.launch(headless=False)
         context = await browser.new_context(storage_state=str(SESSION_FILE))
+
+        # Hard clamp default timeouts so nothing can ever burn 30 seconds
+        context.set_default_timeout(1800)
+        context.set_default_navigation_timeout(6000)
+
         page = await context.new_page()
+        page.set_default_timeout(1800)
+        page.set_default_navigation_timeout(6000)
 
         rows = await process_colour(page, url)
 
