@@ -1,0 +1,26 @@
+colour_name,finish,product_family,sku_code,title_raw,qty_used_for_checks,stock_result_raw,price_result_raw,product_url,checked_at_iso,finish_attr,substrate,thickness,length,width,pack_size
+Boston Oak,Woodmatt,Architectural,57296,Steccawood 17x34x3600 MDF MR E0 Boston Oak Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:17Z,Woodmatt,MDF,17,3600,34,15
+Boston Oak,Woodmatt,Architectural,57299,Steccawood 17x34x3600 MDF MR E0 Boston Oak Cove,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:22Z,Woodmatt,MDF,17,3600,34,15
+Boston Oak,Woodmatt,Architectural,57290,Steccawood 17x38x3600 MDF MR E0 Boston Oak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:27Z,Woodmatt,MDF,17,3600,38,
+Boston Oak,Woodmatt,Architectural,57291,Steccawood 31x31x3600 MDF MR E0 Boston Oak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:32Z,Woodmatt,MDF,31,3600,31,15
+Boston Oak,Woodmatt,Architectural,57298,Steccawood 24x48x3600 MDF MR E0 Boston Oak Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:37Z,Woodmatt,MDF,24,3600,48,15
+Boston Oak,Woodmatt,Architectural,57294,Steccawood 50x100x3600 LDF MR E0 Boston Oak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:42Z,Woodmatt,LDF,50,3600,100,15
+Boston Oak,Woodmatt,Architectural,57292,Steccawood 31x65x3600 MDF MR E0 Boston Oak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:47Z,Woodmatt,MDF,31,3600,65,15
+Boston Oak,Woodmatt,Architectural,57295,Steccawood 40x100x3600 LDF MR E0 Boston Oak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:52Z,Woodmatt,LDF,40,3600,100,15
+Boston Oak,Woodmatt,Architectural,57293,Steccawood 50x70x3600 LDF MR E0 Boston Oak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:53:57Z,Woodmatt,LDF,50,3600,70,15
+Boston Oak,Woodmatt,Architectural,57297,Steccawood 31x62x3600 MDF MR E0 Boston Oak Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:54:02Z,Woodmatt,MDF,31,3600,62,15
+Boston Oak,Woodmatt,Architectural,57300,Steccawood 24x34x3600 MDF MR E0 Boston Oak Peak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/boston-oak/,2025-08-21T04:54:07Z,Woodmatt,MDF,24,3600,34,15 .
+Marmo di Monte,Smooth,Architectural,56342,Steccawood 17x38x3600 MDF MR E0 Marmo di Monte,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-monte/,2025-08-21T05:36:56Z,Smooth,MDF,17,3600,38,
+Marmo di Monte,Smooth,Architectural,56950,Steccawood 24x34x3600 MDF MR E0 Marmo di Monte Peak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-monte/,2025-08-21T05:37:01Z,Smooth,MDF,24,3600,34,
+Marmo di Monte,Smooth,Architectural,56343,Steccawood 31x31x3600 MDF MR E0 Marmo di Monte,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-monte/,2025-08-21T05:37:06Z,Smooth,MDF,31,3600,31,
+Marmo di Monte,Smooth,Architectural,56350,Steccawood 31x62x3600 MDF MR E0 Marmo di Monte Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-monte/,2025-08-21T05:37:12Z,Smooth,MDF,31,3600,62,
+Marmo di Monte,Smooth,Architectural,56349,Steccawood 17x34x3600 MDF MR E0 Marmo di Monte Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-monte/,2025-08-21T05:37:17Z,Smooth,MDF,17,3600,34,
+Marmo di Monte,Smooth,Architectural,56351,Steccawood 24x48x3600 MDF MR E0 Marmo di Monte Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-monte/,2025-08-21T05:37:22Z,Smooth,MDF,24,3600,48,
+Marmo di Monte,Smooth,Architectural,56352,Steccawood 17x34x3600 MDF MR E0 Marmo di Monte Cove,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-monte/,2025-08-21T05:37:28Z,Smooth,MDF,17,3600,34,
+Marmo di Torre,Smooth,Architectural,56951,Steccawood 24x34x3600 MDF MR E0 Marmo di Torre Peak,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-torre/,2025-08-21T05:37:54Z,Smooth,MDF,24,3600,34,
+Marmo di Torre,Smooth,Architectural,56354,Steccawood 31x31x3600 MDF MR E0 Marmo di Torre,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-torre/,2025-08-21T05:38:00Z,Smooth,MDF,31,3600,31,
+Marmo di Torre,Smooth,Architectural,56360,Steccawood 17x34x3600 MDF MR E0 Marmo di Torre Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-torre/,2025-08-21T05:38:05Z,Smooth,MDF,17,3600,34,
+Marmo di Torre,Smooth,Architectural,56363,Steccawood 17x34x3600 MDF MR E0 Marmo di Torre Cove,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-torre/,2025-08-21T05:38:11Z,Smooth,MDF,17,3600,34,
+Marmo di Torre,Smooth,Architectural,56362,Steccawood 24x48x3600 MDF MR E0 Marmo di Torre Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-torre/,2025-08-21T05:38:16Z,Smooth,MDF,24,3600,48,
+Marmo di Torre,Smooth,Architectural,56353,Steccawood 17x38x3600 MDF MR E0 Marmo di Torre,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-torre/,2025-08-21T05:38:22Z,Smooth,MDF,17,3600,38,
+Marmo di Torre,Smooth,Architectural,56361,Steccawood 31x62x3600 MDF MR E0 Marmo di Torre Half Round,1,EMPTY,EMPTY,https://www.polytec.com.au/colour/marmo-di-torre/,2025-08-21T05:38:27Z,Smooth,MDF,31,3600,62,

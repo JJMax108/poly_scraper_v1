@@ -1,0 +1,27 @@
+2025-08-21 15:26:44,274 ERROR [35/240] Error on Ferro: Locator.click: Timeout 1800ms exceeded.
+Call log:
+  - waiting for locator("#product-tabs li.tabs-title a").nth(2)
+    - locator resolved to <a role="tab" aria-selected="false" href="#finish-ferro-venette" id="finish-ferro-venette-label" aria-controls="finish-ferro-venette">Venette</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    3 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+

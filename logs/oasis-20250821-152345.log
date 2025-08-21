@@ -1,0 +1,27 @@
+2025-08-21 15:24:20,638 ERROR [30/240] Error on Oasis: Locator.click: Timeout 1800ms exceeded.
+Call log:
+  - waiting for locator("#product-tabs li.tabs-title a").nth(1)
+    - locator resolved to <a role="tab" aria-selected="false" href="#finish-oasis-venette" id="finish-oasis-venette-label" aria-controls="finish-oasis-venette">Venette</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    3 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="reveal-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+
