@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Australian Native",
+    "url": "https://www.polytec.com.au/colour/australian-native/",
+    "slug": "australian-native"
+  },
+  {
+    "name": "Grey Taj",
+    "url": "https://www.polytec.com.au/colour/grey-taj/",
+    "slug": "grey-taj"
+  },
+  {
+    "name": "Taj Mahal",
+    "url": "https://www.polytec.com.au/colour/taj-mahal/",
+    "slug": "taj-mahal"
+  },
+  {
+    "name": "Blonde Oak",
+    "url": "https://www.polytec.com.au/colour/blonde-oak/",
+    "slug": "blonde-oak"
+  },
+  {
+    "name": "Ecru Oak",
+    "url": "https://www.polytec.com.au/colour/ecru-oak/",
+    "slug": "ecru-oak"
+  },
+  {
+    "name": "Boston Oak",
+    "url": "https://www.polytec.com.au/colour/boston-oak/",
+    "slug": "boston-oak"
+  },
+  {
+    "name": "Laurel Oak",
+    "url": "https://www.polytec.com.au/colour/laurel-oak/",
+    "slug": "laurel-oak"
+  },
+  {
+    "name": "Botany Oak",
+    "url": "https://www.polytec.com.au/colour/botany-oak/",
+    "slug": "botany-oak"
+  },
+  {
+    "name": "Manor Oak",
+    "url": "https://www.polytec.com.au/colour/manor-oak/",
+    "slug": "manor-oak"
+  },
+  {
+    "name": "Hazel Oak",
+    "url": "https://www.polytec.com.au/colour/hazel-oak/",
+    "slug": "hazel-oak"
+  },
+  {
+    "name": "Society Oak",
+    "url": "https://www.polytec.com.au/colour/society-oak/",
+    "slug": "society-oak"
+  },
+  {
+    "name": "District Oak",
+    "url": "https://www.polytec.com.au/colour/district-oak/",
+    "slug": "district-oak"
+  },
+  {
+    "name": "Bronzed Oak",
+    "url": "https://www.polytec.com.au/colour/bronzed-oak/",
+    "slug": "bronzed-oak"
+  },
+  {
+    "name": "Rubra Oak",
+    "url": "https://www.polytec.com.au/colour/rubra-oak/",
+    "slug": "rubra-oak"
+  },
+  {
+    "name": "Blackened Oak",
+    "url": "https://www.polytec.com.au/colour/blackened-oak/",
+    "slug": "blackened-oak"
+  },
+  {
+    "name": "Britannia",
+    "url": "https://www.polytec.com.au/colour/britannia/",
+    "slug": "britannia"
+  },
+  {
+    "name": "Dark Batten Oak",
+    "url": "https://www.polytec.com.au/colour/dark-batten-oak/",
+    "slug": "dark-batten-oak"
+  },
+  {
+    "name": "Batten Oak",
+    "url": "https://www.polytec.com.au/colour/batten-oak/",
+    "slug": "batten-oak"
+  },
+  {
+    "name": "Danish Rattan",
+    "url": "https://www.polytec.com.au/colour/danish-rattan/",
+    "slug": "danish-rattan"
+  },
+  {
+    "name": "Swiss Rattan",
+    "url": "https://www.polytec.com.au/colour/swiss-rattan/",
+    "slug": "swiss-rattan"
+  },
+  {
+    "name": "Italian Cotton",
+    "url": "https://www.polytec.com.au/colour/italian-cotton/",
+    "slug": "italian-cotton"
+  },
+  {
+    "name": "Natural Cotton",
+    "url": "https://www.polytec.com.au/colour/natural-cotton/",
+    "slug": "natural-cotton"
+  },
+  {
+    "name": "Aston White",
+    "url": "https://www.polytec.com.au/colour/aston-white/",
+    "slug": "aston-white"
+  },
+  {
+    "name": "Gossamer White",
+    "url": "https://www.polytec.com.au/colour/gossamer-white/",
+    "slug": "gossamer-white"
+  },
+  {
+    "name": "Verdelho",
+    "url": "https://www.polytec.com.au/colour/verdelho/",
+    "slug": "verdelho"
+  },
+  {
+    "name": "Pallido",
+    "url": "https://www.polytec.com.au/colour/pallido/",
+    "slug": "pallido"
+  },
+  {
+    "name": "Elemental Grey",
+    "url": "https://www.polytec.com.au/colour/elemental-grey/",
+    "slug": "elemental-grey"
+  },
+  {
+    "name": "Agave",
+    "url": "https://www.polytec.com.au/colour/agave/",
+    "slug": "agave"
+  },
+  {
+    "name": "Topiary",
+    "url": "https://www.polytec.com.au/colour/topiary/",
+    "slug": "topiary"
+  },
+  {
+    "name": "Oasis",
+    "url": "https://www.polytec.com.au/colour/oasis/",
+    "slug": "oasis"
+  },
+  {
+    "name": "Evergreen",
+    "url": "https://www.polytec.com.au/colour/evergreen/",
+    "slug": "evergreen"
+  },
+  {
+    "name": "Forage",
+    "url": "https://www.polytec.com.au/colour/forage/",
+    "slug": "forage"
+  },
+  {
+    "name": "Mercurio Grey",
+    "url": "https://www.polytec.com.au/colour/mercurio-grey/",
+    "slug": "mercurio-grey"
+  },
+  {
+    "name": "Habitat",
+    "url": "https://www.polytec.com.au/colour/habitat/",
+    "slug": "habitat"
+  },
+  {
+    "name": "Ferro",
+    "url": "https://www.polytec.com.au/colour/ferro/",
+    "slug": "ferro"
+  },
+  {
+    "name": "Adriatic",
+    "url": "https://www.polytec.com.au/colour/adriatic/",
+    "slug": "adriatic"
+  },
+  {
+    "name": "Arabica",
+    "url": "https://www.polytec.com.au/colour/arabica/",
+    "slug": "arabica"
+  },
+  {
+    "name": "Navy",
+    "url": "https://www.polytec.com.au/colour/navy/",
+    "slug": "navy"
+  },
+  {
+    "name": "Botanic",
+    "url": "https://www.polytec.com.au/colour/botanic/",
+    "slug": "botanic"
+  },
+  {
+    "name": "Oxford",
+    "url": "https://www.polytec.com.au/colour/oxford/",
+    "slug": "oxford"
+  },
+  {
+    "name": "Quartiera Maple",
+    "url": "https://www.polytec.com.au/colour/quartiera-maple/",
+    "slug": "quartiera-maple"
+  },
+  {
+    "name": "Natural Ply",
+    "url": "https://www.polytec.com.au/colour/natural-ply/",
+    "slug": "natural-ply"
+  },
+  {
+    "name": "Plantation Ash",
+    "url": "https://www.polytec.com.au/colour/plantation-ash/",
+    "slug": "plantation-ash"
+  },
+  {
+    "name": "Ligurian Walnut",
+    "url": "https://www.polytec.com.au/colour/ligurian-walnut/",
+    "slug": "ligurian-walnut"
+  },
+  {
+    "name": "Palomera Oak",
+    "url": "https://www.polytec.com.au/colour/palomera-oak/",
+    "slug": "palomera-oak"
+  },
+  {
+    "name": "Arcadia Oak",
+    "url": "https://www.polytec.com.au/colour/arcadia-oak/",
+    "slug": "arcadia-oak"
+  },
+  {
+    "name": "Black Ply",
+    "url": "https://www.polytec.com.au/colour/black-ply/",
+    "slug": "black-ply"
+  },
+  {
+    "name": "Ochre Figured-Wood",
+    "url": "https://www.polytec.com.au/colour/ochre-figured-wood/",
+    "slug": "ochre-figured-wood"
+  },
+  {
+    "name": "Sienna Figured-Wood",
+    "url": "https://www.polytec.com.au/colour/sienna-figured-wood/",
+    "slug": "sienna-figured-wood"
+  },
+  {
+    "name": "Onyx Figured-Wood",
+    "url": "https://www.polytec.com.au/colour/onyx-figured-wood/",
+    "slug": "onyx-figured-wood"
+  },
+  {
+    "name": "Alboran Stone",
+    "url": "https://www.polytec.com.au/colour/alboran-stone/",
+    "slug": "alboran-stone"
+  },
+  {
+    "name": "Marmo di Monte",
+    "url": "https://www.polytec.com.au/colour/marmo-di-monte/",
+    "slug": "marmo-di-monte"
+  },
+  {
+    "name": "Marmo di Torre",
+    "url": "https://www.polytec.com.au/colour/marmo-di-torre/",
+    "slug": "marmo-di-torre"
+  },
+  {
+    "name": "Tivoli Ceppo",
+    "url": "https://www.polytec.com.au/colour/tivoli-ceppo/",
+    "slug": "tivoli-ceppo"
+  },
+  {
+    "name": "Provincial Limestone",
+    "url": "https://www.polytec.com.au/colour/provincial-limestone/",
+    "slug": "provincial-limestone"
+  },
+  {
+    "name": "Roman Ceppo",
+    "url": "https://www.polytec.com.au/colour/roman-ceppo/",
+    "slug": "roman-ceppo"
+  },
+  {
+    "name": "Vesuvius Ceppo",
+    "url": "https://www.polytec.com.au/colour/vesuvius-ceppo/",
+    "slug": "vesuvius-ceppo"
+  },
+  {
+    "name": "Cosmic Granite",
+    "url": "https://www.polytec.com.au/colour/cosmic-granite/",
+    "slug": "cosmic-granite"
+  },
+  {
+    "name": "Volcanic Stone",
+    "url": "https://www.polytec.com.au/colour/volcanic-stone/",
+    "slug": "volcanic-stone"
+  },
+  {
+    "name": "Platinum Leaf",
+    "url": "https://www.polytec.com.au/colour/platinum-leaf/",
+    "slug": "platinum-leaf"
+  },
+  {
+    "name": "Light Brass Leaf",
+    "url": "https://www.polytec.com.au/colour/light-brass-leaf/",
+    "slug": "light-brass-leaf"
+  },
+  {
+    "name": "Pure Gold Leaf",
+    "url": "https://www.polytec.com.au/colour/pure-gold-leaf/",
+    "slug": "pure-gold-leaf"
+  },
+  {
+    "name": "Rose Gold Leaf",
+    "url": "https://www.polytec.com.au/colour/rose-gold-leaf/",
+    "slug": "rose-gold-leaf"
+  },
+  {
+    "name": "Copper Leaf",
+    "url": "https://www.polytec.com.au/colour/copper-leaf/",
+    "slug": "copper-leaf"
+  },
+  {
+    "name": "Bronze Gold Leaf",
+    "url": "https://www.polytec.com.au/colour/bronze-gold-leaf/",
+    "slug": "bronze-gold-leaf"
+  },
+  {
+    "name": "Alicante Stone",
+    "url": "https://www.polytec.com.au/colour/alicante-stone/",
+    "slug": "alicante-stone"
+  },
+  {
+    "name": "Portofino Stone",
+    "url": "https://www.polytec.com.au/colour/portofino-stone/",
+    "slug": "portofino-stone"
+  },
+  {
+    "name": "White Cement",
+    "url": "https://www.polytec.com.au/colour/white-cement/",
+    "slug": "white-cement"
+  },
+  {
+    "name": "Calacutta D'oro",
+    "url": "https://www.polytec.com.au/colour/calacutta-doro/",
+    "slug": "calacutta-doro"
+  },
+  {
+    "name": "Calacutta Grey",
+    "url": "https://www.polytec.com.au/colour/calacutta-grey/",
+    "slug": "calacutta-grey"
+  },
+  {
+    "name": "Navona Stone",
+    "url": "https://www.polytec.com.au/colour/navona-stone/",
+    "slug": "navona-stone"
+  },
+  {
+    "name": "Grey Cement",
+    "url": "https://www.polytec.com.au/colour/grey-cement/",
+    "slug": "grey-cement"
+  },
+  {
+    "name": "Portland Stone",
+    "url": "https://www.polytec.com.au/colour/portland-stone/",
+    "slug": "portland-stone"
+  },
+  {
+    "name": "Emperor Stone",
+    "url": "https://www.polytec.com.au/colour/emperor-stone/",
+    "slug": "emperor-stone"
+  },
+  {
+    "name": "Desideria Marble",
+    "url": "https://www.polytec.com.au/colour/desideria-marble/",
+    "slug": "desideria-marble"
+  },
+  {
+    "name": "Bernini Marble",
+    "url": "https://www.polytec.com.au/colour/bernini-marble/",
+    "slug": "bernini-marble"
+  },
+  {
+    "name": "Tunisia Stone",
+    "url": "https://www.polytec.com.au/colour/tunisia-stone/",
+    "slug": "tunisia-stone"
+  },
+  {
+    "name": "Dark Cement",
+    "url": "https://www.polytec.com.au/colour/dark-cement/",
+    "slug": "dark-cement"
+  },
+  {
+    "name": "Catalina Marble",
+    "url": "https://www.polytec.com.au/colour/catalina-marble/",
+    "slug": "catalina-marble"
+  },
+  {
+    "name": "Athena Stone",
+    "url": "https://www.polytec.com.au/colour/athena-stone/",
+    "slug": "athena-stone"
+  },
+  {
+    "name": "Nordic Oak",
+    "url": "https://www.polytec.com.au/colour/nordic-oak/",
+    "slug": "nordic-oak"
+  },
+  {
+    "name": "Angora Oak",
+    "url": "https://www.polytec.com.au/colour/angora-oak/",
+    "slug": "angora-oak"
+  },
+  {
+    "name": "Coastal Oak",
+    "url": "https://www.polytec.com.au/colour/coastal-oak/",
+    "slug": "coastal-oak"
+  },
+  {
+    "name": "Casentino Beech",
+    "url": "https://www.polytec.com.au/colour/casentino-beech/",
+    "slug": "casentino-beech"
+  },
+  {
+    "name": "Palace Teak",
+    "url": "https://www.polytec.com.au/colour/palace-teak/",
+    "slug": "palace-teak"
+  },
+  {
+    "name": "Tasmanian Oak",
+    "url": "https://www.polytec.com.au/colour/tasmanian-oak/",
+    "slug": "tasmanian-oak"
+  },
+  {
+    "name": "Prime Oak",
+    "url": "https://www.polytec.com.au/colour/prime-oak/",
+    "slug": "prime-oak"
+  },
+  {
+    "name": "Antico Oak",
+    "url": "https://www.polytec.com.au/colour/antico-oak/",
+    "slug": "antico-oak"
+  },
+  {
+    "name": "Notaio Walnut",
+    "url": "https://www.polytec.com.au/colour/notaio-walnut/",
+    "slug": "notaio-walnut"
+  },
+  {
+    "name": "Florentine Walnut",
+    "url": "https://www.polytec.com.au/colour/florentine-walnut/",
+    "slug": "florentine-walnut"
+  },
+  {
+    "name": "Rojo Walnut",
+    "url": "https://www.polytec.com.au/colour/rojo-walnut/",
+    "slug": "rojo-walnut"
+  },
+  {
+    "name": "Havana Oak",
+    "url": "https://www.polytec.com.au/colour/havana-oak/",
+    "slug": "havana-oak"
+  },
+  {
+    "name": "Empire Oak",
+    "url": "https://www.polytec.com.au/colour/empire-oak/",
+    "slug": "empire-oak"
+  },
+  {
+    "name": "Estella Oak",
+    "url": "https://www.polytec.com.au/colour/estella-oak/",
+    "slug": "estella-oak"
+  },
+  {
+    "name": "Bottega Oak",
+    "url": "https://www.polytec.com.au/colour/bottega-oak/",
+    "slug": "bottega-oak"
+  },
+  {
+    "name": "Perugian Walnut",
+    "url": "https://www.polytec.com.au/colour/perugian-walnut/",
+    "slug": "perugian-walnut"
+  },
+  {
+    "name": "Solid White",
+    "url": "https://www.polytec.com.au/colour/solid-white/",
+    "slug": "solid-white"
+  },
+  {
+    "name": "Ultra White",
+    "url": "https://www.polytec.com.au/colour/ultra-white/",
+    "slug": "ultra-white"
+  },
+  {
+    "name": "Designer White",
+    "url": "https://www.polytec.com.au/colour/designer-white/",
+    "slug": "designer-white"
+  },
+  {
+    "name": "New Ultra White",
+    "url": "https://www.polytec.com.au/colour/new-ultra-white/",
+    "slug": "new-ultra-white"
+  },
+  {
+    "name": "Polar White",
+    "url": "https://www.polytec.com.au/colour/polar-white/",
+    "slug": "polar-white"
+  },
+  {
+    "name": "White",
+    "url": "https://www.polytec.com.au/colour/white/",
+    "slug": "white"
+  },
+  {
+    "name": "Crisp White",
+    "url": "https://www.polytec.com.au/colour/crisp-white/",
+    "slug": "crisp-white"
+  },
+  {
+    "name": "Jasmine",
+    "url": "https://www.polytec.com.au/colour/jasmine/",
+    "slug": "jasmine"
+  },
+  {
+    "name": "Classic White",
+    "url": "https://www.polytec.com.au/colour/classic-white/",
+    "slug": "classic-white"
+  },
+  {
+    "name": "Arctic Ice",
+    "url": "https://www.polytec.com.au/colour/arctic-ice/",
+    "slug": "arctic-ice"
+  },
+  {
+    "name": "Superior White",
+    "url": "https://www.polytec.com.au/colour/superior-white/",
+    "slug": "superior-white"
+  },
+  {
+    "name": "Natural White",
+    "url": "https://www.polytec.com.au/colour/natural-white/",
+    "slug": "natural-white"
+  },
+  {
+    "name": "Pearl Metallic",
+    "url": "https://www.polytec.com.au/colour/pearl-metallic/",
+    "slug": "pearl-metallic"
+  },
+  {
+    "name": "White Cotton",
+    "url": "https://www.polytec.com.au/colour/white-cotton/",
+    "slug": "white-cotton"
+  },
+  {
+    "name": "Cream",
+    "url": "https://www.polytec.com.au/colour/cream/",
+    "slug": "cream"
+  },
+  {
+    "name": "Bianco",
+    "url": "https://www.polytec.com.au/colour/bianco/",
+    "slug": "bianco"
+  },
+  {
+    "name": "Chambord",
+    "url": "https://www.polytec.com.au/colour/chambord/",
+    "slug": "chambord"
+  },
+  {
+    "name": "Buller Stone",
+    "url": "https://www.polytec.com.au/colour/buller-stone/",
+    "slug": "buller-stone"
+  },
+  {
+    "name": "Blossom White",
+    "url": "https://www.polytec.com.au/colour/blossom-white/",
+    "slug": "blossom-white"
+  },
+  {
+    "name": "Regal White Pearl",
+    "url": "https://www.polytec.com.au/colour/regal-white-pearl/",
+    "slug": "regal-white-pearl"
+  },
+  {
+    "name": "Carrara",
+    "url": "https://www.polytec.com.au/colour/carrara/",
+    "slug": "carrara"
+  },
+  {
+    "name": "Blanco Marquina",
+    "url": "https://www.polytec.com.au/colour/blanco-marquina/",
+    "slug": "blanco-marquina"
+  },
+  {
+    "name": "Aspen Stone",
+    "url": "https://www.polytec.com.au/colour/aspen-stone/",
+    "slug": "aspen-stone"
+  },
+  {
+    "name": "White Mist",
+    "url": "https://www.polytec.com.au/colour/white-mist/",
+    "slug": "white-mist"
+  },
+  {
+    "name": "Snow Fabrini",
+    "url": "https://www.polytec.com.au/colour/snow-fabrini/",
+    "slug": "snow-fabrini"
+  },
+  {
+    "name": "Light Oak",
+    "url": "https://www.polytec.com.au/colour/light-oak/",
+    "slug": "light-oak"
+  },
+  {
+    "name": "Whitewood",
+    "url": "https://www.polytec.com.au/colour/whitewood/",
+    "slug": "whitewood"
+  },
+  {
+    "name": "Bone White",
+    "url": "https://www.polytec.com.au/colour/bone-white/",
+    "slug": "bone-white"
+  },
+  {
+    "name": "Alabaster",
+    "url": "https://www.polytec.com.au/colour/alabaster/",
+    "slug": "alabaster"
+  },
+  {
+    "name": "Parchment",
+    "url": "https://www.polytec.com.au/colour/parchment/",
+    "slug": "parchment"
+  },
+  {
+    "name": "Porcelain",
+    "url": "https://www.polytec.com.au/colour/porcelain/",
+    "slug": "porcelain"
+  },
+  {
+    "name": "New Antique White",
+    "url": "https://www.polytec.com.au/colour/new-antique-white/",
+    "slug": "new-antique-white"
+  },
+  {
+    "name": "Antique",
+    "url": "https://www.polytec.com.au/colour/antique/",
+    "slug": "antique"
+  },
+  {
+    "name": "Cafe Cream",
+    "url": "https://www.polytec.com.au/colour/cafe-cream/",
+    "slug": "cafe-cream"
+  },
+  {
+    "name": "Pearl Fabrini",
+    "url": "https://www.polytec.com.au/colour/pearl-fabrini/",
+    "slug": "pearl-fabrini"
+  },
+  {
+    "name": "French Stone",
+    "url": "https://www.polytec.com.au/colour/french-stone/",
+    "slug": "french-stone"
+  },
+  {
+    "name": "Silk",
+    "url": "https://www.polytec.com.au/colour/silk/",
+    "slug": "silk"
+  },
+  {
+    "name": "Husk",
+    "url": "https://www.polytec.com.au/colour/husk/",
+    "slug": "husk"
+  },
+  {
+    "name": "Papyrus",
+    "url": "https://www.polytec.com.au/colour/papyrus/",
+    "slug": "papyrus"
+  },
+  {
+    "name": "Moss Grey",
+    "url": "https://www.polytec.com.au/colour/moss-grey/",
+    "slug": "moss-grey"
+  },
+  {
+    "name": "Montage",
+    "url": "https://www.polytec.com.au/colour/montage/",
+    "slug": "montage"
+  },
+  {
+    "name": "Greige",
+    "url": "https://www.polytec.com.au/colour/greige/",
+    "slug": "greige"
+  },
+  {
+    "name": "Royal Oyster",
+    "url": "https://www.polytec.com.au/colour/royal-oyster/",
+    "slug": "royal-oyster"
+  },
+  {
+    "name": "Argento Stone",
+    "url": "https://www.polytec.com.au/colour/argento-stone/",
+    "slug": "argento-stone"
+  },
+  {
+    "name": "Cloudy Grey",
+    "url": "https://www.polytec.com.au/colour/cloudy-grey/",
+    "slug": "cloudy-grey"
+  },
+  {
+    "name": "Avion Grey",
+    "url": "https://www.polytec.com.au/colour/avion-grey/",
+    "slug": "avion-grey"
+  },
+  {
+    "name": "Oyster Grey",
+    "url": "https://www.polytec.com.au/colour/oyster-grey/",
+    "slug": "oyster-grey"
+  },
+  {
+    "name": "Norfolk Terrazzo",
+    "url": "https://www.polytec.com.au/colour/norfolk-terrazzo/",
+    "slug": "norfolk-terrazzo"
+  },
+  {
+    "name": "Corsica",
+    "url": "https://www.polytec.com.au/colour/corsica/",
+    "slug": "corsica"
+  },
+  {
+    "name": "Temple Stone",
+    "url": "https://www.polytec.com.au/colour/temple-stone/",
+    "slug": "temple-stone"
+  },
+  {
+    "name": "Gesso Lini",
+    "url": "https://www.polytec.com.au/colour/gesso-lini/",
+    "slug": "gesso-lini"
+  },
+  {
+    "name": "Crema Lini",
+    "url": "https://www.polytec.com.au/colour/crema-lini/",
+    "slug": "crema-lini"
+  },
+  {
+    "name": "Tuross Oak",
+    "url": "https://www.polytec.com.au/colour/tuross-oak/",
+    "slug": "tuross-oak"
+  },
+  {
+    "name": "Satra Wood",
+    "url": "https://www.polytec.com.au/colour/satra-wood/",
+    "slug": "satra-wood"
+  },
+  {
+    "name": "Natural Oak",
+    "url": "https://www.polytec.com.au/colour/natural-oak/",
+    "slug": "natural-oak"
+  },
+  {
+    "name": "Bleached Walnut",
+    "url": "https://www.polytec.com.au/colour/bleached-walnut/",
+    "slug": "bleached-walnut"
+  },
+  {
+    "name": "Amaro",
+    "url": "https://www.polytec.com.au/colour/amaro/",
+    "slug": "amaro"
+  },
+  {
+    "name": "Malt",
+    "url": "https://www.polytec.com.au/colour/malt/",
+    "slug": "malt"
+  },
+  {
+    "name": "Marni Lini",
+    "url": "https://www.polytec.com.au/colour/marni-lini/",
+    "slug": "marni-lini"
+  },
+  {
+    "name": "Soft Walnut",
+    "url": "https://www.polytec.com.au/colour/soft-walnut/",
+    "slug": "soft-walnut"
+  },
+  {
+    "name": "Palatino",
+    "url": "https://www.polytec.com.au/colour/palatino/",
+    "slug": "palatino"
+  },
+  {
+    "name": "Stone Fabrini",
+    "url": "https://www.polytec.com.au/colour/stone-fabrini/",
+    "slug": "stone-fabrini"
+  },
+  {
+    "name": "Chateau Oak",
+    "url": "https://www.polytec.com.au/colour/chateau-oak/",
+    "slug": "chateau-oak"
+  },
+  {
+    "name": "Bottocino",
+    "url": "https://www.polytec.com.au/colour/bottocino/",
+    "slug": "bottocino"
+  },
+  {
+    "name": "Pietra Stone",
+    "url": "https://www.polytec.com.au/colour/pietra-stone/",
+    "slug": "pietra-stone"
+  },
+  {
+    "name": "Drifted Oak",
+    "url": "https://www.polytec.com.au/colour/drifted-oak/",
+    "slug": "drifted-oak"
+  },
+  {
+    "name": "Distressed Wood",
+    "url": "https://www.polytec.com.au/colour/distressed-wood/",
+    "slug": "distressed-wood"
+  },
+  {
+    "name": "Fontaine",
+    "url": "https://www.polytec.com.au/colour/fontaine/",
+    "slug": "fontaine"
+  },
+  {
+    "name": "Bespoke",
+    "url": "https://www.polytec.com.au/colour/bespoke/",
+    "slug": "bespoke"
+  },
+  {
+    "name": "Castel",
+    "url": "https://www.polytec.com.au/colour/castel/",
+    "slug": "castel"
+  },
+  {
+    "name": "Marina Grey",
+    "url": "https://www.polytec.com.au/colour/marina-grey/",
+    "slug": "marina-grey"
+  },
+  {
+    "name": "Paris Grey",
+    "url": "https://www.polytec.com.au/colour/paris-grey/",
+    "slug": "paris-grey"
+  },
+  {
+    "name": "Champagne Metallic",
+    "url": "https://www.polytec.com.au/colour/champagne-metallic/",
+    "slug": "champagne-metallic"
+  },
+  {
+    "name": "Vittoria Pearl",
+    "url": "https://www.polytec.com.au/colour/vittoria-pearl/",
+    "slug": "vittoria-pearl"
+  },
+  {
+    "name": "Visoni Stone",
+    "url": "https://www.polytec.com.au/colour/visoni-stone/",
+    "slug": "visoni-stone"
+  },
+  {
+    "name": "Urban Slate",
+    "url": "https://www.polytec.com.au/colour/urban-slate/",
+    "slug": "urban-slate"
+  },
+  {
+    "name": "Mocha Fabrini",
+    "url": "https://www.polytec.com.au/colour/mocha-fabrini/",
+    "slug": "mocha-fabrini"
+  },
+  {
+    "name": "Tessuto Milan",
+    "url": "https://www.polytec.com.au/colour/tessuto-milan/",
+    "slug": "tessuto-milan"
+  },
+  {
+    "name": "Maison Oak",
+    "url": "https://www.polytec.com.au/colour/maison-oak/",
+    "slug": "maison-oak"
+  },
+  {
+    "name": "Rocco Lini",
+    "url": "https://www.polytec.com.au/colour/rocco-lini/",
+    "slug": "rocco-lini"
+  },
+  {
+    "name": "Taupe",
+    "url": "https://www.polytec.com.au/colour/taupe/",
+    "slug": "taupe"
+  },
+  {
+    "name": "Pewter Metallic",
+    "url": "https://www.polytec.com.au/colour/pewter-metallic/",
+    "slug": "pewter-metallic"
+  },
+  {
+    "name": "Canterbury Grey",
+    "url": "https://www.polytec.com.au/colour/canterbury-grey/",
+    "slug": "canterbury-grey"
+  },
+  {
+    "name": "Combat Teak",
+    "url": "https://www.polytec.com.au/colour/combat-teak/",
+    "slug": "combat-teak"
+  },
+  {
+    "name": "Artisan Oak",
+    "url": "https://www.polytec.com.au/colour/artisan-oak/",
+    "slug": "artisan-oak"
+  },
+  {
+    "name": "Sepia Oak",
+    "url": "https://www.polytec.com.au/colour/sepia-oak/",
+    "slug": "sepia-oak"
+  },
+  {
+    "name": "European Walnut",
+    "url": "https://www.polytec.com.au/colour/european-walnut/",
+    "slug": "european-walnut"
+  },
+  {
+    "name": "Jamaican Walnut",
+    "url": "https://www.polytec.com.au/colour/jamaican-walnut/",
+    "slug": "jamaican-walnut"
+  },
+  {
+    "name": "Belgian Oak",
+    "url": "https://www.polytec.com.au/colour/belgian-oak/",
+    "slug": "belgian-oak"
+  },
+  {
+    "name": "Nouveau Grey",
+    "url": "https://www.polytec.com.au/colour/nouveau-grey/",
+    "slug": "nouveau-grey"
+  },
+  {
+    "name": "Serene",
+    "url": "https://www.polytec.com.au/colour/serene/",
+    "slug": "serene"
+  },
+  {
+    "name": "Aluminium",
+    "url": "https://www.polytec.com.au/colour/aluminium/",
+    "slug": "aluminium"
+  },
+  {
+    "name": "Nickel",
+    "url": "https://www.polytec.com.au/colour/nickel/",
+    "slug": "nickel"
+  },
+  {
+    "name": "Silver Metallic",
+    "url": "https://www.polytec.com.au/colour/silver-metallic/",
+    "slug": "silver-metallic"
+  },
+  {
+    "name": "Stone Grey",
+    "url": "https://www.polytec.com.au/colour/stone-grey/",
+    "slug": "stone-grey"
+  },
+  {
+    "name": "Strata Grey",
+    "url": "https://www.polytec.com.au/colour/strata-grey/",
+    "slug": "strata-grey"
+  },
+  {
+    "name": "Concrete Fabrini",
+    "url": "https://www.polytec.com.au/colour/concrete-fabrini/",
+    "slug": "concrete-fabrini"
+  },
+  {
+    "name": "Casastone",
+    "url": "https://www.polytec.com.au/colour/casastone/",
+    "slug": "casastone"
+  },
+  {
+    "name": "Greystone",
+    "url": "https://www.polytec.com.au/colour/greystone/",
+    "slug": "greystone"
+  },
+  {
+    "name": "Sterling",
+    "url": "https://www.polytec.com.au/colour/sterling/",
+    "slug": "sterling"
+  },
+  {
+    "name": "Mink",
+    "url": "https://www.polytec.com.au/colour/mink/",
+    "slug": "mink"
+  },
+  {
+    "name": "Titanium",
+    "url": "https://www.polytec.com.au/colour/titanium/",
+    "slug": "titanium"
+  },
+  {
+    "name": "Maroso Milan",
+    "url": "https://www.polytec.com.au/colour/maroso-milan/",
+    "slug": "maroso-milan"
+  },
+  {
+    "name": "Grey Oak",
+    "url": "https://www.polytec.com.au/colour/grey-oak/",
+    "slug": "grey-oak"
+  },
+  {
+    "name": "Char Oak",
+    "url": "https://www.polytec.com.au/colour/char-oak/",
+    "slug": "char-oak"
+  },
+  {
+    "name": "Cavia Lini",
+    "url": "https://www.polytec.com.au/colour/cavia-lini/",
+    "slug": "cavia-lini"
+  },
+  {
+    "name": "Espresso Fabrini",
+    "url": "https://www.polytec.com.au/colour/espresso-fabrini/",
+    "slug": "espresso-fabrini"
+  },
+  {
+    "name": "Charcoal Fabrini",
+    "url": "https://www.polytec.com.au/colour/charcoal-fabrini/",
+    "slug": "charcoal-fabrini"
+  },
+  {
+    "name": "Feldspar Shimmer",
+    "url": "https://www.polytec.com.au/colour/feldspar-shimmer/",
+    "slug": "feldspar-shimmer"
+  },
+  {
+    "name": "Anthracite Metallic",
+    "url": "https://www.polytec.com.au/colour/anthracite-metallic/",
+    "slug": "anthracite-metallic"
+  },
+  {
+    "name": "Truffle Lini",
+    "url": "https://www.polytec.com.au/colour/truffle-lini/",
+    "slug": "truffle-lini"
+  },
+  {
+    "name": "Cafe Oak",
+    "url": "https://www.polytec.com.au/colour/cafe-oak/",
+    "slug": "cafe-oak"
+  },
+  {
+    "name": "Cinder",
+    "url": "https://www.polytec.com.au/colour/cinder/",
+    "slug": "cinder"
+  },
+  {
+    "name": "Graphite",
+    "url": "https://www.polytec.com.au/colour/graphite/",
+    "slug": "graphite"
+  },
+  {
+    "name": "Ardesia Stone",
+    "url": "https://www.polytec.com.au/colour/ardesia-stone/",
+    "slug": "ardesia-stone"
+  },
+  {
+    "name": "Grigio Marble",
+    "url": "https://www.polytec.com.au/colour/grigio-marble/",
+    "slug": "grigio-marble"
+  },
+  {
+    "name": "Nero Granite",
+    "url": "https://www.polytec.com.au/colour/nero-granite/",
+    "slug": "nero-granite"
+  },
+  {
+    "name": "Ink Fabrini",
+    "url": "https://www.polytec.com.au/colour/ink-fabrini/",
+    "slug": "ink-fabrini"
+  },
+  {
+    "name": "Shannon Oak",
+    "url": "https://www.polytec.com.au/colour/shannon-oak/",
+    "slug": "shannon-oak"
+  },
+  {
+    "name": "Lava",
+    "url": "https://www.polytec.com.au/colour/lava/",
+    "slug": "lava"
+  },
+  {
+    "name": "Storm",
+    "url": "https://www.polytec.com.au/colour/storm/",
+    "slug": "storm"
+  },
+  {
+    "name": "Barrington Marble",
+    "url": "https://www.polytec.com.au/colour/barrington-marble/",
+    "slug": "barrington-marble"
+  },
+  {
+    "name": "Buffalo Stone",
+    "url": "https://www.polytec.com.au/colour/buffalo-stone/",
+    "slug": "buffalo-stone"
+  },
+  {
+    "name": "Mineral Metallic",
+    "url": "https://www.polytec.com.au/colour/mineral-metallic/",
+    "slug": "mineral-metallic"
+  },
+  {
+    "name": "Raven Metallic",
+    "url": "https://www.polytec.com.au/colour/raven-metallic/",
+    "slug": "raven-metallic"
+  },
+  {
+    "name": "Black Wenge",
+    "url": "https://www.polytec.com.au/colour/black-wenge/",
+    "slug": "black-wenge"
+  },
+  {
+    "name": "Tempest",
+    "url": "https://www.polytec.com.au/colour/tempest/",
+    "slug": "tempest"
+  },
+  {
+    "name": "Blackrock",
+    "url": "https://www.polytec.com.au/colour/blackrock/",
+    "slug": "blackrock"
+  },
+  {
+    "name": "Obsidian Metallic",
+    "url": "https://www.polytec.com.au/colour/obsidian-metallic/",
+    "slug": "obsidian-metallic"
+  },
+  {
+    "name": "Phantom Black",
+    "url": "https://www.polytec.com.au/colour/phantom-black/",
+    "slug": "phantom-black"
+  },
+  {
+    "name": "Black",
+    "url": "https://www.polytec.com.au/colour/black/",
+    "slug": "black"
+  },
+  {
+    "name": "Peacock Oak",
+    "url": "https://www.polytec.com.au/colour/peacock-oak/",
+    "slug": "peacock-oak"
+  },
+  {
+    "name": "Aegean Oak",
+    "url": "https://www.polytec.com.au/colour/aegean-oak/",
+    "slug": "aegean-oak"
+  },
+  {
+    "name": "Byzantine Oak",
+    "url": "https://www.polytec.com.au/colour/byzantine-oak/",
+    "slug": "byzantine-oak"
+  },
+  {
+    "name": "Persian Oak",
+    "url": "https://www.polytec.com.au/colour/persian-oak/",
+    "slug": "persian-oak"
+  },
+  {
+    "name": "Carmine Oak",
+    "url": "https://www.polytec.com.au/colour/carmine-oak/",
+    "slug": "carmine-oak"
+  },
+  {
+    "name": "Madeira Oak",
+    "url": "https://www.polytec.com.au/colour/madeira-oak/",
+    "slug": "madeira-oak"
+  },
+  {
+    "name": "Saffron Oak",
+    "url": "https://www.polytec.com.au/colour/saffron-oak/",
+    "slug": "saffron-oak"
+  },
+  {
+    "name": "Citrine Oak",
+    "url": "https://www.polytec.com.au/colour/citrine-oak/",
+    "slug": "citrine-oak"
+  },
+  {
+    "name": "Verde Oak",
+    "url": "https://www.polytec.com.au/colour/verde-oak/",
+    "slug": "verde-oak"
+  },
+  {
+    "name": "Raw",
+    "url": "https://www.polytec.com.au/colour/raw/",
+    "slug": "raw"
+  },
+  {
+    "name": "Carcass",
+    "url": "https://www.polytec.com.au/colour/carcass/",
+    "slug": "carcass"
+  },
+  {
+    "name": "Brushed Aluminium",
+    "url": "https://www.polytec.com.au/colour/brushed-aluminium/",
+    "slug": "brushed-aluminium"
+  },
+  {
+    "name": "Brushed Stainless",
+    "url": "https://www.polytec.com.au/colour/brushed-stainless/",
+    "slug": "brushed-stainless"
+  }
+]

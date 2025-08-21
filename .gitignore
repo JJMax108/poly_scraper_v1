@@ -1,0 +1,4 @@
+*.venv
+*artifacts
+*.png
+*__pycache__
