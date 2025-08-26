@@ -1,0 +1,27 @@
+2025-08-21 16:55:53,929 INFO [64/240] Processing Copper Leaf  https://www.polytec.com.au/colour/copper-leaf/
+2025-08-21 16:55:53,929 INFO run start colour=https://www.polytec.com.au/colour/copper-leaf/
+2025-08-21 16:55:54,324 INFO colour name: Copper Leaf
+2025-08-21 16:55:54,329 INFO finish tabs: 1
+2025-08-21 16:55:54,350 INFO tab 1/1 -> Matt
+2025-08-21 16:55:54,384 INFO items in finish 'Matt': 8
+2025-08-21 16:55:54,384 INFO range -> Board Decorative
+2025-08-21 16:55:55,500 INFO row 1: sku=46832 title='MDF 162412 DS Copper Leaf Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:55:55,500 INFO range -> Edgetape Decorative
+2025-08-21 16:55:56,547 INFO row 2: sku=46791 title='ABS 1mm x 22mm UG 100m Copper Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:55:57,618 INFO row 3: sku=46809 title='ABS 1mm x 22mm UG 20m Copper Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:55:58,661 INFO row 4: sku=51847 title='ABS 1mm x 29mm UG 100m Copper Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:58,661 INFO range -> Laminate
+2025-08-21 16:55:59,696 INFO row 5: sku=46438 title='Laminate Copper Leaf Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:00,740 INFO row 6: sku=46562 title='Laminate Copper Leaf Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:01,776 INFO row 7: sku=47496 title='Laminate Copper Leaf Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:02,804 INFO row 8: sku=46581 title='Laminate Copper Leaf Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:56:02,804 INFO run end rows=8
+2025-08-21 16:56:02,804 INFO csv write: board_decorative.csv sku=46832 colour='Copper Leaf'
+2025-08-21 16:56:02,805 INFO csv write: edgetape_decorative.csv sku=46791 colour='Copper Leaf'
+2025-08-21 16:56:02,805 INFO csv write: edgetape_decorative.csv sku=46809 colour='Copper Leaf'
+2025-08-21 16:56:02,805 INFO csv write: edgetape_decorative.csv sku=51847 colour='Copper Leaf'
+2025-08-21 16:56:02,805 INFO csv write: laminate.csv sku=46438 colour='Copper Leaf'
+2025-08-21 16:56:02,805 INFO csv write: laminate.csv sku=46562 colour='Copper Leaf'
+2025-08-21 16:56:02,806 INFO csv write: laminate.csv sku=47496 colour='Copper Leaf'
+2025-08-21 16:56:02,806 INFO csv write: laminate.csv sku=46581 colour='Copper Leaf'
+2025-08-21 16:56:02,806 INFO [64/240] Done Copper Leaf, rows=8, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

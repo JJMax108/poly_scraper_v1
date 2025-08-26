@@ -1,0 +1,110 @@
+2025-08-21 17:09:13,889 INFO [105/240] Processing Classic White  https://www.polytec.com.au/colour/classic-white/
+2025-08-21 17:09:13,889 INFO run start colour=https://www.polytec.com.au/colour/classic-white/
+2025-08-21 17:09:14,330 INFO colour name: Classic White
+2025-08-21 17:09:14,351 INFO finish tabs: 5
+2025-08-21 17:09:14,384 INFO tab 1/5 -> Ashgrain
+2025-08-21 17:09:14,413 INFO items in finish 'Ashgrain': 7
+2025-08-21 17:09:14,413 INFO range -> Board Decorative
+2025-08-21 17:09:15,553 INFO row 1: sku=6600 title='MDF 162412 DS Classic White Ashgrain MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:09:16,339 INFO row 2: sku=33278 title='MDF 163112 DS Classic White Ashgrain MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:09:17,117 INFO row 3: sku=50103 title='MDF 092412 DS Classic White Ashgrain STD' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:09:17,878 INFO row 4: sku=50104 title='MDF 092712 DS Classic White Ashgrain STD' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:17,878 INFO range -> Edgetape Decorative
+2025-08-21 17:09:18,942 INFO row 5: sku=8323 title='Rigid 1mm x 21mm UG 100m Classic White Ashgrain' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:09:20,006 INFO row 6: sku=17756 title='Rigid 1mm x 21mm UG 20m Classic White Ashgrain' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:09:20,006 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:09:24,440 INFO row 7: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.43s
+2025-08-21 17:09:24,475 INFO tab 2/5 -> Gloss
+2025-08-21 17:09:24,482 INFO items in finish 'Gloss': 1
+2025-08-21 17:09:24,482 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:09:28,911 INFO row 1: sku= title='Style 1 - 3' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.43s
+2025-08-21 17:09:28,947 INFO tab 3/5 -> Matt
+2025-08-21 17:09:28,996 INFO items in finish 'Matt': 12
+2025-08-21 17:09:28,996 INFO range -> Board Decorative
+2025-08-21 17:09:29,760 INFO row 1: sku=940 title='MDF 162412 DS Classic White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:30,520 INFO row 2: sku=3088 title='MDF 163112 DS Classic White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:31,269 INFO row 3: sku=1655 title='MDF 182412 DS Classic White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:09:32,037 INFO row 4: sku=655 title='Particle 162412 DS Classic White Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:09:32,037 INFO range -> Edgetape Decorative
+2025-08-21 17:09:32,814 INFO row 5: sku=52017 title='ABS 1mm x 21mm UG 100m Classic White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:09:33,569 INFO row 6: sku=52016 title='ABS 1mm x 21mm UG 20m Classic White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:34,646 INFO row 7: sku=44401 title='ABS 1mm x 29mm UG 100m Classic White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:09:34,646 INFO range -> Laminate
+2025-08-21 17:09:35,692 INFO row 8: sku=2064 title='Laminate Classic White Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:09:36,761 INFO row 9: sku=9218 title='Laminate Classic White Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:09:37,828 INFO row 10: sku=9220 title='Laminate Classic White Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:09:38,876 INFO row 11: sku=9221 title='Laminate Classic White Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:09:38,876 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:09:43,337 INFO row 12: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.46s
+2025-08-21 17:09:43,380 INFO tab 4/5 -> Sheen
+2025-08-21 17:09:43,415 INFO items in finish 'Sheen': 9
+2025-08-21 17:09:43,415 INFO range -> Board Decorative
+2025-08-21 17:09:44,548 INFO row 1: sku=625 title='MDF 162412 DS Classic White Sheen LMG E0 No Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:09:45,312 INFO row 2: sku=1798 title='MDF 163112 DS Classic White Sheen LMG E0 No Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:46,081 INFO row 3: sku=1076 title='MDF 182412 DS Classic White Sheen LMG E0 No Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:09:46,842 INFO row 4: sku=1156 title='MDF 252412 DS Classic White Sheen MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:47,612 INFO row 5: sku=1596 title='MDF 322412 DS Classic White Sheen MR E0 No Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:09:47,613 INFO range -> Edgetape Decorative
+2025-08-21 17:09:48,381 INFO row 6: sku=51962 title='ABS 1mm x 21mm UG 100m Classic White Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:09:49,145 INFO row 7: sku=51949 title='ABS 1mm x 21mm UG 20m Classic White Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:50,245 INFO row 8: sku=52073 title='ABS 1mm x 29mm UG 100m Classic White Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:09:51,284 INFO row 9: sku=52068 title='ABS 1mm x 38mm UG 100m Classic White Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:09:51,321 INFO tab 5/5 -> Texture
+2025-08-21 17:09:51,361 INFO items in finish 'Texture': 11
+2025-08-21 17:09:51,361 INFO range -> Board Decorative
+2025-08-21 17:09:52,500 INFO row 1: sku=1048 title='MDF 162412 DS Classic White Texture MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:09:53,284 INFO row 2: sku=49976 title='MDF 092412 DS Classic White Texture STD' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:09:54,063 INFO row 3: sku=49977 title='MDF 092712 DS Classic White Texture STD' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:09:54,828 INFO row 4: sku=531 title='MDF 163112 DS Classic White Texture MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:54,828 INFO range -> Edgetape Decorative
+2025-08-21 17:09:55,589 INFO row 5: sku=1879 title='Rigid 1mm x 21mm UG 100m Classic White Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:56,361 INFO row 6: sku=17643 title='Rigid 1mm x 21mm UG 20m Classic White Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:09:56,361 INFO range -> Laminate
+2025-08-21 17:09:57,617 INFO row 7: sku=2032 title='Laminate Classic White Texture 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.26s
+2025-08-21 17:09:58,676 INFO row 8: sku=8735 title='Laminate Classic White Texture HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:09:59,724 INFO row 9: sku=8875 title='Laminate Classic White Texture Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:10:00,781 INFO row 10: sku=8805 title='Laminate Classic White Texture HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:10:00,781 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:10:05,230 INFO row 11: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 17:10:05,230 INFO run end rows=40
+2025-08-21 17:10:05,230 INFO csv write: board_decorative.csv sku=6600 colour='Classic White'
+2025-08-21 17:10:05,231 INFO csv write: board_decorative.csv sku=33278 colour='Classic White'
+2025-08-21 17:10:05,231 INFO csv write: board_decorative.csv sku=50103 colour='Classic White'
+2025-08-21 17:10:05,232 INFO csv write: board_decorative.csv sku=50104 colour='Classic White'
+2025-08-21 17:10:05,232 INFO csv write: edgetape_decorative.csv sku=8323 colour='Classic White'
+2025-08-21 17:10:05,232 INFO csv write: edgetape_decorative.csv sku=17756 colour='Classic White'
+2025-08-21 17:10:05,233 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Classic White'
+2025-08-21 17:10:05,233 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Classic White'
+2025-08-21 17:10:05,234 INFO csv write: board_decorative.csv sku=940 colour='Classic White'
+2025-08-21 17:10:05,234 INFO csv write: board_decorative.csv sku=3088 colour='Classic White'
+2025-08-21 17:10:05,234 INFO csv write: board_decorative.csv sku=1655 colour='Classic White'
+2025-08-21 17:10:05,234 INFO csv write: board_decorative.csv sku=655 colour='Classic White'
+2025-08-21 17:10:05,235 INFO csv write: edgetape_decorative.csv sku=52017 colour='Classic White'
+2025-08-21 17:10:05,235 INFO csv write: edgetape_decorative.csv sku=52016 colour='Classic White'
+2025-08-21 17:10:05,235 INFO csv write: edgetape_decorative.csv sku=44401 colour='Classic White'
+2025-08-21 17:10:05,236 INFO csv write: laminate.csv sku=2064 colour='Classic White'
+2025-08-21 17:10:05,237 INFO csv write: laminate.csv sku=9218 colour='Classic White'
+2025-08-21 17:10:05,237 INFO csv write: laminate.csv sku=9220 colour='Classic White'
+2025-08-21 17:10:05,237 INFO csv write: laminate.csv sku=9221 colour='Classic White'
+2025-08-21 17:10:05,237 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Classic White'
+2025-08-21 17:10:05,237 INFO csv write: board_decorative.csv sku=625 colour='Classic White'
+2025-08-21 17:10:05,238 INFO csv write: board_decorative.csv sku=1798 colour='Classic White'
+2025-08-21 17:10:05,238 INFO csv write: board_decorative.csv sku=1076 colour='Classic White'
+2025-08-21 17:10:05,238 INFO csv write: board_decorative.csv sku=1156 colour='Classic White'
+2025-08-21 17:10:05,238 INFO csv write: board_decorative.csv sku=1596 colour='Classic White'
+2025-08-21 17:10:05,238 INFO csv write: edgetape_decorative.csv sku=51962 colour='Classic White'
+2025-08-21 17:10:05,239 INFO csv write: edgetape_decorative.csv sku=51949 colour='Classic White'
+2025-08-21 17:10:05,239 INFO csv write: edgetape_decorative.csv sku=52073 colour='Classic White'
+2025-08-21 17:10:05,239 INFO csv write: edgetape_decorative.csv sku=52068 colour='Classic White'
+2025-08-21 17:10:05,239 INFO csv write: board_decorative.csv sku=1048 colour='Classic White'
+2025-08-21 17:10:05,239 INFO csv write: board_decorative.csv sku=49976 colour='Classic White'
+2025-08-21 17:10:05,240 INFO csv write: board_decorative.csv sku=49977 colour='Classic White'
+2025-08-21 17:10:05,240 INFO csv write: board_decorative.csv sku=531 colour='Classic White'
+2025-08-21 17:10:05,240 INFO csv write: edgetape_decorative.csv sku=1879 colour='Classic White'
+2025-08-21 17:10:05,240 INFO csv write: edgetape_decorative.csv sku=17643 colour='Classic White'
+2025-08-21 17:10:05,240 INFO csv write: laminate.csv sku=2032 colour='Classic White'
+2025-08-21 17:10:05,241 INFO csv write: laminate.csv sku=8735 colour='Classic White'
+2025-08-21 17:10:05,241 INFO csv write: laminate.csv sku=8875 colour='Classic White'
+2025-08-21 17:10:05,241 INFO csv write: laminate.csv sku=8805 colour='Classic White'
+2025-08-21 17:10:05,241 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Classic White'
+2025-08-21 17:10:05,242 INFO [105/240] Done Classic White, rows=40, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

@@ -1,0 +1,41 @@
+2025-08-21 17:05:18,566 INFO [92/240] Processing Havana Oak  https://www.polytec.com.au/colour/havana-oak/
+2025-08-21 17:05:18,566 INFO run start colour=https://www.polytec.com.au/colour/havana-oak/
+2025-08-21 17:05:18,957 INFO colour name: Havana Oak
+2025-08-21 17:05:18,962 INFO finish tabs: 1
+2025-08-21 17:05:18,986 INFO tab 1/1 -> Woodmatt
+2025-08-21 17:05:19,061 INFO items in finish 'Woodmatt': 15
+2025-08-21 17:05:19,062 INFO range -> Board Decorative
+2025-08-21 17:05:20,166 INFO row 1: sku=50766 title='MDF 162412 DS Havana Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:05:20,928 INFO row 2: sku=53513 title='MDF 163112 DS Havana Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:05:21,669 INFO row 3: sku=50770 title='MDF 183618 DS Havana Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.74s
+2025-08-21 17:05:22,425 INFO row 4: sku=50768 title='MDF 322412 DS Havana Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:05:23,172 INFO row 5: sku=50767 title='MDF 252412 DS Havana Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:05:23,920 INFO row 6: sku=50771 title='LDF 253618 DS Havana Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:05:24,678 INFO row 7: sku=50772 title='LDF 333618 DS Havana Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:05:24,678 INFO range -> Edgetape Decorative
+2025-08-21 17:05:25,724 INFO row 8: sku=50760 title='ABS 1mm x 21mm UG 100m Havana Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:26,760 INFO row 9: sku=50761 title='ABS 1mm x 21mm UG 20m Havana Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:05:27,811 INFO row 10: sku=50762 title='ABS 1mm x 29mm UG 100m Havana Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:28,865 INFO row 11: sku=50763 title='ABS 1mm x 38mm UG 100m Havana Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:28,866 INFO range -> Laminate
+2025-08-21 17:05:29,915 INFO row 12: sku=50755 title='Laminate Havana Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:30,977 INFO row 13: sku=50758 title='Laminate Havana Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:05:32,027 INFO row 14: sku=50757 title='Laminate Havana Oak Woodmatt HL 0.7mm 3650 x 680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:33,084 INFO row 15: sku=50756 title='Laminate Havana Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:05:33,085 INFO run end rows=15
+2025-08-21 17:05:33,085 INFO csv write: board_decorative.csv sku=50766 colour='Havana Oak'
+2025-08-21 17:05:33,085 INFO csv write: board_decorative.csv sku=53513 colour='Havana Oak'
+2025-08-21 17:05:33,085 INFO csv write: board_decorative.csv sku=50770 colour='Havana Oak'
+2025-08-21 17:05:33,086 INFO csv write: board_decorative.csv sku=50768 colour='Havana Oak'
+2025-08-21 17:05:33,086 INFO csv write: board_decorative.csv sku=50767 colour='Havana Oak'
+2025-08-21 17:05:33,086 INFO csv write: board_decorative.csv sku=50771 colour='Havana Oak'
+2025-08-21 17:05:33,086 INFO csv write: board_decorative.csv sku=50772 colour='Havana Oak'
+2025-08-21 17:05:33,086 INFO csv write: edgetape_decorative.csv sku=50760 colour='Havana Oak'
+2025-08-21 17:05:33,087 INFO csv write: edgetape_decorative.csv sku=50761 colour='Havana Oak'
+2025-08-21 17:05:33,087 INFO csv write: edgetape_decorative.csv sku=50762 colour='Havana Oak'
+2025-08-21 17:05:33,087 INFO csv write: edgetape_decorative.csv sku=50763 colour='Havana Oak'
+2025-08-21 17:05:33,087 INFO csv write: laminate.csv sku=50755 colour='Havana Oak'
+2025-08-21 17:05:33,087 INFO csv write: laminate.csv sku=50758 colour='Havana Oak'
+2025-08-21 17:05:33,087 INFO csv write: laminate.csv sku=50757 colour='Havana Oak'
+2025-08-21 17:05:33,087 INFO csv write: laminate.csv sku=50756 colour='Havana Oak'
+2025-08-21 17:05:33,088 INFO [92/240] Done Havana Oak, rows=15, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

@@ -1,0 +1,11 @@
+2025-08-21 17:45:22,144 INFO [228/240] Processing Peacock Oak  https://www.polytec.com.au/colour/peacock-oak/
+2025-08-21 17:45:22,145 INFO run start colour=https://www.polytec.com.au/colour/peacock-oak/
+2025-08-21 17:45:22,630 INFO colour name: Peacock Oak
+2025-08-21 17:45:22,634 INFO finish tabs: 1
+2025-08-21 17:45:22,653 INFO tab 1/1 -> Ravine
+2025-08-21 17:45:22,658 INFO items in finish 'Ravine': 1
+2025-08-21 17:45:22,658 INFO range -> Laminate
+2025-08-21 17:45:23,764 INFO row 1: sku=43796 title='Laminate Peacock Oak Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:45:23,765 INFO run end rows=1
+2025-08-21 17:45:23,765 INFO csv write: laminate.csv sku=43796 colour='Peacock Oak'
+2025-08-21 17:45:23,765 INFO [228/240] Done Peacock Oak, rows=1, ranges=['Laminate']

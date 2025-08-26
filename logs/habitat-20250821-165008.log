@@ -1,0 +1,47 @@
+2025-08-21 16:50:08,717 INFO [34/240] Processing Habitat  https://www.polytec.com.au/colour/habitat/
+2025-08-21 16:50:08,717 INFO run start colour=https://www.polytec.com.au/colour/habitat/
+2025-08-21 16:50:09,159 INFO colour name: Habitat
+2025-08-21 16:50:09,170 INFO finish tabs: 2
+2025-08-21 16:50:09,194 INFO tab 1/2 -> Smooth
+2025-08-21 16:50:09,232 INFO items in finish 'Smooth': 10
+2025-08-21 16:50:09,232 INFO range -> Board Decorative
+2025-08-21 16:50:10,356 INFO row 1: sku=52846 title='MDF 162412 DS Habitat Smooth MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:50:10,356 INFO range -> Edgetape Decorative
+2025-08-21 16:50:11,411 INFO row 2: sku=52849 title='ABS 1mm x 21mm UG 100m Habitat Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:50:12,480 INFO row 3: sku=52847 title='ABS 1mm x 21mm UG 20m Habitat Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:50:13,521 INFO row 4: sku=52851 title='ABS 1mm x 29mm UG 100m Habitat Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:50:13,522 INFO range -> Laminate
+2025-08-21 16:50:14,544 INFO row 5: sku=57831 title='Laminate Habitat Smooth 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 16:50:15,589 INFO row 6: sku=57832 title='Laminate Habitat Smooth HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:50:16,643 INFO row 7: sku=57834 title='Laminate Habitat Smooth Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:50:17,688 INFO row 8: sku=57833 title='Laminate Habitat Smooth HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:50:17,688 INFO range -> Compact
+2025-08-21 16:50:18,443 INFO row 9: sku=56206 title='Compact Laminate Habitat Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:50:18,443 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:50:22,873 INFO row 10: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.43s
+2025-08-21 16:50:22,906 INFO tab 2/2 -> Venette
+2025-08-21 16:50:22,930 INFO items in finish 'Venette': 5
+2025-08-21 16:50:22,930 INFO range -> Board Decorative
+2025-08-21 16:50:24,062 INFO row 1: sku=54710 title='MDF 182412 SS Habitat Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 16:50:24,821 INFO row 2: sku=54711 title='MDF 182412 DS Habitat Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:50:24,821 INFO range -> Edgetape Decorative
+2025-08-21 16:50:25,851 INFO row 3: sku=54712 title='ABS 1mm x 21mm UG 100m Habitat Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:50:26,885 INFO row 4: sku=54713 title='ABS 1mm x 21mm UG 20m Habitat Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:50:27,920 INFO row 5: sku=54715 title='ABS 1mm x 29mm UG 100m Habitat Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:50:27,920 INFO run end rows=15
+2025-08-21 16:50:27,920 INFO csv write: board_decorative.csv sku=52846 colour='Habitat'
+2025-08-21 16:50:27,921 INFO csv write: edgetape_decorative.csv sku=52849 colour='Habitat'
+2025-08-21 16:50:27,921 INFO csv write: edgetape_decorative.csv sku=52847 colour='Habitat'
+2025-08-21 16:50:27,921 INFO csv write: edgetape_decorative.csv sku=52851 colour='Habitat'
+2025-08-21 16:50:27,921 INFO csv write: laminate.csv sku=57831 colour='Habitat'
+2025-08-21 16:50:27,921 INFO csv write: laminate.csv sku=57832 colour='Habitat'
+2025-08-21 16:50:27,922 INFO csv write: laminate.csv sku=57834 colour='Habitat'
+2025-08-21 16:50:27,922 INFO csv write: laminate.csv sku=57833 colour='Habitat'
+2025-08-21 16:50:27,922 INFO csv write: compact.csv sku=56206 colour='Habitat'
+2025-08-21 16:50:27,922 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Habitat'
+2025-08-21 16:50:27,923 INFO csv write: board_decorative.csv sku=54710 colour='Habitat'
+2025-08-21 16:50:27,923 INFO csv write: board_decorative.csv sku=54711 colour='Habitat'
+2025-08-21 16:50:27,923 INFO csv write: edgetape_decorative.csv sku=54712 colour='Habitat'
+2025-08-21 16:50:27,923 INFO csv write: edgetape_decorative.csv sku=54713 colour='Habitat'
+2025-08-21 16:50:27,923 INFO csv write: edgetape_decorative.csv sku=54715 colour='Habitat'
+2025-08-21 16:50:27,923 INFO [34/240] Done Habitat, rows=15, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

@@ -1,0 +1,102 @@
+2025-08-21 17:04:31,101 INFO [90/240] Processing Florentine Walnut  https://www.polytec.com.au/colour/florentine-walnut/
+2025-08-21 17:04:31,102 INFO run start colour=https://www.polytec.com.au/colour/florentine-walnut/
+2025-08-21 17:04:31,641 INFO colour name: Florentine Walnut
+2025-08-21 17:04:31,646 INFO finish tabs: 1
+2025-08-21 17:04:31,673 INFO tab 1/1 -> Woodmatt
+2025-08-21 17:04:31,871 INFO items in finish 'Woodmatt': 32
+2025-08-21 17:04:31,871 INFO range -> Board Decorative
+2025-08-21 17:04:32,870 INFO row 1: sku=46823 title='MDF 162412 DS Florentine Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.00s
+2025-08-21 17:04:33,643 INFO row 2: sku=47244 title='MDF 163112 DS Florentine Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:04:34,429 INFO row 3: sku=47443 title='MDF 183618 DS Florentine Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:04:35,211 INFO row 4: sku=47273 title='MDF 322412 DS Florentine Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:04:35,994 INFO row 5: sku=47259 title='MDF 252412 DS Florentine Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:04:36,774 INFO row 6: sku=47471 title='LDF 333618 DS Florentine Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:04:37,572 INFO row 7: sku=47457 title='LDF 253618 DS Florentine Walnut Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:04:38,337 INFO row 8: sku=58078 title='MDF 092712 DS Florentine Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:04:38,337 INFO range -> Edgetape Decorative
+2025-08-21 17:04:39,110 INFO row 9: sku=46765 title='ABS 1mm x 21mm UG 100m Florentine Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:04:39,889 INFO row 10: sku=46802 title='ABS 1mm x 21mm UG 20m Florentine Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:04:40,935 INFO row 11: sku=47385 title='ABS 1mm x 38mm UG 100m Florentine Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:04:41,978 INFO row 12: sku=47213 title='ABS 1mm x 29mm UG 100m Florentine Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:04:43,034 INFO row 13: sku=47625 title='ABS 1mm x 55mm UG 20m Florentine Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:04:44,112 INFO row 14: sku=47635 title='ABS 1mm x 55mm UG 100m Florentine Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:04:44,112 INFO range -> Laminate
+2025-08-21 17:04:45,158 INFO row 15: sku=48518 title='Laminate Florentine Walnut Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:04:46,227 INFO row 16: sku=48639 title='Laminate Florentine Walnut Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:04:47,298 INFO row 17: sku=48653 title='Laminate Florentine Walnut Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:04:48,387 INFO row 18: sku=48618 title='Laminate Florentine Walnut Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:04:48,387 INFO range -> Compact
+2025-08-21 17:04:49,163 INFO row 19: sku=51656 title='Compact Laminate Florentine Walnut Woodmatt BC 3660x1830 13m' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:04:49,163 INFO range -> Architectural
+2025-08-21 17:04:49,533 INFO MOQ for SKU 51558 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:49,534 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:50,258 INFO row 20: sku=51558 title='Steccawood 17x34x3600 MDF MR E0 Florentine Walnut Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:04:50,602 INFO MOQ for SKU 55181 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:50,603 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:51,320 INFO row 21: sku=55181 title='Steccawood 17x34x3600 MDF MR E0 Florentine Walnut Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:04:51,679 INFO MOQ for SKU 47795 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:51,679 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:52,393 INFO row 22: sku=47795 title='Steccawood 17x38x3600 MDF MR E0 Florentine Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:04:52,744 INFO MOQ for SKU 53000 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:52,745 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:53,454 INFO row 23: sku=53000 title='Steccawood 24x48x3600 MDF MR E0 Florentine Walnut Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:04:53,783 INFO MOQ for SKU 47835 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:53,783 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:54,485 INFO row 24: sku=47835 title='Steccawood 31x31x3600 MDF MR E0 Florentine Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.03s
+2025-08-21 17:04:54,821 INFO MOQ for SKU 51559 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:54,821 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:55,525 INFO row 25: sku=51559 title='Steccawood 31x62x3600 MDF MR E0 Florentine Walnut Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.04s
+2025-08-21 17:04:55,583 INFO MOQ for SKU 56943 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:55,584 INFO MOQ hint: Ordering details .
+2025-08-21 17:04:55,584 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:56,290 INFO row 26: sku=56943 title='Steccawood 24x34x3600 MDF MR E0 Florentine Walnut Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.76s
+2025-08-21 17:04:56,646 INFO MOQ for SKU 48912 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:56,647 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:57,360 INFO row 27: sku=48912 title='Steccawood 40x100x3600 LDF MR E0 Florentine Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:04:57,727 INFO MOQ for SKU 47884 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:57,727 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:58,435 INFO row 28: sku=47884 title='Steccawood 50x100x3600 LDF MR E0 Florentine Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:04:58,769 INFO MOQ for SKU 47868 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:58,769 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:59,471 INFO row 29: sku=47868 title='Steccawood 50x70x3600 LDF MR E0 Florentine Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.04s
+2025-08-21 17:04:59,823 INFO MOQ for SKU 47850 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:59,823 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:05:00,540 INFO row 30: sku=47850 title='Steccawood 31x65x3600 MDF MR E0 Florentine Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:05:00,540 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:05:04,981 INFO row 31: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:05:04,981 INFO range -> Architectural Internal Doors
+2025-08-21 17:05:09,420 INFO row 32: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:05:09,420 INFO run end rows=32
+2025-08-21 17:05:09,420 INFO csv write: board_decorative.csv sku=46823 colour='Florentine Walnut'
+2025-08-21 17:05:09,421 INFO csv write: board_decorative.csv sku=47244 colour='Florentine Walnut'
+2025-08-21 17:05:09,421 INFO csv write: board_decorative.csv sku=47443 colour='Florentine Walnut'
+2025-08-21 17:05:09,421 INFO csv write: board_decorative.csv sku=47273 colour='Florentine Walnut'
+2025-08-21 17:05:09,421 INFO csv write: board_decorative.csv sku=47259 colour='Florentine Walnut'
+2025-08-21 17:05:09,421 INFO csv write: board_decorative.csv sku=47471 colour='Florentine Walnut'
+2025-08-21 17:05:09,422 INFO csv write: board_decorative.csv sku=47457 colour='Florentine Walnut'
+2025-08-21 17:05:09,422 INFO csv write: board_decorative.csv sku=58078 colour='Florentine Walnut'
+2025-08-21 17:05:09,422 INFO csv write: edgetape_decorative.csv sku=46765 colour='Florentine Walnut'
+2025-08-21 17:05:09,422 INFO csv write: edgetape_decorative.csv sku=46802 colour='Florentine Walnut'
+2025-08-21 17:05:09,422 INFO csv write: edgetape_decorative.csv sku=47385 colour='Florentine Walnut'
+2025-08-21 17:05:09,422 INFO csv write: edgetape_decorative.csv sku=47213 colour='Florentine Walnut'
+2025-08-21 17:05:09,422 INFO csv write: edgetape_decorative.csv sku=47625 colour='Florentine Walnut'
+2025-08-21 17:05:09,422 INFO csv write: edgetape_decorative.csv sku=47635 colour='Florentine Walnut'
+2025-08-21 17:05:09,423 INFO csv write: laminate.csv sku=48518 colour='Florentine Walnut'
+2025-08-21 17:05:09,423 INFO csv write: laminate.csv sku=48639 colour='Florentine Walnut'
+2025-08-21 17:05:09,423 INFO csv write: laminate.csv sku=48653 colour='Florentine Walnut'
+2025-08-21 17:05:09,423 INFO csv write: laminate.csv sku=48618 colour='Florentine Walnut'
+2025-08-21 17:05:09,423 INFO csv write: compact.csv sku=51656 colour='Florentine Walnut'
+2025-08-21 17:05:09,423 INFO csv write: architectural.csv sku=51558 colour='Florentine Walnut'
+2025-08-21 17:05:09,423 INFO csv write: architectural.csv sku=55181 colour='Florentine Walnut'
+2025-08-21 17:05:09,424 INFO csv write: architectural.csv sku=47795 colour='Florentine Walnut'
+2025-08-21 17:05:09,424 INFO csv write: architectural.csv sku=53000 colour='Florentine Walnut'
+2025-08-21 17:05:09,424 INFO csv write: architectural.csv sku=47835 colour='Florentine Walnut'
+2025-08-21 17:05:09,424 INFO csv write: architectural.csv sku=51559 colour='Florentine Walnut'
+2025-08-21 17:05:09,424 INFO csv write: architectural.csv sku=56943 colour='Florentine Walnut'
+2025-08-21 17:05:09,424 INFO csv write: architectural.csv sku=48912 colour='Florentine Walnut'
+2025-08-21 17:05:09,424 INFO csv write: architectural.csv sku=47884 colour='Florentine Walnut'
+2025-08-21 17:05:09,424 INFO csv write: architectural.csv sku=47868 colour='Florentine Walnut'
+2025-08-21 17:05:09,425 INFO csv write: architectural.csv sku=47850 colour='Florentine Walnut'
+2025-08-21 17:05:09,425 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Florentine Walnut'
+2025-08-21 17:05:09,425 INFO csv write: architectural_internal_doors.csv sku= colour='Florentine Walnut'
+2025-08-21 17:05:09,425 INFO [90/240] Done Florentine Walnut, rows=32, ranges=['Architectural', 'Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

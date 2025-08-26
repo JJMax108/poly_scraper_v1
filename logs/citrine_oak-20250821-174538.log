@@ -1,0 +1,14 @@
+2025-08-21 17:45:38,814 INFO [235/240] Processing Citrine Oak  https://www.polytec.com.au/colour/citrine-oak/
+2025-08-21 17:45:38,814 INFO run start colour=https://www.polytec.com.au/colour/citrine-oak/
+2025-08-21 17:45:39,131 INFO colour name: Citrine Oak
+2025-08-21 17:45:39,136 INFO finish tabs: 1
+2025-08-21 17:45:39,154 INFO tab 1/1 -> Ravine
+2025-08-21 17:45:39,162 INFO items in finish 'Ravine': 2
+2025-08-21 17:45:39,162 INFO range -> Edgetape Decorative
+2025-08-21 17:45:40,785 INFO row 1: sku=43412 title='ABS 2mm x 38mm UG 100m Citrine Oak Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.62s
+2025-08-21 17:45:40,785 INFO range -> Laminate
+2025-08-21 17:45:41,824 INFO row 2: sku=43797 title='Laminate Citrine Oak Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:45:41,824 INFO run end rows=2
+2025-08-21 17:45:41,824 INFO csv write: edgetape_decorative.csv sku=43412 colour='Citrine Oak'
+2025-08-21 17:45:41,824 INFO csv write: laminate.csv sku=43797 colour='Citrine Oak'
+2025-08-21 17:45:41,825 INFO [235/240] Done Citrine Oak, rows=2, ranges=['Edgetape Decorative', 'Laminate']

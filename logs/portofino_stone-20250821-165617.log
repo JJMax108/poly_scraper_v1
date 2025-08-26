@@ -1,0 +1,25 @@
+2025-08-21 16:56:17,311 INFO [67/240] Processing Portofino Stone  https://www.polytec.com.au/colour/portofino-stone/
+2025-08-21 16:56:17,312 INFO run start colour=https://www.polytec.com.au/colour/portofino-stone/
+2025-08-21 16:56:17,717 INFO colour name: Portofino Stone
+2025-08-21 16:56:17,722 INFO finish tabs: 1
+2025-08-21 16:56:17,743 INFO tab 1/1 -> Smooth
+2025-08-21 16:56:17,772 INFO items in finish 'Smooth': 7
+2025-08-21 16:56:17,772 INFO range -> Laminate
+2025-08-21 16:56:18,895 INFO row 1: sku=48980 title='Laminate Portofino Stone Smooth 0.7mm 3650x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:56:19,930 INFO row 2: sku=48981 title='Laminate Portofino Stone Smooth HL 0.7mm 3650x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:20,976 INFO row 3: sku=48983 title='Laminate Portofino Stone Smooth Q 1825 x 680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:56:22,011 INFO row 4: sku=48982 title='Laminate Portofino Stone Smooth HS 0.7mm 1830x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:56:22,011 INFO range -> Compact
+2025-08-21 16:56:22,767 INFO row 5: sku=51878 title='Compact Laminate Portofino Stone Smooth BC 2730x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:56:23,533 INFO row 6: sku=48978 title='Compact Laminate Portofino Stone Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:56:23,533 INFO range -> Alfresco Doors
+2025-08-21 16:56:27,970 INFO row 7: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 16:56:27,970 INFO run end rows=7
+2025-08-21 16:56:27,971 INFO csv write: laminate.csv sku=48980 colour='Portofino Stone'
+2025-08-21 16:56:27,972 INFO csv write: laminate.csv sku=48981 colour='Portofino Stone'
+2025-08-21 16:56:27,972 INFO csv write: laminate.csv sku=48983 colour='Portofino Stone'
+2025-08-21 16:56:27,972 INFO csv write: laminate.csv sku=48982 colour='Portofino Stone'
+2025-08-21 16:56:27,973 INFO csv write: compact.csv sku=51878 colour='Portofino Stone'
+2025-08-21 16:56:27,973 INFO csv write: compact.csv sku=48978 colour='Portofino Stone'
+2025-08-21 16:56:27,973 INFO csv write: alfresco_doors.csv sku= colour='Portofino Stone'
+2025-08-21 16:56:27,974 INFO [67/240] Done Portofino Stone, rows=7, ranges=['Alfresco Doors', 'Compact', 'Laminate']

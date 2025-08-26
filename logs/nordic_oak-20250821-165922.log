@@ -1,0 +1,91 @@
+2025-08-21 16:59:22,657 INFO [81/240] Processing Nordic Oak  https://www.polytec.com.au/colour/nordic-oak/
+2025-08-21 16:59:22,658 INFO run start colour=https://www.polytec.com.au/colour/nordic-oak/
+2025-08-21 16:59:23,084 INFO colour name: Nordic Oak
+2025-08-21 16:59:23,089 INFO finish tabs: 1
+2025-08-21 16:59:23,113 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:59:23,248 INFO items in finish 'Woodmatt': 28
+2025-08-21 16:59:23,248 INFO range -> Board Decorative
+2025-08-21 16:59:24,310 INFO row 1: sku=46818 title='MDF 162412 DS Nordic Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:59:25,076 INFO row 2: sku=47245 title='MDF 163112 DS Nordic Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:59:25,852 INFO row 3: sku=47444 title='MDF 183618 DS Nordic Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:59:26,644 INFO row 4: sku=47274 title='MDF 322412 DS Nordic Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 16:59:27,426 INFO row 5: sku=47260 title='MDF 252412 DS Nordic Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:59:28,212 INFO row 6: sku=47472 title='LDF 333618 DS Nordic Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 16:59:28,994 INFO row 7: sku=47458 title='LDF 253618 DS Nordic Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:59:28,994 INFO range -> Edgetape Decorative
+2025-08-21 16:59:30,044 INFO row 8: sku=46593 title='ABS 1mm x 21mm UG 100m Nordic Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:59:31,125 INFO row 9: sku=47636 title='ABS 1mm x 55mm UG 100m Nordic Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 16:59:32,210 INFO row 10: sku=46796 title='ABS 1mm x 21mm UG 20m Nordic Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 16:59:33,253 INFO row 11: sku=47207 title='ABS 1mm x 29mm UG 100m Nordic Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:59:34,282 INFO row 12: sku=47392 title='ABS 1mm x 38mm UG 100m Nordic Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:59:35,359 INFO row 13: sku=47626 title='ABS 1mm x 55mm UG 20m Nordic Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 16:59:35,360 INFO range -> Laminate
+2025-08-21 16:59:36,414 INFO row 14: sku=48512 title='Laminate Nordic Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:59:37,469 INFO row 15: sku=48633 title='Laminate Nordic Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:59:38,538 INFO row 16: sku=48647 title='Laminate Nordic Oak Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:59:39,605 INFO row 17: sku=48610 title='Laminate Nordic Oak Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:59:39,605 INFO range -> Architectural
+2025-08-21 16:59:39,682 INFO MOQ for SKU 56946 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:39,682 INFO MOQ hint: Ordering details .
+2025-08-21 16:59:39,682 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:40,388 INFO row 18: sku=56946 title='Steccawood 24x34x3600 MDF MR E0 Nordic Oak Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.78s
+2025-08-21 16:59:40,746 INFO MOQ for SKU 47870 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:40,746 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:41,457 INFO row 19: sku=47870 title='Steccawood 50x70x3600 LDF MR E0 Nordic Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 16:59:41,830 INFO MOQ for SKU 51565 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:41,830 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:42,542 INFO row 20: sku=51565 title='Steccawood 17x34x3600 MDF MR E0 Nordic Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 16:59:42,891 INFO MOQ for SKU 47836 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:42,891 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:43,603 INFO row 21: sku=47836 title='Steccawood 31x31x3600 MDF MR E0 Nordic Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 16:59:43,959 INFO MOQ for SKU 55184 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:43,959 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:44,674 INFO row 22: sku=55184 title='Steccawood 17x34x3600 MDF MR E0 Nordic Oak Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 16:59:45,042 INFO MOQ for SKU 47796 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:45,042 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:45,756 INFO row 23: sku=47796 title='Steccawood 17x38x3600 MDF MR E0 Nordic Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 16:59:46,106 INFO MOQ for SKU 47852 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:46,106 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:46,808 INFO row 24: sku=47852 title='Steccawood 31x65x3600 MDF MR E0 Nordic Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 16:59:47,175 INFO MOQ for SKU 53003 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:47,175 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:47,888 INFO row 25: sku=53003 title='Steccawood 24x48x3600 MDF MR E0 Nordic Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 16:59:48,239 INFO MOQ for SKU 48913 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:48,239 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:48,951 INFO row 26: sku=48913 title='Steccawood 40x100x3600 LDF MR E0 Nordic Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 16:59:49,304 INFO MOQ for SKU 51566 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:49,304 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:50,015 INFO row 27: sku=51566 title='Steccawood 31x62x3600 MDF MR E0 Nordic Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 16:59:50,373 INFO MOQ for SKU 47886 min=5 step=1 qty 1 -> 5
+2025-08-21 16:59:50,374 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:59:51,083 INFO row 28: sku=47886 title='Steccawood 50x100x3600 LDF MR E0 Nordic Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 16:59:51,083 INFO run end rows=28
+2025-08-21 16:59:51,086 INFO csv write: board_decorative.csv sku=46818 colour='Nordic Oak'
+2025-08-21 16:59:51,086 INFO csv write: board_decorative.csv sku=47245 colour='Nordic Oak'
+2025-08-21 16:59:51,086 INFO csv write: board_decorative.csv sku=47444 colour='Nordic Oak'
+2025-08-21 16:59:51,086 INFO csv write: board_decorative.csv sku=47274 colour='Nordic Oak'
+2025-08-21 16:59:51,086 INFO csv write: board_decorative.csv sku=47260 colour='Nordic Oak'
+2025-08-21 16:59:51,087 INFO csv write: board_decorative.csv sku=47472 colour='Nordic Oak'
+2025-08-21 16:59:51,087 INFO csv write: board_decorative.csv sku=47458 colour='Nordic Oak'
+2025-08-21 16:59:51,087 INFO csv write: edgetape_decorative.csv sku=46593 colour='Nordic Oak'
+2025-08-21 16:59:51,088 INFO csv write: edgetape_decorative.csv sku=47636 colour='Nordic Oak'
+2025-08-21 16:59:51,088 INFO csv write: edgetape_decorative.csv sku=46796 colour='Nordic Oak'
+2025-08-21 16:59:51,088 INFO csv write: edgetape_decorative.csv sku=47207 colour='Nordic Oak'
+2025-08-21 16:59:51,088 INFO csv write: edgetape_decorative.csv sku=47392 colour='Nordic Oak'
+2025-08-21 16:59:51,088 INFO csv write: edgetape_decorative.csv sku=47626 colour='Nordic Oak'
+2025-08-21 16:59:51,089 INFO csv write: laminate.csv sku=48512 colour='Nordic Oak'
+2025-08-21 16:59:51,089 INFO csv write: laminate.csv sku=48633 colour='Nordic Oak'
+2025-08-21 16:59:51,089 INFO csv write: laminate.csv sku=48647 colour='Nordic Oak'
+2025-08-21 16:59:51,089 INFO csv write: laminate.csv sku=48610 colour='Nordic Oak'
+2025-08-21 16:59:51,090 INFO csv write: architectural.csv sku=56946 colour='Nordic Oak'
+2025-08-21 16:59:51,090 INFO csv write: architectural.csv sku=47870 colour='Nordic Oak'
+2025-08-21 16:59:51,090 INFO csv write: architectural.csv sku=51565 colour='Nordic Oak'
+2025-08-21 16:59:51,090 INFO csv write: architectural.csv sku=47836 colour='Nordic Oak'
+2025-08-21 16:59:51,090 INFO csv write: architectural.csv sku=55184 colour='Nordic Oak'
+2025-08-21 16:59:51,090 INFO csv write: architectural.csv sku=47796 colour='Nordic Oak'
+2025-08-21 16:59:51,091 INFO csv write: architectural.csv sku=47852 colour='Nordic Oak'
+2025-08-21 16:59:51,091 INFO csv write: architectural.csv sku=53003 colour='Nordic Oak'
+2025-08-21 16:59:51,091 INFO csv write: architectural.csv sku=48913 colour='Nordic Oak'
+2025-08-21 16:59:51,091 INFO csv write: architectural.csv sku=51566 colour='Nordic Oak'
+2025-08-21 16:59:51,091 INFO csv write: architectural.csv sku=47886 colour='Nordic Oak'
+2025-08-21 16:59:51,092 INFO [81/240] Done Nordic Oak, rows=28, ranges=['Architectural', 'Board Decorative', 'Edgetape Decorative', 'Laminate']

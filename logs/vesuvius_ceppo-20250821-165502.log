@@ -1,0 +1,20 @@
+2025-08-21 16:55:02,243 INFO [57/240] Processing Vesuvius Ceppo  https://www.polytec.com.au/colour/vesuvius-ceppo/
+2025-08-21 16:55:02,244 INFO run start colour=https://www.polytec.com.au/colour/vesuvius-ceppo/
+2025-08-21 16:55:02,651 INFO colour name: Vesuvius Ceppo
+2025-08-21 16:55:02,656 INFO finish tabs: 1
+2025-08-21 16:55:02,678 INFO tab 1/1 -> Smooth
+2025-08-21 16:55:02,699 INFO items in finish 'Smooth': 5
+2025-08-21 16:55:02,699 INFO range -> Laminate
+2025-08-21 16:55:03,809 INFO row 1: sku=52104 title='Laminate Vesuvius Ceppo Smooth 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 16:55:04,850 INFO row 2: sku=52105 title='Laminate Vesuvius Ceppo Smooth HL 0.7mm 3650 x 680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:05,896 INFO row 3: sku=52889 title='Laminate Vesuvius Ceppo Smooth HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:55:06,927 INFO row 4: sku=52893 title='Laminate Vesuvius Ceppo Smooth Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:55:06,927 INFO range -> Compact
+2025-08-21 16:55:07,683 INFO row 5: sku=52149 title='Compact Laminate Vesuvius Ceppo Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:55:07,683 INFO run end rows=5
+2025-08-21 16:55:07,684 INFO csv write: laminate.csv sku=52104 colour='Vesuvius Ceppo'
+2025-08-21 16:55:07,684 INFO csv write: laminate.csv sku=52105 colour='Vesuvius Ceppo'
+2025-08-21 16:55:07,684 INFO csv write: laminate.csv sku=52889 colour='Vesuvius Ceppo'
+2025-08-21 16:55:07,684 INFO csv write: laminate.csv sku=52893 colour='Vesuvius Ceppo'
+2025-08-21 16:55:07,685 INFO csv write: compact.csv sku=52149 colour='Vesuvius Ceppo'
+2025-08-21 16:55:07,685 INFO [57/240] Done Vesuvius Ceppo, rows=5, ranges=['Compact', 'Laminate']

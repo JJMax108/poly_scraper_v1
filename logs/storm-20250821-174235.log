@@ -1,0 +1,34 @@
+2025-08-21 17:42:35,845 INFO [217/240] Processing Storm  https://www.polytec.com.au/colour/storm/
+2025-08-21 17:42:35,845 INFO run start colour=https://www.polytec.com.au/colour/storm/
+2025-08-21 17:42:36,217 INFO colour name: Storm
+2025-08-21 17:42:36,221 INFO finish tabs: 1
+2025-08-21 17:42:36,240 INFO tab 1/1 -> Matt
+2025-08-21 17:42:36,291 INFO items in finish 'Matt': 11
+2025-08-21 17:42:36,292 INFO range -> Board Decorative
+2025-08-21 17:42:37,443 INFO row 1: sku=26533 title='LDF 333618 DS Storm Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.15s
+2025-08-21 17:42:38,208 INFO row 2: sku=14795 title='Particle 183618 DS Storm Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:42:38,970 INFO row 3: sku=26501 title='LDF 253618  DS Storm Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:42:38,970 INFO range -> Edgetape Decorative
+2025-08-21 17:42:40,031 INFO row 4: sku=54010 title='ABS 1mm x 22mm UG 100m Storm Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:42:41,089 INFO row 5: sku=54011 title='ABS 1mm x 29mm UG 100m Storm Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:42:42,151 INFO row 6: sku=53995 title='ABS 1mm x 38mm UG 100m Storm Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:42:42,151 INFO range -> Laminate
+2025-08-21 17:42:43,197 INFO row 7: sku=13119 title='Laminate Storm Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:42:44,231 INFO row 8: sku=12471 title='Laminate Storm Matt 0.7mm 3650x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:42:45,283 INFO row 9: sku=13118 title='Laminate Storm Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:42:46,353 INFO row 10: sku=13117 title='Laminate Storm Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:42:46,354 INFO range -> Compact
+2025-08-21 17:42:47,125 INFO row 11: sku=11617 title='Compact Laminate Storm Matt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:42:47,126 INFO run end rows=11
+2025-08-21 17:42:47,126 INFO csv write: board_decorative.csv sku=26533 colour='Storm'
+2025-08-21 17:42:47,126 INFO csv write: board_decorative.csv sku=14795 colour='Storm'
+2025-08-21 17:42:47,127 INFO csv write: board_decorative.csv sku=26501 colour='Storm'
+2025-08-21 17:42:47,127 INFO csv write: edgetape_decorative.csv sku=54010 colour='Storm'
+2025-08-21 17:42:47,127 INFO csv write: edgetape_decorative.csv sku=54011 colour='Storm'
+2025-08-21 17:42:47,127 INFO csv write: edgetape_decorative.csv sku=53995 colour='Storm'
+2025-08-21 17:42:47,127 INFO csv write: laminate.csv sku=13119 colour='Storm'
+2025-08-21 17:42:47,128 INFO csv write: laminate.csv sku=12471 colour='Storm'
+2025-08-21 17:42:47,128 INFO csv write: laminate.csv sku=13118 colour='Storm'
+2025-08-21 17:42:47,128 INFO csv write: laminate.csv sku=13117 colour='Storm'
+2025-08-21 17:42:47,128 INFO csv write: compact.csv sku=11617 colour='Storm'
+2025-08-21 17:42:47,129 INFO [217/240] Done Storm, rows=11, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']

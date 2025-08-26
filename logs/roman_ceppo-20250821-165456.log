@@ -1,0 +1,20 @@
+2025-08-21 16:54:56,811 INFO [56/240] Processing Roman Ceppo  https://www.polytec.com.au/colour/roman-ceppo/
+2025-08-21 16:54:56,811 INFO run start colour=https://www.polytec.com.au/colour/roman-ceppo/
+2025-08-21 16:54:57,119 INFO colour name: Roman Ceppo
+2025-08-21 16:54:57,124 INFO finish tabs: 1
+2025-08-21 16:54:57,145 INFO tab 1/1 -> Smooth
+2025-08-21 16:54:57,165 INFO items in finish 'Smooth': 5
+2025-08-21 16:54:57,165 INFO range -> Laminate
+2025-08-21 16:54:58,290 INFO row 1: sku=52111 title='Laminate Roman Ceppo Smooth 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 16:54:59,328 INFO row 2: sku=52886 title='Laminate Roman Ceppo Smooth HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:00,378 INFO row 3: sku=52888 title='Laminate Roman Ceppo Smooth Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:55:01,430 INFO row 4: sku=52887 title='Laminate Roman Ceppo Smooth HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:55:01,430 INFO range -> Compact
+2025-08-21 16:55:02,178 INFO row 5: sku=52148 title='Compact Laminate Roman Ceppo Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 16:55:02,179 INFO run end rows=5
+2025-08-21 16:55:02,179 INFO csv write: laminate.csv sku=52111 colour='Roman Ceppo'
+2025-08-21 16:55:02,179 INFO csv write: laminate.csv sku=52886 colour='Roman Ceppo'
+2025-08-21 16:55:02,179 INFO csv write: laminate.csv sku=52888 colour='Roman Ceppo'
+2025-08-21 16:55:02,180 INFO csv write: laminate.csv sku=52887 colour='Roman Ceppo'
+2025-08-21 16:55:02,180 INFO csv write: compact.csv sku=52148 colour='Roman Ceppo'
+2025-08-21 16:55:02,180 INFO [56/240] Done Roman Ceppo, rows=5, ranges=['Compact', 'Laminate']

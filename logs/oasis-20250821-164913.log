@@ -1,0 +1,46 @@
+2025-08-21 16:49:13,291 INFO [30/240] Processing Oasis  https://www.polytec.com.au/colour/oasis/
+2025-08-21 16:49:13,291 INFO run start colour=https://www.polytec.com.au/colour/oasis/
+2025-08-21 16:49:13,721 INFO colour name: Oasis
+2025-08-21 16:49:13,729 INFO finish tabs: 2
+2025-08-21 16:49:13,752 INFO tab 1/2 -> Smooth
+2025-08-21 16:49:13,807 INFO items in finish 'Smooth': 10
+2025-08-21 16:49:13,807 INFO range -> Board Decorative
+2025-08-21 16:49:14,915 INFO row 1: sku=51422 title='MDF 162412 DS Oasis Smooth MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 16:49:15,680 INFO row 2: sku=56687 title='MDF 183112 DS Oasis Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:49:16,451 INFO row 3: sku=56688 title='MDF 253112 DS Oasis Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:49:17,214 INFO row 4: sku=56689 title='MDF 323112 DS Oasis Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:49:17,214 INFO range -> Edgetape Decorative
+2025-08-21 16:49:18,259 INFO row 5: sku=51442 title='ABS 1mm x 21mm UG 100m Oasis Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:49:19,292 INFO row 6: sku=51430 title='ABS 1mm x 21mm UG 20m Oasis Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:49:20,327 INFO row 7: sku=51455 title='ABS 1mm x 29mm UG 100m Oasis Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:49:21,355 INFO row 8: sku=53489 title='ABS 1mm x 38mm UG 100m Oasis Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:49:21,355 INFO range -> Laminate
+2025-08-21 16:49:22,385 INFO row 9: sku=52116 title='Laminate Oasis Smooth 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:49:22,386 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:49:26,809 INFO row 10: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.42s
+2025-08-21 16:49:26,842 INFO tab 2/2 -> Venette
+2025-08-21 16:49:26,863 INFO items in finish 'Venette': 5
+2025-08-21 16:49:26,864 INFO range -> Board Decorative
+2025-08-21 16:49:27,985 INFO row 1: sku=54740 title='MDF 182412 SS Oasis Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:49:28,746 INFO row 2: sku=54741 title='MDF 182412 DS Oasis Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:49:28,746 INFO range -> Edgetape Decorative
+2025-08-21 16:49:29,786 INFO row 3: sku=54742 title='ABS 1mm x 21mm UG 100m Oasis Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:49:30,825 INFO row 4: sku=54743 title='ABS 1mm x 21mm UG 20m Oasis Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:49:31,870 INFO row 5: sku=54745 title='ABS 1mm x 29mm UG 100m Oasis Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:49:31,870 INFO run end rows=15
+2025-08-21 16:49:31,870 INFO csv write: board_decorative.csv sku=51422 colour='Oasis'
+2025-08-21 16:49:31,871 INFO csv write: board_decorative.csv sku=56687 colour='Oasis'
+2025-08-21 16:49:31,871 INFO csv write: board_decorative.csv sku=56688 colour='Oasis'
+2025-08-21 16:49:31,871 INFO csv write: board_decorative.csv sku=56689 colour='Oasis'
+2025-08-21 16:49:31,871 INFO csv write: edgetape_decorative.csv sku=51442 colour='Oasis'
+2025-08-21 16:49:31,872 INFO csv write: edgetape_decorative.csv sku=51430 colour='Oasis'
+2025-08-21 16:49:31,872 INFO csv write: edgetape_decorative.csv sku=51455 colour='Oasis'
+2025-08-21 16:49:31,872 INFO csv write: edgetape_decorative.csv sku=53489 colour='Oasis'
+2025-08-21 16:49:31,872 INFO csv write: laminate.csv sku=52116 colour='Oasis'
+2025-08-21 16:49:31,872 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Oasis'
+2025-08-21 16:49:31,872 INFO csv write: board_decorative.csv sku=54740 colour='Oasis'
+2025-08-21 16:49:31,873 INFO csv write: board_decorative.csv sku=54741 colour='Oasis'
+2025-08-21 16:49:31,873 INFO csv write: edgetape_decorative.csv sku=54742 colour='Oasis'
+2025-08-21 16:49:31,873 INFO csv write: edgetape_decorative.csv sku=54743 colour='Oasis'
+2025-08-21 16:49:31,874 INFO csv write: edgetape_decorative.csv sku=54745 colour='Oasis'
+2025-08-21 16:49:31,874 INFO [30/240] Done Oasis, rows=15, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

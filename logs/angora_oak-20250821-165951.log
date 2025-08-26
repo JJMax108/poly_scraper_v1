@@ -1,0 +1,96 @@
+2025-08-21 16:59:51,154 INFO [82/240] Processing Angora Oak  https://www.polytec.com.au/colour/angora-oak/
+2025-08-21 16:59:51,155 INFO run start colour=https://www.polytec.com.au/colour/angora-oak/
+2025-08-21 16:59:51,588 INFO colour name: Angora Oak
+2025-08-21 16:59:51,593 INFO finish tabs: 1
+2025-08-21 16:59:51,616 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:59:51,753 INFO items in finish 'Woodmatt': 30
+2025-08-21 16:59:51,753 INFO range -> Board Decorative
+2025-08-21 16:59:52,807 INFO row 1: sku=46819 title='MDF 162412 DS Angora Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:59:53,593 INFO row 2: sku=47237 title='MDF 163112 DS Angora Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 16:59:54,374 INFO row 3: sku=47436 title='MDF 183618 DS Angora Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:59:55,143 INFO row 4: sku=47266 title='MDF 322412 DS Angora Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:59:55,930 INFO row 5: sku=47251 title='MDF 252412 DS Angora Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 16:59:56,708 INFO row 6: sku=47464 title='LDF 333618 DS Angora Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:59:57,497 INFO row 7: sku=58022 title='MDF 092712 DS Angora Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 16:59:58,279 INFO row 8: sku=47450 title='LDF 253618 DS Angora Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:59:58,280 INFO range -> Edgetape Decorative
+2025-08-21 16:59:59,061 INFO row 9: sku=46594 title='ABS 1mm x 21mm UG 100m Angora Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:59:59,841 INFO row 10: sku=46797 title='ABS 1mm x 21mm UG 20m Angora Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:00:00,898 INFO row 11: sku=47208 title='ABS 1mm x 29mm UG 100m Angora Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:00:01,977 INFO row 12: sku=47375 title='ABS 1mm x 38mm UG 100m Angora Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:00:03,064 INFO row 13: sku=47622 title='ABS 1mm x 55mm UG 20m Angora Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:00:04,150 INFO row 14: sku=47590 title='ABS 1mm x 55mm UG 100m Angora Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:00:04,150 INFO range -> Laminate
+2025-08-21 17:00:05,214 INFO row 15: sku=48513 title='Laminate Angora Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:00:06,268 INFO row 16: sku=48634 title='Laminate Angora Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:00:07,364 INFO row 17: sku=48648 title='Laminate Angora Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:00:08,422 INFO row 18: sku=48611 title='Laminate Angora Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:00:08,422 INFO range -> Compact
+2025-08-21 17:00:09,208 INFO row 19: sku=47189 title='Compact Laminate Angora Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:00:09,209 INFO range -> Architectural
+2025-08-21 17:00:09,281 INFO MOQ for SKU 56945 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:09,281 INFO MOQ hint: Ordering details .
+2025-08-21 17:00:09,281 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:09,992 INFO row 20: sku=56945 title='Steccawood 24x34x3600 MDF MR E0 Angora Oak Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.78s
+2025-08-21 17:00:10,339 INFO MOQ for SKU 47888 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:10,339 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:11,052 INFO row 21: sku=47888 title='Steccawood 50x100x3600 LDF MR E0 Angora Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:00:11,409 INFO MOQ for SKU 51563 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:11,409 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:12,126 INFO row 22: sku=51563 title='Steccawood 17x34x3600 MDF MR E0 Angora Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:00:12,473 INFO MOQ for SKU 55183 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:12,473 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:13,189 INFO row 23: sku=55183 title='Steccawood 17x34x3600 MDF MR E0 Angora Oak Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:00:13,561 INFO MOQ for SKU 53002 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:13,562 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:14,281 INFO row 24: sku=53002 title='Steccawood 24x48x3600 MDF MR E0 Angora Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:00:14,623 INFO MOQ for SKU 47797 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:14,623 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:15,335 INFO row 25: sku=47797 title='Steccawood 17x38x3600 MDF MR E0 Angora Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 17:00:15,681 INFO MOQ for SKU 47837 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:15,682 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:16,397 INFO row 26: sku=47837 title='Steccawood 31x31x3600 MDF MR E0 Angora Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:00:16,761 INFO MOQ for SKU 47856 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:16,761 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:17,486 INFO row 27: sku=47856 title='Steccawood 31x65x3600 MDF MR E0 Angora Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:00:17,846 INFO MOQ for SKU 47872 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:17,846 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:18,557 INFO row 28: sku=47872 title='Steccawood 50x70x3600 LDF MR E0 Angora Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:00:18,913 INFO MOQ for SKU 51564 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:18,914 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:19,629 INFO row 29: sku=51564 title='Steccawood 31x62x3600 MDF MR E0 Angora Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:00:19,979 INFO MOQ for SKU 48914 min=5 step=1 qty 1 -> 5
+2025-08-21 17:00:19,979 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:00:20,694 INFO row 30: sku=48914 title='Steccawood 40x100x3600 LDF MR E0 Angora Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:00:20,694 INFO run end rows=30
+2025-08-21 17:00:20,695 INFO csv write: board_decorative.csv sku=46819 colour='Angora Oak'
+2025-08-21 17:00:20,695 INFO csv write: board_decorative.csv sku=47237 colour='Angora Oak'
+2025-08-21 17:00:20,695 INFO csv write: board_decorative.csv sku=47436 colour='Angora Oak'
+2025-08-21 17:00:20,696 INFO csv write: board_decorative.csv sku=47266 colour='Angora Oak'
+2025-08-21 17:00:20,696 INFO csv write: board_decorative.csv sku=47251 colour='Angora Oak'
+2025-08-21 17:00:20,696 INFO csv write: board_decorative.csv sku=47464 colour='Angora Oak'
+2025-08-21 17:00:20,697 INFO csv write: board_decorative.csv sku=58022 colour='Angora Oak'
+2025-08-21 17:00:20,697 INFO csv write: board_decorative.csv sku=47450 colour='Angora Oak'
+2025-08-21 17:00:20,697 INFO csv write: edgetape_decorative.csv sku=46594 colour='Angora Oak'
+2025-08-21 17:00:20,697 INFO csv write: edgetape_decorative.csv sku=46797 colour='Angora Oak'
+2025-08-21 17:00:20,697 INFO csv write: edgetape_decorative.csv sku=47208 colour='Angora Oak'
+2025-08-21 17:00:20,697 INFO csv write: edgetape_decorative.csv sku=47375 colour='Angora Oak'
+2025-08-21 17:00:20,698 INFO csv write: edgetape_decorative.csv sku=47622 colour='Angora Oak'
+2025-08-21 17:00:20,698 INFO csv write: edgetape_decorative.csv sku=47590 colour='Angora Oak'
+2025-08-21 17:00:20,698 INFO csv write: laminate.csv sku=48513 colour='Angora Oak'
+2025-08-21 17:00:20,698 INFO csv write: laminate.csv sku=48634 colour='Angora Oak'
+2025-08-21 17:00:20,698 INFO csv write: laminate.csv sku=48648 colour='Angora Oak'
+2025-08-21 17:00:20,699 INFO csv write: laminate.csv sku=48611 colour='Angora Oak'
+2025-08-21 17:00:20,699 INFO csv write: compact.csv sku=47189 colour='Angora Oak'
+2025-08-21 17:00:20,699 INFO csv write: architectural.csv sku=56945 colour='Angora Oak'
+2025-08-21 17:00:20,699 INFO csv write: architectural.csv sku=47888 colour='Angora Oak'
+2025-08-21 17:00:20,700 INFO csv write: architectural.csv sku=51563 colour='Angora Oak'
+2025-08-21 17:00:20,700 INFO csv write: architectural.csv sku=55183 colour='Angora Oak'
+2025-08-21 17:00:20,700 INFO csv write: architectural.csv sku=53002 colour='Angora Oak'
+2025-08-21 17:00:20,700 INFO csv write: architectural.csv sku=47797 colour='Angora Oak'
+2025-08-21 17:00:20,701 INFO csv write: architectural.csv sku=47837 colour='Angora Oak'
+2025-08-21 17:00:20,701 INFO csv write: architectural.csv sku=47856 colour='Angora Oak'
+2025-08-21 17:00:20,701 INFO csv write: architectural.csv sku=47872 colour='Angora Oak'
+2025-08-21 17:00:20,701 INFO csv write: architectural.csv sku=51564 colour='Angora Oak'
+2025-08-21 17:00:20,701 INFO csv write: architectural.csv sku=48914 colour='Angora Oak'
+2025-08-21 17:00:20,702 INFO [82/240] Done Angora Oak, rows=30, ranges=['Architectural', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']

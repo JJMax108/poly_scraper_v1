@@ -1,0 +1,29 @@
+2025-08-21 17:05:09,487 INFO [91/240] Processing Rojo Walnut  https://www.polytec.com.au/colour/rojo-walnut/
+2025-08-21 17:05:09,487 INFO run start colour=https://www.polytec.com.au/colour/rojo-walnut/
+2025-08-21 17:05:09,956 INFO colour name: Rojo Walnut
+2025-08-21 17:05:09,961 INFO finish tabs: 1
+2025-08-21 17:05:09,989 INFO tab 1/1 -> Woodmatt
+2025-08-21 17:05:10,022 INFO items in finish 'Woodmatt': 9
+2025-08-21 17:05:10,022 INFO range -> Board Decorative
+2025-08-21 17:05:11,127 INFO row 1: sku=48723 title='MDF 162412 DS Rojo Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:05:11,873 INFO row 2: sku=53514 title='MDF 163112 DS Rojo Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:05:12,624 INFO row 3: sku=50300 title='MDF 252412 DS Rojo Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:05:13,373 INFO row 4: sku=50301 title='MDF 322412 DS Rojo Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:05:13,373 INFO range -> Edgetape Decorative
+2025-08-21 17:05:14,423 INFO row 5: sku=50302 title='ABS 1mm x 21mm UG 100m Rojo Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:15,442 INFO row 6: sku=50303 title='ABS 1mm x 21mm UG 20m Rojo Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:05:16,460 INFO row 7: sku=50306 title='ABS 1mm x 29mm UG 100m Rojo Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:05:17,494 INFO row 8: sku=50308 title='ABS 1mm x 38mm UG 100m Rojo Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:05:17,494 INFO range -> Laminate
+2025-08-21 17:05:18,501 INFO row 9: sku=50544 title='Laminate Rojo Walnut Woodmatt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.01s
+2025-08-21 17:05:18,501 INFO run end rows=9
+2025-08-21 17:05:18,501 INFO csv write: board_decorative.csv sku=48723 colour='Rojo Walnut'
+2025-08-21 17:05:18,502 INFO csv write: board_decorative.csv sku=53514 colour='Rojo Walnut'
+2025-08-21 17:05:18,502 INFO csv write: board_decorative.csv sku=50300 colour='Rojo Walnut'
+2025-08-21 17:05:18,502 INFO csv write: board_decorative.csv sku=50301 colour='Rojo Walnut'
+2025-08-21 17:05:18,502 INFO csv write: edgetape_decorative.csv sku=50302 colour='Rojo Walnut'
+2025-08-21 17:05:18,502 INFO csv write: edgetape_decorative.csv sku=50303 colour='Rojo Walnut'
+2025-08-21 17:05:18,502 INFO csv write: edgetape_decorative.csv sku=50306 colour='Rojo Walnut'
+2025-08-21 17:05:18,503 INFO csv write: edgetape_decorative.csv sku=50308 colour='Rojo Walnut'
+2025-08-21 17:05:18,503 INFO csv write: laminate.csv sku=50544 colour='Rojo Walnut'
+2025-08-21 17:05:18,503 INFO [91/240] Done Rojo Walnut, rows=9, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

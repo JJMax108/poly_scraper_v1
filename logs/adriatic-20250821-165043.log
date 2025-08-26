@@ -1,0 +1,46 @@
+2025-08-21 16:50:43,124 INFO [36/240] Processing Adriatic  https://www.polytec.com.au/colour/adriatic/
+2025-08-21 16:50:43,124 INFO run start colour=https://www.polytec.com.au/colour/adriatic/
+2025-08-21 16:50:43,543 INFO colour name: Adriatic
+2025-08-21 16:50:43,551 INFO finish tabs: 2
+2025-08-21 16:50:43,573 INFO tab 1/2 -> Smooth
+2025-08-21 16:50:43,609 INFO items in finish 'Smooth': 10
+2025-08-21 16:50:43,609 INFO range -> Board Decorative
+2025-08-21 16:50:44,702 INFO row 1: sku=51418 title='MDF 162412 DS Adriatic Smooth MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 16:50:45,461 INFO row 2: sku=56670 title='MDF 183112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:50:46,237 INFO row 3: sku=56672 title='MDF 323112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:50:46,994 INFO row 4: sku=56671 title='MDF 253112 DS Adriatic Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:50:46,994 INFO range -> Edgetape Decorative
+2025-08-21 16:50:48,042 INFO row 5: sku=51439 title='ABS 1mm x 21mm UG 100m Adriatic Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:50:49,094 INFO row 6: sku=51425 title='ABS 1mm x 21mm UG 20m Adriatic Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:50:50,160 INFO row 7: sku=53911 title='ABS 1mm x 38mm UG 100m Adriatic Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:50:51,202 INFO row 8: sku=51452 title='ABS 1mm x 29mm UG 100m Adriatic Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:50:51,202 INFO range -> Laminate
+2025-08-21 16:50:52,240 INFO row 9: sku=52118 title='Laminate Adriatic Smooth 0.7mm 3650 x 1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:50:52,240 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:50:56,689 INFO row 10: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 16:50:56,724 INFO tab 2/2 -> Venette
+2025-08-21 16:50:56,745 INFO items in finish 'Venette': 5
+2025-08-21 16:50:56,745 INFO range -> Board Decorative
+2025-08-21 16:50:57,882 INFO row 1: sku=54746 title='MDF 182412 SS Adriatic Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 16:50:58,642 INFO row 2: sku=54747 title='MDF 182412 DS Adriatic Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:50:58,642 INFO range -> Edgetape Decorative
+2025-08-21 16:50:59,680 INFO row 3: sku=54748 title='ABS 1mm x 21mm UG 100m Adriatic Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:51:00,742 INFO row 4: sku=54749 title='ABS 1mm x 21mm UG 20m Adriatic Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:51:01,814 INFO row 5: sku=54751 title='ABS 1mm x 29mm UG 100m Adriatic Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:51:01,814 INFO run end rows=15
+2025-08-21 16:51:01,814 INFO csv write: board_decorative.csv sku=51418 colour='Adriatic'
+2025-08-21 16:51:01,815 INFO csv write: board_decorative.csv sku=56670 colour='Adriatic'
+2025-08-21 16:51:01,815 INFO csv write: board_decorative.csv sku=56672 colour='Adriatic'
+2025-08-21 16:51:01,815 INFO csv write: board_decorative.csv sku=56671 colour='Adriatic'
+2025-08-21 16:51:01,815 INFO csv write: edgetape_decorative.csv sku=51439 colour='Adriatic'
+2025-08-21 16:51:01,816 INFO csv write: edgetape_decorative.csv sku=51425 colour='Adriatic'
+2025-08-21 16:51:01,816 INFO csv write: edgetape_decorative.csv sku=53911 colour='Adriatic'
+2025-08-21 16:51:01,816 INFO csv write: edgetape_decorative.csv sku=51452 colour='Adriatic'
+2025-08-21 16:51:01,816 INFO csv write: laminate.csv sku=52118 colour='Adriatic'
+2025-08-21 16:51:01,816 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Adriatic'
+2025-08-21 16:51:01,816 INFO csv write: board_decorative.csv sku=54746 colour='Adriatic'
+2025-08-21 16:51:01,817 INFO csv write: board_decorative.csv sku=54747 colour='Adriatic'
+2025-08-21 16:51:01,817 INFO csv write: edgetape_decorative.csv sku=54748 colour='Adriatic'
+2025-08-21 16:51:01,817 INFO csv write: edgetape_decorative.csv sku=54749 colour='Adriatic'
+2025-08-21 16:51:01,817 INFO csv write: edgetape_decorative.csv sku=54751 colour='Adriatic'
+2025-08-21 16:51:01,818 INFO [36/240] Done Adriatic, rows=15, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

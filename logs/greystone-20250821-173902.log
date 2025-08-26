@@ -1,0 +1,17 @@
+2025-08-21 17:39:02,950 INFO [195/240] Processing Greystone  https://www.polytec.com.au/colour/greystone/
+2025-08-21 17:39:02,950 INFO run start colour=https://www.polytec.com.au/colour/greystone/
+2025-08-21 17:39:03,276 INFO colour name: Greystone
+2025-08-21 17:39:03,281 INFO finish tabs: 1
+2025-08-21 17:39:03,301 INFO tab 1/1 -> Matt
+2025-08-21 17:39:03,316 INFO items in finish 'Matt': 4
+2025-08-21 17:39:03,316 INFO range -> Laminate
+2025-08-21 17:39:04,447 INFO row 1: sku=25298 title='Laminate Greystone Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:39:05,481 INFO row 2: sku=25316 title='Laminate Greystone Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:39:06,505 INFO row 3: sku=25357 title='Laminate Greystone Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:39:07,548 INFO row 4: sku=25338 title='Laminate Greystone Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:39:07,548 INFO run end rows=4
+2025-08-21 17:39:07,548 INFO csv write: laminate.csv sku=25298 colour='Greystone'
+2025-08-21 17:39:07,549 INFO csv write: laminate.csv sku=25316 colour='Greystone'
+2025-08-21 17:39:07,549 INFO csv write: laminate.csv sku=25357 colour='Greystone'
+2025-08-21 17:39:07,549 INFO csv write: laminate.csv sku=25338 colour='Greystone'
+2025-08-21 17:39:07,549 INFO [195/240] Done Greystone, rows=4, ranges=['Laminate']

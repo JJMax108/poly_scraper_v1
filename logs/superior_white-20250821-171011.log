@@ -1,0 +1,18 @@
+2025-08-21 17:10:11,132 INFO [107/240] Processing Superior White  https://www.polytec.com.au/colour/superior-white/
+2025-08-21 17:10:11,132 INFO run start colour=https://www.polytec.com.au/colour/superior-white/
+2025-08-21 17:10:11,523 INFO colour name: Superior White
+2025-08-21 17:10:11,528 INFO finish tabs: 1
+2025-08-21 17:10:11,547 INFO tab 1/1 -> Gloss
+2025-08-21 17:10:11,563 INFO items in finish 'Gloss': 4
+2025-08-21 17:10:11,563 INFO range -> Board Decorative
+2025-08-21 17:10:12,690 INFO row 1: sku=45305 title='Ultraglaze MDF 182412 SS Superior White Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:10:13,453 INFO row 2: sku=45303 title='Ultraglaze MDF 182412 DS Superior White Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:10:13,454 INFO range -> Edgetape Decorative
+2025-08-21 17:10:14,512 INFO row 3: sku=45793 title='ABS 1mm x 23mm UG 100m Ultraglaze Superior White Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:10:15,551 INFO row 4: sku=51788 title='ABS 1mm x 29mm UG 100m Ultraglaze Superior White Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:10:15,551 INFO run end rows=4
+2025-08-21 17:10:15,552 INFO csv write: board_decorative.csv sku=45305 colour='Superior White'
+2025-08-21 17:10:15,552 INFO csv write: board_decorative.csv sku=45303 colour='Superior White'
+2025-08-21 17:10:15,552 INFO csv write: edgetape_decorative.csv sku=45793 colour='Superior White'
+2025-08-21 17:10:15,552 INFO csv write: edgetape_decorative.csv sku=51788 colour='Superior White'
+2025-08-21 17:10:15,553 INFO [107/240] Done Superior White, rows=4, ranges=['Board Decorative', 'Edgetape Decorative']

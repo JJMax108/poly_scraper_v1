@@ -1,0 +1,27 @@
+2025-08-21 17:19:02,547 INFO [155/240] Processing Marni Lini  https://www.polytec.com.au/colour/marni-lini/
+2025-08-21 17:19:02,548 INFO run start colour=https://www.polytec.com.au/colour/marni-lini/
+2025-08-21 17:19:02,967 INFO colour name: Marni Lini
+2025-08-21 17:19:02,972 INFO finish tabs: 1
+2025-08-21 17:19:02,992 INFO tab 1/1 -> Matt
+2025-08-21 17:19:03,020 INFO items in finish 'Matt': 8
+2025-08-21 17:19:03,020 INFO range -> Board Decorative
+2025-08-21 17:19:04,150 INFO row 1: sku=25735 title='MDF 162412 DS Marni Lini Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:19:04,150 INFO range -> Edgetape Decorative
+2025-08-21 17:19:05,189 INFO row 2: sku=19198 title='Rigid 1mm x 21mm UG 100m Marni Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:19:06,227 INFO row 3: sku=19504 title='Rigid 1mm x 21mm UG 20m Marni Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:19:07,270 INFO row 4: sku=44406 title='ABS 1mm x 29mm UG 100m Marni Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:19:07,270 INFO range -> Laminate
+2025-08-21 17:19:08,320 INFO row 5: sku=26170 title='Laminate Marni Lini Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:19:09,368 INFO row 6: sku=26348 title='Laminate Marni Lini Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:19:10,419 INFO row 7: sku=26346 title='Laminate Marni Lini Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:19:11,467 INFO row 8: sku=26347 title='Laminate Marni Lini Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:19:11,467 INFO run end rows=8
+2025-08-21 17:19:11,468 INFO csv write: board_decorative.csv sku=25735 colour='Marni Lini'
+2025-08-21 17:19:11,468 INFO csv write: edgetape_decorative.csv sku=19198 colour='Marni Lini'
+2025-08-21 17:19:11,468 INFO csv write: edgetape_decorative.csv sku=19504 colour='Marni Lini'
+2025-08-21 17:19:11,468 INFO csv write: edgetape_decorative.csv sku=44406 colour='Marni Lini'
+2025-08-21 17:19:11,468 INFO csv write: laminate.csv sku=26170 colour='Marni Lini'
+2025-08-21 17:19:11,469 INFO csv write: laminate.csv sku=26348 colour='Marni Lini'
+2025-08-21 17:19:11,469 INFO csv write: laminate.csv sku=26346 colour='Marni Lini'
+2025-08-21 17:19:11,469 INFO csv write: laminate.csv sku=26347 colour='Marni Lini'
+2025-08-21 17:19:11,469 INFO [155/240] Done Marni Lini, rows=8, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

@@ -1,0 +1,18 @@
+2025-08-21 17:15:52,287 INFO [141/240] Processing Cloudy Grey  https://www.polytec.com.au/colour/cloudy-grey/
+2025-08-21 17:15:52,287 INFO run start colour=https://www.polytec.com.au/colour/cloudy-grey/
+2025-08-21 17:15:52,589 INFO colour name: Cloudy Grey
+2025-08-21 17:15:52,594 INFO finish tabs: 1
+2025-08-21 17:15:52,612 INFO tab 1/1 -> Gloss
+2025-08-21 17:15:52,632 INFO items in finish 'Gloss': 4
+2025-08-21 17:15:52,632 INFO range -> Board Decorative
+2025-08-21 17:15:53,741 INFO row 1: sku=45397 title='Ultraglaze MDF 182412 SS Cloudy Grey Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:15:54,493 INFO row 2: sku=45405 title='Ultraglaze MDF 182412 DS Cloudy Grey Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:15:54,493 INFO range -> Edgetape Decorative
+2025-08-21 17:15:55,539 INFO row 3: sku=45769 title='ABS 1mm x 23mm UG 100m Ultraglaze Cloudy Grey Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:15:56,564 INFO row 4: sku=51720 title='ABS 1mm x 29mm UG 100m Ultraglaze Cloudy Grey Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:15:56,564 INFO run end rows=4
+2025-08-21 17:15:56,565 INFO csv write: board_decorative.csv sku=45397 colour='Cloudy Grey'
+2025-08-21 17:15:56,565 INFO csv write: board_decorative.csv sku=45405 colour='Cloudy Grey'
+2025-08-21 17:15:56,566 INFO csv write: edgetape_decorative.csv sku=45769 colour='Cloudy Grey'
+2025-08-21 17:15:56,566 INFO csv write: edgetape_decorative.csv sku=51720 colour='Cloudy Grey'
+2025-08-21 17:15:56,566 INFO [141/240] Done Cloudy Grey, rows=4, ranges=['Board Decorative', 'Edgetape Decorative']

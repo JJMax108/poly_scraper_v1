@@ -1,0 +1,11 @@
+2025-08-21 17:43:31,240 INFO [223/240] Processing Tempest  https://www.polytec.com.au/colour/tempest/
+2025-08-21 17:43:31,241 INFO run start colour=https://www.polytec.com.au/colour/tempest/
+2025-08-21 17:43:31,652 INFO colour name: Tempest
+2025-08-21 17:43:31,656 INFO finish tabs: 1
+2025-08-21 17:43:31,679 INFO tab 1/1 -> Woodgrain
+2025-08-21 17:43:31,683 INFO items in finish 'Woodgrain': 1
+2025-08-21 17:43:31,683 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:43:36,118 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.43s
+2025-08-21 17:43:36,119 INFO run end rows=1
+2025-08-21 17:43:36,119 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Tempest'
+2025-08-21 17:43:36,120 INFO [223/240] Done Tempest, rows=1, ranges=['Thermolaminated Doors and Panels']

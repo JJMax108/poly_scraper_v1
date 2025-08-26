@@ -1,0 +1,11 @@
+2025-08-21 17:39:44,017 INFO [200/240] Processing Grey Oak  https://www.polytec.com.au/colour/grey-oak/
+2025-08-21 17:39:44,017 INFO run start colour=https://www.polytec.com.au/colour/grey-oak/
+2025-08-21 17:39:44,434 INFO colour name: Grey Oak
+2025-08-21 17:39:44,438 INFO finish tabs: 1
+2025-08-21 17:39:44,456 INFO tab 1/1 -> Natura
+2025-08-21 17:39:44,463 INFO items in finish 'Natura': 1
+2025-08-21 17:39:44,463 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:39:48,869 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.41s
+2025-08-21 17:39:48,870 INFO run end rows=1
+2025-08-21 17:39:48,870 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Grey Oak'
+2025-08-21 17:39:48,871 INFO [200/240] Done Grey Oak, rows=1, ranges=['Thermolaminated Doors and Panels']

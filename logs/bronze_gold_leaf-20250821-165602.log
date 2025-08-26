@@ -1,0 +1,27 @@
+2025-08-21 16:56:02,868 INFO [65/240] Processing Bronze Gold Leaf  https://www.polytec.com.au/colour/bronze-gold-leaf/
+2025-08-21 16:56:02,868 INFO run start colour=https://www.polytec.com.au/colour/bronze-gold-leaf/
+2025-08-21 16:56:03,308 INFO colour name: Bronze Gold Leaf
+2025-08-21 16:56:03,312 INFO finish tabs: 1
+2025-08-21 16:56:03,332 INFO tab 1/1 -> Matt
+2025-08-21 16:56:03,364 INFO items in finish 'Matt': 8
+2025-08-21 16:56:03,365 INFO range -> Board Decorative
+2025-08-21 16:56:04,486 INFO row 1: sku=46835 title='MDF 162412 DS Bronze Gold Leaf Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:56:04,486 INFO range -> Edgetape Decorative
+2025-08-21 16:56:05,529 INFO row 2: sku=46816 title='ABS 1mm x 22mm UG 100m Bronze Gold Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:06,576 INFO row 3: sku=46812 title='ABS 1mm x 22mm UG 20m Bronze Gold Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:56:07,602 INFO row 4: sku=51846 title='ABS 1mm x 29mm UG 100m Bronze Gold Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:56:07,603 INFO range -> Laminate
+2025-08-21 16:56:08,641 INFO row 5: sku=47499 title='Laminate Bronze Gold Leaf Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:09,698 INFO row 6: sku=46566 title='Laminate Bronze Gold Leaf Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:56:10,734 INFO row 7: sku=47500 title='Laminate Bronze Gold Leaf Matt Q 1825 x 680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:11,776 INFO row 8: sku=46441 title='Laminate Bronze Gold Leaf Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:11,776 INFO run end rows=8
+2025-08-21 16:56:11,776 INFO csv write: board_decorative.csv sku=46835 colour='Bronze Gold Leaf'
+2025-08-21 16:56:11,777 INFO csv write: edgetape_decorative.csv sku=46816 colour='Bronze Gold Leaf'
+2025-08-21 16:56:11,777 INFO csv write: edgetape_decorative.csv sku=46812 colour='Bronze Gold Leaf'
+2025-08-21 16:56:11,777 INFO csv write: edgetape_decorative.csv sku=51846 colour='Bronze Gold Leaf'
+2025-08-21 16:56:11,777 INFO csv write: laminate.csv sku=47499 colour='Bronze Gold Leaf'
+2025-08-21 16:56:11,777 INFO csv write: laminate.csv sku=46566 colour='Bronze Gold Leaf'
+2025-08-21 16:56:11,778 INFO csv write: laminate.csv sku=47500 colour='Bronze Gold Leaf'
+2025-08-21 16:56:11,778 INFO csv write: laminate.csv sku=46441 colour='Bronze Gold Leaf'
+2025-08-21 16:56:11,778 INFO [65/240] Done Bronze Gold Leaf, rows=8, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

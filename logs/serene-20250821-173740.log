@@ -1,0 +1,35 @@
+2025-08-21 17:37:40,773 INFO [187/240] Processing Serene  https://www.polytec.com.au/colour/serene/
+2025-08-21 17:37:40,773 INFO run start colour=https://www.polytec.com.au/colour/serene/
+2025-08-21 17:37:41,214 INFO colour name: Serene
+2025-08-21 17:37:41,221 INFO finish tabs: 2
+2025-08-21 17:37:41,243 INFO tab 1/2 -> Legato
+2025-08-21 17:37:41,265 INFO items in finish 'Legato': 5
+2025-08-21 17:37:41,265 INFO range -> Board Decorative
+2025-08-21 17:37:42,391 INFO row 1: sku=26765 title='MDF 182412 DS Serene Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:37:43,160 INFO row 2: sku=26766 title='MDF 183112 DS Serene Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:37:43,160 INFO range -> Edgetape Decorative
+2025-08-21 17:37:44,202 INFO row 3: sku=26785 title='ABS 1mm x 21mm UG 100m Serene Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:37:45,253 INFO row 4: sku=26787 title='ABS 1mm x 21mm UG 20m Serene Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:37:46,305 INFO row 5: sku=44243 title='ABS 1mm x 29mm UG 100m Serene Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:37:46,330 INFO tab 2/2 -> Woodmatt
+2025-08-21 17:37:46,348 INFO items in finish 'Woodmatt': 5
+2025-08-21 17:37:46,348 INFO range -> Board Decorative
+2025-08-21 17:37:47,473 INFO row 1: sku=51162 title='MDF 162412 DS Serene Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:37:47,473 INFO range -> Edgetape Decorative
+2025-08-21 17:37:48,516 INFO row 2: sku=51182 title='ABS 1mm x 21mm UG 100m Serene Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:37:49,549 INFO row 3: sku=51167 title='ABS 1mm x 21mm UG 20m Serene Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:37:50,580 INFO row 4: sku=51200 title='ABS 1mm x 29mm UG 100m Serene Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:37:50,581 INFO range -> Laminate
+2025-08-21 17:37:51,622 INFO row 5: sku=51205 title='Laminate Serene Woodmatt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:37:51,622 INFO run end rows=10
+2025-08-21 17:37:51,623 INFO csv write: board_decorative.csv sku=26765 colour='Serene'
+2025-08-21 17:37:51,623 INFO csv write: board_decorative.csv sku=26766 colour='Serene'
+2025-08-21 17:37:51,623 INFO csv write: edgetape_decorative.csv sku=26785 colour='Serene'
+2025-08-21 17:37:51,624 INFO csv write: edgetape_decorative.csv sku=26787 colour='Serene'
+2025-08-21 17:37:51,624 INFO csv write: edgetape_decorative.csv sku=44243 colour='Serene'
+2025-08-21 17:37:51,624 INFO csv write: board_decorative.csv sku=51162 colour='Serene'
+2025-08-21 17:37:51,624 INFO csv write: edgetape_decorative.csv sku=51182 colour='Serene'
+2025-08-21 17:37:51,624 INFO csv write: edgetape_decorative.csv sku=51167 colour='Serene'
+2025-08-21 17:37:51,624 INFO csv write: edgetape_decorative.csv sku=51200 colour='Serene'
+2025-08-21 17:37:51,625 INFO csv write: laminate.csv sku=51205 colour='Serene'
+2025-08-21 17:37:51,626 INFO [187/240] Done Serene, rows=10, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

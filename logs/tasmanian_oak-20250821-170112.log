@@ -1,0 +1,139 @@
+2025-08-21 17:01:12,668 INFO [86/240] Processing Tasmanian Oak  https://www.polytec.com.au/colour/tasmanian-oak/
+2025-08-21 17:01:12,669 INFO run start colour=https://www.polytec.com.au/colour/tasmanian-oak/
+2025-08-21 17:01:13,133 INFO colour name: Tasmanian Oak
+2025-08-21 17:01:13,143 INFO finish tabs: 2
+2025-08-21 17:01:13,165 INFO tab 1/2 -> Matt
+2025-08-21 17:01:13,253 INFO items in finish 'Matt': 13
+2025-08-21 17:01:13,253 INFO range -> Board Decorative
+2025-08-21 17:01:14,415 INFO row 1: sku=53298 title='MDF 162412 DS Tasmanian Oak Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.16s
+2025-08-21 17:01:15,180 INFO row 2: sku=55573 title='MDF 163112 DS Tasmanian Oak Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:01:15,938 INFO row 3: sku=53445 title='Particle 183618 DS Tasmanian Oak Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:01:16,711 INFO row 4: sku=53448 title='LDF 253618 DS Tasmanian Oak Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:01:17,477 INFO row 5: sku=53447 title='LDF 333618 DS Tasmanian Oak Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:01:17,477 INFO range -> Edgetape Decorative
+2025-08-21 17:01:18,530 INFO row 6: sku=53302 title='ABS 1mm x 21mm UG 100m Tasmanian Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:01:19,613 INFO row 7: sku=53303 title='ABS 1mm x 21mm UG 20m Tasmanian Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:01:20,694 INFO row 8: sku=53304 title='ABS 1mm x 29mm UG 100m Tasmanian Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:01:21,748 INFO row 9: sku=53350 title='ABS 1mm x 38mm UG 100m Tasmanian Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:01:21,748 INFO range -> Laminate
+2025-08-21 17:01:22,817 INFO row 10: sku=53313 title='Laminate Tasmanian Oak Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:01:23,892 INFO row 11: sku=53314 title='Laminate Tasmanian Oak Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:01:24,959 INFO row 12: sku=53316 title='Laminate Tasmanian Oak Matt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:01:26,024 INFO row 13: sku=53315 title='Laminate Tasmanian Oak Matt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:01:26,066 INFO tab 2/2 -> Woodmatt
+2025-08-21 17:01:26,191 INFO items in finish 'Woodmatt': 34
+2025-08-21 17:01:26,191 INFO range -> Board Decorative
+2025-08-21 17:01:27,341 INFO row 1: sku=46821 title='MDF 162412 DS Tasmanian Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.15s
+2025-08-21 17:01:28,132 INFO row 2: sku=47248 title='MDF 163112 DS Tasmanian Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:01:28,924 INFO row 3: sku=47447 title='MDF 183618 DS Tasmanian Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:01:29,707 INFO row 4: sku=47277 title='MDF 322412 DS Tasmanian Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:01:30,492 INFO row 5: sku=47263 title='MDF 252412 DS Tasmanian Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:01:31,278 INFO row 6: sku=47475 title='LDF 333618 DS Tasmanian Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:01:32,081 INFO row 7: sku=58093 title='MDF 092712 DS Tasmanian Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:01:32,880 INFO row 8: sku=47461 title='LDF 253618 DS Tasmanian Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:01:32,880 INFO range -> Edgetape Decorative
+2025-08-21 17:01:33,678 INFO row 9: sku=46762 title='ABS 1mm x 21mm UG 100m Tasmanian Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:01:34,451 INFO row 10: sku=46799 title='ABS 1mm x 21mm UG 20m Tasmanian Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:01:35,538 INFO row 11: sku=47378 title='ABS 1mm x 38mm UG 100m Tasmanian Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:01:36,600 INFO row 12: sku=47210 title='ABS 1mm x 29mm UG 100m Tasmanian Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:01:37,672 INFO row 13: sku=47629 title='ABS 1mm x 55mm UG 20m Tasmanian Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:01:38,457 INFO row 14: sku=47639 title='ABS 1mm x 55mm UG 100m Tasmanian Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:01:38,457 INFO range -> Laminate
+2025-08-21 17:01:39,539 INFO row 15: sku=48515 title='Laminate Tasmanian Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:01:40,623 INFO row 16: sku=48636 title='Laminate Tasmanian Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:01:41,682 INFO row 17: sku=48650 title='Laminate Tasmanian Oak Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:01:42,753 INFO row 18: sku=48613 title='Laminate Tasmanian Oak Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:01:42,753 INFO range -> Compact
+2025-08-21 17:01:43,541 INFO row 19: sku=55438 title='Compact Laminate Tasmanian Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:01:44,317 INFO row 20: sku=52507 title='Compact Laminate Tasmanian Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:01:44,317 INFO range -> Architectural
+2025-08-21 17:01:44,719 INFO MOQ for SKU 51551 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:44,719 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:45,438 INFO row 21: sku=51551 title='Steccawood 17x34x3600 MDF MR E0 Tasmanian Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.12s
+2025-08-21 17:01:45,801 INFO MOQ for SKU 47791 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:45,801 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:46,527 INFO row 22: sku=47791 title='Steccawood 17x38x3600 MDF MR E0 Tasmanian Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:01:46,872 INFO MOQ for SKU 47831 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:46,872 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:47,577 INFO row 23: sku=47831 title='Steccawood 31x31x3600 MDF MR E0 Tasmanian Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 17:01:47,936 INFO MOQ for SKU 52996 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:47,936 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:48,658 INFO row 24: sku=52996 title='Steccawood 24x48x3600 MDF MR E0 Tasmanian Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:01:49,018 INFO MOQ for SKU 55178 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:49,018 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:49,738 INFO row 25: sku=55178 title='Steccawood 17x34x3600 MDF MR E0 Tasmanian Oak Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:01:50,107 INFO MOQ for SKU 47842 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:50,108 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:50,827 INFO row 26: sku=47842 title='Steccawood 31x65x3600 MDF MR E0 Tasmanian Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:01:51,209 INFO MOQ for SKU 47876 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:51,210 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:51,928 INFO row 27: sku=47876 title='Steccawood 50x100x3600 LDF MR E0 Tasmanian Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.10s
+2025-08-21 17:01:52,307 INFO MOQ for SKU 48908 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:52,307 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:53,146 INFO row 28: sku=48908 title='Steccawood 40x100x3600 LDF MR E0 Tasmanian Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.22s
+2025-08-21 17:01:53,519 INFO MOQ for SKU 47860 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:53,519 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:54,290 INFO row 29: sku=47860 title='Steccawood 50x70x3600 LDF MR E0 Tasmanian Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.14s
+2025-08-21 17:01:54,672 INFO MOQ for SKU 51552 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:54,672 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:55,492 INFO row 30: sku=51552 title='Steccawood 31x62x3600 MDF MR E0 Tasmanian Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.20s
+2025-08-21 17:01:55,558 INFO MOQ for SKU 56940 min=5 step=1 qty 1 -> 5
+2025-08-21 17:01:55,558 INFO MOQ hint: Ordering details .
+2025-08-21 17:01:55,559 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:01:56,275 INFO row 31: sku=56940 title='Steccawood 24x34x3600 MDF MR E0 Tasmanian Oak Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.78s
+2025-08-21 17:01:56,275 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:02:00,765 INFO row 32: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.49s
+2025-08-21 17:02:00,766 INFO range -> Architectural Internal Doors
+2025-08-21 17:02:05,235 INFO row 33: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.47s
+2025-08-21 17:02:05,235 INFO range -> Alfresco Doors
+2025-08-21 17:02:09,727 INFO row 34: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.49s
+2025-08-21 17:02:09,728 INFO run end rows=47
+2025-08-21 17:02:09,729 INFO csv write: board_decorative.csv sku=53298 colour='Tasmanian Oak'
+2025-08-21 17:02:09,730 INFO csv write: board_decorative.csv sku=55573 colour='Tasmanian Oak'
+2025-08-21 17:02:09,730 INFO csv write: board_decorative.csv sku=53445 colour='Tasmanian Oak'
+2025-08-21 17:02:09,730 INFO csv write: board_decorative.csv sku=53448 colour='Tasmanian Oak'
+2025-08-21 17:02:09,730 INFO csv write: board_decorative.csv sku=53447 colour='Tasmanian Oak'
+2025-08-21 17:02:09,731 INFO csv write: edgetape_decorative.csv sku=53302 colour='Tasmanian Oak'
+2025-08-21 17:02:09,731 INFO csv write: edgetape_decorative.csv sku=53303 colour='Tasmanian Oak'
+2025-08-21 17:02:09,731 INFO csv write: edgetape_decorative.csv sku=53304 colour='Tasmanian Oak'
+2025-08-21 17:02:09,732 INFO csv write: edgetape_decorative.csv sku=53350 colour='Tasmanian Oak'
+2025-08-21 17:02:09,732 INFO csv write: laminate.csv sku=53313 colour='Tasmanian Oak'
+2025-08-21 17:02:09,733 INFO csv write: laminate.csv sku=53314 colour='Tasmanian Oak'
+2025-08-21 17:02:09,733 INFO csv write: laminate.csv sku=53316 colour='Tasmanian Oak'
+2025-08-21 17:02:09,733 INFO csv write: laminate.csv sku=53315 colour='Tasmanian Oak'
+2025-08-21 17:02:09,733 INFO csv write: board_decorative.csv sku=46821 colour='Tasmanian Oak'
+2025-08-21 17:02:09,734 INFO csv write: board_decorative.csv sku=47248 colour='Tasmanian Oak'
+2025-08-21 17:02:09,734 INFO csv write: board_decorative.csv sku=47447 colour='Tasmanian Oak'
+2025-08-21 17:02:09,734 INFO csv write: board_decorative.csv sku=47277 colour='Tasmanian Oak'
+2025-08-21 17:02:09,734 INFO csv write: board_decorative.csv sku=47263 colour='Tasmanian Oak'
+2025-08-21 17:02:09,735 INFO csv write: board_decorative.csv sku=47475 colour='Tasmanian Oak'
+2025-08-21 17:02:09,735 INFO csv write: board_decorative.csv sku=58093 colour='Tasmanian Oak'
+2025-08-21 17:02:09,736 INFO csv write: board_decorative.csv sku=47461 colour='Tasmanian Oak'
+2025-08-21 17:02:09,736 INFO csv write: edgetape_decorative.csv sku=46762 colour='Tasmanian Oak'
+2025-08-21 17:02:09,736 INFO csv write: edgetape_decorative.csv sku=46799 colour='Tasmanian Oak'
+2025-08-21 17:02:09,736 INFO csv write: edgetape_decorative.csv sku=47378 colour='Tasmanian Oak'
+2025-08-21 17:02:09,737 INFO csv write: edgetape_decorative.csv sku=47210 colour='Tasmanian Oak'
+2025-08-21 17:02:09,737 INFO csv write: edgetape_decorative.csv sku=47629 colour='Tasmanian Oak'
+2025-08-21 17:02:09,743 INFO csv header grew: edgetape_decorative.csv added=['pack_size']
+2025-08-21 17:02:09,743 INFO csv write: edgetape_decorative.csv sku=47639 colour='Tasmanian Oak'
+2025-08-21 17:02:09,745 INFO csv write: laminate.csv sku=48515 colour='Tasmanian Oak'
+2025-08-21 17:02:09,745 INFO csv write: laminate.csv sku=48636 colour='Tasmanian Oak'
+2025-08-21 17:02:09,746 INFO csv write: laminate.csv sku=48650 colour='Tasmanian Oak'
+2025-08-21 17:02:09,753 INFO csv write: laminate.csv sku=48613 colour='Tasmanian Oak'
+2025-08-21 17:02:09,757 INFO csv write: compact.csv sku=55438 colour='Tasmanian Oak'
+2025-08-21 17:02:09,758 INFO csv write: compact.csv sku=52507 colour='Tasmanian Oak'
+2025-08-21 17:02:09,760 INFO csv write: architectural.csv sku=51551 colour='Tasmanian Oak'
+2025-08-21 17:02:09,760 INFO csv write: architectural.csv sku=47791 colour='Tasmanian Oak'
+2025-08-21 17:02:09,761 INFO csv write: architectural.csv sku=47831 colour='Tasmanian Oak'
+2025-08-21 17:02:09,761 INFO csv write: architectural.csv sku=52996 colour='Tasmanian Oak'
+2025-08-21 17:02:09,762 INFO csv write: architectural.csv sku=55178 colour='Tasmanian Oak'
+2025-08-21 17:02:09,762 INFO csv write: architectural.csv sku=47842 colour='Tasmanian Oak'
+2025-08-21 17:02:09,762 INFO csv write: architectural.csv sku=47876 colour='Tasmanian Oak'
+2025-08-21 17:02:09,762 INFO csv write: architectural.csv sku=48908 colour='Tasmanian Oak'
+2025-08-21 17:02:09,762 INFO csv write: architectural.csv sku=47860 colour='Tasmanian Oak'
+2025-08-21 17:02:09,763 INFO csv write: architectural.csv sku=51552 colour='Tasmanian Oak'
+2025-08-21 17:02:09,763 INFO csv write: architectural.csv sku=56940 colour='Tasmanian Oak'
+2025-08-21 17:02:09,763 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Tasmanian Oak'
+2025-08-21 17:02:09,764 INFO csv write: architectural_internal_doors.csv sku= colour='Tasmanian Oak'
+2025-08-21 17:02:09,764 INFO csv write: alfresco_doors.csv sku= colour='Tasmanian Oak'
+2025-08-21 17:02:09,765 INFO [86/240] Done Tasmanian Oak, rows=47, ranges=['Alfresco Doors', 'Architectural', 'Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

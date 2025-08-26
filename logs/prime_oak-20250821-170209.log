@@ -1,0 +1,141 @@
+2025-08-21 17:02:09,827 INFO [87/240] Processing Prime Oak  https://www.polytec.com.au/colour/prime-oak/
+2025-08-21 17:02:09,828 INFO run start colour=https://www.polytec.com.au/colour/prime-oak/
+2025-08-21 17:02:10,368 INFO colour name: Prime Oak
+2025-08-21 17:02:10,379 INFO finish tabs: 2
+2025-08-21 17:02:10,414 INFO tab 1/2 -> Matt
+2025-08-21 17:02:10,511 INFO items in finish 'Matt': 14
+2025-08-21 17:02:10,511 INFO range -> Board Decorative
+2025-08-21 17:02:11,665 INFO row 1: sku=53299 title='MDF 162412 DS Prime Oak Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.15s
+2025-08-21 17:02:12,457 INFO row 2: sku=55572 title='MDF 163112 DS Prime Oak Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:02:13,231 INFO row 3: sku=53449 title='Particle 183618 DS Prime Oak Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:02:14,014 INFO row 4: sku=53439 title='LDF 253618 DS Prime Oak Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:14,799 INFO row 5: sku=53450 title='LDF 333618 DS Prime Oak Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:14,799 INFO range -> Edgetape Decorative
+2025-08-21 17:02:15,874 INFO row 6: sku=53306 title='ABS 1mm x 21mm UG 100m Prime Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:02:16,984 INFO row 7: sku=53307 title='ABS 1mm x 21mm UG 20m Prime Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:02:18,061 INFO row 8: sku=53351 title='ABS 1mm x 38mm UG 100m Prime Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:02:19,140 INFO row 9: sku=53308 title='ABS 1mm x 29mm UG 100m Prime Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:02:19,140 INFO range -> Laminate
+2025-08-21 17:02:20,244 INFO row 10: sku=53317 title='Laminate Prime Oak Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:02:21,310 INFO row 11: sku=53318 title='Laminate Prime Oak Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:02:22,372 INFO row 12: sku=53321 title='Laminate Prime Oak Matt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:02:23,431 INFO row 13: sku=53319 title='Laminate Prime Oak Matt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:02:23,431 INFO range -> Compact
+2025-08-21 17:02:24,214 INFO row 14: sku=55214 title='Compact Laminate Prime Oak Matt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:24,255 INFO tab 2/2 -> Woodmatt
+2025-08-21 17:02:24,385 INFO items in finish 'Woodmatt': 34
+2025-08-21 17:02:24,385 INFO range -> Board Decorative
+2025-08-21 17:02:25,391 INFO row 1: sku=46822 title='MDF 162412 DS Prime Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.00s
+2025-08-21 17:02:26,172 INFO row 2: sku=47247 title='MDF 163112 DS Prime Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:26,954 INFO row 3: sku=47446 title='MDF 183618 DS Prime Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:27,737 INFO row 4: sku=47276 title='MDF 322412 DS Prime Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:28,518 INFO row 5: sku=47262 title='MDF 252412 DS Prime Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:29,301 INFO row 6: sku=47474 title='LDF 333618 DS Prime Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:30,075 INFO row 7: sku=47460 title='LDF 253618 DS Prime Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:02:30,861 INFO row 8: sku=58088 title='MDF 092712 DS Prime Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:02:30,861 INFO range -> Edgetape Decorative
+2025-08-21 17:02:31,659 INFO row 9: sku=46763 title='ABS 1mm x 21mm UG 100m Prime Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:02:32,464 INFO row 10: sku=46800 title='ABS 1mm x 21mm UG 20m Prime Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:02:33,557 INFO row 11: sku=47379 title='ABS 1mm x 38mm UG 100m Prime Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:02:34,615 INFO row 12: sku=47211 title='ABS 1mm x 29mm UG 100m Prime Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:02:35,695 INFO row 13: sku=47628 title='ABS 1mm x 55mm UG 20m Prime Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:02:36,754 INFO row 14: sku=47638 title='ABS 1mm x 55mm UG 100m Prime Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:02:36,754 INFO range -> Laminate
+2025-08-21 17:02:37,817 INFO row 15: sku=48516 title='Laminate Prime Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:02:38,883 INFO row 16: sku=48637 title='Laminate Prime Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:02:39,969 INFO row 17: sku=48651 title='Laminate Prime Oak Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:02:41,026 INFO row 18: sku=48614 title='Laminate Prime Oak Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:02:41,027 INFO range -> Compact
+2025-08-21 17:02:41,826 INFO row 19: sku=47186 title='Compact Laminate Prime Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:02:42,606 INFO row 20: sku=55434 title='Compact Laminate Prime Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:02:42,606 INFO range -> Architectural
+2025-08-21 17:02:42,968 INFO MOQ for SKU 51549 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:42,968 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:43,688 INFO row 21: sku=51549 title='Steccawood 17x34x3600 MDF MR E0 Prime Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:02:44,052 INFO MOQ for SKU 47790 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:44,052 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:44,771 INFO row 22: sku=47790 title='Steccawood 17x38x3600 MDF MR E0 Prime Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:02:45,118 INFO MOQ for SKU 55177 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:45,118 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:45,837 INFO row 23: sku=55177 title='Steccawood 17x34x3600 MDF MR E0 Prime Oak Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:02:46,203 INFO MOQ for SKU 47830 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:46,203 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:46,927 INFO row 24: sku=47830 title='Steccawood 31x31x3600 MDF MR E0 Prime Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:02:47,302 INFO MOQ for SKU 52995 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:47,302 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:48,021 INFO row 25: sku=52995 title='Steccawood 24x48x3600 MDF MR E0 Prime Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:02:48,377 INFO MOQ for SKU 51550 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:48,377 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:49,094 INFO row 26: sku=51550 title='Steccawood 31x62x3600 MDF MR E0 Prime Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:02:49,468 INFO MOQ for SKU 47840 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:49,468 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:50,184 INFO row 27: sku=47840 title='Steccawood 31x65x3600 MDF MR E0 Prime Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:02:50,547 INFO MOQ for SKU 48907 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:50,547 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:51,265 INFO row 28: sku=48907 title='Steccawood 40x100x3600 LDF MR E0 Prime Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:02:51,341 INFO MOQ for SKU 56939 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:51,341 INFO MOQ hint: Ordering details .
+2025-08-21 17:02:51,341 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:52,053 INFO row 29: sku=56939 title='Steccawood 24x34x3600 MDF MR E0 Prime Oak Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.79s
+2025-08-21 17:02:52,418 INFO MOQ for SKU 47874 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:52,419 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:53,137 INFO row 30: sku=47874 title='Steccawood 50x100x3600 LDF MR E0 Prime Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:02:53,497 INFO MOQ for SKU 47858 min=5 step=1 qty 1 -> 5
+2025-08-21 17:02:53,497 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:02:54,218 INFO row 31: sku=47858 title='Steccawood 50x70x3600 LDF MR E0 Prime Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:02:54,219 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:02:58,679 INFO row 32: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.46s
+2025-08-21 17:02:58,679 INFO range -> Architectural Internal Doors
+2025-08-21 17:03:03,150 INFO row 33: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.47s
+2025-08-21 17:03:03,150 INFO range -> Alfresco Doors
+2025-08-21 17:03:07,616 INFO row 34: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.47s
+2025-08-21 17:03:07,616 INFO run end rows=48
+2025-08-21 17:03:07,617 INFO csv write: board_decorative.csv sku=53299 colour='Prime Oak'
+2025-08-21 17:03:07,617 INFO csv write: board_decorative.csv sku=55572 colour='Prime Oak'
+2025-08-21 17:03:07,617 INFO csv write: board_decorative.csv sku=53449 colour='Prime Oak'
+2025-08-21 17:03:07,618 INFO csv write: board_decorative.csv sku=53439 colour='Prime Oak'
+2025-08-21 17:03:07,618 INFO csv write: board_decorative.csv sku=53450 colour='Prime Oak'
+2025-08-21 17:03:07,618 INFO csv write: edgetape_decorative.csv sku=53306 colour='Prime Oak'
+2025-08-21 17:03:07,618 INFO csv write: edgetape_decorative.csv sku=53307 colour='Prime Oak'
+2025-08-21 17:03:07,619 INFO csv write: edgetape_decorative.csv sku=53351 colour='Prime Oak'
+2025-08-21 17:03:07,619 INFO csv write: edgetape_decorative.csv sku=53308 colour='Prime Oak'
+2025-08-21 17:03:07,619 INFO csv write: laminate.csv sku=53317 colour='Prime Oak'
+2025-08-21 17:03:07,619 INFO csv write: laminate.csv sku=53318 colour='Prime Oak'
+2025-08-21 17:03:07,619 INFO csv write: laminate.csv sku=53321 colour='Prime Oak'
+2025-08-21 17:03:07,620 INFO csv write: laminate.csv sku=53319 colour='Prime Oak'
+2025-08-21 17:03:07,620 INFO csv write: compact.csv sku=55214 colour='Prime Oak'
+2025-08-21 17:03:07,620 INFO csv write: board_decorative.csv sku=46822 colour='Prime Oak'
+2025-08-21 17:03:07,620 INFO csv write: board_decorative.csv sku=47247 colour='Prime Oak'
+2025-08-21 17:03:07,621 INFO csv write: board_decorative.csv sku=47446 colour='Prime Oak'
+2025-08-21 17:03:07,621 INFO csv write: board_decorative.csv sku=47276 colour='Prime Oak'
+2025-08-21 17:03:07,621 INFO csv write: board_decorative.csv sku=47262 colour='Prime Oak'
+2025-08-21 17:03:07,621 INFO csv write: board_decorative.csv sku=47474 colour='Prime Oak'
+2025-08-21 17:03:07,621 INFO csv write: board_decorative.csv sku=47460 colour='Prime Oak'
+2025-08-21 17:03:07,622 INFO csv write: board_decorative.csv sku=58088 colour='Prime Oak'
+2025-08-21 17:03:07,622 INFO csv write: edgetape_decorative.csv sku=46763 colour='Prime Oak'
+2025-08-21 17:03:07,622 INFO csv write: edgetape_decorative.csv sku=46800 colour='Prime Oak'
+2025-08-21 17:03:07,622 INFO csv write: edgetape_decorative.csv sku=47379 colour='Prime Oak'
+2025-08-21 17:03:07,623 INFO csv write: edgetape_decorative.csv sku=47211 colour='Prime Oak'
+2025-08-21 17:03:07,623 INFO csv write: edgetape_decorative.csv sku=47628 colour='Prime Oak'
+2025-08-21 17:03:07,623 INFO csv write: edgetape_decorative.csv sku=47638 colour='Prime Oak'
+2025-08-21 17:03:07,623 INFO csv write: laminate.csv sku=48516 colour='Prime Oak'
+2025-08-21 17:03:07,623 INFO csv write: laminate.csv sku=48637 colour='Prime Oak'
+2025-08-21 17:03:07,624 INFO csv write: laminate.csv sku=48651 colour='Prime Oak'
+2025-08-21 17:03:07,624 INFO csv write: laminate.csv sku=48614 colour='Prime Oak'
+2025-08-21 17:03:07,624 INFO csv write: compact.csv sku=47186 colour='Prime Oak'
+2025-08-21 17:03:07,624 INFO csv write: compact.csv sku=55434 colour='Prime Oak'
+2025-08-21 17:03:07,624 INFO csv write: architectural.csv sku=51549 colour='Prime Oak'
+2025-08-21 17:03:07,625 INFO csv write: architectural.csv sku=47790 colour='Prime Oak'
+2025-08-21 17:03:07,625 INFO csv write: architectural.csv sku=55177 colour='Prime Oak'
+2025-08-21 17:03:07,625 INFO csv write: architectural.csv sku=47830 colour='Prime Oak'
+2025-08-21 17:03:07,625 INFO csv write: architectural.csv sku=52995 colour='Prime Oak'
+2025-08-21 17:03:07,625 INFO csv write: architectural.csv sku=51550 colour='Prime Oak'
+2025-08-21 17:03:07,626 INFO csv write: architectural.csv sku=47840 colour='Prime Oak'
+2025-08-21 17:03:07,626 INFO csv write: architectural.csv sku=48907 colour='Prime Oak'
+2025-08-21 17:03:07,626 INFO csv write: architectural.csv sku=56939 colour='Prime Oak'
+2025-08-21 17:03:07,626 INFO csv write: architectural.csv sku=47874 colour='Prime Oak'
+2025-08-21 17:03:07,626 INFO csv write: architectural.csv sku=47858 colour='Prime Oak'
+2025-08-21 17:03:07,627 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Prime Oak'
+2025-08-21 17:03:07,627 INFO csv write: architectural_internal_doors.csv sku= colour='Prime Oak'
+2025-08-21 17:03:07,627 INFO csv write: alfresco_doors.csv sku= colour='Prime Oak'
+2025-08-21 17:03:07,627 INFO [87/240] Done Prime Oak, rows=48, ranges=['Alfresco Doors', 'Architectural', 'Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

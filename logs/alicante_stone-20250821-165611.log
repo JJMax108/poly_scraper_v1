@@ -1,0 +1,20 @@
+2025-08-21 16:56:11,841 INFO [66/240] Processing Alicante Stone  https://www.polytec.com.au/colour/alicante-stone/
+2025-08-21 16:56:11,841 INFO run start colour=https://www.polytec.com.au/colour/alicante-stone/
+2025-08-21 16:56:12,218 INFO colour name: Alicante Stone
+2025-08-21 16:56:12,222 INFO finish tabs: 1
+2025-08-21 16:56:12,245 INFO tab 1/1 -> Smooth
+2025-08-21 16:56:12,263 INFO items in finish 'Smooth': 5
+2025-08-21 16:56:12,263 INFO range -> Laminate
+2025-08-21 16:56:13,384 INFO row 1: sku=48984 title='Laminate Alicante Stone Smooth 0.7mm 3650x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:56:14,425 INFO row 2: sku=48985 title='Laminate Alicante Stone Smooth HL 0.7mm 3650x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:56:15,457 INFO row 3: sku=48987 title='Laminate Alicante Stone Smooth Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:56:16,485 INFO row 4: sku=48986 title='Laminate Alicante Stone Smooth HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:56:16,485 INFO range -> Compact
+2025-08-21 16:56:17,247 INFO row 5: sku=48979 title='Compact Laminate Alicante Stone Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:56:17,247 INFO run end rows=5
+2025-08-21 16:56:17,248 INFO csv write: laminate.csv sku=48984 colour='Alicante Stone'
+2025-08-21 16:56:17,248 INFO csv write: laminate.csv sku=48985 colour='Alicante Stone'
+2025-08-21 16:56:17,248 INFO csv write: laminate.csv sku=48987 colour='Alicante Stone'
+2025-08-21 16:56:17,248 INFO csv write: laminate.csv sku=48986 colour='Alicante Stone'
+2025-08-21 16:56:17,248 INFO csv write: compact.csv sku=48979 colour='Alicante Stone'
+2025-08-21 16:56:17,249 INFO [66/240] Done Alicante Stone, rows=5, ranges=['Compact', 'Laminate']

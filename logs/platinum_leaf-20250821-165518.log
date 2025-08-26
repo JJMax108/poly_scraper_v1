@@ -1,0 +1,27 @@
+2025-08-21 16:55:18,101 INFO [60/240] Processing Platinum Leaf  https://www.polytec.com.au/colour/platinum-leaf/
+2025-08-21 16:55:18,102 INFO run start colour=https://www.polytec.com.au/colour/platinum-leaf/
+2025-08-21 16:55:18,418 INFO colour name: Platinum Leaf
+2025-08-21 16:55:18,423 INFO finish tabs: 1
+2025-08-21 16:55:18,444 INFO tab 1/1 -> Matt
+2025-08-21 16:55:18,472 INFO items in finish 'Matt': 8
+2025-08-21 16:55:18,472 INFO range -> Board Decorative
+2025-08-21 16:55:19,597 INFO row 1: sku=46831 title='MDF 162412 DS Platinum Leaf Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:55:19,597 INFO range -> Edgetape Decorative
+2025-08-21 16:55:20,638 INFO row 2: sku=46790 title='ABS 1mm x 22mm UG 100m Platinum Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:21,674 INFO row 3: sku=46808 title='ABS 1mm x 22mm UG 20m Platinum Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:22,730 INFO row 4: sku=51849 title='ABS 1mm x 29mm UG 100m Platinum Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:55:22,730 INFO range -> Laminate
+2025-08-21 16:55:23,778 INFO row 5: sku=46437 title='Laminate Platinum Leaf Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:55:24,832 INFO row 6: sku=46561 title='Laminate Platinum Leaf Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:55:25,876 INFO row 7: sku=47495 title='Laminate Platinum Leaf Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:26,911 INFO row 8: sku=46580 title='Laminate Platinum Leaf Matt HS 1825 x 1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:55:26,911 INFO run end rows=8
+2025-08-21 16:55:26,912 INFO csv write: board_decorative.csv sku=46831 colour='Platinum Leaf'
+2025-08-21 16:55:26,912 INFO csv write: edgetape_decorative.csv sku=46790 colour='Platinum Leaf'
+2025-08-21 16:55:26,912 INFO csv write: edgetape_decorative.csv sku=46808 colour='Platinum Leaf'
+2025-08-21 16:55:26,913 INFO csv write: edgetape_decorative.csv sku=51849 colour='Platinum Leaf'
+2025-08-21 16:55:26,913 INFO csv write: laminate.csv sku=46437 colour='Platinum Leaf'
+2025-08-21 16:55:26,913 INFO csv write: laminate.csv sku=46561 colour='Platinum Leaf'
+2025-08-21 16:55:26,913 INFO csv write: laminate.csv sku=47495 colour='Platinum Leaf'
+2025-08-21 16:55:26,913 INFO csv write: laminate.csv sku=46580 colour='Platinum Leaf'
+2025-08-21 16:55:26,914 INFO [60/240] Done Platinum Leaf, rows=8, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

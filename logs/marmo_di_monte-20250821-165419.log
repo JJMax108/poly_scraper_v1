@@ -1,0 +1,54 @@
+2025-08-21 16:54:19,840 INFO [52/240] Processing Marmo di Monte  https://www.polytec.com.au/colour/marmo-di-monte/
+2025-08-21 16:54:19,840 INFO run start colour=https://www.polytec.com.au/colour/marmo-di-monte/
+2025-08-21 16:54:20,158 INFO colour name: Marmo di Monte
+2025-08-21 16:54:20,163 INFO finish tabs: 1
+2025-08-21 16:54:20,186 INFO tab 1/1 -> Smooth
+2025-08-21 16:54:20,237 INFO items in finish 'Smooth': 13
+2025-08-21 16:54:20,237 INFO range -> Laminate
+2025-08-21 16:54:21,325 INFO row 1: sku=52109 title='Laminate Marmo di Monte Smooth 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 16:54:22,380 INFO row 2: sku=52880 title='Laminate Marmo di Monte Smooth HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:54:23,435 INFO row 3: sku=52882 title='Laminate Marmo di Monte Smooth Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:54:24,482 INFO row 4: sku=52881 title='Laminate Marmo di Monte Smooth HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:54:24,482 INFO range -> Compact
+2025-08-21 16:54:25,259 INFO row 5: sku=52172 title='Compact Laminate Marmo di Monte Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:54:25,260 INFO range -> Architectural
+2025-08-21 16:54:25,614 INFO MOQ for SKU 56342 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:25,614 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:26,321 INFO row 6: sku=56342 title='Steccawood 17x38x3600 MDF MR E0 Marmo di Monte' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 16:54:26,389 INFO MOQ for SKU 56950 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:26,389 INFO MOQ hint: Ordering details .
+2025-08-21 16:54:26,389 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:27,094 INFO row 7: sku=56950 title='Steccawood 24x34x3600 MDF MR E0 Marmo di Monte Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.77s
+2025-08-21 16:54:27,447 INFO MOQ for SKU 56343 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:27,448 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:28,154 INFO row 8: sku=56343 title='Steccawood 31x31x3600 MDF MR E0 Marmo di Monte' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 16:54:28,493 INFO MOQ for SKU 56350 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:28,493 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:29,198 INFO row 9: sku=56350 title='Steccawood 31x62x3600 MDF MR E0 Marmo di Monte Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.04s
+2025-08-21 16:54:29,546 INFO MOQ for SKU 56349 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:29,546 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:30,256 INFO row 10: sku=56349 title='Steccawood 17x34x3600 MDF MR E0 Marmo di Monte Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 16:54:30,595 INFO MOQ for SKU 56351 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:30,595 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:31,304 INFO row 11: sku=56351 title='Steccawood 24x48x3600 MDF MR E0 Marmo di Monte Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 16:54:31,666 INFO MOQ for SKU 56352 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:31,667 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:32,375 INFO row 12: sku=56352 title='Steccawood 17x34x3600 MDF MR E0 Marmo di Monte Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 16:54:32,375 INFO range -> Solid Core
+2025-08-21 16:54:33,142 INFO row 13: sku=53833 title='Xenolith Marmo di Monte Smooth Solid Core 3660x1830 15mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:54:33,142 INFO run end rows=13
+2025-08-21 16:54:33,142 INFO csv write: laminate.csv sku=52109 colour='Marmo di Monte'
+2025-08-21 16:54:33,143 INFO csv write: laminate.csv sku=52880 colour='Marmo di Monte'
+2025-08-21 16:54:33,143 INFO csv write: laminate.csv sku=52882 colour='Marmo di Monte'
+2025-08-21 16:54:33,143 INFO csv write: laminate.csv sku=52881 colour='Marmo di Monte'
+2025-08-21 16:54:33,143 INFO csv write: compact.csv sku=52172 colour='Marmo di Monte'
+2025-08-21 16:54:33,144 INFO csv write: architectural.csv sku=56342 colour='Marmo di Monte'
+2025-08-21 16:54:33,144 INFO csv write: architectural.csv sku=56950 colour='Marmo di Monte'
+2025-08-21 16:54:33,144 INFO csv write: architectural.csv sku=56343 colour='Marmo di Monte'
+2025-08-21 16:54:33,144 INFO csv write: architectural.csv sku=56350 colour='Marmo di Monte'
+2025-08-21 16:54:33,144 INFO csv write: architectural.csv sku=56349 colour='Marmo di Monte'
+2025-08-21 16:54:33,145 INFO csv write: architectural.csv sku=56351 colour='Marmo di Monte'
+2025-08-21 16:54:33,145 INFO csv write: architectural.csv sku=56352 colour='Marmo di Monte'
+2025-08-21 16:54:33,145 INFO csv new: solid_core.csv
+2025-08-21 16:54:33,145 INFO csv write: solid_core.csv sku=53833 colour='Marmo di Monte'
+2025-08-21 16:54:33,145 INFO [52/240] Done Marmo di Monte, rows=13, ranges=['Architectural', 'Compact', 'Laminate', 'Solid Core']

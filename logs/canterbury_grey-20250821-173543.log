@@ -1,0 +1,71 @@
+2025-08-21 17:35:43,880 INFO [179/240] Processing Canterbury Grey  https://www.polytec.com.au/colour/canterbury-grey/
+2025-08-21 17:35:43,880 INFO run start colour=https://www.polytec.com.au/colour/canterbury-grey/
+2025-08-21 17:35:44,308 INFO colour name: Canterbury Grey
+2025-08-21 17:35:44,325 INFO finish tabs: 4
+2025-08-21 17:35:44,347 INFO tab 1/4 -> Matt
+2025-08-21 17:35:44,405 INFO items in finish 'Matt': 9
+2025-08-21 17:35:44,405 INFO range -> Board Decorative
+2025-08-21 17:35:45,537 INFO row 1: sku=46830 title='MDF 162412 DS Canterbury Grey Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:35:46,286 INFO row 2: sku=53219 title='Particle 183618 DS Canterbury Grey Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:35:47,042 INFO row 3: sku=53458 title='LDF 253618 DS Canterbury Grey Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:35:47,816 INFO row 4: sku=53459 title='LDF 333618 DS Canterbury Grey Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:35:47,816 INFO range -> Edgetape Decorative
+2025-08-21 17:35:48,584 INFO row 5: sku=46591 title='ABS 1mm x 21mm UG 100m Canterbury Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:35:49,353 INFO row 6: sku=46794 title='ABS 1mm x 21mm UG 20m Canterbury Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:35:50,388 INFO row 7: sku=48581 title='ABS 1mm x 29mm UG 100m Canterbury Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:35:51,149 INFO row 8: sku=53462 title='ABS 1mm x 38mm UG 100m Canterbury Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:35:51,149 INFO range -> Laminate
+2025-08-21 17:35:52,189 INFO row 9: sku=47657 title='Laminate Canterbury Grey Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:35:52,222 INFO tab 2/4 -> Ravine
+2025-08-21 17:35:52,255 INFO items in finish 'Ravine': 9
+2025-08-21 17:35:52,255 INFO range -> Board Decorative
+2025-08-21 17:35:53,383 INFO row 1: sku=55646 title='MDF 252412 DS Canterbury Grey Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:35:54,148 INFO row 2: sku=55644 title='MDF 182412 DS Canterbury Grey Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:35:54,913 INFO row 3: sku=55645 title='MDF 183112 DS Canterbury Grey Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:35:55,677 INFO row 4: sku=55647 title='MDF 322412 DS Canterbury Grey Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:35:55,677 INFO range -> Edgetape Decorative
+2025-08-21 17:35:56,727 INFO row 5: sku=55652 title='ABS 1mm x 29mm UG 100m Canterbury Grey Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:35:57,780 INFO row 6: sku=55649 title='ABS 1mm x 22mm UG 100m Canterbury Grey Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:35:58,822 INFO row 7: sku=55653 title='ABS 1mm x 38mm UG 100m Canterbury Grey Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:35:59,875 INFO row 8: sku=55651 title='ABS 1mm x 22mm UG 20m Canterbury Grey Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:35:59,875 INFO range -> Laminate
+2025-08-21 17:36:00,932 INFO row 9: sku=55654 title='Laminate Canterbury Grey Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:36:00,960 INFO tab 3/4 -> Smooth
+2025-08-21 17:36:00,969 INFO items in finish 'Smooth': 1
+2025-08-21 17:36:00,970 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:36:05,406 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:36:05,448 INFO tab 4/4 -> Venette
+2025-08-21 17:36:05,470 INFO items in finish 'Venette': 5
+2025-08-21 17:36:05,470 INFO range -> Board Decorative
+2025-08-21 17:36:06,222 INFO row 1: sku=48793 title='MDF 182412 SS Canterbury Grey Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:36:06,977 INFO row 2: sku=47483 title='MDF 182412 DS Canterbury Grey Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:36:06,978 INFO range -> Edgetape Decorative
+2025-08-21 17:36:08,019 INFO row 3: sku=46893 title='ABS 1mm x 21mm UG 100m Canterbury Grey Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:36:09,074 INFO row 4: sku=46898 title='ABS 1mm x 21mm UG 20m Canterbury Grey Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:36:10,121 INFO row 5: sku=48977 title='ABS 1mm x 29mm UG 100m Canterbury Grey Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:36:10,121 INFO run end rows=24
+2025-08-21 17:36:10,122 INFO csv write: board_decorative.csv sku=46830 colour='Canterbury Grey'
+2025-08-21 17:36:10,122 INFO csv write: board_decorative.csv sku=53219 colour='Canterbury Grey'
+2025-08-21 17:36:10,122 INFO csv write: board_decorative.csv sku=53458 colour='Canterbury Grey'
+2025-08-21 17:36:10,123 INFO csv write: board_decorative.csv sku=53459 colour='Canterbury Grey'
+2025-08-21 17:36:10,123 INFO csv write: edgetape_decorative.csv sku=46591 colour='Canterbury Grey'
+2025-08-21 17:36:10,123 INFO csv write: edgetape_decorative.csv sku=46794 colour='Canterbury Grey'
+2025-08-21 17:36:10,123 INFO csv write: edgetape_decorative.csv sku=48581 colour='Canterbury Grey'
+2025-08-21 17:36:10,123 INFO csv write: edgetape_decorative.csv sku=53462 colour='Canterbury Grey'
+2025-08-21 17:36:10,124 INFO csv write: laminate.csv sku=47657 colour='Canterbury Grey'
+2025-08-21 17:36:10,124 INFO csv write: board_decorative.csv sku=55646 colour='Canterbury Grey'
+2025-08-21 17:36:10,124 INFO csv write: board_decorative.csv sku=55644 colour='Canterbury Grey'
+2025-08-21 17:36:10,124 INFO csv write: board_decorative.csv sku=55645 colour='Canterbury Grey'
+2025-08-21 17:36:10,124 INFO csv write: board_decorative.csv sku=55647 colour='Canterbury Grey'
+2025-08-21 17:36:10,124 INFO csv write: edgetape_decorative.csv sku=55652 colour='Canterbury Grey'
+2025-08-21 17:36:10,125 INFO csv write: edgetape_decorative.csv sku=55649 colour='Canterbury Grey'
+2025-08-21 17:36:10,125 INFO csv write: edgetape_decorative.csv sku=55653 colour='Canterbury Grey'
+2025-08-21 17:36:10,125 INFO csv write: edgetape_decorative.csv sku=55651 colour='Canterbury Grey'
+2025-08-21 17:36:10,125 INFO csv write: laminate.csv sku=55654 colour='Canterbury Grey'
+2025-08-21 17:36:10,125 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Canterbury Grey'
+2025-08-21 17:36:10,125 INFO csv write: board_decorative.csv sku=48793 colour='Canterbury Grey'
+2025-08-21 17:36:10,126 INFO csv write: board_decorative.csv sku=47483 colour='Canterbury Grey'
+2025-08-21 17:36:10,126 INFO csv write: edgetape_decorative.csv sku=46893 colour='Canterbury Grey'
+2025-08-21 17:36:10,126 INFO csv write: edgetape_decorative.csv sku=46898 colour='Canterbury Grey'
+2025-08-21 17:36:10,126 INFO csv write: edgetape_decorative.csv sku=48977 colour='Canterbury Grey'
+2025-08-21 17:36:10,127 INFO [179/240] Done Canterbury Grey, rows=24, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

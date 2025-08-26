@@ -1,0 +1,44 @@
+2025-08-21 16:45:19,278 INFO [13/240] Processing Bronzed Oak  https://www.polytec.com.au/colour/bronzed-oak/
+2025-08-21 16:45:19,279 INFO run start colour=https://www.polytec.com.au/colour/bronzed-oak/
+2025-08-21 16:45:19,691 INFO colour name: Bronzed Oak
+2025-08-21 16:45:19,696 INFO finish tabs: 1
+2025-08-21 16:45:19,714 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:45:19,788 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:45:19,788 INFO range -> Board Decorative
+2025-08-21 16:45:20,919 INFO row 1: sku=57171 title='MDF 182412 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 16:45:21,693 INFO row 2: sku=58460 title='LDF 253618 DS Bronzed Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:45:22,454 INFO row 3: sku=57172 title='MDF 183112 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:45:23,226 INFO row 4: sku=57173 title='MDF 252412 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:45:23,993 INFO row 5: sku=58072 title='MDF 092712 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:45:24,758 INFO row 6: sku=58459 title='MDF 183618 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:45:25,522 INFO row 7: sku=58461 title='LDF 333618 DS Bronzed Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:45:25,523 INFO range -> Edgetape Decorative
+2025-08-21 16:45:26,567 INFO row 8: sku=56900 title='ABS 1mm x 21mm UG 100m Bronzed Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:45:27,620 INFO row 9: sku=56901 title='ABS 1mm x 21mm UG 20m Bronzed Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:45:28,678 INFO row 10: sku=56903 title='ABS 1mm x 29mm UG 100m Bronzed Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:45:29,698 INFO row 11: sku=57420 title='ABS 1mm x 38mm UG 100m Bronzed Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 16:45:29,698 INFO range -> Laminate
+2025-08-21 16:45:30,716 INFO row 12: sku=56856 title='Laminate Bronzed Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 16:45:31,726 INFO row 13: sku=56858 title='Laminate Bronzed Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.01s
+2025-08-21 16:45:32,788 INFO row 14: sku=56857 title='Laminate Bronzed Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:45:33,842 INFO row 15: sku=56859 title='Laminate Bronzed Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:45:33,842 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:45:38,244 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.40s
+2025-08-21 16:45:38,244 INFO run end rows=16
+2025-08-21 16:45:38,245 INFO csv write: board_decorative.csv sku=57171 colour='Bronzed Oak'
+2025-08-21 16:45:38,245 INFO csv write: board_decorative.csv sku=58460 colour='Bronzed Oak'
+2025-08-21 16:45:38,245 INFO csv write: board_decorative.csv sku=57172 colour='Bronzed Oak'
+2025-08-21 16:45:38,245 INFO csv write: board_decorative.csv sku=57173 colour='Bronzed Oak'
+2025-08-21 16:45:38,246 INFO csv write: board_decorative.csv sku=58072 colour='Bronzed Oak'
+2025-08-21 16:45:38,246 INFO csv write: board_decorative.csv sku=58459 colour='Bronzed Oak'
+2025-08-21 16:45:38,246 INFO csv write: board_decorative.csv sku=58461 colour='Bronzed Oak'
+2025-08-21 16:45:38,246 INFO csv write: edgetape_decorative.csv sku=56900 colour='Bronzed Oak'
+2025-08-21 16:45:38,246 INFO csv write: edgetape_decorative.csv sku=56901 colour='Bronzed Oak'
+2025-08-21 16:45:38,247 INFO csv write: edgetape_decorative.csv sku=56903 colour='Bronzed Oak'
+2025-08-21 16:45:38,247 INFO csv write: edgetape_decorative.csv sku=57420 colour='Bronzed Oak'
+2025-08-21 16:45:38,247 INFO csv write: laminate.csv sku=56856 colour='Bronzed Oak'
+2025-08-21 16:45:38,247 INFO csv write: laminate.csv sku=56858 colour='Bronzed Oak'
+2025-08-21 16:45:38,247 INFO csv write: laminate.csv sku=56857 colour='Bronzed Oak'
+2025-08-21 16:45:38,247 INFO csv write: laminate.csv sku=56859 colour='Bronzed Oak'
+2025-08-21 16:45:38,247 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Bronzed Oak'
+2025-08-21 16:45:38,248 INFO [13/240] Done Bronzed Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

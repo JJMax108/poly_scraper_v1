@@ -1,0 +1,20 @@
+2025-08-21 17:09:03,797 INFO [103/240] Processing Crisp White  https://www.polytec.com.au/colour/crisp-white/
+2025-08-21 17:09:03,798 INFO run start colour=https://www.polytec.com.au/colour/crisp-white/
+2025-08-21 17:09:04,198 INFO colour name: Crisp White
+2025-08-21 17:09:04,203 INFO finish tabs: 1
+2025-08-21 17:09:04,227 INFO tab 1/1 -> Legato
+2025-08-21 17:09:04,247 INFO items in finish 'Legato': 5
+2025-08-21 17:09:04,247 INFO range -> Board Decorative
+2025-08-21 17:09:05,368 INFO row 1: sku=26757 title='MDF 182412 DS Crisp White Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:09:06,121 INFO row 2: sku=26758 title='MDF 183112 DS Crisp White Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:09:06,122 INFO range -> Edgetape Decorative
+2025-08-21 17:09:07,188 INFO row 3: sku=26773 title='ABS 1mm x 21mm UG 100m Crisp White Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:09:08,262 INFO row 4: sku=26775 title='ABS 1mm x 21mm UG 20m Crisp White Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:09:09,324 INFO row 5: sku=44247 title='ABS 1mm x 29mm UG 100m Crisp White Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:09:09,325 INFO run end rows=5
+2025-08-21 17:09:09,325 INFO csv write: board_decorative.csv sku=26757 colour='Crisp White'
+2025-08-21 17:09:09,325 INFO csv write: board_decorative.csv sku=26758 colour='Crisp White'
+2025-08-21 17:09:09,326 INFO csv write: edgetape_decorative.csv sku=26773 colour='Crisp White'
+2025-08-21 17:09:09,326 INFO csv write: edgetape_decorative.csv sku=26775 colour='Crisp White'
+2025-08-21 17:09:09,326 INFO csv write: edgetape_decorative.csv sku=44247 colour='Crisp White'
+2025-08-21 17:09:09,327 INFO [103/240] Done Crisp White, rows=5, ranges=['Board Decorative', 'Edgetape Decorative']

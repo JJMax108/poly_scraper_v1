@@ -1,0 +1,17 @@
+2025-08-21 17:20:29,166 INFO [164/240] Processing Fontaine  https://www.polytec.com.au/colour/fontaine/
+2025-08-21 17:20:29,167 INFO run start colour=https://www.polytec.com.au/colour/fontaine/
+2025-08-21 17:20:29,548 INFO colour name: Fontaine
+2025-08-21 17:20:29,553 INFO finish tabs: 1
+2025-08-21 17:20:29,572 INFO tab 1/1 -> Matt
+2025-08-21 17:20:29,590 INFO items in finish 'Matt': 4
+2025-08-21 17:20:29,591 INFO range -> Laminate
+2025-08-21 17:20:30,732 INFO row 1: sku=26163 title='Laminate Fontaine Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:20:31,767 INFO row 2: sku=26330 title='Laminate Fontaine Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:20:32,798 INFO row 3: sku=26334 title='Laminate Fontaine Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:20:33,856 INFO row 4: sku=26333 title='Laminate Fontaine Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:20:33,856 INFO run end rows=4
+2025-08-21 17:20:33,857 INFO csv write: laminate.csv sku=26163 colour='Fontaine'
+2025-08-21 17:20:33,857 INFO csv write: laminate.csv sku=26330 colour='Fontaine'
+2025-08-21 17:20:33,857 INFO csv write: laminate.csv sku=26334 colour='Fontaine'
+2025-08-21 17:20:33,858 INFO csv write: laminate.csv sku=26333 colour='Fontaine'
+2025-08-21 17:20:33,858 INFO [164/240] Done Fontaine, rows=4, ranges=['Laminate']

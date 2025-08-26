@@ -1,0 +1,17 @@
+2025-08-21 17:19:46,179 INFO [160/240] Processing Bottocino  https://www.polytec.com.au/colour/bottocino/
+2025-08-21 17:19:46,179 INFO run start colour=https://www.polytec.com.au/colour/bottocino/
+2025-08-21 17:19:46,563 INFO colour name: Bottocino
+2025-08-21 17:19:46,567 INFO finish tabs: 1
+2025-08-21 17:19:46,584 INFO tab 1/1 -> Matt
+2025-08-21 17:19:46,606 INFO items in finish 'Matt': 4
+2025-08-21 17:19:46,606 INFO range -> Laminate
+2025-08-21 17:19:47,727 INFO row 1: sku=35031 title='Laminate Bottocino Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:19:48,773 INFO row 2: sku=35041 title='Laminate Bottocino Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:19:49,812 INFO row 3: sku=35043 title='Laminate Bottocino Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:19:50,844 INFO row 4: sku=35047 title='Laminate Bottocino Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:19:50,845 INFO run end rows=4
+2025-08-21 17:19:50,846 INFO csv write: laminate.csv sku=35031 colour='Bottocino'
+2025-08-21 17:19:50,846 INFO csv write: laminate.csv sku=35041 colour='Bottocino'
+2025-08-21 17:19:50,847 INFO csv write: laminate.csv sku=35043 colour='Bottocino'
+2025-08-21 17:19:50,847 INFO csv write: laminate.csv sku=35047 colour='Bottocino'
+2025-08-21 17:19:50,847 INFO [160/240] Done Bottocino, rows=4, ranges=['Laminate']

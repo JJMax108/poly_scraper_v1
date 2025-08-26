@@ -1,0 +1,14 @@
+2025-08-21 17:45:33,162 INFO [233/240] Processing Madeira Oak  https://www.polytec.com.au/colour/madeira-oak/
+2025-08-21 17:45:33,162 INFO run start colour=https://www.polytec.com.au/colour/madeira-oak/
+2025-08-21 17:45:33,477 INFO colour name: Madeira Oak
+2025-08-21 17:45:33,484 INFO finish tabs: 1
+2025-08-21 17:45:33,504 INFO tab 1/1 -> Ravine
+2025-08-21 17:45:33,512 INFO items in finish 'Ravine': 2
+2025-08-21 17:45:33,512 INFO range -> Edgetape Decorative
+2025-08-21 17:45:35,139 INFO row 1: sku=43419 title='ABS 2mm x 38mm UG 100m Madeira Oak Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.63s
+2025-08-21 17:45:35,139 INFO range -> Laminate
+2025-08-21 17:45:36,192 INFO row 2: sku=43802 title='Laminate Madeira Oak Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:45:36,192 INFO run end rows=2
+2025-08-21 17:45:36,193 INFO csv write: edgetape_decorative.csv sku=43419 colour='Madeira Oak'
+2025-08-21 17:45:36,193 INFO csv write: laminate.csv sku=43802 colour='Madeira Oak'
+2025-08-21 17:45:36,194 INFO [233/240] Done Madeira Oak, rows=2, ranges=['Edgetape Decorative', 'Laminate']

@@ -1,0 +1,41 @@
+2025-08-21 17:16:51,500 INFO [147/240] Processing Gesso Lini  https://www.polytec.com.au/colour/gesso-lini/
+2025-08-21 17:16:51,501 INFO run start colour=https://www.polytec.com.au/colour/gesso-lini/
+2025-08-21 17:16:51,859 INFO colour name: Gesso Lini
+2025-08-21 17:16:51,864 INFO finish tabs: 1
+2025-08-21 17:16:51,885 INFO tab 1/1 -> Matt
+2025-08-21 17:16:51,942 INFO items in finish 'Matt': 12
+2025-08-21 17:16:51,942 INFO range -> Board Decorative
+2025-08-21 17:16:53,057 INFO row 1: sku=13002 title='MDF 162412 DS Gesso Lini Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:16:53,831 INFO row 2: sku=14162 title='Particle 183618 DS Gesso Lini Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:16:53,893 INFO MOQ for SKU 26480 min=15 step=15 qty 1 -> 15
+2025-08-21 17:16:53,893 INFO MOQ hint: Pack Size: 15 .
+2025-08-21 17:16:53,893 INFO MOQ hint: Minimum qty 15, multiples of 15 only.
+2025-08-21 17:16:54,596 INFO row 3: sku=26480 title='LDF 253618  DS Gesso Lini Matt STD E0' stock=OK price=OK qty_used=15 moq_min=15 step=15 time=0.77s
+2025-08-21 17:16:54,660 INFO MOQ for SKU 26222 min=30 step=10 qty 1 -> 30
+2025-08-21 17:16:54,660 INFO MOQ hint: Pack Size: 10 .
+2025-08-21 17:16:54,660 INFO MOQ hint: Minimum qty 30, multiples of 10 only.
+2025-08-21 17:16:55,369 INFO row 4: sku=26222 title='LDF 333618 DS Gesso Lini Matt MR E0' stock=OK price=OK qty_used=30 moq_min=30 step=10 time=0.77s
+2025-08-21 17:16:55,369 INFO range -> Edgetape Decorative
+2025-08-21 17:16:56,407 INFO row 5: sku=11075 title='Rigid 1mm x 21mm UG 100m Gesso Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:16:57,461 INFO row 6: sku=17697 title='Rigid 1mm x 21mm UG 20m Gesso Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:16:58,508 INFO row 7: sku=44402 title='ABS 1mm x 29mm UG 100m Gesso Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:16:59,577 INFO row 8: sku=53283 title='ABS 1mm x 38mm UG 100m Gesso Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:16:59,577 INFO range -> Laminate
+2025-08-21 17:17:00,643 INFO row 9: sku=11183 title='Laminate Gesso Lini Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:17:01,659 INFO row 10: sku=13054 title='Laminate Gesso Lini Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:17:02,729 INFO row 11: sku=13052 title='Laminate Gesso Lini Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:17:03,796 INFO row 12: sku=13053 title='Laminate Gesso Lini Matt HS 1825 x 1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:17:03,796 INFO run end rows=12
+2025-08-21 17:17:03,796 INFO csv write: board_decorative.csv sku=13002 colour='Gesso Lini'
+2025-08-21 17:17:03,797 INFO csv write: board_decorative.csv sku=14162 colour='Gesso Lini'
+2025-08-21 17:17:03,797 INFO csv write: board_decorative.csv sku=26480 colour='Gesso Lini'
+2025-08-21 17:17:03,797 INFO csv write: board_decorative.csv sku=26222 colour='Gesso Lini'
+2025-08-21 17:17:03,797 INFO csv write: edgetape_decorative.csv sku=11075 colour='Gesso Lini'
+2025-08-21 17:17:03,797 INFO csv write: edgetape_decorative.csv sku=17697 colour='Gesso Lini'
+2025-08-21 17:17:03,798 INFO csv write: edgetape_decorative.csv sku=44402 colour='Gesso Lini'
+2025-08-21 17:17:03,798 INFO csv write: edgetape_decorative.csv sku=53283 colour='Gesso Lini'
+2025-08-21 17:17:03,798 INFO csv write: laminate.csv sku=11183 colour='Gesso Lini'
+2025-08-21 17:17:03,798 INFO csv write: laminate.csv sku=13054 colour='Gesso Lini'
+2025-08-21 17:17:03,798 INFO csv write: laminate.csv sku=13052 colour='Gesso Lini'
+2025-08-21 17:17:03,798 INFO csv write: laminate.csv sku=13053 colour='Gesso Lini'
+2025-08-21 17:17:03,799 INFO [147/240] Done Gesso Lini, rows=12, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

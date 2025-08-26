@@ -1,0 +1,17 @@
+2025-08-21 17:15:47,622 INFO [140/240] Processing Argento Stone  https://www.polytec.com.au/colour/argento-stone/
+2025-08-21 17:15:47,622 INFO run start colour=https://www.polytec.com.au/colour/argento-stone/
+2025-08-21 17:15:47,940 INFO colour name: Argento Stone
+2025-08-21 17:15:47,943 INFO finish tabs: 1
+2025-08-21 17:15:47,963 INFO tab 1/1 -> Matt
+2025-08-21 17:15:47,978 INFO items in finish 'Matt': 4
+2025-08-21 17:15:47,978 INFO range -> Laminate
+2025-08-21 17:15:49,116 INFO row 1: sku=35028 title='Laminate Argento Stone Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:15:50,152 INFO row 2: sku=35030 title='Laminate Argento Stone Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:51,188 INFO row 3: sku=35035 title='Laminate Argento Stone Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:52,223 INFO row 4: sku=35034 title='Laminate Argento Stone Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:15:52,223 INFO run end rows=4
+2025-08-21 17:15:52,224 INFO csv write: laminate.csv sku=35028 colour='Argento Stone'
+2025-08-21 17:15:52,224 INFO csv write: laminate.csv sku=35030 colour='Argento Stone'
+2025-08-21 17:15:52,224 INFO csv write: laminate.csv sku=35035 colour='Argento Stone'
+2025-08-21 17:15:52,224 INFO csv write: laminate.csv sku=35034 colour='Argento Stone'
+2025-08-21 17:15:52,225 INFO [140/240] Done Argento Stone, rows=4, ranges=['Laminate']

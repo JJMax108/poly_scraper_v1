@@ -1,0 +1,44 @@
+2025-08-21 16:44:02,807 INFO [9/240] Processing Manor Oak  https://www.polytec.com.au/colour/manor-oak/
+2025-08-21 16:44:02,807 INFO run start colour=https://www.polytec.com.au/colour/manor-oak/
+2025-08-21 16:44:03,224 INFO colour name: Manor Oak
+2025-08-21 16:44:03,229 INFO finish tabs: 1
+2025-08-21 16:44:03,252 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:44:03,342 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:44:03,342 INFO range -> Board Decorative
+2025-08-21 16:44:04,493 INFO row 1: sku=57155 title='MDF 182412 DS Manor Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.15s
+2025-08-21 16:44:05,261 INFO row 2: sku=57156 title='MDF 183112 DS Manor Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:44:06,026 INFO row 3: sku=57157 title='MDF 252412 DS Manor Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:44:06,791 INFO row 4: sku=58474 title='MDF 183618 DS Manor Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:44:07,562 INFO row 5: sku=58476 title='LDF 333618 DS Manor Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:44:08,331 INFO row 6: sku=58084 title='MDF 092712 DS Manor Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:44:09,095 INFO row 7: sku=58475 title='LDF 253618 DS Manor Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:44:09,095 INFO range -> Edgetape Decorative
+2025-08-21 16:44:10,125 INFO row 8: sku=56884 title='ABS 1mm x 21mm UG 100m Manor Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:44:11,168 INFO row 9: sku=56885 title='ABS 1mm x 21mm UG 20m Manor Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:44:12,217 INFO row 10: sku=56887 title='ABS 1mm x 29mm UG 100m Manor Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:44:13,278 INFO row 11: sku=57416 title='ABS 1mm x 38mm UG 100m Manor Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:44:13,278 INFO range -> Laminate
+2025-08-21 16:44:14,319 INFO row 12: sku=56840 title='Laminate Manor Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:44:15,343 INFO row 13: sku=56841 title='Laminate Manor Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 16:44:16,384 INFO row 14: sku=56842 title='Laminate Manor Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:44:17,436 INFO row 15: sku=56843 title='Laminate Manor Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:44:17,436 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:44:21,858 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.42s
+2025-08-21 16:44:21,858 INFO run end rows=16
+2025-08-21 16:44:21,859 INFO csv write: board_decorative.csv sku=57155 colour='Manor Oak'
+2025-08-21 16:44:21,860 INFO csv write: board_decorative.csv sku=57156 colour='Manor Oak'
+2025-08-21 16:44:21,860 INFO csv write: board_decorative.csv sku=57157 colour='Manor Oak'
+2025-08-21 16:44:21,861 INFO csv write: board_decorative.csv sku=58474 colour='Manor Oak'
+2025-08-21 16:44:21,861 INFO csv write: board_decorative.csv sku=58476 colour='Manor Oak'
+2025-08-21 16:44:21,861 INFO csv write: board_decorative.csv sku=58084 colour='Manor Oak'
+2025-08-21 16:44:21,862 INFO csv write: board_decorative.csv sku=58475 colour='Manor Oak'
+2025-08-21 16:44:21,862 INFO csv write: edgetape_decorative.csv sku=56884 colour='Manor Oak'
+2025-08-21 16:44:21,862 INFO csv write: edgetape_decorative.csv sku=56885 colour='Manor Oak'
+2025-08-21 16:44:21,862 INFO csv write: edgetape_decorative.csv sku=56887 colour='Manor Oak'
+2025-08-21 16:44:21,863 INFO csv write: edgetape_decorative.csv sku=57416 colour='Manor Oak'
+2025-08-21 16:44:21,863 INFO csv write: laminate.csv sku=56840 colour='Manor Oak'
+2025-08-21 16:44:21,863 INFO csv write: laminate.csv sku=56841 colour='Manor Oak'
+2025-08-21 16:44:21,863 INFO csv write: laminate.csv sku=56842 colour='Manor Oak'
+2025-08-21 16:44:21,864 INFO csv write: laminate.csv sku=56843 colour='Manor Oak'
+2025-08-21 16:44:21,864 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Manor Oak'
+2025-08-21 16:44:21,865 INFO [9/240] Done Manor Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

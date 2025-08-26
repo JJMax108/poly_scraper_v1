@@ -1,0 +1,45 @@
+2025-08-21 16:42:01,749 INFO [4/240] Processing Blonde Oak  https://www.polytec.com.au/colour/blonde-oak/
+2025-08-21 16:42:01,750 INFO run start colour=https://www.polytec.com.au/colour/blonde-oak/
+2025-08-21 16:42:02,072 INFO colour name: Blonde Oak
+2025-08-21 16:42:02,077 INFO finish tabs: 1
+2025-08-21 16:42:02,102 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:42:02,163 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:42:02,163 INFO range -> Board Decorative
+2025-08-21 16:42:03,298 INFO row 1: sku=57143 title='MDF 182412 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 16:42:04,067 INFO row 2: sku=57144 title='MDF 183112 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:42:04,832 INFO row 3: sku=57145 title='MDF 252412 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:42:05,602 INFO row 4: sku=58453 title='MDF 183618 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:42:06,365 INFO row 5: sku=58064 title='MDF 092712 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:42:07,128 INFO row 6: sku=58455 title='LDF 333618 DS Blonde Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:42:07,897 INFO row 7: sku=58454 title='LDF 253618 DS Blonde Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:42:07,897 INFO range -> Edgetape Decorative
+2025-08-21 16:42:08,938 INFO row 8: sku=56872 title='ABS 1mm x 21mm UG 100m Blonde Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:42:09,968 INFO row 9: sku=56873 title='ABS 1mm x 21mm UG 20m Blonde Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:42:11,028 INFO row 10: sku=56875 title='ABS 1mm x 29mm UG 100m Blonde Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:42:12,076 INFO row 11: sku=57413 title='ABS 1mm x 38mm UG 100m Blonde Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:42:12,076 INFO range -> Laminate
+2025-08-21 16:42:13,123 INFO row 12: sku=56805 title='Laminate Blonde Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:42:14,181 INFO row 13: sku=56806 title='Laminate Blonde Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:42:15,242 INFO row 14: sku=56808 title='Laminate Blonde Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:42:16,292 INFO row 15: sku=56807 title='Laminate Blonde Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:42:16,292 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:42:20,734 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 16:42:20,734 INFO run end rows=16
+2025-08-21 16:42:20,735 INFO csv write: board_decorative.csv sku=57143 colour='Blonde Oak'
+2025-08-21 16:42:20,735 INFO csv write: board_decorative.csv sku=57144 colour='Blonde Oak'
+2025-08-21 16:42:20,735 INFO csv write: board_decorative.csv sku=57145 colour='Blonde Oak'
+2025-08-21 16:42:20,736 INFO csv write: board_decorative.csv sku=58453 colour='Blonde Oak'
+2025-08-21 16:42:20,736 INFO csv write: board_decorative.csv sku=58064 colour='Blonde Oak'
+2025-08-21 16:42:20,736 INFO csv write: board_decorative.csv sku=58455 colour='Blonde Oak'
+2025-08-21 16:42:20,737 INFO csv write: board_decorative.csv sku=58454 colour='Blonde Oak'
+2025-08-21 16:42:20,737 INFO csv write: edgetape_decorative.csv sku=56872 colour='Blonde Oak'
+2025-08-21 16:42:20,737 INFO csv write: edgetape_decorative.csv sku=56873 colour='Blonde Oak'
+2025-08-21 16:42:20,738 INFO csv write: edgetape_decorative.csv sku=56875 colour='Blonde Oak'
+2025-08-21 16:42:20,738 INFO csv write: edgetape_decorative.csv sku=57413 colour='Blonde Oak'
+2025-08-21 16:42:20,738 INFO csv write: laminate.csv sku=56805 colour='Blonde Oak'
+2025-08-21 16:42:20,738 INFO csv write: laminate.csv sku=56806 colour='Blonde Oak'
+2025-08-21 16:42:20,739 INFO csv write: laminate.csv sku=56808 colour='Blonde Oak'
+2025-08-21 16:42:20,739 INFO csv write: laminate.csv sku=56807 colour='Blonde Oak'
+2025-08-21 16:42:20,739 INFO csv new: thermolaminated_doors_and_panels.csv
+2025-08-21 16:42:20,740 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Blonde Oak'
+2025-08-21 16:42:20,740 INFO [4/240] Done Blonde Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

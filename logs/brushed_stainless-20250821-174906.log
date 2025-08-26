@@ -1,0 +1,19 @@
+2025-08-21 17:49:06,430 INFO [240/240] Processing Brushed Stainless  https://www.polytec.com.au/colour/brushed-stainless/
+2025-08-21 17:49:06,430 INFO run start colour=https://www.polytec.com.au/colour/brushed-stainless/
+2025-08-21 17:49:06,952 INFO colour name: Brushed Stainless
+2025-08-21 17:49:06,956 INFO finish tabs: 1
+2025-08-21 17:49:06,976 INFO tab 1/1 -> Metallic
+2025-08-21 17:49:06,988 INFO items in finish 'Metallic': 3
+2025-08-21 17:49:06,988 INFO range -> Laminate
+2025-08-21 17:49:08,123 INFO row 1: sku=6428 title='Kickboard Laminate (only) Brushed Stainless 3600 x 1200' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:49:08,123 INFO range -> Board Commodity
+2025-08-21 17:49:08,881 INFO row 2: sku=10679 title='Particle 163612 Face Lam Brushed Stainless / Back Carcass Me' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:49:08,947 INFO MOQ for SKU 12745 min=4 step=4 qty 1 -> 4
+2025-08-21 17:49:08,947 INFO MOQ hint: Pack Size: 96
+2025-08-21 17:49:08,947 INFO MOQ hint: Minimum qty 4, multiples of 4 only.
+2025-08-21 17:49:09,636 INFO row 3: sku=12745 title='Particle 1636150 Face Lam Brushed Stainless / Back Carcass M' stock=OK price=OK qty_used=4 moq_min=4 step=4 time=0.76s
+2025-08-21 17:49:09,636 INFO run end rows=3
+2025-08-21 17:49:09,637 INFO csv write: laminate.csv sku=6428 colour='Brushed Stainless'
+2025-08-21 17:49:09,637 INFO csv write: board_commodity.csv sku=10679 colour='Brushed Stainless'
+2025-08-21 17:49:09,637 INFO csv write: board_commodity.csv sku=12745 colour='Brushed Stainless'
+2025-08-21 17:49:09,638 INFO [240/240] Done Brushed Stainless, rows=3, ranges=['Board Commodity', 'Laminate']

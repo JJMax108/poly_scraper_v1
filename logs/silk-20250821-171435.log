@@ -1,0 +1,60 @@
+2025-08-21 17:14:35,155 INFO [133/240] Processing Silk  https://www.polytec.com.au/colour/silk/
+2025-08-21 17:14:35,155 INFO run start colour=https://www.polytec.com.au/colour/silk/
+2025-08-21 17:14:35,508 INFO colour name: Silk
+2025-08-21 17:14:35,519 INFO finish tabs: 3
+2025-08-21 17:14:35,540 INFO tab 1/3 -> Legato
+2025-08-21 17:14:35,557 INFO items in finish 'Legato': 5
+2025-08-21 17:14:35,557 INFO range -> Board Decorative
+2025-08-21 17:14:36,679 INFO row 1: sku=26759 title='MDF 182412 DS Silk Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:14:37,452 INFO row 2: sku=26760 title='MDF 183112 DS Silk Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:14:37,452 INFO range -> Edgetape Decorative
+2025-08-21 17:14:38,492 INFO row 3: sku=26776 title='ABS 1mm x 21mm UG 100m Silk Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:14:39,545 INFO row 4: sku=26778 title='ABS 1mm x 21mm UG 20m Silk Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:14:40,585 INFO row 5: sku=44244 title='ABS 1mm x 29mm UG 100m Silk Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:14:40,613 INFO tab 2/3 -> Matt
+2025-08-21 17:14:40,652 INFO items in finish 'Matt': 10
+2025-08-21 17:14:40,652 INFO range -> Board Decorative
+2025-08-21 17:14:41,784 INFO row 1: sku=57469 title='MDF 162412 DS Silk Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:14:42,550 INFO row 2: sku=57470 title='Particle 183618 DS Silk Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:14:43,318 INFO row 3: sku=58097 title='MDF 092712 DS Silk Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:14:44,084 INFO row 4: sku=57471 title='LDF 253618 DS Silk Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:14:44,853 INFO row 5: sku=57472 title='LDF 333618 DS Silk Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:14:44,853 INFO range -> Edgetape Decorative
+2025-08-21 17:14:45,888 INFO row 6: sku=57464 title='ABS 1mm x 21mm UG 100m Silk Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:14:46,930 INFO row 7: sku=57465 title='ABS 1mm x 21mm UG 20m Silk Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:14:47,980 INFO row 8: sku=57467 title='ABS 1mm x 29mm UG 100m Silk Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:14:49,051 INFO row 9: sku=57468 title='ABS 1mm x 38mm UG 100m Silk Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:14:49,051 INFO range -> Laminate
+2025-08-21 17:14:50,094 INFO row 10: sku=57460 title='Laminate Silk Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:14:50,120 INFO tab 3/3 -> Woodmatt
+2025-08-21 17:14:50,139 INFO items in finish 'Woodmatt': 5
+2025-08-21 17:14:50,139 INFO range -> Board Decorative
+2025-08-21 17:14:51,263 INFO row 1: sku=51163 title='MDF 162412 DS Silk Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:14:51,263 INFO range -> Edgetape Decorative
+2025-08-21 17:14:52,331 INFO row 2: sku=51183 title='ABS 1mm x 21mm UG 100m Silk Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:14:53,396 INFO row 3: sku=51168 title='ABS 1mm x 21mm UG 20m Silk Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:14:54,462 INFO row 4: sku=51201 title='ABS 1mm x 29mm UG 100m Silk Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:14:54,462 INFO range -> Laminate
+2025-08-21 17:14:55,508 INFO row 5: sku=51206 title='Laminate Silk Woodmatt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:14:55,508 INFO run end rows=20
+2025-08-21 17:14:55,508 INFO csv write: board_decorative.csv sku=26759 colour='Silk'
+2025-08-21 17:14:55,509 INFO csv write: board_decorative.csv sku=26760 colour='Silk'
+2025-08-21 17:14:55,509 INFO csv write: edgetape_decorative.csv sku=26776 colour='Silk'
+2025-08-21 17:14:55,509 INFO csv write: edgetape_decorative.csv sku=26778 colour='Silk'
+2025-08-21 17:14:55,509 INFO csv write: edgetape_decorative.csv sku=44244 colour='Silk'
+2025-08-21 17:14:55,509 INFO csv write: board_decorative.csv sku=57469 colour='Silk'
+2025-08-21 17:14:55,510 INFO csv write: board_decorative.csv sku=57470 colour='Silk'
+2025-08-21 17:14:55,510 INFO csv write: board_decorative.csv sku=58097 colour='Silk'
+2025-08-21 17:14:55,510 INFO csv write: board_decorative.csv sku=57471 colour='Silk'
+2025-08-21 17:14:55,510 INFO csv write: board_decorative.csv sku=57472 colour='Silk'
+2025-08-21 17:14:55,510 INFO csv write: edgetape_decorative.csv sku=57464 colour='Silk'
+2025-08-21 17:14:55,510 INFO csv write: edgetape_decorative.csv sku=57465 colour='Silk'
+2025-08-21 17:14:55,511 INFO csv write: edgetape_decorative.csv sku=57467 colour='Silk'
+2025-08-21 17:14:55,511 INFO csv write: edgetape_decorative.csv sku=57468 colour='Silk'
+2025-08-21 17:14:55,511 INFO csv write: laminate.csv sku=57460 colour='Silk'
+2025-08-21 17:14:55,511 INFO csv write: board_decorative.csv sku=51163 colour='Silk'
+2025-08-21 17:14:55,511 INFO csv write: edgetape_decorative.csv sku=51183 colour='Silk'
+2025-08-21 17:14:55,511 INFO csv write: edgetape_decorative.csv sku=51168 colour='Silk'
+2025-08-21 17:14:55,512 INFO csv write: edgetape_decorative.csv sku=51201 colour='Silk'
+2025-08-21 17:14:55,512 INFO csv write: laminate.csv sku=51206 colour='Silk'
+2025-08-21 17:14:55,512 INFO [133/240] Done Silk, rows=20, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

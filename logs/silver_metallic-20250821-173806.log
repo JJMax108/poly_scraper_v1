@@ -1,0 +1,11 @@
+2025-08-21 17:38:06,307 INFO [190/240] Processing Silver Metallic  https://www.polytec.com.au/colour/silver-metallic/
+2025-08-21 17:38:06,307 INFO run start colour=https://www.polytec.com.au/colour/silver-metallic/
+2025-08-21 17:38:06,700 INFO colour name: Silver Metallic
+2025-08-21 17:38:06,705 INFO finish tabs: 1
+2025-08-21 17:38:06,724 INFO tab 1/1 -> Gloss
+2025-08-21 17:38:06,731 INFO items in finish 'Gloss': 1
+2025-08-21 17:38:06,732 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:38:11,137 INFO row 1: sku= title='Style 1 - 3' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.41s
+2025-08-21 17:38:11,138 INFO run end rows=1
+2025-08-21 17:38:11,139 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Silver Metallic'
+2025-08-21 17:38:11,140 INFO [190/240] Done Silver Metallic, rows=1, ranges=['Thermolaminated Doors and Panels']

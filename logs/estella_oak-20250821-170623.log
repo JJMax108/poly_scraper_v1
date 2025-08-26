@@ -1,0 +1,47 @@
+2025-08-21 17:06:23,685 INFO [94/240] Processing Estella Oak  https://www.polytec.com.au/colour/estella-oak/
+2025-08-21 17:06:23,685 INFO run start colour=https://www.polytec.com.au/colour/estella-oak/
+2025-08-21 17:06:24,146 INFO colour name: Estella Oak
+2025-08-21 17:06:24,152 INFO finish tabs: 1
+2025-08-21 17:06:24,170 INFO tab 1/1 -> Woodmatt
+2025-08-21 17:06:24,239 INFO items in finish 'Woodmatt': 17
+2025-08-21 17:06:24,239 INFO range -> Board Decorative
+2025-08-21 17:06:25,000 INFO row 1: sku=46827 title='MDF 162412 DS Estella Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:06:25,772 INFO row 2: sku=47243 title='MDF 163112 DS Estella Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:06:26,538 INFO row 3: sku=47442 title='MDF 183618 DS Estella Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:06:27,301 INFO row 4: sku=47272 title='MDF 322412 DS Estella Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:06:28,067 INFO row 5: sku=47258 title='MDF 252412 DS Estella Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:06:28,837 INFO row 6: sku=47470 title='LDF 333618 DS Estella Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:06:29,603 INFO row 7: sku=47456 title='LDF 253618 DS Estella Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:06:29,603 INFO range -> Edgetape Decorative
+2025-08-21 17:06:30,364 INFO row 8: sku=46776 title='ABS 1mm x 21mm UG 100m Estella Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:06:31,134 INFO row 9: sku=46806 title='ABS 1mm x 21mm UG 20m Estella Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:06:32,180 INFO row 10: sku=47390 title='ABS 1mm x 38mm UG 100m Estella Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:06:33,222 INFO row 11: sku=47217 title='ABS 1mm x 29mm UG 100m Estella Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:06:33,222 INFO range -> Laminate
+2025-08-21 17:06:34,282 INFO row 12: sku=48523 title='Laminate Estella Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:06:35,328 INFO row 13: sku=48643 title='Laminate Estella Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:06:36,381 INFO row 14: sku=48622 title='Laminate Estella Oak Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:06:37,424 INFO row 15: sku=48657 title='Laminate Estella Oak Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:06:37,424 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:06:41,879 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 17:06:41,879 INFO range -> Alfresco Doors
+2025-08-21 17:06:46,347 INFO row 17: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.47s
+2025-08-21 17:06:46,348 INFO run end rows=17
+2025-08-21 17:06:46,348 INFO csv write: board_decorative.csv sku=46827 colour='Estella Oak'
+2025-08-21 17:06:46,349 INFO csv write: board_decorative.csv sku=47243 colour='Estella Oak'
+2025-08-21 17:06:46,349 INFO csv write: board_decorative.csv sku=47442 colour='Estella Oak'
+2025-08-21 17:06:46,350 INFO csv write: board_decorative.csv sku=47272 colour='Estella Oak'
+2025-08-21 17:06:46,350 INFO csv write: board_decorative.csv sku=47258 colour='Estella Oak'
+2025-08-21 17:06:46,350 INFO csv write: board_decorative.csv sku=47470 colour='Estella Oak'
+2025-08-21 17:06:46,350 INFO csv write: board_decorative.csv sku=47456 colour='Estella Oak'
+2025-08-21 17:06:46,351 INFO csv write: edgetape_decorative.csv sku=46776 colour='Estella Oak'
+2025-08-21 17:06:46,351 INFO csv write: edgetape_decorative.csv sku=46806 colour='Estella Oak'
+2025-08-21 17:06:46,351 INFO csv write: edgetape_decorative.csv sku=47390 colour='Estella Oak'
+2025-08-21 17:06:46,351 INFO csv write: edgetape_decorative.csv sku=47217 colour='Estella Oak'
+2025-08-21 17:06:46,351 INFO csv write: laminate.csv sku=48523 colour='Estella Oak'
+2025-08-21 17:06:46,351 INFO csv write: laminate.csv sku=48643 colour='Estella Oak'
+2025-08-21 17:06:46,352 INFO csv write: laminate.csv sku=48622 colour='Estella Oak'
+2025-08-21 17:06:46,352 INFO csv write: laminate.csv sku=48657 colour='Estella Oak'
+2025-08-21 17:06:46,353 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Estella Oak'
+2025-08-21 17:06:46,354 INFO csv write: alfresco_doors.csv sku= colour='Estella Oak'
+2025-08-21 17:06:46,355 INFO [94/240] Done Estella Oak, rows=17, ranges=['Alfresco Doors', 'Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

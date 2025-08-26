@@ -1,0 +1,17 @@
+2025-08-21 17:14:30,520 INFO [132/240] Processing French Stone  https://www.polytec.com.au/colour/french-stone/
+2025-08-21 17:14:30,520 INFO run start colour=https://www.polytec.com.au/colour/french-stone/
+2025-08-21 17:14:30,828 INFO colour name: French Stone
+2025-08-21 17:14:30,831 INFO finish tabs: 1
+2025-08-21 17:14:30,849 INFO tab 1/1 -> Matt
+2025-08-21 17:14:30,866 INFO items in finish 'Matt': 4
+2025-08-21 17:14:30,866 INFO range -> Laminate
+2025-08-21 17:14:31,989 INFO row 1: sku=25299 title='Laminate French Stone Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:14:33,023 INFO row 2: sku=25317 title='Laminate French Stone Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:14:34,057 INFO row 3: sku=25358 title='Laminate French Stone Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:14:35,090 INFO row 4: sku=25335 title='Laminate French Stone Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:14:35,091 INFO run end rows=4
+2025-08-21 17:14:35,091 INFO csv write: laminate.csv sku=25299 colour='French Stone'
+2025-08-21 17:14:35,091 INFO csv write: laminate.csv sku=25317 colour='French Stone'
+2025-08-21 17:14:35,092 INFO csv write: laminate.csv sku=25358 colour='French Stone'
+2025-08-21 17:14:35,092 INFO csv write: laminate.csv sku=25335 colour='French Stone'
+2025-08-21 17:14:35,092 INFO [132/240] Done French Stone, rows=4, ranges=['Laminate']

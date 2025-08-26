@@ -1,0 +1,20 @@
+2025-08-21 17:12:40,213 INFO [124/240] Processing Bone White  https://www.polytec.com.au/colour/bone-white/
+2025-08-21 17:12:40,213 INFO run start colour=https://www.polytec.com.au/colour/bone-white/
+2025-08-21 17:12:40,607 INFO colour name: Bone White
+2025-08-21 17:12:40,611 INFO finish tabs: 1
+2025-08-21 17:12:40,631 INFO tab 1/1 -> Legato
+2025-08-21 17:12:40,652 INFO items in finish 'Legato': 5
+2025-08-21 17:12:40,652 INFO range -> Board Decorative
+2025-08-21 17:12:41,755 INFO row 1: sku=26767 title='MDF 182412 DS Bone White Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:12:42,514 INFO row 2: sku=26768 title='MDF 183112 DS Bone White Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:12:42,515 INFO range -> Edgetape Decorative
+2025-08-21 17:12:43,561 INFO row 3: sku=26788 title='ABS 1mm x 21mm UG 100m Bone White Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:12:44,644 INFO row 4: sku=26790 title='ABS 1mm x 21mm UG 20m Bone White Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:12:45,680 INFO row 5: sku=44246 title='ABS 1mm x 29mm UG 100m Bone White Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:12:45,680 INFO run end rows=5
+2025-08-21 17:12:45,680 INFO csv write: board_decorative.csv sku=26767 colour='Bone White'
+2025-08-21 17:12:45,681 INFO csv write: board_decorative.csv sku=26768 colour='Bone White'
+2025-08-21 17:12:45,681 INFO csv write: edgetape_decorative.csv sku=26788 colour='Bone White'
+2025-08-21 17:12:45,681 INFO csv write: edgetape_decorative.csv sku=26790 colour='Bone White'
+2025-08-21 17:12:45,681 INFO csv write: edgetape_decorative.csv sku=44246 colour='Bone White'
+2025-08-21 17:12:45,682 INFO [124/240] Done Bone White, rows=5, ranges=['Board Decorative', 'Edgetape Decorative']

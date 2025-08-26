@@ -1,0 +1,114 @@
+2025-08-21 17:11:09,509 INFO [115/240] Processing Blossom White  https://www.polytec.com.au/colour/blossom-white/
+2025-08-21 17:11:09,509 INFO run start colour=https://www.polytec.com.au/colour/blossom-white/
+2025-08-21 17:11:09,984 INFO colour name: Blossom White
+2025-08-21 17:11:10,011 INFO finish tabs: 6
+2025-08-21 17:11:10,034 INFO tab 1/6 -> Matt
+2025-08-21 17:11:10,122 INFO items in finish 'Matt': 15
+2025-08-21 17:11:10,122 INFO range -> Board Decorative
+2025-08-21 17:11:11,265 INFO row 1: sku=46829 title='MDF 162412 DS Blossom White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:11:12,047 INFO row 2: sku=55461 title='MDF 163112 DS Blossom White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:11:12,810 INFO row 3: sku=53218 title='Particle 183618 DS Blossom White Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:11:13,581 INFO row 4: sku=53455 title='LDF 253618 DS Blossom White Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:11:14,357 INFO row 5: sku=53093 title='MDF 092412 DS Blossom White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:11:15,134 INFO row 6: sku=55567 title='MDF 092712 DS Blossom White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:11:15,914 INFO row 7: sku=53456 title='LDF 333618 DS Blossom White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:11:15,914 INFO range -> Edgetape Decorative
+2025-08-21 17:11:16,996 INFO row 8: sku=46589 title='ABS 1mm x 21mm UG 100m Blossom White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:11:18,057 INFO row 9: sku=46792 title='ABS 1mm x 21mm UG 20m Blossom White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:11:19,106 INFO row 10: sku=48579 title='ABS 1mm x 29mm UG 100m Blossom White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:11:20,158 INFO row 11: sku=53461 title='ABS 1mm x 38mm UG 100m Blossom White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:11:20,159 INFO range -> Laminate
+2025-08-21 17:11:21,248 INFO row 12: sku=47658 title='Laminate Blossom White Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:11:21,248 INFO range -> Compact
+2025-08-21 17:11:22,020 INFO row 13: sku=52502 title='Compact Laminate Blossom White Matt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:11:22,795 INFO row 14: sku=56710 title='Compact Laminate Blossom White Matt BC 3660x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:11:22,795 INFO range -> Alfresco Doors
+2025-08-21 17:11:27,243 INFO row 15: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 17:11:27,283 INFO tab 2/6 -> Ravine
+2025-08-21 17:11:27,322 INFO items in finish 'Ravine': 10
+2025-08-21 17:11:27,323 INFO range -> Board Decorative
+2025-08-21 17:11:28,460 INFO row 1: sku=55465 title='MDF 182412 DS Blossom White Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:11:29,226 INFO row 2: sku=55466 title='MDF 183112 DS Blossom White Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:11:29,998 INFO row 3: sku=55657 title='MDF 322412 DS Blossom White Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:11:30,778 INFO row 4: sku=55467 title='MDF 252412 DS Blossom White Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:11:31,532 INFO row 5: sku=58094 title='MDF 092712 DS Blossom White Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:11:31,532 INFO range -> Edgetape Decorative
+2025-08-21 17:11:32,589 INFO row 6: sku=55469 title='ABS 1mm x 22mm UG 100m Blossom White Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:11:33,653 INFO row 7: sku=55471 title='ABS 1mm x 22mm UG 20m Blossom White Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:11:34,725 INFO row 8: sku=55472 title='ABS 1mm x 29mm UG 100m Blossom White Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:11:35,789 INFO row 9: sku=55659 title='ABS 1mm x 38mm UG 100m Blossom White Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:11:35,789 INFO range -> Laminate
+2025-08-21 17:11:36,836 INFO row 10: sku=55473 title='Laminate Blossom White Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:11:36,868 INFO tab 3/6 -> Sheen
+2025-08-21 17:11:36,884 INFO items in finish 'Sheen': 4
+2025-08-21 17:11:36,884 INFO range -> Board Decorative
+2025-08-21 17:11:38,528 INFO row 1: sku=46837 title='MDF 162412 DS Blossom White Sheen LMG E0 No Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.64s
+2025-08-21 17:11:38,529 INFO range -> Edgetape Decorative
+2025-08-21 17:11:39,281 INFO row 2: sku=46590 title='ABS 1mm x 21mm UG 100m Blossom White Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:11:40,056 INFO row 3: sku=46793 title='ABS 1mm x 21mm UG 20m Blossom White Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:11:41,100 INFO row 4: sku=48580 title='ABS 1mm x 29mm UG 100m Blossom White Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:11:41,131 INFO tab 4/6 -> Smooth
+2025-08-21 17:11:41,136 INFO items in finish 'Smooth': 1
+2025-08-21 17:11:41,136 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:11:45,573 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:11:45,604 INFO tab 5/6 -> Venette
+2025-08-21 17:11:45,624 INFO items in finish 'Venette': 5
+2025-08-21 17:11:45,624 INFO range -> Board Decorative
+2025-08-21 17:11:46,382 INFO row 1: sku=48794 title='MDF 182412 SS Blossom White Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:11:47,163 INFO row 2: sku=48789 title='MDF 182412 DS Blossom White Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:11:47,163 INFO range -> Edgetape Decorative
+2025-08-21 17:11:48,219 INFO row 3: sku=48974 title='ABS 1mm x 21mm UG 100m Blossom White Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:11:49,270 INFO row 4: sku=48975 title='ABS 1mm x 21mm UG 20m Blossom White Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:11:50,313 INFO row 5: sku=48976 title='ABS 1mm x 29mm UG 100m Blossom White Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:11:50,351 INFO tab 6/6 -> Woodmatt
+2025-08-21 17:11:50,370 INFO items in finish 'Woodmatt': 5
+2025-08-21 17:11:50,370 INFO range -> Board Decorative
+2025-08-21 17:11:52,009 INFO row 1: sku=51160 title='MDF 162412 DS Blossom White Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.64s
+2025-08-21 17:11:52,009 INFO range -> Edgetape Decorative
+2025-08-21 17:11:53,066 INFO row 2: sku=51180 title='ABS 1mm x 21mm UG 100m Blossom White Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:11:54,139 INFO row 3: sku=51165 title='ABS 1mm x 21mm UG 20m Blossom White Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:11:55,202 INFO row 4: sku=51198 title='ABS 1mm x 29mm UG 100m Blossom White Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:11:55,203 INFO range -> Laminate
+2025-08-21 17:11:56,251 INFO row 5: sku=51203 title='Laminate Blossom White Woodmatt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:11:56,252 INFO run end rows=40
+2025-08-21 17:11:56,252 INFO csv write: board_decorative.csv sku=46829 colour='Blossom White'
+2025-08-21 17:11:56,252 INFO csv write: board_decorative.csv sku=55461 colour='Blossom White'
+2025-08-21 17:11:56,253 INFO csv write: board_decorative.csv sku=53218 colour='Blossom White'
+2025-08-21 17:11:56,253 INFO csv write: board_decorative.csv sku=53455 colour='Blossom White'
+2025-08-21 17:11:56,253 INFO csv write: board_decorative.csv sku=53093 colour='Blossom White'
+2025-08-21 17:11:56,253 INFO csv write: board_decorative.csv sku=55567 colour='Blossom White'
+2025-08-21 17:11:56,254 INFO csv write: board_decorative.csv sku=53456 colour='Blossom White'
+2025-08-21 17:11:56,254 INFO csv write: edgetape_decorative.csv sku=46589 colour='Blossom White'
+2025-08-21 17:11:56,254 INFO csv write: edgetape_decorative.csv sku=46792 colour='Blossom White'
+2025-08-21 17:11:56,254 INFO csv write: edgetape_decorative.csv sku=48579 colour='Blossom White'
+2025-08-21 17:11:56,254 INFO csv write: edgetape_decorative.csv sku=53461 colour='Blossom White'
+2025-08-21 17:11:56,255 INFO csv write: laminate.csv sku=47658 colour='Blossom White'
+2025-08-21 17:11:56,255 INFO csv write: compact.csv sku=52502 colour='Blossom White'
+2025-08-21 17:11:56,255 INFO csv write: compact.csv sku=56710 colour='Blossom White'
+2025-08-21 17:11:56,257 INFO csv write: alfresco_doors.csv sku= colour='Blossom White'
+2025-08-21 17:11:56,257 INFO csv write: board_decorative.csv sku=55465 colour='Blossom White'
+2025-08-21 17:11:56,257 INFO csv write: board_decorative.csv sku=55466 colour='Blossom White'
+2025-08-21 17:11:56,257 INFO csv write: board_decorative.csv sku=55657 colour='Blossom White'
+2025-08-21 17:11:56,258 INFO csv write: board_decorative.csv sku=55467 colour='Blossom White'
+2025-08-21 17:11:56,258 INFO csv write: board_decorative.csv sku=58094 colour='Blossom White'
+2025-08-21 17:11:56,258 INFO csv write: edgetape_decorative.csv sku=55469 colour='Blossom White'
+2025-08-21 17:11:56,258 INFO csv write: edgetape_decorative.csv sku=55471 colour='Blossom White'
+2025-08-21 17:11:56,258 INFO csv write: edgetape_decorative.csv sku=55472 colour='Blossom White'
+2025-08-21 17:11:56,258 INFO csv write: edgetape_decorative.csv sku=55659 colour='Blossom White'
+2025-08-21 17:11:56,259 INFO csv write: laminate.csv sku=55473 colour='Blossom White'
+2025-08-21 17:11:56,259 INFO csv write: board_decorative.csv sku=46837 colour='Blossom White'
+2025-08-21 17:11:56,259 INFO csv write: edgetape_decorative.csv sku=46590 colour='Blossom White'
+2025-08-21 17:11:56,259 INFO csv write: edgetape_decorative.csv sku=46793 colour='Blossom White'
+2025-08-21 17:11:56,259 INFO csv write: edgetape_decorative.csv sku=48580 colour='Blossom White'
+2025-08-21 17:11:56,259 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Blossom White'
+2025-08-21 17:11:56,260 INFO csv write: board_decorative.csv sku=48794 colour='Blossom White'
+2025-08-21 17:11:56,260 INFO csv write: board_decorative.csv sku=48789 colour='Blossom White'
+2025-08-21 17:11:56,260 INFO csv write: edgetape_decorative.csv sku=48974 colour='Blossom White'
+2025-08-21 17:11:56,260 INFO csv write: edgetape_decorative.csv sku=48975 colour='Blossom White'
+2025-08-21 17:11:56,260 INFO csv write: edgetape_decorative.csv sku=48976 colour='Blossom White'
+2025-08-21 17:11:56,260 INFO csv write: board_decorative.csv sku=51160 colour='Blossom White'
+2025-08-21 17:11:56,260 INFO csv write: edgetape_decorative.csv sku=51180 colour='Blossom White'
+2025-08-21 17:11:56,261 INFO csv write: edgetape_decorative.csv sku=51165 colour='Blossom White'
+2025-08-21 17:11:56,261 INFO csv write: edgetape_decorative.csv sku=51198 colour='Blossom White'
+2025-08-21 17:11:56,261 INFO csv write: laminate.csv sku=51203 colour='Blossom White'
+2025-08-21 17:11:56,261 INFO [115/240] Done Blossom White, rows=40, ranges=['Alfresco Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

@@ -1,0 +1,51 @@
+2025-08-21 17:15:23,068 INFO [138/240] Processing Greige  https://www.polytec.com.au/colour/greige/
+2025-08-21 17:15:23,068 INFO run start colour=https://www.polytec.com.au/colour/greige/
+2025-08-21 17:15:23,518 INFO colour name: Greige
+2025-08-21 17:15:23,530 INFO finish tabs: 3
+2025-08-21 17:15:23,553 INFO tab 1/3 -> Matt
+2025-08-21 17:15:23,573 INFO items in finish 'Matt': 6
+2025-08-21 17:15:23,573 INFO range -> Board Decorative
+2025-08-21 17:15:24,692 INFO row 1: sku=25620 title='MDF 162412 DS Greige Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:15:25,448 INFO row 2: sku=43932 title='MDF 163112 DS Greige Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:15:25,449 INFO range -> Edgetape Decorative
+2025-08-21 17:15:26,484 INFO row 3: sku=19345 title='Rigid 1mm x 21mm UG 100m Greige Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:15:27,525 INFO row 4: sku=19481 title='Rigid 1mm x 21mm UG 20m Greige Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:28,579 INFO row 5: sku=44403 title='ABS 1mm x 29mm UG 100m Greige Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:15:28,579 INFO range -> Laminate
+2025-08-21 17:15:29,626 INFO row 6: sku=26308 title='Laminate Greige Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:15:29,653 INFO tab 2/3 -> Ravine
+2025-08-21 17:15:29,686 INFO items in finish 'Ravine': 9
+2025-08-21 17:15:29,687 INFO range -> Board Decorative
+2025-08-21 17:15:30,798 INFO row 1: sku=55633 title='MDF 182412 DS Greige Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:15:31,563 INFO row 2: sku=55634 title='MDF 183112 DS Greige Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:15:32,350 INFO row 3: sku=55635 title='MDF 252412 DS Greige Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:15:33,112 INFO row 4: sku=55636 title='MDF 322412 DS Greige Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:15:33,113 INFO range -> Edgetape Decorative
+2025-08-21 17:15:34,162 INFO row 5: sku=55638 title='ABS 1mm x 22mm UG 100m Greige Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:15:35,205 INFO row 6: sku=55640 title='ABS 1mm x 22mm UG 20m Greige Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:36,474 INFO row 7: sku=55642 title='ABS 1mm x 38mm UG 100m Greige Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.27s
+2025-08-21 17:15:37,534 INFO row 8: sku=55641 title='ABS 1mm x 29mm UG 100m Greige Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:15:37,534 INFO range -> Laminate
+2025-08-21 17:15:38,598 INFO row 9: sku=55643 title='Laminate Greige Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:15:38,624 INFO tab 3/3 -> Smooth
+2025-08-21 17:15:38,629 INFO items in finish 'Smooth': 1
+2025-08-21 17:15:38,629 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:15:43,079 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 17:15:43,079 INFO run end rows=16
+2025-08-21 17:15:43,080 INFO csv write: board_decorative.csv sku=25620 colour='Greige'
+2025-08-21 17:15:43,081 INFO csv write: board_decorative.csv sku=43932 colour='Greige'
+2025-08-21 17:15:43,081 INFO csv write: edgetape_decorative.csv sku=19345 colour='Greige'
+2025-08-21 17:15:43,081 INFO csv write: edgetape_decorative.csv sku=19481 colour='Greige'
+2025-08-21 17:15:43,082 INFO csv write: edgetape_decorative.csv sku=44403 colour='Greige'
+2025-08-21 17:15:43,082 INFO csv write: laminate.csv sku=26308 colour='Greige'
+2025-08-21 17:15:43,082 INFO csv write: board_decorative.csv sku=55633 colour='Greige'
+2025-08-21 17:15:43,083 INFO csv write: board_decorative.csv sku=55634 colour='Greige'
+2025-08-21 17:15:43,083 INFO csv write: board_decorative.csv sku=55635 colour='Greige'
+2025-08-21 17:15:43,083 INFO csv write: board_decorative.csv sku=55636 colour='Greige'
+2025-08-21 17:15:43,084 INFO csv write: edgetape_decorative.csv sku=55638 colour='Greige'
+2025-08-21 17:15:43,084 INFO csv write: edgetape_decorative.csv sku=55640 colour='Greige'
+2025-08-21 17:15:43,084 INFO csv write: edgetape_decorative.csv sku=55642 colour='Greige'
+2025-08-21 17:15:43,084 INFO csv write: edgetape_decorative.csv sku=55641 colour='Greige'
+2025-08-21 17:15:43,085 INFO csv write: laminate.csv sku=55643 colour='Greige'
+2025-08-21 17:15:43,085 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Greige'
+2025-08-21 17:15:43,086 INFO [138/240] Done Greige, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

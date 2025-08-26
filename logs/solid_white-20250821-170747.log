@@ -1,0 +1,11 @@
+2025-08-21 17:07:47,259 INFO [97/240] Processing Solid White  https://www.polytec.com.au/colour/solid-white/
+2025-08-21 17:07:47,259 INFO run start colour=https://www.polytec.com.au/colour/solid-white/
+2025-08-21 17:07:47,734 INFO colour name: Solid White
+2025-08-21 17:07:47,738 INFO finish tabs: 1
+2025-08-21 17:07:47,768 INFO tab 1/1 -> Smooth
+2025-08-21 17:07:47,773 INFO items in finish 'Smooth': 1
+2025-08-21 17:07:47,773 INFO range -> Solid Core
+2025-08-21 17:07:49,413 INFO row 1: sku=53179 title='Xenolith Solid White Smooth Solid Core 3660x1830 15mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.64s
+2025-08-21 17:07:49,414 INFO run end rows=1
+2025-08-21 17:07:49,415 INFO csv write: solid_core.csv sku=53179 colour='Solid White'
+2025-08-21 17:07:49,415 INFO [97/240] Done Solid White, rows=1, ranges=['Solid Core']

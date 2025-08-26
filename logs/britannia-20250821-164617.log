@@ -1,0 +1,11 @@
+2025-08-21 16:46:17,780 INFO [16/240] Processing Britannia  https://www.polytec.com.au/colour/britannia/
+2025-08-21 16:46:17,781 INFO run start colour=https://www.polytec.com.au/colour/britannia/
+2025-08-21 16:46:18,180 INFO colour name: Britannia
+2025-08-21 16:46:18,184 INFO finish tabs: 1
+2025-08-21 16:46:18,204 INFO tab 1/1 -> Super Matt
+2025-08-21 16:46:18,212 INFO items in finish 'Super Matt': 1
+2025-08-21 16:46:18,212 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:46:22,626 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.41s
+2025-08-21 16:46:22,627 INFO run end rows=1
+2025-08-21 16:46:22,628 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Britannia'
+2025-08-21 16:46:22,628 INFO [16/240] Done Britannia, rows=1, ranges=['Thermolaminated Doors and Panels']

@@ -1,0 +1,44 @@
+2025-08-21 16:42:20,804 INFO [5/240] Processing Ecru Oak  https://www.polytec.com.au/colour/ecru-oak/
+2025-08-21 16:42:20,804 INFO run start colour=https://www.polytec.com.au/colour/ecru-oak/
+2025-08-21 16:42:21,232 INFO colour name: Ecru Oak
+2025-08-21 16:42:21,237 INFO finish tabs: 1
+2025-08-21 16:42:21,258 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:42:21,337 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:42:21,337 INFO range -> Board Decorative
+2025-08-21 16:42:22,454 INFO row 1: sku=57099 title='MDF 182412 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:42:23,232 INFO row 2: sku=57140 title='MDF 183112 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:42:23,995 INFO row 3: sku=57141 title='MDF 252412 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:42:24,765 INFO row 4: sku=58465 title='MDF 183618 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:42:25,529 INFO row 5: sku=58467 title='LDF 333618 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:42:26,296 INFO row 6: sku=58076 title='MDF 092712 DS Ecru Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:42:27,071 INFO row 7: sku=58466 title='LDF 253618 DS Ecru Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 16:42:27,072 INFO range -> Edgetape Decorative
+2025-08-21 16:42:28,147 INFO row 8: sku=56868 title='ABS 1mm x 21mm UG 100m Ecru Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 16:42:29,220 INFO row 9: sku=56869 title='ABS 1mm x 21mm UG 20m Ecru Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:42:30,275 INFO row 10: sku=56871 title='ABS 1mm x 29mm UG 100m Ecru Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:42:31,327 INFO row 11: sku=57412 title='ABS 1mm x 38mm UG 100m Ecru Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:42:31,327 INFO range -> Laminate
+2025-08-21 16:42:32,393 INFO row 12: sku=56801 title='Laminate Ecru Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:42:33,460 INFO row 13: sku=56802 title='Laminate Ecru Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:42:34,507 INFO row 14: sku=56804 title='Laminate Ecru Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:42:35,560 INFO row 15: sku=56803 title='Laminate Ecru Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:42:35,560 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:42:39,990 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.43s
+2025-08-21 16:42:39,991 INFO run end rows=16
+2025-08-21 16:42:39,991 INFO csv write: board_decorative.csv sku=57099 colour='Ecru Oak'
+2025-08-21 16:42:39,992 INFO csv write: board_decorative.csv sku=57140 colour='Ecru Oak'
+2025-08-21 16:42:39,993 INFO csv write: board_decorative.csv sku=57141 colour='Ecru Oak'
+2025-08-21 16:42:39,993 INFO csv write: board_decorative.csv sku=58465 colour='Ecru Oak'
+2025-08-21 16:42:39,993 INFO csv write: board_decorative.csv sku=58467 colour='Ecru Oak'
+2025-08-21 16:42:39,993 INFO csv write: board_decorative.csv sku=58076 colour='Ecru Oak'
+2025-08-21 16:42:39,994 INFO csv write: board_decorative.csv sku=58466 colour='Ecru Oak'
+2025-08-21 16:42:39,994 INFO csv write: edgetape_decorative.csv sku=56868 colour='Ecru Oak'
+2025-08-21 16:42:39,994 INFO csv write: edgetape_decorative.csv sku=56869 colour='Ecru Oak'
+2025-08-21 16:42:39,995 INFO csv write: edgetape_decorative.csv sku=56871 colour='Ecru Oak'
+2025-08-21 16:42:39,995 INFO csv write: edgetape_decorative.csv sku=57412 colour='Ecru Oak'
+2025-08-21 16:42:39,995 INFO csv write: laminate.csv sku=56801 colour='Ecru Oak'
+2025-08-21 16:42:39,995 INFO csv write: laminate.csv sku=56802 colour='Ecru Oak'
+2025-08-21 16:42:39,996 INFO csv write: laminate.csv sku=56804 colour='Ecru Oak'
+2025-08-21 16:42:39,996 INFO csv write: laminate.csv sku=56803 colour='Ecru Oak'
+2025-08-21 16:42:39,997 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Ecru Oak'
+2025-08-21 16:42:39,997 INFO [5/240] Done Ecru Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

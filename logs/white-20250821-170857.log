@@ -1,0 +1,22 @@
+2025-08-21 17:08:57,783 INFO [102/240] Processing White  https://www.polytec.com.au/colour/white/
+2025-08-21 17:08:57,783 INFO run start colour=https://www.polytec.com.au/colour/white/
+2025-08-21 17:08:58,172 INFO colour name: White
+2025-08-21 17:08:58,177 INFO finish tabs: 1
+2025-08-21 17:08:58,195 INFO tab 1/1 -> Ultramatt
+2025-08-21 17:08:58,218 INFO items in finish 'Ultramatt': 6
+2025-08-21 17:08:58,218 INFO range -> Board Decorative
+2025-08-21 17:08:59,349 INFO row 1: sku=48593 title='Ultraglaze MDF 182412 SS White Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:09:00,107 INFO row 2: sku=53397 title='Ultraglaze MDF 183112 SS White Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:00,872 INFO row 3: sku=48598 title='Ultraglaze MDF 182412 DS White Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:09:01,638 INFO row 4: sku=53399 title='Ultraglaze MDF 183112 DS White Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:09:01,638 INFO range -> Edgetape Decorative
+2025-08-21 17:09:02,685 INFO row 5: sku=48573 title='ABS 1mm x 21mm UG 100m Ultraglaze White Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:09:03,733 INFO row 6: sku=51842 title='ABS 1mm x 29mm UG 100m White Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:09:03,734 INFO run end rows=6
+2025-08-21 17:09:03,734 INFO csv write: board_decorative.csv sku=48593 colour='White'
+2025-08-21 17:09:03,734 INFO csv write: board_decorative.csv sku=53397 colour='White'
+2025-08-21 17:09:03,735 INFO csv write: board_decorative.csv sku=48598 colour='White'
+2025-08-21 17:09:03,735 INFO csv write: board_decorative.csv sku=53399 colour='White'
+2025-08-21 17:09:03,735 INFO csv write: edgetape_decorative.csv sku=48573 colour='White'
+2025-08-21 17:09:03,735 INFO csv write: edgetape_decorative.csv sku=51842 colour='White'
+2025-08-21 17:09:03,736 INFO [102/240] Done White, rows=6, ranges=['Board Decorative', 'Edgetape Decorative']

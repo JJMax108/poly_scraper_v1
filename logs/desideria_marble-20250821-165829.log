@@ -1,0 +1,17 @@
+2025-08-21 16:58:29,566 INFO [75/240] Processing Desideria Marble  https://www.polytec.com.au/colour/desideria-marble/
+2025-08-21 16:58:29,566 INFO run start colour=https://www.polytec.com.au/colour/desideria-marble/
+2025-08-21 16:58:29,873 INFO colour name: Desideria Marble
+2025-08-21 16:58:29,877 INFO finish tabs: 1
+2025-08-21 16:58:29,900 INFO tab 1/1 -> Smooth
+2025-08-21 16:58:29,915 INFO items in finish 'Smooth': 4
+2025-08-21 16:58:29,915 INFO range -> Laminate
+2025-08-21 16:58:31,023 INFO row 1: sku=57535 title='Laminate Desideria Marble Smooth 0.7mm 3650x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 16:58:32,040 INFO row 2: sku=57537 title='Laminate Desideria Marble Smooth HS 0.7mm 1825x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 16:58:33,088 INFO row 3: sku=57536 title='Laminate Desideria Marble Smooth HL 0.7mm 3650x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:58:34,110 INFO row 4: sku=57538 title='Laminate Desideria Marble Smooth Q 1825 x 680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 16:58:34,110 INFO run end rows=4
+2025-08-21 16:58:34,110 INFO csv write: laminate.csv sku=57535 colour='Desideria Marble'
+2025-08-21 16:58:34,111 INFO csv write: laminate.csv sku=57537 colour='Desideria Marble'
+2025-08-21 16:58:34,111 INFO csv write: laminate.csv sku=57536 colour='Desideria Marble'
+2025-08-21 16:58:34,111 INFO csv write: laminate.csv sku=57538 colour='Desideria Marble'
+2025-08-21 16:58:34,111 INFO [75/240] Done Desideria Marble, rows=4, ranges=['Laminate']

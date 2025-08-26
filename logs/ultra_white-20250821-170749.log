@@ -1,0 +1,39 @@
+2025-08-21 17:07:49,477 INFO [98/240] Processing Ultra White  https://www.polytec.com.au/colour/ultra-white/
+2025-08-21 17:07:49,477 INFO run start colour=https://www.polytec.com.au/colour/ultra-white/
+2025-08-21 17:07:49,857 INFO colour name: Ultra White
+2025-08-21 17:07:49,875 INFO finish tabs: 4
+2025-08-21 17:07:49,900 INFO tab 1/4 -> Gloss
+2025-08-21 17:07:49,906 INFO items in finish 'Gloss': 1
+2025-08-21 17:07:49,906 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:07:54,319 INFO row 1: sku= title='Style 1 - 3' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.41s
+2025-08-21 17:07:54,351 INFO tab 2/4 -> Matt
+2025-08-21 17:07:54,357 INFO items in finish 'Matt': 1
+2025-08-21 17:07:54,358 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:07:58,797 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:07:58,831 INFO tab 3/4 -> Texture
+2025-08-21 17:07:58,836 INFO items in finish 'Texture': 1
+2025-08-21 17:07:58,836 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:08:03,251 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.41s
+2025-08-21 17:08:03,288 INFO tab 4/4 -> Venette
+2025-08-21 17:08:03,317 INFO items in finish 'Venette': 7
+2025-08-21 17:08:03,319 INFO range -> Board Decorative
+2025-08-21 17:08:04,307 INFO row 1: sku=48357 title='MDF 182412 SS Ultra White Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.99s
+2025-08-21 17:08:05,101 INFO row 2: sku=55213 title='MDF 183112 SS Ultra White Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:08:05,859 INFO row 3: sku=47480 title='MDF 182412 DS Ultra White Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:08:06,625 INFO row 4: sku=55211 title='MDF 183112 DS Ultra White Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:08:06,625 INFO range -> Edgetape Decorative
+2025-08-21 17:08:07,674 INFO row 5: sku=48358 title='ABS 1mm x 21mm UG 100m Ultra White Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:08:08,717 INFO row 6: sku=48359 title='ABS 1mm x 21mm UG 20m Ultra White Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:08:09,773 INFO row 7: sku=48585 title='ABS 1mm x 29mm UG 100m Ultra White Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:08:09,773 INFO run end rows=10
+2025-08-21 17:08:09,775 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Ultra White'
+2025-08-21 17:08:09,775 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Ultra White'
+2025-08-21 17:08:09,775 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Ultra White'
+2025-08-21 17:08:09,775 INFO csv write: board_decorative.csv sku=48357 colour='Ultra White'
+2025-08-21 17:08:09,776 INFO csv write: board_decorative.csv sku=55213 colour='Ultra White'
+2025-08-21 17:08:09,776 INFO csv write: board_decorative.csv sku=47480 colour='Ultra White'
+2025-08-21 17:08:09,776 INFO csv write: board_decorative.csv sku=55211 colour='Ultra White'
+2025-08-21 17:08:09,776 INFO csv write: edgetape_decorative.csv sku=48358 colour='Ultra White'
+2025-08-21 17:08:09,777 INFO csv write: edgetape_decorative.csv sku=48359 colour='Ultra White'
+2025-08-21 17:08:09,777 INFO csv write: edgetape_decorative.csv sku=48585 colour='Ultra White'
+2025-08-21 17:08:09,777 INFO [98/240] Done Ultra White, rows=10, ranges=['Board Decorative', 'Edgetape Decorative', 'Thermolaminated Doors and Panels']

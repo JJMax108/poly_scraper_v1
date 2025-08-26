@@ -1,0 +1,132 @@
+2025-08-21 17:05:33,150 INFO [93/240] Processing Empire Oak  https://www.polytec.com.au/colour/empire-oak/
+2025-08-21 17:05:33,150 INFO run start colour=https://www.polytec.com.au/colour/empire-oak/
+2025-08-21 17:05:33,622 INFO colour name: Empire Oak
+2025-08-21 17:05:33,632 INFO finish tabs: 2
+2025-08-21 17:05:33,660 INFO tab 1/2 -> Matt
+2025-08-21 17:05:33,745 INFO items in finish 'Matt': 12
+2025-08-21 17:05:33,745 INFO range -> Board Decorative
+2025-08-21 17:05:34,880 INFO row 1: sku=55192 title='MDF 162412 DS Empire Oak Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:05:35,637 INFO row 2: sku=55193 title='Particle 183618 DS Empire Oak Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:05:36,388 INFO row 3: sku=55194 title='LDF 253618 DS Empire Oak Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:05:37,147 INFO row 4: sku=55195 title='LDF 333618 DS Empire Oak Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:05:37,147 INFO range -> Edgetape Decorative
+2025-08-21 17:05:38,204 INFO row 5: sku=55198 title='ABS 1mm x 21mm UG 100m Empire Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:05:39,254 INFO row 6: sku=55196 title='ABS 1mm x 21mm UG 20m Empire Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:40,304 INFO row 7: sku=55199 title='ABS 1mm x 29mm UG 100m Empire Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:41,343 INFO row 8: sku=55200 title='ABS 1mm x 38mm UG 100m Empire Oak Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:05:41,343 INFO range -> Laminate
+2025-08-21 17:05:42,379 INFO row 9: sku=55201 title='Laminate Empire Oak Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:05:43,426 INFO row 10: sku=55204 title='Laminate Empire Oak Matt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:05:44,471 INFO row 11: sku=55202 title='Laminate Empire Oak Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:05:45,505 INFO row 12: sku=55203 title='Laminate Empire Oak Matt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:05:45,542 INFO tab 2/2 -> Woodmatt
+2025-08-21 17:05:45,660 INFO items in finish 'Woodmatt': 32
+2025-08-21 17:05:45,660 INFO range -> Board Decorative
+2025-08-21 17:05:46,777 INFO row 1: sku=46828 title='MDF 162412 DS Empire Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:05:47,553 INFO row 2: sku=47242 title='MDF 163112 DS Empire Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:05:48,346 INFO row 3: sku=47441 title='MDF 183618 DS Empire Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:05:49,120 INFO row 4: sku=47257 title='MDF 252412 DS Empire Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:05:49,892 INFO row 5: sku=47271 title='MDF 322412 DS Empire Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:05:50,682 INFO row 6: sku=47469 title='LDF 333618 DS Empire Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:05:51,461 INFO row 7: sku=47455 title='LDF 253618 DS Empire Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:05:51,462 INFO range -> Edgetape Decorative
+2025-08-21 17:05:52,551 INFO row 8: sku=46777 title='ABS 1mm x 21mm UG 100m Empire Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:05:53,621 INFO row 9: sku=46807 title='ABS 1mm x 21mm UG 20m Empire Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:05:54,693 INFO row 10: sku=47218 title='ABS 1mm x 29mm UG 100m Empire Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:05:55,762 INFO row 11: sku=47391 title='ABS 1mm x 38mm UG 100m Empire Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:05:56,826 INFO row 12: sku=47624 title='ABS 1mm x 55mm UG 20m Empire Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:05:57,908 INFO row 13: sku=47634 title='ABS 1mm x 55mm UG 100m Empire Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:05:57,909 INFO range -> Laminate
+2025-08-21 17:05:58,995 INFO row 14: sku=48526 title='Laminate Empire Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:06:00,056 INFO row 15: sku=48644 title='Laminate Empire Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:06:01,111 INFO row 16: sku=48658 title='Laminate Empire Oak Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:06:02,175 INFO row 17: sku=48623 title='Laminate Empire Oak Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:06:02,176 INFO range -> Compact
+2025-08-21 17:06:02,965 INFO row 18: sku=47187 title='Compact Laminate Empire Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:06:03,748 INFO row 19: sku=55429 title='Compact Laminate Empire Oak Woodmatt BC 3660x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:06:03,748 INFO range -> Architectural
+2025-08-21 17:06:03,816 INFO MOQ for SKU 56944 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:03,816 INFO MOQ hint: Ordering details .
+2025-08-21 17:06:03,816 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:04,529 INFO row 20: sku=56944 title='Steccawood 24x34x3600 MDF MR E0 Empire Oak Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.78s
+2025-08-21 17:06:04,599 INFO MOQ for SKU 51562 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:04,599 INFO MOQ hint: Pack Size: 15 .
+2025-08-21 17:06:04,600 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:05,313 INFO row 21: sku=51562 title='Steccawood 31x62x3600 MDF MR E0 Empire Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.78s
+2025-08-21 17:06:05,679 INFO MOQ for SKU 51560 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:05,679 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:06,398 INFO row 22: sku=51560 title='Steccawood 17x34x3600 MDF MR E0 Empire Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:06:06,768 INFO MOQ for SKU 47792 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:06,768 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:07,498 INFO row 23: sku=47792 title='Steccawood 17x38x3600 MDF MR E0 Empire Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.10s
+2025-08-21 17:06:07,842 INFO MOQ for SKU 55182 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:07,842 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:08,563 INFO row 24: sku=55182 title='Steccawood 17x34x3600 MDF MR E0 Empire Oak Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:06:08,910 INFO MOQ for SKU 47832 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:08,910 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:09,611 INFO row 25: sku=47832 title='Steccawood 31x31x3600 MDF MR E0 Empire Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 17:06:09,958 INFO MOQ for SKU 53001 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:09,958 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:10,677 INFO row 26: sku=53001 title='Steccawood 24x48x3600 MDF MR E0 Empire Oak Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:06:11,022 INFO MOQ for SKU 47878 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:11,022 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:11,742 INFO row 27: sku=47878 title='Steccawood 50x100x3600 LDF MR E0 Empire Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:06:12,094 INFO MOQ for SKU 48909 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:12,094 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:12,811 INFO row 28: sku=48909 title='Steccawood 40x100x3600 LDF MR E0 Empire Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:06:12,884 INFO MOQ for SKU 47862 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:12,884 INFO MOQ hint: Pack Size: 15 .
+2025-08-21 17:06:12,885 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:13,599 INFO row 29: sku=47862 title='Steccawood 50x70x3600 LDF MR E0 Empire Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.79s
+2025-08-21 17:06:13,938 INFO MOQ for SKU 47844 min=5 step=1 qty 1 -> 5
+2025-08-21 17:06:13,938 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:06:14,653 INFO row 30: sku=47844 title='Steccawood 31x65x3600 MDF MR E0 Empire Oak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 17:06:14,654 INFO range -> Architectural Internal Doors
+2025-08-21 17:06:19,138 INFO row 31: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.48s
+2025-08-21 17:06:23,610 INFO row 32: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.47s
+2025-08-21 17:06:23,611 INFO run end rows=44
+2025-08-21 17:06:23,613 INFO csv write: board_decorative.csv sku=55192 colour='Empire Oak'
+2025-08-21 17:06:23,613 INFO csv write: board_decorative.csv sku=55193 colour='Empire Oak'
+2025-08-21 17:06:23,613 INFO csv write: board_decorative.csv sku=55194 colour='Empire Oak'
+2025-08-21 17:06:23,614 INFO csv write: board_decorative.csv sku=55195 colour='Empire Oak'
+2025-08-21 17:06:23,614 INFO csv write: edgetape_decorative.csv sku=55198 colour='Empire Oak'
+2025-08-21 17:06:23,614 INFO csv write: edgetape_decorative.csv sku=55196 colour='Empire Oak'
+2025-08-21 17:06:23,615 INFO csv write: edgetape_decorative.csv sku=55199 colour='Empire Oak'
+2025-08-21 17:06:23,615 INFO csv write: edgetape_decorative.csv sku=55200 colour='Empire Oak'
+2025-08-21 17:06:23,615 INFO csv write: laminate.csv sku=55201 colour='Empire Oak'
+2025-08-21 17:06:23,615 INFO csv write: laminate.csv sku=55204 colour='Empire Oak'
+2025-08-21 17:06:23,616 INFO csv write: laminate.csv sku=55202 colour='Empire Oak'
+2025-08-21 17:06:23,616 INFO csv write: laminate.csv sku=55203 colour='Empire Oak'
+2025-08-21 17:06:23,616 INFO csv write: board_decorative.csv sku=46828 colour='Empire Oak'
+2025-08-21 17:06:23,616 INFO csv write: board_decorative.csv sku=47242 colour='Empire Oak'
+2025-08-21 17:06:23,616 INFO csv write: board_decorative.csv sku=47441 colour='Empire Oak'
+2025-08-21 17:06:23,616 INFO csv write: board_decorative.csv sku=47257 colour='Empire Oak'
+2025-08-21 17:06:23,617 INFO csv write: board_decorative.csv sku=47271 colour='Empire Oak'
+2025-08-21 17:06:23,617 INFO csv write: board_decorative.csv sku=47469 colour='Empire Oak'
+2025-08-21 17:06:23,617 INFO csv write: board_decorative.csv sku=47455 colour='Empire Oak'
+2025-08-21 17:06:23,617 INFO csv write: edgetape_decorative.csv sku=46777 colour='Empire Oak'
+2025-08-21 17:06:23,617 INFO csv write: edgetape_decorative.csv sku=46807 colour='Empire Oak'
+2025-08-21 17:06:23,617 INFO csv write: edgetape_decorative.csv sku=47218 colour='Empire Oak'
+2025-08-21 17:06:23,618 INFO csv write: edgetape_decorative.csv sku=47391 colour='Empire Oak'
+2025-08-21 17:06:23,618 INFO csv write: edgetape_decorative.csv sku=47624 colour='Empire Oak'
+2025-08-21 17:06:23,618 INFO csv write: edgetape_decorative.csv sku=47634 colour='Empire Oak'
+2025-08-21 17:06:23,618 INFO csv write: laminate.csv sku=48526 colour='Empire Oak'
+2025-08-21 17:06:23,618 INFO csv write: laminate.csv sku=48644 colour='Empire Oak'
+2025-08-21 17:06:23,618 INFO csv write: laminate.csv sku=48658 colour='Empire Oak'
+2025-08-21 17:06:23,618 INFO csv write: laminate.csv sku=48623 colour='Empire Oak'
+2025-08-21 17:06:23,619 INFO csv write: compact.csv sku=47187 colour='Empire Oak'
+2025-08-21 17:06:23,619 INFO csv write: compact.csv sku=55429 colour='Empire Oak'
+2025-08-21 17:06:23,620 INFO csv write: architectural.csv sku=56944 colour='Empire Oak'
+2025-08-21 17:06:23,620 INFO csv write: architectural.csv sku=51562 colour='Empire Oak'
+2025-08-21 17:06:23,620 INFO csv write: architectural.csv sku=51560 colour='Empire Oak'
+2025-08-21 17:06:23,620 INFO csv write: architectural.csv sku=47792 colour='Empire Oak'
+2025-08-21 17:06:23,620 INFO csv write: architectural.csv sku=55182 colour='Empire Oak'
+2025-08-21 17:06:23,621 INFO csv write: architectural.csv sku=47832 colour='Empire Oak'
+2025-08-21 17:06:23,621 INFO csv write: architectural.csv sku=53001 colour='Empire Oak'
+2025-08-21 17:06:23,621 INFO csv write: architectural.csv sku=47878 colour='Empire Oak'
+2025-08-21 17:06:23,621 INFO csv write: architectural.csv sku=48909 colour='Empire Oak'
+2025-08-21 17:06:23,621 INFO csv write: architectural.csv sku=47862 colour='Empire Oak'
+2025-08-21 17:06:23,621 INFO csv write: architectural.csv sku=47844 colour='Empire Oak'
+2025-08-21 17:06:23,622 INFO csv write: architectural_internal_doors.csv sku= colour='Empire Oak'
+2025-08-21 17:06:23,622 INFO csv write: architectural_internal_doors.csv sku= colour='Empire Oak'
+2025-08-21 17:06:23,623 INFO [93/240] Done Empire Oak, rows=44, ranges=['Architectural', 'Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']

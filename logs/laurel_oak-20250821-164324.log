@@ -1,0 +1,44 @@
+2025-08-21 16:43:24,295 INFO [7/240] Processing Laurel Oak  https://www.polytec.com.au/colour/laurel-oak/
+2025-08-21 16:43:24,296 INFO run start colour=https://www.polytec.com.au/colour/laurel-oak/
+2025-08-21 16:43:24,770 INFO colour name: Laurel Oak
+2025-08-21 16:43:24,777 INFO finish tabs: 1
+2025-08-21 16:43:24,799 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:43:24,894 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:43:24,894 INFO range -> Board Decorative
+2025-08-21 16:43:26,043 INFO row 1: sku=57147 title='MDF 182412 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.15s
+2025-08-21 16:43:26,815 INFO row 2: sku=58472 title='LDF 253618 DS Laurel Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:43:27,579 INFO row 3: sku=58473 title='LDF 333618 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:43:28,346 INFO row 4: sku=57148 title='MDF 183112 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:43:29,111 INFO row 5: sku=57149 title='MDF 252412 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:43:29,876 INFO row 6: sku=58082 title='MDF 092712 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:43:30,646 INFO row 7: sku=58471 title='MDF 183618 DS Laurel Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:43:30,646 INFO range -> Edgetape Decorative
+2025-08-21 16:43:31,685 INFO row 8: sku=56876 title='ABS 1mm x 21mm UG 100m Laurel Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:43:32,748 INFO row 9: sku=56877 title='ABS 1mm x 21mm UG 20m Laurel Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:43:33,806 INFO row 10: sku=56879 title='ABS 1mm x 29mm UG 100m Laurel Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:43:34,874 INFO row 11: sku=57414 title='ABS 1mm x 38mm UG 100m Laurel Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:43:34,874 INFO range -> Laminate
+2025-08-21 16:43:35,924 INFO row 12: sku=56832 title='Laminate Laurel Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:43:36,988 INFO row 13: sku=56833 title='Laminate Laurel Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:43:38,038 INFO row 14: sku=56835 title='Laminate Laurel Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:43:39,089 INFO row 15: sku=56834 title='Laminate Laurel Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:43:39,089 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:43:43,530 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 16:43:43,530 INFO run end rows=16
+2025-08-21 16:43:43,531 INFO csv write: board_decorative.csv sku=57147 colour='Laurel Oak'
+2025-08-21 16:43:43,532 INFO csv write: board_decorative.csv sku=58472 colour='Laurel Oak'
+2025-08-21 16:43:43,532 INFO csv write: board_decorative.csv sku=58473 colour='Laurel Oak'
+2025-08-21 16:43:43,532 INFO csv write: board_decorative.csv sku=57148 colour='Laurel Oak'
+2025-08-21 16:43:43,533 INFO csv write: board_decorative.csv sku=57149 colour='Laurel Oak'
+2025-08-21 16:43:43,533 INFO csv write: board_decorative.csv sku=58082 colour='Laurel Oak'
+2025-08-21 16:43:43,533 INFO csv write: board_decorative.csv sku=58471 colour='Laurel Oak'
+2025-08-21 16:43:43,533 INFO csv write: edgetape_decorative.csv sku=56876 colour='Laurel Oak'
+2025-08-21 16:43:43,534 INFO csv write: edgetape_decorative.csv sku=56877 colour='Laurel Oak'
+2025-08-21 16:43:43,534 INFO csv write: edgetape_decorative.csv sku=56879 colour='Laurel Oak'
+2025-08-21 16:43:43,534 INFO csv write: edgetape_decorative.csv sku=57414 colour='Laurel Oak'
+2025-08-21 16:43:43,534 INFO csv write: laminate.csv sku=56832 colour='Laurel Oak'
+2025-08-21 16:43:43,535 INFO csv write: laminate.csv sku=56833 colour='Laurel Oak'
+2025-08-21 16:43:43,535 INFO csv write: laminate.csv sku=56835 colour='Laurel Oak'
+2025-08-21 16:43:43,535 INFO csv write: laminate.csv sku=56834 colour='Laurel Oak'
+2025-08-21 16:43:43,536 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Laurel Oak'
+2025-08-21 16:43:43,536 INFO [7/240] Done Laurel Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

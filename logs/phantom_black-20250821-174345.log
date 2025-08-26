@@ -1,0 +1,18 @@
+2025-08-21 17:43:45,329 INFO [226/240] Processing Phantom Black  https://www.polytec.com.au/colour/phantom-black/
+2025-08-21 17:43:45,329 INFO run start colour=https://www.polytec.com.au/colour/phantom-black/
+2025-08-21 17:43:45,651 INFO colour name: Phantom Black
+2025-08-21 17:43:45,655 INFO finish tabs: 1
+2025-08-21 17:43:45,673 INFO tab 1/1 -> Gloss
+2025-08-21 17:43:45,687 INFO items in finish 'Gloss': 4
+2025-08-21 17:43:45,687 INFO range -> Board Decorative
+2025-08-21 17:43:46,806 INFO row 1: sku=45361 title='Ultraglaze MDF 182412 SS Phantom Black Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:43:47,556 INFO row 2: sku=45359 title='Ultraglaze MDF 182412 DS Phantom Black Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:43:47,556 INFO range -> Edgetape Decorative
+2025-08-21 17:43:48,315 INFO row 3: sku=45786 title='ABS 1mm x 23mm UG 100m Ultraglaze Phantom Black Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:43:49,380 INFO row 4: sku=53109 title='ABS 1mm x 29mm UG 100m Ultraglaze Phantom Black Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:43:49,381 INFO run end rows=4
+2025-08-21 17:43:49,381 INFO csv write: board_decorative.csv sku=45361 colour='Phantom Black'
+2025-08-21 17:43:49,381 INFO csv write: board_decorative.csv sku=45359 colour='Phantom Black'
+2025-08-21 17:43:49,381 INFO csv write: edgetape_decorative.csv sku=45786 colour='Phantom Black'
+2025-08-21 17:43:49,382 INFO csv write: edgetape_decorative.csv sku=53109 colour='Phantom Black'
+2025-08-21 17:43:49,382 INFO [226/240] Done Phantom Black, rows=4, ranges=['Board Decorative', 'Edgetape Decorative']

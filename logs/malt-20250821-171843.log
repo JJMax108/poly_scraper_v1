@@ -1,0 +1,36 @@
+2025-08-21 17:18:43,544 INFO [154/240] Processing Malt  https://www.polytec.com.au/colour/malt/
+2025-08-21 17:18:43,544 INFO run start colour=https://www.polytec.com.au/colour/malt/
+2025-08-21 17:18:44,030 INFO colour name: Malt
+2025-08-21 17:18:44,042 INFO finish tabs: 4
+2025-08-21 17:18:44,061 INFO tab 1/4 -> Gloss
+2025-08-21 17:18:44,067 INFO items in finish 'Gloss': 1
+2025-08-21 17:18:44,067 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:18:48,511 INFO row 1: sku= title='Style 1 - 3' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:18:48,542 INFO tab 2/4 -> Matt
+2025-08-21 17:18:48,565 INFO items in finish 'Matt': 5
+2025-08-21 17:18:48,565 INFO range -> Board Decorative
+2025-08-21 17:18:49,321 INFO row 1: sku=8420 title='MDF 162412 DS Malt Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:18:49,321 INFO range -> Edgetape Decorative
+2025-08-21 17:18:50,388 INFO row 2: sku=8138 title='Rigid 1mm x 21mm UG 100m Malt Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:18:51,430 INFO row 3: sku=17703 title='Rigid 1mm x 21mm UG 20m Malt Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:18:52,483 INFO row 4: sku=44404 title='ABS 1mm x 29mm UG 100m Malt Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:18:52,483 INFO range -> Laminate
+2025-08-21 17:18:53,532 INFO row 5: sku=9118 title='Laminate Malt Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:18:53,557 INFO tab 3/4 -> Smooth
+2025-08-21 17:18:53,566 INFO items in finish 'Smooth': 1
+2025-08-21 17:18:53,566 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:18:58,014 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 17:18:58,047 INFO tab 4/4 -> Texture
+2025-08-21 17:18:58,053 INFO items in finish 'Texture': 1
+2025-08-21 17:18:58,053 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:19:02,477 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.42s
+2025-08-21 17:19:02,478 INFO run end rows=8
+2025-08-21 17:19:02,479 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Malt'
+2025-08-21 17:19:02,479 INFO csv write: board_decorative.csv sku=8420 colour='Malt'
+2025-08-21 17:19:02,479 INFO csv write: edgetape_decorative.csv sku=8138 colour='Malt'
+2025-08-21 17:19:02,480 INFO csv write: edgetape_decorative.csv sku=17703 colour='Malt'
+2025-08-21 17:19:02,480 INFO csv write: edgetape_decorative.csv sku=44404 colour='Malt'
+2025-08-21 17:19:02,480 INFO csv write: laminate.csv sku=9118 colour='Malt'
+2025-08-21 17:19:02,481 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Malt'
+2025-08-21 17:19:02,481 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Malt'
+2025-08-21 17:19:02,483 INFO [154/240] Done Malt, rows=8, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

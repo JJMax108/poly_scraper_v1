@@ -1,0 +1,17 @@
+2025-08-21 17:42:08,745 INFO [213/240] Processing Nero Granite  https://www.polytec.com.au/colour/nero-granite/
+2025-08-21 17:42:08,745 INFO run start colour=https://www.polytec.com.au/colour/nero-granite/
+2025-08-21 17:42:09,088 INFO colour name: Nero Granite
+2025-08-21 17:42:09,092 INFO finish tabs: 1
+2025-08-21 17:42:09,111 INFO tab 1/1 -> Matt
+2025-08-21 17:42:09,127 INFO items in finish 'Matt': 4
+2025-08-21 17:42:09,127 INFO range -> Laminate
+2025-08-21 17:42:10,257 INFO row 1: sku=25296 title='Laminate Nero Granite Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:42:11,288 INFO row 2: sku=25314 title='Laminate Nero Granite Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:42:12,328 INFO row 3: sku=25333 title='Laminate Nero Granite Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:42:13,362 INFO row 4: sku=25355 title='Laminate Nero Granite Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:42:13,362 INFO run end rows=4
+2025-08-21 17:42:13,363 INFO csv write: laminate.csv sku=25296 colour='Nero Granite'
+2025-08-21 17:42:13,363 INFO csv write: laminate.csv sku=25314 colour='Nero Granite'
+2025-08-21 17:42:13,363 INFO csv write: laminate.csv sku=25333 colour='Nero Granite'
+2025-08-21 17:42:13,363 INFO csv write: laminate.csv sku=25355 colour='Nero Granite'
+2025-08-21 17:42:13,364 INFO [213/240] Done Nero Granite, rows=4, ranges=['Laminate']

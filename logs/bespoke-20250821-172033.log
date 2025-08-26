@@ -1,0 +1,35 @@
+2025-08-21 17:20:33,921 INFO [165/240] Processing Bespoke  https://www.polytec.com.au/colour/bespoke/
+2025-08-21 17:20:33,922 INFO run start colour=https://www.polytec.com.au/colour/bespoke/
+2025-08-21 17:20:34,257 INFO colour name: Bespoke
+2025-08-21 17:20:34,265 INFO finish tabs: 2
+2025-08-21 17:20:34,284 INFO tab 1/2 -> Legato
+2025-08-21 17:20:34,305 INFO items in finish 'Legato': 5
+2025-08-21 17:20:34,305 INFO range -> Board Decorative
+2025-08-21 17:20:35,421 INFO row 1: sku=26763 title='MDF 182412 DS Bespoke Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:20:36,173 INFO row 2: sku=26764 title='MDF 183112 DS Bespoke Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:20:36,173 INFO range -> Edgetape Decorative
+2025-08-21 17:20:37,221 INFO row 3: sku=26782 title='ABS 1mm x 21mm UG 100m Bespoke Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:20:38,272 INFO row 4: sku=26784 title='ABS 1mm x 21mm UG 20m Bespoke Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:33:25,166 INFO row 5: sku=44239 title='ABS 1mm x 29mm UG 100m Bespoke Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.31s
+2025-08-21 17:33:25,198 INFO tab 2/2 -> Woodmatt
+2025-08-21 17:33:25,216 INFO items in finish 'Woodmatt': 5
+2025-08-21 17:33:25,216 INFO range -> Board Decorative
+2025-08-21 17:33:29,073 INFO row 1: sku=51159 title='MDF 162412 DS Bespoke Woodmatt MR E0' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=3.86s
+2025-08-21 17:33:29,074 INFO range -> Edgetape Decorative
+2025-08-21 17:33:32,311 INFO row 2: sku=51179 title='ABS 1mm x 21mm UG 100m Bespoke Woodmatt' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=3.24s
+2025-08-21 17:33:35,600 INFO row 3: sku=51164 title='ABS 1mm x 21mm UG 20m Bespoke Woodmatt' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=3.29s
+2025-08-21 17:33:38,879 INFO row 4: sku=51197 title='ABS 1mm x 29mm UG 100m Bespoke Woodmatt' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=3.28s
+2025-08-21 17:33:38,879 INFO range -> Laminate
+2025-08-21 17:33:42,181 INFO row 5: sku=51202 title='Laminate Bespoke Woodmatt 0.7mm 3650x1220' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=3.30s
+2025-08-21 17:33:42,182 INFO run end rows=10
+2025-08-21 17:33:42,185 INFO csv write: board_decorative.csv sku=26763 colour='Bespoke'
+2025-08-21 17:33:42,185 INFO csv write: board_decorative.csv sku=26764 colour='Bespoke'
+2025-08-21 17:33:42,186 INFO csv write: edgetape_decorative.csv sku=26782 colour='Bespoke'
+2025-08-21 17:33:42,187 INFO csv write: edgetape_decorative.csv sku=26784 colour='Bespoke'
+2025-08-21 17:33:42,187 INFO csv write: edgetape_decorative.csv sku=44239 colour='Bespoke'
+2025-08-21 17:33:42,188 INFO csv write: board_decorative.csv sku=51159 colour='Bespoke'
+2025-08-21 17:33:42,188 INFO csv write: edgetape_decorative.csv sku=51179 colour='Bespoke'
+2025-08-21 17:33:42,188 INFO csv write: edgetape_decorative.csv sku=51164 colour='Bespoke'
+2025-08-21 17:33:42,188 INFO csv write: edgetape_decorative.csv sku=51197 colour='Bespoke'
+2025-08-21 17:33:42,189 INFO csv write: laminate.csv sku=51202 colour='Bespoke'
+2025-08-21 17:33:42,190 INFO [165/240] Done Bespoke, rows=10, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

@@ -1,0 +1,18 @@
+2025-08-21 17:42:31,304 INFO [216/240] Processing Lava  https://www.polytec.com.au/colour/lava/
+2025-08-21 17:42:31,305 INFO run start colour=https://www.polytec.com.au/colour/lava/
+2025-08-21 17:42:31,739 INFO colour name: Lava
+2025-08-21 17:42:31,743 INFO finish tabs: 1
+2025-08-21 17:42:31,763 INFO tab 1/1 -> Ultramatt
+2025-08-21 17:42:31,780 INFO items in finish 'Ultramatt': 4
+2025-08-21 17:42:31,780 INFO range -> Board Decorative
+2025-08-21 17:42:32,905 INFO row 1: sku=53415 title='Ultraglaze MDF 182412 SS Lava Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:42:33,666 INFO row 2: sku=53418 title='Ultraglaze MDF 182412 DS Lava Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:42:33,666 INFO range -> Edgetape Decorative
+2025-08-21 17:42:34,730 INFO row 3: sku=53421 title='ABS 1mm x 21mm UG 100m Ultraglaze Lava Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:42:35,780 INFO row 4: sku=54321 title='ABS 1mm x 29mm UG 100m Ultraglaze Lava Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:42:35,780 INFO run end rows=4
+2025-08-21 17:42:35,780 INFO csv write: board_decorative.csv sku=53415 colour='Lava'
+2025-08-21 17:42:35,781 INFO csv write: board_decorative.csv sku=53418 colour='Lava'
+2025-08-21 17:42:35,781 INFO csv write: edgetape_decorative.csv sku=53421 colour='Lava'
+2025-08-21 17:42:35,781 INFO csv write: edgetape_decorative.csv sku=54321 colour='Lava'
+2025-08-21 17:42:35,782 INFO [216/240] Done Lava, rows=4, ranges=['Board Decorative', 'Edgetape Decorative']

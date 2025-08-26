@@ -1,0 +1,44 @@
+2025-08-21 16:52:31,457 INFO [44/240] Processing Ligurian Walnut  https://www.polytec.com.au/colour/ligurian-walnut/
+2025-08-21 16:52:31,457 INFO run start colour=https://www.polytec.com.au/colour/ligurian-walnut/
+2025-08-21 16:52:31,851 INFO colour name: Ligurian Walnut
+2025-08-21 16:52:31,855 INFO finish tabs: 1
+2025-08-21 16:52:31,883 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:52:31,959 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:52:31,959 INFO range -> Board Decorative
+2025-08-21 16:52:33,117 INFO row 1: sku=52544 title='MDF 162412 DS Ligurian Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.16s
+2025-08-21 16:52:33,879 INFO row 2: sku=54310 title='MDF 163112 DS Ligurian Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:52:34,644 INFO row 3: sku=52540 title='MDF 183618 DS Ligurian Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:52:35,415 INFO row 4: sku=52546 title='MDF 322412 DS Ligurian Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:52:36,178 INFO row 5: sku=52545 title='MDF 252412 DS Ligurian Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:52:36,947 INFO row 6: sku=52541 title='LDF 253618 DS Ligurian Walnut Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:52:37,721 INFO row 7: sku=52542 title='LDF 333618 DS Ligurian Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:52:37,721 INFO range -> Edgetape Decorative
+2025-08-21 16:52:38,772 INFO row 8: sku=52549 title='ABS 1mm x 21mm UG 100m Ligurian Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:39,824 INFO row 9: sku=52547 title='ABS 1mm x 21mm UG 20m Ligurian Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:40,892 INFO row 10: sku=52551 title='ABS 1mm x 38mm UG 100m Ligurian Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:52:41,940 INFO row 11: sku=52550 title='ABS 1mm x 29mm UG 100m Ligurian Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:41,940 INFO range -> Laminate
+2025-08-21 16:52:42,991 INFO row 12: sku=52131 title='Laminate Ligurian Walnut Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:44,041 INFO row 13: sku=52552 title='Laminate Ligurian Walnut Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:45,086 INFO row 14: sku=52554 title='Laminate Ligurian Walnut Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:46,156 INFO row 15: sku=52553 title='Laminate Ligurian Walnut Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:52:46,156 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:52:50,590 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.43s
+2025-08-21 16:52:50,591 INFO run end rows=16
+2025-08-21 16:52:50,592 INFO csv write: board_decorative.csv sku=52544 colour='Ligurian Walnut'
+2025-08-21 16:52:50,592 INFO csv write: board_decorative.csv sku=54310 colour='Ligurian Walnut'
+2025-08-21 16:52:50,593 INFO csv write: board_decorative.csv sku=52540 colour='Ligurian Walnut'
+2025-08-21 16:52:50,593 INFO csv write: board_decorative.csv sku=52546 colour='Ligurian Walnut'
+2025-08-21 16:52:50,593 INFO csv write: board_decorative.csv sku=52545 colour='Ligurian Walnut'
+2025-08-21 16:52:50,593 INFO csv write: board_decorative.csv sku=52541 colour='Ligurian Walnut'
+2025-08-21 16:52:50,594 INFO csv write: board_decorative.csv sku=52542 colour='Ligurian Walnut'
+2025-08-21 16:52:50,594 INFO csv write: edgetape_decorative.csv sku=52549 colour='Ligurian Walnut'
+2025-08-21 16:52:50,594 INFO csv write: edgetape_decorative.csv sku=52547 colour='Ligurian Walnut'
+2025-08-21 16:52:50,595 INFO csv write: edgetape_decorative.csv sku=52551 colour='Ligurian Walnut'
+2025-08-21 16:52:50,595 INFO csv write: edgetape_decorative.csv sku=52550 colour='Ligurian Walnut'
+2025-08-21 16:52:50,595 INFO csv write: laminate.csv sku=52131 colour='Ligurian Walnut'
+2025-08-21 16:52:50,596 INFO csv write: laminate.csv sku=52552 colour='Ligurian Walnut'
+2025-08-21 16:52:50,596 INFO csv write: laminate.csv sku=52554 colour='Ligurian Walnut'
+2025-08-21 16:52:50,596 INFO csv write: laminate.csv sku=52553 colour='Ligurian Walnut'
+2025-08-21 16:52:50,597 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Ligurian Walnut'
+2025-08-21 16:52:50,597 INFO [44/240] Done Ligurian Walnut, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

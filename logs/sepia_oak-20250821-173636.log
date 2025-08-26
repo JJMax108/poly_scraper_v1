@@ -1,0 +1,35 @@
+2025-08-21 17:36:36,739 INFO [182/240] Processing Sepia Oak  https://www.polytec.com.au/colour/sepia-oak/
+2025-08-21 17:36:36,739 INFO run start colour=https://www.polytec.com.au/colour/sepia-oak/
+2025-08-21 17:36:37,309 INFO colour name: Sepia Oak
+2025-08-21 17:36:37,347 INFO finish tabs: 1
+2025-08-21 17:36:37,376 INFO tab 1/1 -> Ravine
+2025-08-21 17:36:37,439 INFO items in finish 'Ravine': 12
+2025-08-21 17:36:37,439 INFO range -> Board Decorative
+2025-08-21 17:36:38,574 INFO row 1: sku=26406 title='MDF 182412 DS Sepia Oak Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:36:39,348 INFO row 2: sku=26418 title='MDF 183112 DS Sepia Oak Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:36:40,114 INFO row 3: sku=43033 title='MDF 183618 DS Sepia Oak Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:36:40,882 INFO row 4: sku=42810 title='MDF 322412 DS Sepia Oak Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:36:41,649 INFO row 5: sku=43057 title='LDF 333618 DS Sepia Oak Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:36:42,410 INFO row 6: sku=42799 title='MDF 252412 DS Sepia Oak Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:36:43,180 INFO row 7: sku=43045 title='LDF 253618 DS Sepia Oak Ravine STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:36:43,180 INFO range -> Edgetape Decorative
+2025-08-21 17:36:44,228 INFO row 8: sku=26448 title='ABS 1mm x 21mm UG 100m Sepia Oak Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:36:45,268 INFO row 9: sku=26450 title='ABS 1mm x 21mm UG 20m Sepia Oak Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:36:46,316 INFO row 10: sku=42783 title='ABS 1mm x 38mm UG 100m Sepia Oak Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:36:47,357 INFO row 11: sku=42703 title='ABS 1mm x 29mm UG 100m Sepia Oak Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:36:47,357 INFO range -> Laminate
+2025-08-21 17:36:48,408 INFO row 12: sku=42716 title='Laminate Sepia Oak Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:36:48,408 INFO run end rows=12
+2025-08-21 17:36:48,409 INFO csv write: board_decorative.csv sku=26406 colour='Sepia Oak'
+2025-08-21 17:36:48,409 INFO csv write: board_decorative.csv sku=26418 colour='Sepia Oak'
+2025-08-21 17:36:48,409 INFO csv write: board_decorative.csv sku=43033 colour='Sepia Oak'
+2025-08-21 17:36:48,410 INFO csv write: board_decorative.csv sku=42810 colour='Sepia Oak'
+2025-08-21 17:36:48,410 INFO csv write: board_decorative.csv sku=43057 colour='Sepia Oak'
+2025-08-21 17:36:48,410 INFO csv write: board_decorative.csv sku=42799 colour='Sepia Oak'
+2025-08-21 17:36:48,410 INFO csv write: board_decorative.csv sku=43045 colour='Sepia Oak'
+2025-08-21 17:36:48,410 INFO csv write: edgetape_decorative.csv sku=26448 colour='Sepia Oak'
+2025-08-21 17:36:48,411 INFO csv write: edgetape_decorative.csv sku=26450 colour='Sepia Oak'
+2025-08-21 17:36:48,411 INFO csv write: edgetape_decorative.csv sku=42783 colour='Sepia Oak'
+2025-08-21 17:36:48,411 INFO csv write: edgetape_decorative.csv sku=42703 colour='Sepia Oak'
+2025-08-21 17:36:48,411 INFO csv write: laminate.csv sku=42716 colour='Sepia Oak'
+2025-08-21 17:36:48,412 INFO [182/240] Done Sepia Oak, rows=12, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

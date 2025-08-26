@@ -1,0 +1,56 @@
+2025-08-21 17:37:16,224 INFO [186/240] Processing Nouveau Grey  https://www.polytec.com.au/colour/nouveau-grey/
+2025-08-21 17:37:16,225 INFO run start colour=https://www.polytec.com.au/colour/nouveau-grey/
+2025-08-21 17:37:16,741 INFO colour name: Nouveau Grey
+2025-08-21 17:37:16,751 INFO finish tabs: 3
+2025-08-21 17:37:16,794 INFO tab 1/3 -> Matt
+2025-08-21 17:37:16,837 INFO items in finish 'Matt': 12
+2025-08-21 17:37:16,837 INFO range -> Board Decorative
+2025-08-21 17:37:17,987 INFO row 1: sku=50332 title='MDF 162412 DS Nouveau Grey Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.15s
+2025-08-21 17:37:18,748 INFO row 2: sku=50335 title='Particle 183618 DS Nouveau Grey Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:37:19,515 INFO row 3: sku=50336 title='LDF 253618 DS Nouveau Grey Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:37:20,276 INFO row 4: sku=50337 title='LDF 333618 DS Nouveau Grey Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:37:20,276 INFO range -> Edgetape Decorative
+2025-08-21 17:37:21,323 INFO row 5: sku=50516 title='ABS 1mm x 21mm UG 100m Nouveau Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:37:22,378 INFO row 6: sku=50514 title='ABS 1mm x 21mm UG 20m Nouveau Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:37:23,423 INFO row 7: sku=50521 title='ABS 1mm x 29mm UG 100m Nouveau Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:37:24,473 INFO row 8: sku=50522 title='ABS 1mm x 38mm UG 100m Nouveau Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:37:24,473 INFO range -> Laminate
+2025-08-21 17:37:25,535 INFO row 9: sku=50533 title='Laminate Nouveau Grey Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:37:25,535 INFO range -> Compact
+2025-08-21 17:37:26,294 INFO row 10: sku=50497 title='Compact Laminate Nouveau Grey Matt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:37:27,056 INFO row 11: sku=55437 title='Compact Laminate Nouveau Grey Matt BC 3660x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:37:27,056 INFO range -> Alfresco Doors
+2025-08-21 17:37:31,495 INFO row 12: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:37:31,524 INFO tab 2/3 -> Smooth
+2025-08-21 17:37:31,534 INFO items in finish 'Smooth': 1
+2025-08-21 17:37:31,534 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:37:35,963 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.43s
+2025-08-21 17:37:35,998 INFO tab 3/3 -> Venette
+2025-08-21 17:37:36,020 INFO items in finish 'Venette': 5
+2025-08-21 17:37:36,020 INFO range -> Board Decorative
+2025-08-21 17:37:36,771 INFO row 1: sku=50346 title='MDF 182412 SS Nouveau Grey Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:37:37,541 INFO row 2: sku=50343 title='MDF 182412 DS Nouveau Grey Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:37:37,542 INFO range -> Edgetape Decorative
+2025-08-21 17:37:38,606 INFO row 3: sku=50520 title='ABS 1mm x 21mm UG 100m Nouveau Grey Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:37:39,653 INFO row 4: sku=50518 title='ABS 1mm x 21mm UG 20m Nouveau Grey Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:37:40,705 INFO row 5: sku=50525 title='ABS 1mm x 29mm UG 100m Nouveau Grey Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:37:40,705 INFO run end rows=18
+2025-08-21 17:37:40,705 INFO csv write: board_decorative.csv sku=50332 colour='Nouveau Grey'
+2025-08-21 17:37:40,706 INFO csv write: board_decorative.csv sku=50335 colour='Nouveau Grey'
+2025-08-21 17:37:40,706 INFO csv write: board_decorative.csv sku=50336 colour='Nouveau Grey'
+2025-08-21 17:37:40,706 INFO csv write: board_decorative.csv sku=50337 colour='Nouveau Grey'
+2025-08-21 17:37:40,706 INFO csv write: edgetape_decorative.csv sku=50516 colour='Nouveau Grey'
+2025-08-21 17:37:40,707 INFO csv write: edgetape_decorative.csv sku=50514 colour='Nouveau Grey'
+2025-08-21 17:37:40,707 INFO csv write: edgetape_decorative.csv sku=50521 colour='Nouveau Grey'
+2025-08-21 17:37:40,707 INFO csv write: edgetape_decorative.csv sku=50522 colour='Nouveau Grey'
+2025-08-21 17:37:40,707 INFO csv write: laminate.csv sku=50533 colour='Nouveau Grey'
+2025-08-21 17:37:40,708 INFO csv write: compact.csv sku=50497 colour='Nouveau Grey'
+2025-08-21 17:37:40,708 INFO csv write: compact.csv sku=55437 colour='Nouveau Grey'
+2025-08-21 17:37:40,708 INFO csv write: alfresco_doors.csv sku= colour='Nouveau Grey'
+2025-08-21 17:37:40,708 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Nouveau Grey'
+2025-08-21 17:37:40,709 INFO csv write: board_decorative.csv sku=50346 colour='Nouveau Grey'
+2025-08-21 17:37:40,709 INFO csv write: board_decorative.csv sku=50343 colour='Nouveau Grey'
+2025-08-21 17:37:40,709 INFO csv write: edgetape_decorative.csv sku=50520 colour='Nouveau Grey'
+2025-08-21 17:37:40,709 INFO csv write: edgetape_decorative.csv sku=50518 colour='Nouveau Grey'
+2025-08-21 17:37:40,710 INFO csv write: edgetape_decorative.csv sku=50525 colour='Nouveau Grey'
+2025-08-21 17:37:40,710 INFO [186/240] Done Nouveau Grey, rows=18, ranges=['Alfresco Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

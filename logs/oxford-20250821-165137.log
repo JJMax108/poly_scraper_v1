@@ -1,0 +1,35 @@
+2025-08-21 16:51:37,322 INFO [40/240] Processing Oxford  https://www.polytec.com.au/colour/oxford/
+2025-08-21 16:51:37,322 INFO run start colour=https://www.polytec.com.au/colour/oxford/
+2025-08-21 16:51:37,758 INFO colour name: Oxford
+2025-08-21 16:51:37,767 INFO finish tabs: 2
+2025-08-21 16:51:37,786 INFO tab 1/2 -> Matt
+2025-08-21 16:51:37,806 INFO items in finish 'Matt': 5
+2025-08-21 16:51:37,806 INFO range -> Board Decorative
+2025-08-21 16:51:38,916 INFO row 1: sku=49694 title='MDF 162412 DS Oxford Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 16:51:38,916 INFO range -> Edgetape Decorative
+2025-08-21 16:51:39,977 INFO row 2: sku=49696 title='ABS 1mm x 21mm UG 100m Oxford Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:51:41,035 INFO row 3: sku=49695 title='ABS 1mm x 21mm UG 20m Oxford Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:51:42,081 INFO row 4: sku=49699 title='ABS 1mm x 29mm UG 100m Oxford Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:51:42,082 INFO range -> Laminate
+2025-08-21 16:51:42,841 INFO row 5: sku=49700 title='Laminate Oxford Matt 0.7mm 3650x1220 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:51:42,867 INFO tab 2/2 -> Venette
+2025-08-21 16:51:42,884 INFO items in finish 'Venette': 5
+2025-08-21 16:51:42,884 INFO range -> Board Decorative
+2025-08-21 16:51:44,008 INFO row 1: sku=48795 title='MDF 182412 SS Oxford Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:51:44,761 INFO row 2: sku=48791 title='MDF 182412 DS Oxford Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 16:51:44,761 INFO range -> Edgetape Decorative
+2025-08-21 16:51:45,820 INFO row 3: sku=48993 title='ABS 1mm x 21mm UG 100m Oxford Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:51:46,870 INFO row 4: sku=48992 title='ABS 1mm x 21mm UG 20m Oxford Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:51:47,910 INFO row 5: sku=48994 title='ABS 1mm x 29mm UG 100m Oxford Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:51:47,911 INFO run end rows=10
+2025-08-21 16:51:47,911 INFO csv write: board_decorative.csv sku=49694 colour='Oxford'
+2025-08-21 16:51:47,911 INFO csv write: edgetape_decorative.csv sku=49696 colour='Oxford'
+2025-08-21 16:51:47,911 INFO csv write: edgetape_decorative.csv sku=49695 colour='Oxford'
+2025-08-21 16:51:47,912 INFO csv write: edgetape_decorative.csv sku=49699 colour='Oxford'
+2025-08-21 16:51:47,912 INFO csv write: laminate.csv sku=49700 colour='Oxford'
+2025-08-21 16:51:47,912 INFO csv write: board_decorative.csv sku=48795 colour='Oxford'
+2025-08-21 16:51:47,912 INFO csv write: board_decorative.csv sku=48791 colour='Oxford'
+2025-08-21 16:51:47,912 INFO csv write: edgetape_decorative.csv sku=48993 colour='Oxford'
+2025-08-21 16:51:47,913 INFO csv write: edgetape_decorative.csv sku=48992 colour='Oxford'
+2025-08-21 16:51:47,913 INFO csv write: edgetape_decorative.csv sku=48994 colour='Oxford'
+2025-08-21 16:51:47,913 INFO [40/240] Done Oxford, rows=10, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

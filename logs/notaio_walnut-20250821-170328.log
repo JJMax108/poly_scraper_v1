@@ -1,0 +1,164 @@
+2025-08-21 17:03:28,773 INFO [89/240] Processing Notaio Walnut  https://www.polytec.com.au/colour/notaio-walnut/
+2025-08-21 17:03:28,773 INFO run start colour=https://www.polytec.com.au/colour/notaio-walnut/
+2025-08-21 17:03:29,289 INFO colour name: Notaio Walnut
+2025-08-21 17:03:29,303 INFO finish tabs: 3
+2025-08-21 17:03:29,327 INFO tab 1/3 -> Matt
+2025-08-21 17:03:29,530 INFO items in finish 'Matt': 13
+2025-08-21 17:03:29,531 INFO range -> Board Decorative
+2025-08-21 17:03:30,543 INFO row 1: sku=53300 title='MDF 162412 DS Notaio Walnut Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.01s
+2025-08-21 17:03:31,330 INFO row 2: sku=55571 title='MDF 163112 DS Notaio Walnut Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:03:32,102 INFO row 3: sku=53452 title='Particle 183618 DS Notaio Walnut Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:32,870 INFO row 4: sku=53453 title='LDF 333618 DS Notaio Walnut Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:33,642 INFO row 5: sku=47523 title='LDF 253618 DS Notaio Walnut Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:33,643 INFO range -> Edgetape Decorative
+2025-08-21 17:03:34,409 INFO row 6: sku=53310 title='ABS 1mm x 21mm UG 100m Notaio Walnut Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:35,464 INFO row 7: sku=53311 title='ABS 1mm x 21mm UG 20m Notaio Walnut Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:03:36,513 INFO row 8: sku=53352 title='ABS 1mm x 38mm UG 100m Notaio Walnut Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:03:37,563 INFO row 9: sku=53312 title='ABS 1mm x 29mm UG 100m Notaio Walnut Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:03:37,564 INFO range -> Laminate
+2025-08-21 17:03:38,598 INFO row 10: sku=53322 title='Laminate Notaio Walnut Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:03:39,649 INFO row 11: sku=53323 title='Laminate Notaio Walnut Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:03:40,698 INFO row 12: sku=53325 title='Laminate Notaio Walnut Matt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:03:41,765 INFO row 13: sku=53324 title='Laminate Notaio Walnut Matt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:03:41,800 INFO tab 2/3 -> Ravine
+2025-08-21 17:03:41,843 INFO items in finish 'Ravine': 12
+2025-08-21 17:03:41,843 INFO range -> Board Decorative
+2025-08-21 17:03:42,956 INFO row 1: sku=46639 title='MDF 182412 DS Notaio Walnut Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:03:43,730 INFO row 2: sku=56768 title='MDF 183112 DS Notaio Walnut Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:44,508 INFO row 3: sku=46640 title='MDF 183618 DS Notaio Walnut Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:03:45,278 INFO row 4: sku=46644 title='MDF 252412 DS Notaio Walnut Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:46,025 INFO row 5: sku=46645 title='MDF 322412 DS Notaio Walnut Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:03:46,794 INFO row 6: sku=46643 title='LDF 333618 DS Notaio Walnut Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:47,576 INFO row 7: sku=46641 title='LDF 253618 DS Notaio Walnut Ravine STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:03:47,577 INFO range -> Edgetape Decorative
+2025-08-21 17:03:48,343 INFO row 8: sku=46458 title='ABS 1mm x 21mm UG 100m Notaio Walnut Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:49,113 INFO row 9: sku=47081 title='ABS 1mm x 21mm UG 20m Notaio Walnut Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:50,161 INFO row 10: sku=46459 title='ABS 1mm x 29mm UG 100m Notaio Walnut Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:03:51,188 INFO row 11: sku=46460 title='ABS 1mm x 38mm UG 100m Notaio Walnut Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:03:51,189 INFO range -> Laminate
+2025-08-21 17:03:52,218 INFO row 12: sku=46456 title='Laminate Notaio Walnut Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:03:52,260 INFO tab 3/3 -> Woodmatt
+2025-08-21 17:03:52,384 INFO items in finish 'Woodmatt': 33
+2025-08-21 17:03:52,384 INFO range -> Board Decorative
+2025-08-21 17:03:53,509 INFO row 1: sku=46647 title='MDF 162412 DS Notaio Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:03:54,304 INFO row 2: sku=47246 title='MDF 163112 DS Notaio Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:03:55,093 INFO row 3: sku=47445 title='MDF 183618 DS Notaio Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:03:55,885 INFO row 4: sku=47261 title='MDF 252412 DS Notaio Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:03:56,659 INFO row 5: sku=47275 title='MDF 322412 DS Notaio Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:57,431 INFO row 6: sku=47473 title='LDF 333618 DS Notaio Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:03:58,218 INFO row 7: sku=47459 title='LDF 253618 DS Notaio Walnut Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:03:59,004 INFO row 8: sku=48414 title='MDF 092712 DS Notaio Walnut Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:03:59,004 INFO range -> Edgetape Decorative
+2025-08-21 17:03:59,786 INFO row 9: sku=46764 title='ABS 1mm x 21mm UG 100m Notaio Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:04:00,572 INFO row 10: sku=46801 title='ABS 1mm x 21mm UG 20m Notaio Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:04:01,674 INFO row 11: sku=47212 title='ABS 1mm x 29mm UG 100m Notaio Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:04:02,762 INFO row 12: sku=47384 title='ABS 1mm x 38mm UG 100m Notaio Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:04:03,824 INFO row 13: sku=47627 title='ABS 1mm x 55mm UG 20m Notaio Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:04:04,896 INFO row 14: sku=47637 title='ABS 1mm x 55mm UG 100m Notaio Walnut Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:04:04,896 INFO range -> Laminate
+2025-08-21 17:04:05,963 INFO row 15: sku=48517 title='Laminate Notaio Walnut Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:04:07,032 INFO row 16: sku=48638 title='Laminate Notaio Walnut Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:04:08,086 INFO row 17: sku=48615 title='Laminate Notaio Walnut Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:04:09,131 INFO row 18: sku=48652 title='Laminate Notaio Walnut Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:04:09,132 INFO range -> Compact
+2025-08-21 17:04:09,913 INFO row 19: sku=47185 title='Compact Laminate Notaio Walnut Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:04:10,694 INFO row 20: sku=55430 title='Compact Laminate Notaio Walnut Woodmatt BC 3660x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:04:10,694 INFO range -> Architectural
+2025-08-21 17:04:11,058 INFO MOQ for SKU 51553 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:11,059 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:11,772 INFO row 21: sku=51553 title='Steccawood 17x34x3600 MDF MR E0 Notaio Walnut Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:04:12,133 INFO MOQ for SKU 47794 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:12,133 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:12,845 INFO row 22: sku=47794 title='Steccawood 17x38x3600 MDF MR E0 Notaio Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:04:13,190 INFO MOQ for SKU 47834 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:13,191 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:13,906 INFO row 23: sku=47834 title='Steccawood 31x31x3600 MDF MR E0 Notaio Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:04:14,261 INFO MOQ for SKU 55179 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:14,261 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:14,979 INFO row 24: sku=55179 title='Steccawood 17x34x3600 MDF MR E0 Notaio Walnut Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:04:15,322 INFO MOQ for SKU 52997 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:15,322 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:16,029 INFO row 25: sku=52997 title='Steccawood 24x48x3600 MDF MR E0 Notaio Walnut Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 17:04:16,393 INFO MOQ for SKU 48911 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:16,393 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:17,098 INFO row 26: sku=48911 title='Steccawood 40x100x3600 LDF MR E0 Notaio Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:04:17,461 INFO MOQ for SKU 47882 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:17,461 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:18,173 INFO row 27: sku=47882 title='Steccawood 50x100x3600 LDF MR E0 Notaio Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:04:18,535 INFO MOQ for SKU 47866 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:18,535 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:19,246 INFO row 28: sku=47866 title='Steccawood 50x70x3600 LDF MR E0 Notaio Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:04:19,599 INFO MOQ for SKU 47848 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:19,600 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:20,301 INFO row 29: sku=47848 title='Steccawood 31x65x3600 MDF MR E0 Notaio Walnut' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 17:04:20,635 INFO MOQ for SKU 51554 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:20,635 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:21,341 INFO row 30: sku=51554 title='Steccawood 31x62x3600 MDF MR E0 Notaio Walnut Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.04s
+2025-08-21 17:04:21,422 INFO MOQ for SKU 56941 min=5 step=1 qty 1 -> 5
+2025-08-21 17:04:21,422 INFO MOQ hint: Ordering details .
+2025-08-21 17:04:21,422 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:04:22,131 INFO row 31: sku=56941 title='Steccawood 24x34x3600 MDF MR E0 Notaio Walnut Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.79s
+2025-08-21 17:04:22,132 INFO range -> Architectural Internal Doors
+2025-08-21 17:04:26,585 INFO row 32: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 17:04:26,585 INFO range -> Alfresco Doors
+2025-08-21 17:04:31,029 INFO row 33: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:04:31,029 INFO run end rows=58
+2025-08-21 17:04:31,030 INFO csv write: board_decorative.csv sku=53300 colour='Notaio Walnut'
+2025-08-21 17:04:31,030 INFO csv write: board_decorative.csv sku=55571 colour='Notaio Walnut'
+2025-08-21 17:04:31,031 INFO csv write: board_decorative.csv sku=53452 colour='Notaio Walnut'
+2025-08-21 17:04:31,031 INFO csv write: board_decorative.csv sku=53453 colour='Notaio Walnut'
+2025-08-21 17:04:31,031 INFO csv write: board_decorative.csv sku=47523 colour='Notaio Walnut'
+2025-08-21 17:04:31,031 INFO csv write: edgetape_decorative.csv sku=53310 colour='Notaio Walnut'
+2025-08-21 17:04:31,031 INFO csv write: edgetape_decorative.csv sku=53311 colour='Notaio Walnut'
+2025-08-21 17:04:31,031 INFO csv write: edgetape_decorative.csv sku=53352 colour='Notaio Walnut'
+2025-08-21 17:04:31,031 INFO csv write: edgetape_decorative.csv sku=53312 colour='Notaio Walnut'
+2025-08-21 17:04:31,032 INFO csv write: laminate.csv sku=53322 colour='Notaio Walnut'
+2025-08-21 17:04:31,032 INFO csv write: laminate.csv sku=53323 colour='Notaio Walnut'
+2025-08-21 17:04:31,032 INFO csv write: laminate.csv sku=53325 colour='Notaio Walnut'
+2025-08-21 17:04:31,032 INFO csv write: laminate.csv sku=53324 colour='Notaio Walnut'
+2025-08-21 17:04:31,032 INFO csv write: board_decorative.csv sku=46639 colour='Notaio Walnut'
+2025-08-21 17:04:31,032 INFO csv write: board_decorative.csv sku=56768 colour='Notaio Walnut'
+2025-08-21 17:04:31,032 INFO csv write: board_decorative.csv sku=46640 colour='Notaio Walnut'
+2025-08-21 17:04:31,032 INFO csv write: board_decorative.csv sku=46644 colour='Notaio Walnut'
+2025-08-21 17:04:31,033 INFO csv write: board_decorative.csv sku=46645 colour='Notaio Walnut'
+2025-08-21 17:04:31,033 INFO csv write: board_decorative.csv sku=46643 colour='Notaio Walnut'
+2025-08-21 17:04:31,033 INFO csv write: board_decorative.csv sku=46641 colour='Notaio Walnut'
+2025-08-21 17:04:31,033 INFO csv write: edgetape_decorative.csv sku=46458 colour='Notaio Walnut'
+2025-08-21 17:04:31,033 INFO csv write: edgetape_decorative.csv sku=47081 colour='Notaio Walnut'
+2025-08-21 17:04:31,033 INFO csv write: edgetape_decorative.csv sku=46459 colour='Notaio Walnut'
+2025-08-21 17:04:31,033 INFO csv write: edgetape_decorative.csv sku=46460 colour='Notaio Walnut'
+2025-08-21 17:04:31,033 INFO csv write: laminate.csv sku=46456 colour='Notaio Walnut'
+2025-08-21 17:04:31,034 INFO csv write: board_decorative.csv sku=46647 colour='Notaio Walnut'
+2025-08-21 17:04:31,034 INFO csv write: board_decorative.csv sku=47246 colour='Notaio Walnut'
+2025-08-21 17:04:31,034 INFO csv write: board_decorative.csv sku=47445 colour='Notaio Walnut'
+2025-08-21 17:04:31,034 INFO csv write: board_decorative.csv sku=47261 colour='Notaio Walnut'
+2025-08-21 17:04:31,034 INFO csv write: board_decorative.csv sku=47275 colour='Notaio Walnut'
+2025-08-21 17:04:31,034 INFO csv write: board_decorative.csv sku=47473 colour='Notaio Walnut'
+2025-08-21 17:04:31,034 INFO csv write: board_decorative.csv sku=47459 colour='Notaio Walnut'
+2025-08-21 17:04:31,034 INFO csv write: board_decorative.csv sku=48414 colour='Notaio Walnut'
+2025-08-21 17:04:31,035 INFO csv write: edgetape_decorative.csv sku=46764 colour='Notaio Walnut'
+2025-08-21 17:04:31,035 INFO csv write: edgetape_decorative.csv sku=46801 colour='Notaio Walnut'
+2025-08-21 17:04:31,035 INFO csv write: edgetape_decorative.csv sku=47212 colour='Notaio Walnut'
+2025-08-21 17:04:31,035 INFO csv write: edgetape_decorative.csv sku=47384 colour='Notaio Walnut'
+2025-08-21 17:04:31,035 INFO csv write: edgetape_decorative.csv sku=47627 colour='Notaio Walnut'
+2025-08-21 17:04:31,035 INFO csv write: edgetape_decorative.csv sku=47637 colour='Notaio Walnut'
+2025-08-21 17:04:31,035 INFO csv write: laminate.csv sku=48517 colour='Notaio Walnut'
+2025-08-21 17:04:31,036 INFO csv write: laminate.csv sku=48638 colour='Notaio Walnut'
+2025-08-21 17:04:31,036 INFO csv write: laminate.csv sku=48615 colour='Notaio Walnut'
+2025-08-21 17:04:31,036 INFO csv write: laminate.csv sku=48652 colour='Notaio Walnut'
+2025-08-21 17:04:31,036 INFO csv write: compact.csv sku=47185 colour='Notaio Walnut'
+2025-08-21 17:04:31,036 INFO csv write: compact.csv sku=55430 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=51553 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=47794 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=47834 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=55179 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=52997 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=48911 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=47882 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=47866 colour='Notaio Walnut'
+2025-08-21 17:04:31,037 INFO csv write: architectural.csv sku=47848 colour='Notaio Walnut'
+2025-08-21 17:04:31,038 INFO csv write: architectural.csv sku=51554 colour='Notaio Walnut'
+2025-08-21 17:04:31,038 INFO csv write: architectural.csv sku=56941 colour='Notaio Walnut'
+2025-08-21 17:04:31,038 INFO csv write: architectural_internal_doors.csv sku= colour='Notaio Walnut'
+2025-08-21 17:04:31,038 INFO csv write: alfresco_doors.csv sku= colour='Notaio Walnut'
+2025-08-21 17:04:31,038 INFO [89/240] Done Notaio Walnut, rows=58, ranges=['Alfresco Doors', 'Architectural', 'Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']

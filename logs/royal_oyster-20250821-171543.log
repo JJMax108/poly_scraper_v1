@@ -1,0 +1,18 @@
+2025-08-21 17:15:43,151 INFO [139/240] Processing Royal Oyster  https://www.polytec.com.au/colour/royal-oyster/
+2025-08-21 17:15:43,152 INFO run start colour=https://www.polytec.com.au/colour/royal-oyster/
+2025-08-21 17:15:43,556 INFO colour name: Royal Oyster
+2025-08-21 17:15:43,560 INFO finish tabs: 1
+2025-08-21 17:15:43,580 INFO tab 1/1 -> Gloss
+2025-08-21 17:15:43,596 INFO items in finish 'Gloss': 4
+2025-08-21 17:15:43,596 INFO range -> Board Decorative
+2025-08-21 17:15:44,697 INFO row 1: sku=45365 title='Ultraglaze MDF 182412 SS Royal Oyster Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:15:45,465 INFO row 2: sku=45363 title='Ultraglaze MDF 182412 DS Royal Oyster Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:15:45,465 INFO range -> Edgetape Decorative
+2025-08-21 17:15:46,511 INFO row 3: sku=45789 title='ABS 1mm x 23mm UG 100m Ultraglaze Royal Oyster Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:15:47,557 INFO row 4: sku=51787 title='ABS 1mm x 29mm UG 100m Ultraglaze Royal Oyster Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:15:47,557 INFO run end rows=4
+2025-08-21 17:15:47,557 INFO csv write: board_decorative.csv sku=45365 colour='Royal Oyster'
+2025-08-21 17:15:47,557 INFO csv write: board_decorative.csv sku=45363 colour='Royal Oyster'
+2025-08-21 17:15:47,558 INFO csv write: edgetape_decorative.csv sku=45789 colour='Royal Oyster'
+2025-08-21 17:15:47,558 INFO csv write: edgetape_decorative.csv sku=51787 colour='Royal Oyster'
+2025-08-21 17:15:47,558 INFO [139/240] Done Royal Oyster, rows=4, ranges=['Board Decorative', 'Edgetape Decorative']

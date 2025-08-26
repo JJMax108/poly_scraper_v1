@@ -1,0 +1,16 @@
+2025-08-21 17:43:01,317 INFO [221/240] Processing Raven Metallic  https://www.polytec.com.au/colour/raven-metallic/
+2025-08-21 17:43:01,317 INFO run start colour=https://www.polytec.com.au/colour/raven-metallic/
+2025-08-21 17:43:01,641 INFO colour name: Raven Metallic
+2025-08-21 17:43:01,646 INFO finish tabs: 1
+2025-08-21 17:43:01,668 INFO tab 1/1 -> Gloss
+2025-08-21 17:43:01,679 INFO items in finish 'Gloss': 3
+2025-08-21 17:43:01,679 INFO range -> Board Decorative
+2025-08-21 17:43:02,808 INFO row 1: sku=45347 title='Ultraglaze MDF 182412 DS Raven Metallic (Onyx Metallic) Glos' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:43:03,560 INFO row 2: sku=45349 title='Ultraglaze MDF 182412 SS Raven Metallic (Onyx Metallic) Glos' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:43:03,560 INFO range -> Edgetape Decorative
+2025-08-21 17:43:04,581 INFO row 3: sku=45788 title='ABS 1mm x 23mm UG 100m Ultraglaze Raven Metallic (Onyx Metal' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:43:04,582 INFO run end rows=3
+2025-08-21 17:43:04,582 INFO csv write: board_decorative.csv sku=45347 colour='Raven Metallic'
+2025-08-21 17:43:04,582 INFO csv write: board_decorative.csv sku=45349 colour='Raven Metallic'
+2025-08-21 17:43:04,582 INFO csv write: edgetape_decorative.csv sku=45788 colour='Raven Metallic'
+2025-08-21 17:43:04,583 INFO [221/240] Done Raven Metallic, rows=3, ranges=['Board Decorative', 'Edgetape Decorative']

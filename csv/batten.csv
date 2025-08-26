@@ -1,0 +1,5 @@
+colour_name,finish,product_family,sku_code,title_raw,qty_used_for_checks,stock_result_raw,price_result_raw,product_url,checked_at_iso,finish_attr,substrate,thickness,length,width,pack_size,minimum_order_qty,order_multiple
+Black,Matt,Batten,53608,42 x 18 (2x1) 3600mm Black Matt Batten (For Rails),5,In stock at your branch,$12.48 Ea. (Excluding GST),https://www.polytec.com.au/colour/black/,2025-08-21T07:44:15Z,Matt,Pine,18.4,3600,42,5,5,5
+Carcass,Matt,Batten,33250,42 x 18 (2x1) 3600mm White Batten (For Rails),5,In stock at your branch,$11.12 Ea. (Excluding GST),https://www.polytec.com.au/colour/carcass/,2025-08-21T07:48:18Z,Matt,Pine,18.4,3600,42,5,5,5
+Carcass,Matt,Batten,42567,42 x 18 (2x1) 2700mm White Batten (For Rails),5,In stock at your branch,$8.88 Ea. (Excluding GST),https://www.polytec.com.au/colour/carcass/,2025-08-21T07:48:19Z,Matt,Pine,18,2700,42,5,5,5
+Carcass,Matt,Batten,43158,67 x 18 (3x1) 2700mm White Batten (For Rails),5,In stock at your branch,$16.39 Ea. (Excluding GST),https://www.polytec.com.au/colour/carcass/,2025-08-21T07:48:20Z,Matt,Pine,18,2700,67,5,5,5

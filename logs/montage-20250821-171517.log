@@ -1,0 +1,20 @@
+2025-08-21 17:15:17,505 INFO [137/240] Processing Montage  https://www.polytec.com.au/colour/montage/
+2025-08-21 17:15:17,505 INFO run start colour=https://www.polytec.com.au/colour/montage/
+2025-08-21 17:15:17,944 INFO colour name: Montage
+2025-08-21 17:15:17,948 INFO finish tabs: 1
+2025-08-21 17:15:17,969 INFO tab 1/1 -> Legato
+2025-08-21 17:15:17,987 INFO items in finish 'Legato': 5
+2025-08-21 17:15:17,988 INFO range -> Board Decorative
+2025-08-21 17:15:19,106 INFO row 1: sku=26771 title='MDF 182412 DS Montage Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:15:19,861 INFO row 2: sku=26772 title='MDF 183112 DS Montage Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:15:19,861 INFO range -> Edgetape Decorative
+2025-08-21 17:15:20,899 INFO row 3: sku=26794 title='ABS 1mm x 21mm UG 100m Montage Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:21,961 INFO row 4: sku=26796 title='ABS 1mm x 21mm UG 20m Montage Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:15:23,005 INFO row 5: sku=44241 title='ABS 1mm x 29mm UG 100m Montage Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:23,005 INFO run end rows=5
+2025-08-21 17:15:23,005 INFO csv write: board_decorative.csv sku=26771 colour='Montage'
+2025-08-21 17:15:23,006 INFO csv write: board_decorative.csv sku=26772 colour='Montage'
+2025-08-21 17:15:23,006 INFO csv write: edgetape_decorative.csv sku=26794 colour='Montage'
+2025-08-21 17:15:23,006 INFO csv write: edgetape_decorative.csv sku=26796 colour='Montage'
+2025-08-21 17:15:23,006 INFO csv write: edgetape_decorative.csv sku=44241 colour='Montage'
+2025-08-21 17:15:23,007 INFO [137/240] Done Montage, rows=5, ranges=['Board Decorative', 'Edgetape Decorative']

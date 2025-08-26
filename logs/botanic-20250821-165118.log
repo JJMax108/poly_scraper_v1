@@ -1,0 +1,46 @@
+2025-08-21 16:51:18,564 INFO [39/240] Processing Botanic  https://www.polytec.com.au/colour/botanic/
+2025-08-21 16:51:18,564 INFO run start colour=https://www.polytec.com.au/colour/botanic/
+2025-08-21 16:51:18,916 INFO colour name: Botanic
+2025-08-21 16:51:18,923 INFO finish tabs: 2
+2025-08-21 16:51:18,950 INFO tab 1/2 -> Smooth
+2025-08-21 16:51:18,986 INFO items in finish 'Smooth': 10
+2025-08-21 16:51:18,986 INFO range -> Board Decorative
+2025-08-21 16:51:20,126 INFO row 1: sku=52834 title='MDF 162412 DS Botanic Smooth MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 16:51:20,895 INFO row 2: sku=56675 title='MDF 183112 DS Botanic Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:51:21,659 INFO row 3: sku=56676 title='MDF 253112 DS Botanic Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:51:22,428 INFO row 4: sku=56677 title='MDF 323112 DS Botanic Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:51:22,428 INFO range -> Edgetape Decorative
+2025-08-21 16:51:23,492 INFO row 5: sku=52837 title='ABS 1mm x 21mm UG 100m Botanic Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:51:24,549 INFO row 6: sku=52835 title='ABS 1mm x 21mm UG 20m Botanic Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:51:25,604 INFO row 7: sku=52838 title='ABS 1mm x 29mm UG 100m Botanic Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:51:26,685 INFO row 8: sku=53912 title='ABS 1mm x 38mm UG 100m Botanic Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 16:51:26,686 INFO range -> Laminate
+2025-08-21 16:51:27,734 INFO row 9: sku=52121 title='Laminate Botanic Smooth 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:51:27,734 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:51:32,179 INFO row 10: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 16:51:32,217 INFO tab 2/2 -> Venette
+2025-08-21 16:51:32,239 INFO items in finish 'Venette': 5
+2025-08-21 16:51:32,239 INFO range -> Board Decorative
+2025-08-21 16:51:33,356 INFO row 1: sku=54722 title='MDF 182412 SS Botanic Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:51:34,117 INFO row 2: sku=54723 title='MDF 182412 DS Botanic Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:51:34,117 INFO range -> Edgetape Decorative
+2025-08-21 16:51:35,159 INFO row 3: sku=54724 title='ABS 1mm x 21mm UG 100m Botanic Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:51:36,196 INFO row 4: sku=54725 title='ABS 1mm x 21mm UG 20m Botanic Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:51:37,252 INFO row 5: sku=54727 title='ABS 1mm x 29mm UG 100m Botanic Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:51:37,252 INFO run end rows=15
+2025-08-21 16:51:37,255 INFO csv write: board_decorative.csv sku=52834 colour='Botanic'
+2025-08-21 16:51:37,255 INFO csv write: board_decorative.csv sku=56675 colour='Botanic'
+2025-08-21 16:51:37,255 INFO csv write: board_decorative.csv sku=56676 colour='Botanic'
+2025-08-21 16:51:37,255 INFO csv write: board_decorative.csv sku=56677 colour='Botanic'
+2025-08-21 16:51:37,256 INFO csv write: edgetape_decorative.csv sku=52837 colour='Botanic'
+2025-08-21 16:51:37,256 INFO csv write: edgetape_decorative.csv sku=52835 colour='Botanic'
+2025-08-21 16:51:37,256 INFO csv write: edgetape_decorative.csv sku=52838 colour='Botanic'
+2025-08-21 16:51:37,256 INFO csv write: edgetape_decorative.csv sku=53912 colour='Botanic'
+2025-08-21 16:51:37,257 INFO csv write: laminate.csv sku=52121 colour='Botanic'
+2025-08-21 16:51:37,257 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Botanic'
+2025-08-21 16:51:37,258 INFO csv write: board_decorative.csv sku=54722 colour='Botanic'
+2025-08-21 16:51:37,258 INFO csv write: board_decorative.csv sku=54723 colour='Botanic'
+2025-08-21 16:51:37,258 INFO csv write: edgetape_decorative.csv sku=54724 colour='Botanic'
+2025-08-21 16:51:37,258 INFO csv write: edgetape_decorative.csv sku=54725 colour='Botanic'
+2025-08-21 16:51:37,258 INFO csv write: edgetape_decorative.csv sku=54727 colour='Botanic'
+2025-08-21 16:51:37,258 INFO [39/240] Done Botanic, rows=15, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

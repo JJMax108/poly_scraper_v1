@@ -1,0 +1,16 @@
+2025-08-21 17:33:58,332 INFO [169/240] Processing Champagne Metallic  https://www.polytec.com.au/colour/champagne-metallic/
+2025-08-21 17:33:58,332 INFO run start colour=https://www.polytec.com.au/colour/champagne-metallic/
+2025-08-21 17:33:58,853 INFO colour name: Champagne Metallic
+2025-08-21 17:33:58,857 INFO finish tabs: 1
+2025-08-21 17:33:58,877 INFO tab 1/1 -> Gloss
+2025-08-21 17:33:58,888 INFO items in finish 'Gloss': 3
+2025-08-21 17:33:58,888 INFO range -> Board Decorative
+2025-08-21 17:34:00,353 INFO row 1: sku=45317 title='Ultraglaze MDF 182412 SS Champagne Metallic Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.46s
+2025-08-21 17:34:01,910 INFO row 2: sku=45315 title='Ultraglaze MDF 182412 DS Champagne Metallic Gloss MR E0' stock=OK price=EMPTY qty_used=1 moq_min=1 step=1 time=1.56s
+2025-08-21 17:34:01,910 INFO range -> Edgetape Decorative
+2025-08-21 17:34:02,966 INFO row 3: sku=45768 title='ABS 1mm x 22mm UG 100m Ultraglaze Champagne Metallic Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:34:02,966 INFO run end rows=3
+2025-08-21 17:34:02,966 INFO csv write: board_decorative.csv sku=45317 colour='Champagne Metallic'
+2025-08-21 17:34:02,966 INFO csv write: board_decorative.csv sku=45315 colour='Champagne Metallic'
+2025-08-21 17:34:02,967 INFO csv write: edgetape_decorative.csv sku=45768 colour='Champagne Metallic'
+2025-08-21 17:34:02,967 INFO [169/240] Done Champagne Metallic, rows=3, ranges=['Board Decorative', 'Edgetape Decorative']

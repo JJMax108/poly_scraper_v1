@@ -1,0 +1,665 @@
+2025-08-21 17:46:45,277 INFO [238/240] Processing Carcass  https://www.polytec.com.au/colour/carcass/
+2025-08-21 17:46:45,277 INFO run start colour=https://www.polytec.com.au/colour/carcass/
+2025-08-21 17:46:46,161 INFO colour name: Carcass
+2025-08-21 17:46:46,176 INFO finish tabs: 3
+2025-08-21 17:46:46,344 INFO tab 1/3 -> Matt
+2025-08-21 17:46:46,937 INFO items in finish 'Matt': 109
+2025-08-21 17:46:46,937 INFO range -> Board Commodity
+2025-08-21 17:46:47,760 INFO row 1: sku=662 title='Particle 162412 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:47,865 INFO MOQ for SKU 1888 min=20 step=20 qty 1 -> 20
+2025-08-21 17:46:47,865 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:46:47,865 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:46:48,612 INFO row 2: sku=1888 title='Particle 163618 DS Carcass Matt MR' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.85s
+2025-08-21 17:46:49,459 INFO row 3: sku=1876 title='Particle 162418 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.85s
+2025-08-21 17:46:50,303 INFO row 4: sku=9019 title='Particle 252412 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.84s
+2025-08-21 17:46:51,154 INFO row 5: sku=7487 title='Particle 163612 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.85s
+2025-08-21 17:46:52,002 INFO row 6: sku=12117 title='Particle 332412 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.85s
+2025-08-21 17:46:52,834 INFO row 7: sku=2283 title='Particle 253618 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.83s
+2025-08-21 17:46:53,687 INFO row 8: sku=6076 title='Particle 182412 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.85s
+2025-08-21 17:46:54,519 INFO row 9: sku=51405 title='Particle 122412 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.83s
+2025-08-21 17:46:54,627 INFO MOQ for SKU 50936 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:54,627 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:46:54,628 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:55,371 INFO row 10: sku=50936 title='Particle 162712 DS Carcass Matt MR' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.85s
+2025-08-21 17:46:55,480 INFO MOQ for SKU 5563 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:55,480 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:46:55,480 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:56,233 INFO row 11: sku=5563 title='Particle 163112 DS Carcass Matt MR' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.86s
+2025-08-21 17:46:57,053 INFO row 12: sku=13121 title='Particle 333618 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:57,882 INFO row 13: sku=52973 title='Particle 092412 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.83s
+2025-08-21 17:46:58,715 INFO row 14: sku=3083 title='Particle 183618 DS Carcass Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.83s
+2025-08-21 17:46:58,825 INFO MOQ for SKU 948 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:58,825 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:46:58,825 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:59,570 INFO row 15: sku=948 title='MDF 162412 DS Carcass Matt MR E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.86s
+2025-08-21 17:46:59,676 INFO MOQ for SKU 1892 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:59,676 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:46:59,676 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:00,422 INFO row 16: sku=1892 title='Particle 162418 DS Carcass Matt STD' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.85s
+2025-08-21 17:47:00,527 INFO MOQ for SKU 754 min=50 step=50 qty 1 -> 50
+2025-08-21 17:47:00,527 INFO MOQ hint: Pack Size: 50
+2025-08-21 17:47:00,527 INFO MOQ hint: Minimum qty 50, multiples of 50 only.
+2025-08-21 17:47:01,278 INFO row 17: sku=754 title='MDF 092412 DS Carcass Matt MR E0' stock=OK price=OK qty_used=50 moq_min=50 step=50 time=0.86s
+2025-08-21 17:47:01,372 INFO MOQ for SKU 1654 min=20 step=20 qty 1 -> 20
+2025-08-21 17:47:01,373 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:47:01,373 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:47:02,101 INFO row 18: sku=1654 title='MDF 213112 SS Carcass Matt DOWN MR E0 LMG' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.82s
+2025-08-21 17:47:02,207 INFO MOQ for SKU 52427 min=12 step=12 qty 1 -> 12
+2025-08-21 17:47:02,207 INFO MOQ hint: Pack Size: 12 .
+2025-08-21 17:47:02,207 INFO MOQ hint: Minimum qty 12, multiples of 12 only.
+2025-08-21 17:47:02,951 INFO row 19: sku=52427 title='Particle 32.8mm 3640 x 1830 SS Carcass Matt UP MR' stock=OK price=OK qty_used=12 moq_min=12 step=12 time=0.85s
+2025-08-21 17:47:03,057 INFO MOQ for SKU 1632 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:03,057 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:03,058 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:03,803 INFO row 20: sku=1632 title='MDF 182412 SS Carcass Matt DOWN MR E0 LMG' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.85s
+2025-08-21 17:47:03,909 INFO MOQ for SKU 1636 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:03,909 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:03,909 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:04,653 INFO row 21: sku=1636 title='MDF 183112 SS Carcass Matt DOWN MR E0 LMG' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.85s
+2025-08-21 17:47:04,759 INFO MOQ for SKU 52428 min=10 step=10 qty 1 -> 10
+2025-08-21 17:47:04,759 INFO MOQ hint: Pack Size: 10 .
+2025-08-21 17:47:04,759 INFO MOQ hint: Minimum qty 10, multiples of 10 only.
+2025-08-21 17:47:05,505 INFO row 22: sku=52428 title='Particle 38mm 3640 x 1830 SS Carcass Matt UP MR' stock=OK price=OK qty_used=10 moq_min=10 step=10 time=0.85s
+2025-08-21 17:47:05,611 INFO MOQ for SKU 1954 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:05,611 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:05,611 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:06,360 INFO row 23: sku=1954 title='Particle 182418 DS Carcass Matt MR' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.86s
+2025-08-21 17:47:06,457 INFO MOQ for SKU 962 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:06,457 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:06,457 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:07,196 INFO row 24: sku=962 title='MDF 182412 DS Carcass Matt MR E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.84s
+2025-08-21 17:47:07,290 INFO MOQ for SKU 1862 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:07,291 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:47:07,291 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:08,032 INFO row 25: sku=1862 title='MDF 122412 DS Carcass Matt MR E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.83s
+2025-08-21 17:47:08,143 INFO MOQ for SKU 1644 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:08,143 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:08,143 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:08,890 INFO row 26: sku=1644 title='MDF 163112 SS Carcass Matt DOWN MR E0 LMG' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.86s
+2025-08-21 17:47:08,992 INFO MOQ for SKU 1893 min=20 step=20 qty 1 -> 20
+2025-08-21 17:47:08,992 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:47:08,992 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:47:09,737 INFO row 27: sku=1893 title='Particle 163618 DS Carcass Matt STD' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.85s
+2025-08-21 17:47:09,838 INFO MOQ for SKU 1702 min=20 step=20 qty 1 -> 20
+2025-08-21 17:47:09,838 INFO MOQ hint: Pack Size: 20
+2025-08-21 17:47:09,838 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:47:10,585 INFO row 28: sku=1702 title='MDF 252412 SS Carcass Matt DOWN MR E0' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.85s
+2025-08-21 17:47:10,691 INFO MOQ for SKU 1628 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:10,692 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:10,692 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:11,435 INFO row 29: sku=1628 title='MDF 162412 SS Carcass Matt DOWN MR E0 LMG' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.85s
+2025-08-21 17:47:11,436 INFO range -> Board Components
+2025-08-21 17:47:11,541 INFO MOQ for SKU 49175 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:11,542 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:11,542 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:12,291 INFO row 30: sku=49175 title='Particle STD 161950447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:12,397 INFO MOQ for SKU 49196 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:12,398 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:12,398 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:13,141 INFO row 31: sku=49196 title='Particle STD 161950447 DS Carcass Matt E1L - Half Drill - 37' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:13,245 INFO MOQ for SKU 52946 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:13,245 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:13,245 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:13,996 INFO row 32: sku=52946 title='Particle STD 161200447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:14,088 INFO MOQ for SKU 49137 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:14,088 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:14,088 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:14,834 INFO row 33: sku=49137 title='Particle STD 161500297 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.84s
+2025-08-21 17:47:14,940 INFO MOQ for SKU 49138 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:14,940 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:14,940 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:15,685 INFO row 34: sku=49138 title='Particle STD 161500447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:15,792 INFO MOQ for SKU 49139 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:15,792 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:15,792 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:16,545 INFO row 35: sku=49139 title='Particle STD 161680447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:16,640 INFO MOQ for SKU 49166 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:16,640 INFO MOQ hint: Pack Size: 60 .
+2025-08-21 17:47:16,640 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:17,385 INFO row 36: sku=49166 title='Particle STD 161808447 DS Carcass Matt E1L-Full Drill - 37mm' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.84s
+2025-08-21 17:47:17,494 INFO MOQ for SKU 49167 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:17,494 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:17,494 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:18,244 INFO row 37: sku=49167 title='Particle STD 161808447 DS Carcass Matt E1L-Half Drill -37mm' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:18,343 INFO MOQ for SKU 49177 min=200 step=200 qty 1 -> 200
+2025-08-21 17:47:18,343 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:47:18,343 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:47:19,093 INFO row 38: sku=49177 title='Particle STD 161820095 DS Carcass Matt E1L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.85s
+2025-08-21 17:47:19,192 INFO MOQ for SKU 49173 min=360 step=360 qty 1 -> 360
+2025-08-21 17:47:19,192 INFO MOQ hint: Pack Size: 360
+2025-08-21 17:47:19,192 INFO MOQ hint: Minimum qty 360, multiples of 360 only.
+2025-08-21 17:47:19,945 INFO row 39: sku=49173 title='Particle STD 16191447 DS Carcass Matt Edged AR' stock=OK price=OK qty_used=360 moq_min=360 step=360 time=0.85s
+2025-08-21 17:47:20,057 INFO MOQ for SKU 49174 min=360 step=360 qty 1 -> 360
+2025-08-21 17:47:20,057 INFO MOQ hint: Pack Size: 360
+2025-08-21 17:47:20,057 INFO MOQ hint: Minimum qty 360, multiples of 360 only.
+2025-08-21 17:47:20,801 INFO row 40: sku=49174 title='Particle STD 16191595 DS Carcass Matt Edged AR' stock=OK price=OK qty_used=360 moq_min=360 step=360 time=0.86s
+2025-08-21 17:47:20,911 INFO MOQ for SKU 49197 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:20,912 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:20,912 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:21,662 INFO row 41: sku=49197 title='Particle STD 161950447 DS Carcass Matt E1L - Half Drill Spla' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:21,755 INFO MOQ for SKU 49198 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:21,755 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:21,755 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:22,501 INFO row 42: sku=49198 title='Particle STD 161950447 DS Carcass Matt E1L - Undrilled Splay' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.84s
+2025-08-21 17:47:22,607 INFO MOQ for SKU 49199 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:22,607 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:22,607 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:23,352 INFO row 43: sku=49199 title='Particle STD 162000297 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:23,462 INFO MOQ for SKU 49202 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:23,462 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:23,462 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:24,212 INFO row 44: sku=49202 title='Particle STD 162000447 DS Carcass Matt E1L - Undrilled Splay' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:24,307 INFO MOQ for SKU 49203 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:24,307 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:24,307 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:25,061 INFO row 45: sku=49203 title='Particle STD 162000447 DS Carcass Matt E1L - Half Drill Spla' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:25,155 INFO MOQ for SKU 49204 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:25,155 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:25,155 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:25,900 INFO row 46: sku=49204 title='Particle STD 162000447 DS Carcass Matt E1L - Full Drill - 37' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.84s
+2025-08-21 17:47:26,010 INFO MOQ for SKU 49206 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:26,010 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:26,011 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:26,764 INFO row 47: sku=49206 title='Particle STD 162096447 DS Carcass Matt E1L - Half Drill - 37' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:26,873 INFO MOQ for SKU 49210 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:26,873 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:26,873 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:27,619 INFO row 48: sku=49210 title='Particle STD 162420597 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:27,723 INFO MOQ for SKU 49208 min=200 step=200 qty 1 -> 200
+2025-08-21 17:47:27,724 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:47:27,724 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:47:28,475 INFO row 49: sku=49208 title='Particle STD 162420095 DS Carcass Matt E1L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.86s
+2025-08-21 17:47:28,575 INFO MOQ for SKU 51608 min=200 step=200 qty 1 -> 200
+2025-08-21 17:47:28,575 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:47:28,575 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:47:29,326 INFO row 50: sku=51608 title='Particle STD 1627200065 DS Carcass Matt E1L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.85s
+2025-08-21 17:47:29,424 INFO MOQ for SKU 49218 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:29,424 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:29,424 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:30,175 INFO row 51: sku=49218 title='Particle STD 162720670 DS Carcass Matt Unedged' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.85s
+2025-08-21 17:47:30,270 INFO MOQ for SKU 25471 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:30,270 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:30,271 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:31,018 INFO row 52: sku=25471 title='Particle STD 163620297 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.84s
+2025-08-21 17:47:31,127 INFO MOQ for SKU 49222 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:31,127 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:31,127 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:31,878 INFO row 53: sku=49222 title='Particle STD 163620398 DS Carcass Matt Unedged' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:31,991 INFO MOQ for SKU 52942 min=200 step=200 qty 1 -> 200
+2025-08-21 17:47:31,991 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:47:31,991 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:47:32,743 INFO row 54: sku=52942 title='Particle STD 163620083 DS Carcass Matt E2L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.86s
+2025-08-21 17:47:32,841 INFO MOQ for SKU 49221 min=200 step=200 qty 1 -> 200
+2025-08-21 17:47:32,841 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:47:32,841 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:47:33,587 INFO row 55: sku=49221 title='Particle STD 163620095 DS Carcass Matt E1L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.84s
+2025-08-21 17:47:33,693 INFO MOQ for SKU 49133 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:33,693 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:33,693 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:34,444 INFO row 56: sku=49133 title='Particle STD 160399396 DS Carcass Matt Unedged' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.86s
+2025-08-21 17:47:34,540 INFO MOQ for SKU 49229 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:34,540 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:34,540 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:35,293 INFO row 57: sku=49229 title='Particle STD 16425447 DS Carcass Matt Edged 1SE' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.85s
+2025-08-21 17:47:35,405 INFO MOQ for SKU 49230 min=360 step=360 qty 1 -> 360
+2025-08-21 17:47:35,405 INFO MOQ hint: Pack Size: 360
+2025-08-21 17:47:35,405 INFO MOQ hint: Minimum qty 360, multiples of 360 only.
+2025-08-21 17:47:36,155 INFO row 58: sku=49230 title='Particle STD 16445232 DS Carcass Matt Edged AR' stock=OK price=OK qty_used=360 moq_min=360 step=360 time=0.86s
+2025-08-21 17:47:36,260 INFO MOQ for SKU 49262 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:36,260 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:36,260 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:37,012 INFO row 59: sku=49262 title='Particle STD 16458441 DS Carcass Matt E1L' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.86s
+2025-08-21 17:47:37,111 INFO MOQ for SKU 49232 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:37,111 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:37,111 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:37,860 INFO row 60: sku=49232 title='Particle STD 16473444 DS Carcass Matt E1L' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.85s
+2025-08-21 17:47:37,955 INFO MOQ for SKU 49233 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:37,956 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:37,956 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:38,700 INFO row 61: sku=49233 title='Particle STD 16475447 DS Carcass Matt E1L' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.84s
+2025-08-21 17:47:38,808 INFO MOQ for SKU 49134 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:38,809 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:38,809 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:39,557 INFO row 62: sku=49134 title='Particle STD 160546399 DS Carcass Matt Unedged' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.86s
+2025-08-21 17:47:39,654 INFO MOQ for SKU 49235 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:39,654 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:39,654 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:40,400 INFO row 63: sku=49235 title='Particle STD 16573444 DS Carcass Matt E1L' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.84s
+2025-08-21 17:47:40,507 INFO MOQ for SKU 49236 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:40,507 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:40,507 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:41,257 INFO row 64: sku=49236 title='Particle STD 16575447 DS Carcass Matt E1L' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.86s
+2025-08-21 17:47:41,358 INFO MOQ for SKU 49237 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:41,358 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:41,358 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:42,088 INFO row 65: sku=49237 title='Particle STD 16575447 DS Carcass Matt E1L Cam - 37mm' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.83s
+2025-08-21 17:47:42,189 INFO MOQ for SKU 49238 min=360 step=360 qty 1 -> 360
+2025-08-21 17:47:42,190 INFO MOQ hint: Pack Size: 360
+2025-08-21 17:47:42,190 INFO MOQ hint: Minimum qty 360, multiples of 360 only.
+2025-08-21 17:47:42,940 INFO row 66: sku=49238 title='Particle STD 16595232 DS Carcass Matt Edged AR' stock=OK price=OK qty_used=360 moq_min=360 step=360 time=0.85s
+2025-08-21 17:47:43,039 INFO MOQ for SKU 49263 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:43,039 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:43,039 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:43,787 INFO row 67: sku=49263 title='Particle STD 16608441 DS Carcass Matt E1L' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.85s
+2025-08-21 17:47:43,893 INFO MOQ for SKU 49239 min=240 step=240 qty 1 -> 240
+2025-08-21 17:47:43,894 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:47:43,894 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:47:44,644 INFO row 68: sku=49239 title='Particle STD 16608447 DS Carcass Matt E1L' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.86s
+2025-08-21 17:47:44,742 INFO MOQ for SKU 49135 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:44,742 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:44,742 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:45,494 INFO row 69: sku=49135 title='Particle STD 160900447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:45,590 INFO MOQ for SKU 49385 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:45,590 INFO MOQ hint: Pack Size: 60 .
+2025-08-21 17:47:45,590 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:46,348 INFO row 70: sku=49385 title='Particle MR 162400595 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:46,441 INFO MOQ for SKU 25472 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:46,441 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:46,441 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:47,183 INFO row 71: sku=25472 title='Particle STD 163620447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.83s
+2025-08-21 17:47:47,272 INFO MOQ for SKU 49207 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:47,272 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:47,272 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:48,017 INFO row 72: sku=49207 title='Particle STD 162420447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.83s
+2025-08-21 17:47:48,122 INFO MOQ for SKU 49213 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:48,122 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:48,122 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:48,871 INFO row 73: sku=49213 title='Particle STD 162720447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:48,976 INFO MOQ for SKU 49200 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:48,976 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:48,976 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:49,728 INFO row 74: sku=49200 title='Particle STD 162000447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:49,843 INFO MOQ for SKU 43778 min=60 step=30 qty 1 -> 60
+2025-08-21 17:47:49,843 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:49,843 INFO MOQ hint: Minimum qty 60, multiples of 30 only.
+2025-08-21 17:47:50,616 INFO row 75: sku=43778 title='Particle MR 163600595 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=30 time=0.89s
+2025-08-21 17:47:50,723 INFO MOQ for SKU 49223 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:50,723 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:50,723 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:51,474 INFO row 76: sku=49223 title='Particle STD 163620597 DS Carcass Matt E1L' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.86s
+2025-08-21 17:47:51,578 INFO MOQ for SKU 49216 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:51,578 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:51,578 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:52,337 INFO row 77: sku=49216 title='Particle STD 162720597 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:52,442 INFO MOQ for SKU 49195 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:52,442 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:52,442 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:53,199 INFO row 78: sku=49195 title='Particle STD 161950447 DS Carcass Matt E1L - Full Drill - 37' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:53,290 INFO MOQ for SKU 49211 min=200 step=200 qty 1 -> 200
+2025-08-21 17:47:53,291 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:47:53,291 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:47:54,047 INFO row 79: sku=49211 title='Particle STD 1627200083 DS Carcass Matt E1L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.85s
+2025-08-21 17:47:54,159 INFO MOQ for SKU 43774 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:54,159 INFO MOQ hint: Pack Size: 60 .
+2025-08-21 17:47:54,160 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:54,910 INFO row 80: sku=43774 title='Particle MR 163600445 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:55,005 INFO MOQ for SKU 49393 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:55,005 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:55,005 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:55,748 INFO row 81: sku=49393 title='Particle MR 1611901190 DS Carcass Matt Corner Shelf - Wing 5' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.84s
+2025-08-21 17:47:55,857 INFO MOQ for SKU 49201 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:55,857 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:47:55,857 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:56,610 INFO row 82: sku=49201 title='Particle STD 162000447 DS Carcass Matt E1L - Half Drill - 37' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:56,726 INFO MOQ for SKU 49387 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:56,726 INFO MOQ hint: Pack Size: 60 .
+2025-08-21 17:47:56,726 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:57,475 INFO row 83: sku=49387 title='Particle MR 162400445 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:47:57,578 INFO MOQ for SKU 49225 min=30 step=30 qty 1 -> 30
+2025-08-21 17:47:57,578 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:47:57,578 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:47:58,328 INFO row 84: sku=49225 title='Particle STD 163620670 DS Carcass Matt Unedged' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.85s
+2025-08-21 17:47:58,421 INFO MOQ for SKU 49388 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:58,421 INFO MOQ hint: Pack Size: 60 .
+2025-08-21 17:47:58,421 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:47:59,174 INFO row 85: sku=49388 title='Particle MR 162400295 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:47:59,277 INFO MOQ for SKU 49389 min=60 step=60 qty 1 -> 60
+2025-08-21 17:47:59,277 INFO MOQ hint: Pack Size: 60 .
+2025-08-21 17:47:59,277 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:48:00,026 INFO row 86: sku=49389 title='Particle MR 163600295 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:48:00,142 INFO MOQ for SKU 49228 min=720 step=720 qty 1 -> 720
+2025-08-21 17:48:00,142 INFO MOQ hint: Pack Size: 720
+2025-08-21 17:48:00,142 INFO MOQ hint: Minimum qty 720, multiples of 720 only.
+2025-08-21 17:48:00,897 INFO row 87: sku=49228 title='Particle STD 16425083 DS Carcass Matt E1L E1S' stock=OK price=OK qty_used=720 moq_min=720 step=720 time=0.87s
+2025-08-21 17:48:01,008 INFO MOQ for SKU 49165 min=60 step=60 qty 1 -> 60
+2025-08-21 17:48:01,008 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:48:01,008 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:48:01,755 INFO row 88: sku=49165 title='Particle STD 161808447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:48:01,855 INFO MOQ for SKU 52941 min=200 step=200 qty 1 -> 200
+2025-08-21 17:48:01,855 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:48:01,855 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:48:02,599 INFO row 89: sku=52941 title='Particle STD 1627200083 DS Carcass Matt E2L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.84s
+2025-08-21 17:48:02,705 INFO MOQ for SKU 49209 min=200 step=200 qty 1 -> 200
+2025-08-21 17:48:02,706 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:48:02,706 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:48:03,458 INFO row 90: sku=49209 title='Particle STD 162420083 DS Carcass Matt E1L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.86s
+2025-08-21 17:48:03,572 INFO MOQ for SKU 49162 min=60 step=60 qty 1 -> 60
+2025-08-21 17:48:03,572 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:48:03,573 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:48:04,324 INFO row 91: sku=49162 title='Particle STD 161680447 DS Carcass Matt E1L - Half Drill 37mm' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.87s
+2025-08-21 17:48:04,425 INFO MOQ for SKU 49164 min=60 step=60 qty 1 -> 60
+2025-08-21 17:48:04,425 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:48:04,425 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:48:05,178 INFO row 92: sku=49164 title='Particle STD 161820297 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:48:05,288 INFO MOQ for SKU 49260 min=60 step=60 qty 1 -> 60
+2025-08-21 17:48:05,289 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:48:05,289 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:48:06,448 INFO row 93: sku=49260 title='Particle STD 162720297 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=1.27s
+2025-08-21 17:48:06,537 INFO MOQ for SKU 49212 min=200 step=200 qty 1 -> 200
+2025-08-21 17:48:06,537 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:48:06,537 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:48:07,282 INFO row 94: sku=49212 title='Particle STD 162720095 DS Carcass Matt E1L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.83s
+2025-08-21 17:48:07,392 INFO MOQ for SKU 49224 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:07,392 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:48:07,392 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:08,143 INFO row 95: sku=49224 title='Particle STD 163620650 DS Carcass Matt E1L' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.86s
+2025-08-21 17:48:08,237 INFO MOQ for SKU 49220 min=200 step=200 qty 1 -> 200
+2025-08-21 17:48:08,238 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:48:08,238 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:48:08,983 INFO row 96: sku=49220 title='Particle STD 163620083 DS Carcass Matt E1L' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.84s
+2025-08-21 17:48:09,087 INFO MOQ for SKU 49205 min=60 step=60 qty 1 -> 60
+2025-08-21 17:48:09,087 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:48:09,087 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:48:09,839 INFO row 97: sku=49205 title='Particle STD 162096447 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.86s
+2025-08-21 17:48:09,942 INFO MOQ for SKU 49264 min=60 step=60 qty 1 -> 60
+2025-08-21 17:48:09,943 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:48:09,943 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:48:10,692 INFO row 98: sku=49264 title='Particle STD 162420297 DS Carcass Matt E1L' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.85s
+2025-08-21 17:48:10,805 INFO MOQ for SKU 49219 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:10,806 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:48:10,806 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:11,562 INFO row 99: sku=49219 title='Particle STD 162720650 DS Carcass Matt E1L' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.87s
+2025-08-21 17:48:11,653 INFO MOQ for SKU 49227 min=720 step=720 qty 1 -> 720
+2025-08-21 17:48:11,654 INFO MOQ hint: Pack Size: 720
+2025-08-21 17:48:11,654 INFO MOQ hint: Minimum qty 720, multiples of 720 only.
+2025-08-21 17:48:12,404 INFO row 100: sku=49227 title='Particle STD 16425095 DS Carcass Matt E1L E1S' stock=OK price=OK qty_used=720 moq_min=720 step=720 time=0.84s
+2025-08-21 17:48:12,504 INFO MOQ for SKU 49231 min=240 step=240 qty 1 -> 240
+2025-08-21 17:48:12,504 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:48:12,505 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:48:13,253 INFO row 101: sku=49231 title='Particle STD 16458447 DS Carcass Matt E1L' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.85s
+2025-08-21 17:48:13,360 INFO MOQ for SKU 49234 min=240 step=240 qty 1 -> 240
+2025-08-21 17:48:13,360 INFO MOQ hint: Pack Size: 240
+2025-08-21 17:48:13,360 INFO MOQ hint: Minimum qty 240, multiples of 240 only.
+2025-08-21 17:48:14,111 INFO row 102: sku=49234 title='Particle STD 16475447 DS Carcass Matt E1L Cam - 37mm' stock=OK price=OK qty_used=240 moq_min=240 step=240 time=0.86s
+2025-08-21 17:48:14,223 INFO MOQ for SKU 49448 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:14,223 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:48:14,223 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:14,969 INFO row 103: sku=49448 title='Particle MR 16890890 DS Carcass Matt Corner Shelf - Wing 545' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.86s
+2025-08-21 17:48:14,970 INFO range -> Edgetape Commodity
+2025-08-21 17:48:15,831 INFO row 104: sku=49304 title='Rigid 1mm x 21mm UG 200m Carcass Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.86s
+2025-08-21 17:48:16,995 INFO row 105: sku=49305 title='Rigid 1mm x 19mm UG 200mtr Carcass Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.16s
+2025-08-21 17:48:18,112 INFO row 106: sku=51224 title='Rigid 1mm x 29mm UG 100m Carcass Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:48:18,112 INFO range -> Batten
+2025-08-21 17:48:18,221 INFO MOQ for SKU 33250 min=5 step=5 qty 1 -> 5
+2025-08-21 17:48:18,222 INFO MOQ hint: Pack Size: 5
+2025-08-21 17:48:18,222 INFO MOQ hint: Minimum qty 5, multiples of 5 only.
+2025-08-21 17:48:18,976 INFO row 107: sku=33250 title='42 x 18 (2x1) 3600mm White Batten (For Rails)' stock=OK price=OK qty_used=5 moq_min=5 step=5 time=0.86s
+2025-08-21 17:48:19,072 INFO MOQ for SKU 42567 min=5 step=5 qty 1 -> 5
+2025-08-21 17:48:19,072 INFO MOQ hint: Pack Size: 5
+2025-08-21 17:48:19,072 INFO MOQ hint: Minimum qty 5, multiples of 5 only.
+2025-08-21 17:48:19,822 INFO row 108: sku=42567 title='42 x 18 (2x1) 2700mm White Batten (For Rails)' stock=OK price=OK qty_used=5 moq_min=5 step=5 time=0.85s
+2025-08-21 17:48:19,921 INFO MOQ for SKU 43158 min=5 step=5 qty 1 -> 5
+2025-08-21 17:48:19,922 INFO MOQ hint: Pack Size: 5
+2025-08-21 17:48:19,922 INFO MOQ hint: Minimum qty 5, multiples of 5 only.
+2025-08-21 17:48:20,669 INFO row 109: sku=43158 title='67 x 18 (3x1) 2700mm White Batten (For Rails)' stock=OK price=OK qty_used=5 moq_min=5 step=5 time=0.85s
+2025-08-21 17:48:20,735 INFO tab 2/3 -> Satin
+2025-08-21 17:48:20,894 INFO items in finish 'Satin': 37
+2025-08-21 17:48:20,894 INFO range -> Board Commodity
+2025-08-21 17:48:21,699 INFO row 1: sku=1549 title='MDF 182412 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:22,509 INFO row 2: sku=16594 title='MDF 182412 DS Carcass Satin MR E0 LMG' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:23,319 INFO row 3: sku=42518 title='MDF 183112 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:24,138 INFO row 4: sku=47420 title='MDF 212412 DS Carcass Satin MR E0 LMG' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:24,954 INFO row 5: sku=1583 title='MDF 322412 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:25,769 INFO row 6: sku=1585 title='MDF 213112 DS Carcass Satin MR E0 LMG' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:26,582 INFO row 7: sku=1553 title='MDF 252412 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:27,374 INFO row 8: sku=42517 title='MDF 183612 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:48:28,184 INFO row 9: sku=1543 title='MDF 162412 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:28,989 INFO row 10: sku=16303 title='MDF 323612 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:48:29,804 INFO row 11: sku=1675 title='MDF 183612 DS Carcass Satin MR E0 LMG' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:30,621 INFO row 12: sku=1552 title='MDF 183112 DS Carcass Satin MR E0 LMG' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:31,439 INFO row 13: sku=2248 title='MDF 183618 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:32,239 INFO row 14: sku=5781 title='MDF 253612 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:48:32,326 INFO MOQ for SKU 7915 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:32,326 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:48:32,326 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:33,055 INFO row 15: sku=7915 title='MDF 182712 DS Carcass Satin MR E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:48:33,877 INFO row 16: sku=1921 title='MDF 122412 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:34,706 INFO row 17: sku=1588 title='MDF 092412 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.83s
+2025-08-21 17:48:35,521 INFO row 18: sku=48468 title='MDF 213612 DS Carcass Satin MR E0 LMG' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:36,341 INFO row 19: sku=907 title='3mm White Backing 2400 x 1200' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:37,139 INFO row 20: sku=2129 title='MDF 182418 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:48:37,957 INFO row 21: sku=9087 title='MDF 252712 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:38,772 INFO row 22: sku=1550 title='MDF 163112 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:39,585 INFO row 23: sku=6916 title='MDF 163612 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:39,681 INFO MOQ for SKU 34681 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:39,682 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:48:39,682 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:40,407 INFO row 24: sku=34681 title='MDF 182712 DS Carcass Satin MR E0 LMG' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:48:41,223 INFO row 25: sku=34415 title='MDF 092712 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:42,042 INFO row 26: sku=25497 title='MDF 162412 DS Carcass Satin MR E0 LMG' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:48:42,854 INFO row 27: sku=2233 title='MDF 162418 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:43,666 INFO row 28: sku=2332 title='MDF 163618 DS Carcass Satin MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:43,744 INFO MOQ for SKU 7823 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:43,744 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:48:43,744 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:44,471 INFO row 29: sku=7823 title='MDF 183112 DS Carcass Satin MR E0 LMG Film Down' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.80s
+2025-08-21 17:48:44,566 INFO MOQ for SKU 7585 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:44,566 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:48:44,566 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:45,292 INFO row 30: sku=7585 title='MDF 182412 DS Carcass Satin MR E0 LMG Film Down' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:48:45,377 INFO MOQ for SKU 53007 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:45,377 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:48:45,377 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:46,106 INFO row 31: sku=53007 title='MDF 183612 DS Carcass Satin MR E0 LMG Film Up' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.81s
+2025-08-21 17:48:46,194 INFO MOQ for SKU 43156 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:46,194 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:48:46,194 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:46,923 INFO row 32: sku=43156 title='MDF 182412 DS Carcass Satin MR E0 LMG Film Up' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:48:47,010 INFO MOQ for SKU 15066 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:47,011 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:48:47,011 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:47,736 INFO row 33: sku=15066 title='MDF 183112 DS Carcass Satin MR E0 LMG Film UP' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.81s
+2025-08-21 17:48:47,829 INFO MOQ for SKU 42519 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:47,829 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:48:47,830 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:48,555 INFO row 34: sku=42519 title='MDF 183612 DS Carcass Satin MR E0 LMG Film Down' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:48:48,644 INFO MOQ for SKU 14261 min=30 step=30 qty 1 -> 30
+2025-08-21 17:48:48,645 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:48:48,645 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:48:49,373 INFO row 35: sku=14261 title='MDF 162412 DS Carcass Satin MR E0 LMG Film UP' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:48:49,460 INFO MOQ for SKU 53515 min=20 step=20 qty 1 -> 20
+2025-08-21 17:48:49,460 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:48:49,461 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:48:50,188 INFO row 36: sku=53515 title='MDF 253112 DS Carcass Satin MR E0' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.82s
+2025-08-21 17:48:50,279 INFO MOQ for SKU 6549 min=20 step=20 qty 1 -> 20
+2025-08-21 17:48:50,279 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:48:50,279 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:48:51,007 INFO row 37: sku=6549 title='MDF 252418 DS Carcass Satin MR E0' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.82s
+2025-08-21 17:48:51,055 INFO tab 3/3 -> Texture
+2025-08-21 17:48:51,114 INFO items in finish 'Texture': 14
+2025-08-21 17:48:51,114 INFO range -> Board Commodity
+2025-08-21 17:48:52,137 INFO row 1: sku=1038 title='Particle 162412 DS Carcass Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:48:52,204 INFO MOQ for SKU 1865 min=20 step=20 qty 1 -> 20
+2025-08-21 17:48:52,204 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:48:52,204 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:48:52,921 INFO row 2: sku=1865 title='Particle 163618 DS Carcass Texture MR' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.78s
+2025-08-21 17:48:53,722 INFO row 3: sku=1875 title='Particle 163612 DS Carcass Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:48:54,525 INFO row 4: sku=1874 title='Particle 162418 DS Carcass Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:48:55,331 INFO row 5: sku=7409 title='Particle 252412 DS Carcass Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:56,136 INFO row 6: sku=1186 title='Particle 182412 DS Carcass Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:56,949 INFO row 7: sku=49668 title='Particle 122412 DS Carcass Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:48:57,740 INFO row 8: sku=52978 title='Particle 092412 DS Carcass Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:48:58,543 INFO row 9: sku=385 title='MDF 162412 DS Carcass Texture MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:48:58,621 INFO MOQ for SKU 2103 min=20 step=20 qty 1 -> 20
+2025-08-21 17:48:58,621 INFO MOQ hint: Pack Size: 20
+2025-08-21 17:48:58,621 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:48:59,337 INFO row 10: sku=2103 title='Particle 183618 DS Carcass Texture MR' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.79s
+2025-08-21 17:48:59,337 INFO range -> Edgetape Commodity
+2025-08-21 17:49:00,136 INFO row 11: sku=6118 title='Rigid 1mm x 21mm UG 200mtr CARCASS TXT' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:49:01,240 INFO row 12: sku=5724 title='Rigid 1mm x 19mm UG 200mtr Carcass Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:49:02,321 INFO row 13: sku=51225 title='Rigid 1mm x 29mm UG 100m Carcass Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:49:03,104 INFO row 14: sku=6528 title='Rigid 1mm x 21mm PG 100mtr Carcass Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:49:03,105 INFO run end rows=160
+2025-08-21 17:49:03,106 INFO csv write: board_commodity.csv sku=662 colour='Carcass'
+2025-08-21 17:49:03,106 INFO csv write: board_commodity.csv sku=1888 colour='Carcass'
+2025-08-21 17:49:03,106 INFO csv write: board_commodity.csv sku=1876 colour='Carcass'
+2025-08-21 17:49:03,106 INFO csv write: board_commodity.csv sku=9019 colour='Carcass'
+2025-08-21 17:49:03,107 INFO csv write: board_commodity.csv sku=7487 colour='Carcass'
+2025-08-21 17:49:03,107 INFO csv write: board_commodity.csv sku=12117 colour='Carcass'
+2025-08-21 17:49:03,107 INFO csv write: board_commodity.csv sku=2283 colour='Carcass'
+2025-08-21 17:49:03,107 INFO csv write: board_commodity.csv sku=6076 colour='Carcass'
+2025-08-21 17:49:03,107 INFO csv write: board_commodity.csv sku=51405 colour='Carcass'
+2025-08-21 17:49:03,107 INFO csv write: board_commodity.csv sku=50936 colour='Carcass'
+2025-08-21 17:49:03,108 INFO csv write: board_commodity.csv sku=5563 colour='Carcass'
+2025-08-21 17:49:03,108 INFO csv write: board_commodity.csv sku=13121 colour='Carcass'
+2025-08-21 17:49:03,108 INFO csv write: board_commodity.csv sku=52973 colour='Carcass'
+2025-08-21 17:49:03,108 INFO csv write: board_commodity.csv sku=3083 colour='Carcass'
+2025-08-21 17:49:03,108 INFO csv write: board_commodity.csv sku=948 colour='Carcass'
+2025-08-21 17:49:03,108 INFO csv write: board_commodity.csv sku=1892 colour='Carcass'
+2025-08-21 17:49:03,108 INFO csv write: board_commodity.csv sku=754 colour='Carcass'
+2025-08-21 17:49:03,109 INFO csv write: board_commodity.csv sku=1654 colour='Carcass'
+2025-08-21 17:49:03,109 INFO csv write: board_commodity.csv sku=52427 colour='Carcass'
+2025-08-21 17:49:03,109 INFO csv write: board_commodity.csv sku=1632 colour='Carcass'
+2025-08-21 17:49:03,109 INFO csv write: board_commodity.csv sku=1636 colour='Carcass'
+2025-08-21 17:49:03,109 INFO csv write: board_commodity.csv sku=52428 colour='Carcass'
+2025-08-21 17:49:03,109 INFO csv write: board_commodity.csv sku=1954 colour='Carcass'
+2025-08-21 17:49:03,109 INFO csv write: board_commodity.csv sku=962 colour='Carcass'
+2025-08-21 17:49:03,110 INFO csv write: board_commodity.csv sku=1862 colour='Carcass'
+2025-08-21 17:49:03,110 INFO csv write: board_commodity.csv sku=1644 colour='Carcass'
+2025-08-21 17:49:03,110 INFO csv write: board_commodity.csv sku=1893 colour='Carcass'
+2025-08-21 17:49:03,110 INFO csv write: board_commodity.csv sku=1702 colour='Carcass'
+2025-08-21 17:49:03,110 INFO csv write: board_commodity.csv sku=1628 colour='Carcass'
+2025-08-21 17:49:03,110 INFO csv new: board_components.csv
+2025-08-21 17:49:03,111 INFO csv write: board_components.csv sku=49175 colour='Carcass'
+2025-08-21 17:49:03,111 INFO csv write: board_components.csv sku=49196 colour='Carcass'
+2025-08-21 17:49:03,111 INFO csv write: board_components.csv sku=52946 colour='Carcass'
+2025-08-21 17:49:03,111 INFO csv write: board_components.csv sku=49137 colour='Carcass'
+2025-08-21 17:49:03,112 INFO csv write: board_components.csv sku=49138 colour='Carcass'
+2025-08-21 17:49:03,112 INFO csv write: board_components.csv sku=49139 colour='Carcass'
+2025-08-21 17:49:03,112 INFO csv write: board_components.csv sku=49166 colour='Carcass'
+2025-08-21 17:49:03,112 INFO csv write: board_components.csv sku=49167 colour='Carcass'
+2025-08-21 17:49:03,112 INFO csv write: board_components.csv sku=49177 colour='Carcass'
+2025-08-21 17:49:03,112 INFO csv write: board_components.csv sku=49173 colour='Carcass'
+2025-08-21 17:49:03,112 INFO csv write: board_components.csv sku=49174 colour='Carcass'
+2025-08-21 17:49:03,113 INFO csv write: board_components.csv sku=49197 colour='Carcass'
+2025-08-21 17:49:03,113 INFO csv write: board_components.csv sku=49198 colour='Carcass'
+2025-08-21 17:49:03,113 INFO csv write: board_components.csv sku=49199 colour='Carcass'
+2025-08-21 17:49:03,113 INFO csv write: board_components.csv sku=49202 colour='Carcass'
+2025-08-21 17:49:03,113 INFO csv write: board_components.csv sku=49203 colour='Carcass'
+2025-08-21 17:49:03,113 INFO csv write: board_components.csv sku=49204 colour='Carcass'
+2025-08-21 17:49:03,113 INFO csv write: board_components.csv sku=49206 colour='Carcass'
+2025-08-21 17:49:03,114 INFO csv write: board_components.csv sku=49210 colour='Carcass'
+2025-08-21 17:49:03,114 INFO csv write: board_components.csv sku=49208 colour='Carcass'
+2025-08-21 17:49:03,114 INFO csv write: board_components.csv sku=51608 colour='Carcass'
+2025-08-21 17:49:03,114 INFO csv write: board_components.csv sku=49218 colour='Carcass'
+2025-08-21 17:49:03,114 INFO csv write: board_components.csv sku=25471 colour='Carcass'
+2025-08-21 17:49:03,114 INFO csv write: board_components.csv sku=49222 colour='Carcass'
+2025-08-21 17:49:03,114 INFO csv write: board_components.csv sku=52942 colour='Carcass'
+2025-08-21 17:49:03,114 INFO csv write: board_components.csv sku=49221 colour='Carcass'
+2025-08-21 17:49:03,115 INFO csv write: board_components.csv sku=49133 colour='Carcass'
+2025-08-21 17:49:03,115 INFO csv write: board_components.csv sku=49229 colour='Carcass'
+2025-08-21 17:49:03,115 INFO csv write: board_components.csv sku=49230 colour='Carcass'
+2025-08-21 17:49:03,115 INFO csv write: board_components.csv sku=49262 colour='Carcass'
+2025-08-21 17:49:03,115 INFO csv write: board_components.csv sku=49232 colour='Carcass'
+2025-08-21 17:49:03,115 INFO csv write: board_components.csv sku=49233 colour='Carcass'
+2025-08-21 17:49:03,115 INFO csv write: board_components.csv sku=49134 colour='Carcass'
+2025-08-21 17:49:03,116 INFO csv write: board_components.csv sku=49235 colour='Carcass'
+2025-08-21 17:49:03,116 INFO csv write: board_components.csv sku=49236 colour='Carcass'
+2025-08-21 17:49:03,116 INFO csv write: board_components.csv sku=49237 colour='Carcass'
+2025-08-21 17:49:03,116 INFO csv write: board_components.csv sku=49238 colour='Carcass'
+2025-08-21 17:49:03,116 INFO csv write: board_components.csv sku=49263 colour='Carcass'
+2025-08-21 17:49:03,117 INFO csv write: board_components.csv sku=49239 colour='Carcass'
+2025-08-21 17:49:03,117 INFO csv write: board_components.csv sku=49135 colour='Carcass'
+2025-08-21 17:49:03,117 INFO csv write: board_components.csv sku=49385 colour='Carcass'
+2025-08-21 17:49:03,117 INFO csv write: board_components.csv sku=25472 colour='Carcass'
+2025-08-21 17:49:03,117 INFO csv write: board_components.csv sku=49207 colour='Carcass'
+2025-08-21 17:49:03,117 INFO csv write: board_components.csv sku=49213 colour='Carcass'
+2025-08-21 17:49:03,117 INFO csv write: board_components.csv sku=49200 colour='Carcass'
+2025-08-21 17:49:03,118 INFO csv write: board_components.csv sku=43778 colour='Carcass'
+2025-08-21 17:49:03,118 INFO csv write: board_components.csv sku=49223 colour='Carcass'
+2025-08-21 17:49:03,118 INFO csv write: board_components.csv sku=49216 colour='Carcass'
+2025-08-21 17:49:03,118 INFO csv write: board_components.csv sku=49195 colour='Carcass'
+2025-08-21 17:49:03,118 INFO csv write: board_components.csv sku=49211 colour='Carcass'
+2025-08-21 17:49:03,118 INFO csv write: board_components.csv sku=43774 colour='Carcass'
+2025-08-21 17:49:03,118 INFO csv write: board_components.csv sku=49393 colour='Carcass'
+2025-08-21 17:49:03,119 INFO csv write: board_components.csv sku=49201 colour='Carcass'
+2025-08-21 17:49:03,119 INFO csv write: board_components.csv sku=49387 colour='Carcass'
+2025-08-21 17:49:03,119 INFO csv write: board_components.csv sku=49225 colour='Carcass'
+2025-08-21 17:49:03,119 INFO csv write: board_components.csv sku=49388 colour='Carcass'
+2025-08-21 17:49:03,119 INFO csv write: board_components.csv sku=49389 colour='Carcass'
+2025-08-21 17:49:03,119 INFO csv write: board_components.csv sku=49228 colour='Carcass'
+2025-08-21 17:49:03,119 INFO csv write: board_components.csv sku=49165 colour='Carcass'
+2025-08-21 17:49:03,120 INFO csv write: board_components.csv sku=52941 colour='Carcass'
+2025-08-21 17:49:03,120 INFO csv write: board_components.csv sku=49209 colour='Carcass'
+2025-08-21 17:49:03,120 INFO csv write: board_components.csv sku=49162 colour='Carcass'
+2025-08-21 17:49:03,120 INFO csv write: board_components.csv sku=49164 colour='Carcass'
+2025-08-21 17:49:03,120 INFO csv write: board_components.csv sku=49260 colour='Carcass'
+2025-08-21 17:49:03,120 INFO csv write: board_components.csv sku=49212 colour='Carcass'
+2025-08-21 17:49:03,120 INFO csv write: board_components.csv sku=49224 colour='Carcass'
+2025-08-21 17:49:03,121 INFO csv write: board_components.csv sku=49220 colour='Carcass'
+2025-08-21 17:49:03,121 INFO csv write: board_components.csv sku=49205 colour='Carcass'
+2025-08-21 17:49:03,121 INFO csv write: board_components.csv sku=49264 colour='Carcass'
+2025-08-21 17:49:03,121 INFO csv write: board_components.csv sku=49219 colour='Carcass'
+2025-08-21 17:49:03,121 INFO csv write: board_components.csv sku=49227 colour='Carcass'
+2025-08-21 17:49:03,121 INFO csv write: board_components.csv sku=49231 colour='Carcass'
+2025-08-21 17:49:03,121 INFO csv write: board_components.csv sku=49234 colour='Carcass'
+2025-08-21 17:49:03,121 INFO csv write: board_components.csv sku=49448 colour='Carcass'
+2025-08-21 17:49:03,122 INFO csv new: edgetape_commodity.csv
+2025-08-21 17:49:03,122 INFO csv write: edgetape_commodity.csv sku=49304 colour='Carcass'
+2025-08-21 17:49:03,122 INFO csv write: edgetape_commodity.csv sku=49305 colour='Carcass'
+2025-08-21 17:49:03,122 INFO csv write: edgetape_commodity.csv sku=51224 colour='Carcass'
+2025-08-21 17:49:03,122 INFO csv write: batten.csv sku=33250 colour='Carcass'
+2025-08-21 17:49:03,123 INFO csv write: batten.csv sku=42567 colour='Carcass'
+2025-08-21 17:49:03,123 INFO csv write: batten.csv sku=43158 colour='Carcass'
+2025-08-21 17:49:03,123 INFO csv write: board_commodity.csv sku=1549 colour='Carcass'
+2025-08-21 17:49:03,123 INFO csv write: board_commodity.csv sku=16594 colour='Carcass'
+2025-08-21 17:49:03,123 INFO csv write: board_commodity.csv sku=42518 colour='Carcass'
+2025-08-21 17:49:03,123 INFO csv write: board_commodity.csv sku=47420 colour='Carcass'
+2025-08-21 17:49:03,124 INFO csv write: board_commodity.csv sku=1583 colour='Carcass'
+2025-08-21 17:49:03,124 INFO csv write: board_commodity.csv sku=1585 colour='Carcass'
+2025-08-21 17:49:03,124 INFO csv write: board_commodity.csv sku=1553 colour='Carcass'
+2025-08-21 17:49:03,124 INFO csv write: board_commodity.csv sku=42517 colour='Carcass'
+2025-08-21 17:49:03,124 INFO csv write: board_commodity.csv sku=1543 colour='Carcass'
+2025-08-21 17:49:03,124 INFO csv write: board_commodity.csv sku=16303 colour='Carcass'
+2025-08-21 17:49:03,124 INFO csv write: board_commodity.csv sku=1675 colour='Carcass'
+2025-08-21 17:49:03,125 INFO csv write: board_commodity.csv sku=1552 colour='Carcass'
+2025-08-21 17:49:03,125 INFO csv write: board_commodity.csv sku=2248 colour='Carcass'
+2025-08-21 17:49:03,125 INFO csv write: board_commodity.csv sku=5781 colour='Carcass'
+2025-08-21 17:49:03,125 INFO csv write: board_commodity.csv sku=7915 colour='Carcass'
+2025-08-21 17:49:03,125 INFO csv write: board_commodity.csv sku=1921 colour='Carcass'
+2025-08-21 17:49:03,125 INFO csv write: board_commodity.csv sku=1588 colour='Carcass'
+2025-08-21 17:49:03,125 INFO csv write: board_commodity.csv sku=48468 colour='Carcass'
+2025-08-21 17:49:03,125 INFO csv write: board_commodity.csv sku=907 colour='Carcass'
+2025-08-21 17:49:03,126 INFO csv write: board_commodity.csv sku=2129 colour='Carcass'
+2025-08-21 17:49:03,126 INFO csv write: board_commodity.csv sku=9087 colour='Carcass'
+2025-08-21 17:49:03,126 INFO csv write: board_commodity.csv sku=1550 colour='Carcass'
+2025-08-21 17:49:03,126 INFO csv write: board_commodity.csv sku=6916 colour='Carcass'
+2025-08-21 17:49:03,126 INFO csv write: board_commodity.csv sku=34681 colour='Carcass'
+2025-08-21 17:49:03,126 INFO csv write: board_commodity.csv sku=34415 colour='Carcass'
+2025-08-21 17:49:03,126 INFO csv write: board_commodity.csv sku=25497 colour='Carcass'
+2025-08-21 17:49:03,127 INFO csv write: board_commodity.csv sku=2233 colour='Carcass'
+2025-08-21 17:49:03,127 INFO csv write: board_commodity.csv sku=2332 colour='Carcass'
+2025-08-21 17:49:03,127 INFO csv write: board_commodity.csv sku=7823 colour='Carcass'
+2025-08-21 17:49:03,127 INFO csv write: board_commodity.csv sku=7585 colour='Carcass'
+2025-08-21 17:49:03,127 INFO csv write: board_commodity.csv sku=53007 colour='Carcass'
+2025-08-21 17:49:03,127 INFO csv write: board_commodity.csv sku=43156 colour='Carcass'
+2025-08-21 17:49:03,127 INFO csv write: board_commodity.csv sku=15066 colour='Carcass'
+2025-08-21 17:49:03,128 INFO csv write: board_commodity.csv sku=42519 colour='Carcass'
+2025-08-21 17:49:03,128 INFO csv write: board_commodity.csv sku=14261 colour='Carcass'
+2025-08-21 17:49:03,128 INFO csv write: board_commodity.csv sku=53515 colour='Carcass'
+2025-08-21 17:49:03,128 INFO csv write: board_commodity.csv sku=6549 colour='Carcass'
+2025-08-21 17:49:03,128 INFO csv write: board_commodity.csv sku=1038 colour='Carcass'
+2025-08-21 17:49:03,128 INFO csv write: board_commodity.csv sku=1865 colour='Carcass'
+2025-08-21 17:49:03,128 INFO csv write: board_commodity.csv sku=1875 colour='Carcass'
+2025-08-21 17:49:03,128 INFO csv write: board_commodity.csv sku=1874 colour='Carcass'
+2025-08-21 17:49:03,129 INFO csv write: board_commodity.csv sku=7409 colour='Carcass'
+2025-08-21 17:49:03,129 INFO csv write: board_commodity.csv sku=1186 colour='Carcass'
+2025-08-21 17:49:03,129 INFO csv write: board_commodity.csv sku=49668 colour='Carcass'
+2025-08-21 17:49:03,129 INFO csv write: board_commodity.csv sku=52978 colour='Carcass'
+2025-08-21 17:49:03,129 INFO csv write: board_commodity.csv sku=385 colour='Carcass'
+2025-08-21 17:49:03,129 INFO csv write: board_commodity.csv sku=2103 colour='Carcass'
+2025-08-21 17:49:03,129 INFO csv write: edgetape_commodity.csv sku=6118 colour='Carcass'
+2025-08-21 17:49:03,129 INFO csv write: edgetape_commodity.csv sku=5724 colour='Carcass'
+2025-08-21 17:49:03,130 INFO csv write: edgetape_commodity.csv sku=51225 colour='Carcass'
+2025-08-21 17:49:03,130 INFO csv write: edgetape_commodity.csv sku=6528 colour='Carcass'
+2025-08-21 17:49:03,130 INFO [238/240] Done Carcass, rows=160, ranges=['Batten', 'Board Commodity', 'Board Components', 'Edgetape Commodity']

@@ -1,0 +1,44 @@
+2025-08-21 16:52:00,323 INFO [42/240] Processing Natural Ply  https://www.polytec.com.au/colour/natural-ply/
+2025-08-21 16:52:00,323 INFO run start colour=https://www.polytec.com.au/colour/natural-ply/
+2025-08-21 16:52:00,751 INFO colour name: Natural Ply
+2025-08-21 16:52:00,756 INFO finish tabs: 1
+2025-08-21 16:52:00,781 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:52:00,836 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:52:00,836 INFO range -> Board Decorative
+2025-08-21 16:52:01,941 INFO row 1: sku=52602 title='MDF 162412 DS Natural Ply Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 16:52:02,712 INFO row 2: sku=54311 title='MDF 163112 DS Natural Ply Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:52:03,474 INFO row 3: sku=52598 title='MDF 183618 DS Natural Ply Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:52:04,330 INFO row 4: sku=52603 title='MDF 252412 DS Natural Ply Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.86s
+2025-08-21 16:52:05,098 INFO row 5: sku=52606 title='MDF 322412 DS Natural Ply Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:52:05,864 INFO row 6: sku=52600 title='LDF 333618 DS Natural Ply Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:52:06,627 INFO row 7: sku=52599 title='LDF 253618 DS Natural Ply Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:52:06,627 INFO range -> Edgetape Decorative
+2025-08-21 16:52:07,689 INFO row 8: sku=52609 title='ABS 1mm x 21mm UG 100m Natural Ply Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:52:08,743 INFO row 9: sku=52607 title='ABS 1mm x 21mm UG 20m Natural Ply Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:09,776 INFO row 10: sku=52611 title='ABS 1mm x 38mm UG 100m Natural Ply Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:52:10,825 INFO row 11: sku=52610 title='ABS 1mm x 29mm UG 100m Natural Ply Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:10,825 INFO range -> Laminate
+2025-08-21 16:52:11,897 INFO row 12: sku=52135 title='Laminate Natural Ply Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:52:12,941 INFO row 13: sku=52615 title='Laminate Natural Ply Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:52:13,989 INFO row 14: sku=52617 title='Laminate Natural Ply Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:52:15,059 INFO row 15: sku=52616 title='Laminate Natural Ply Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:52:15,059 INFO range -> Compact
+2025-08-21 16:52:15,830 INFO row 16: sku=52505 title='Compact Laminate Natural Ply Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:52:15,830 INFO run end rows=16
+2025-08-21 16:52:15,830 INFO csv write: board_decorative.csv sku=52602 colour='Natural Ply'
+2025-08-21 16:52:15,831 INFO csv write: board_decorative.csv sku=54311 colour='Natural Ply'
+2025-08-21 16:52:15,831 INFO csv write: board_decorative.csv sku=52598 colour='Natural Ply'
+2025-08-21 16:52:15,831 INFO csv write: board_decorative.csv sku=52603 colour='Natural Ply'
+2025-08-21 16:52:15,831 INFO csv write: board_decorative.csv sku=52606 colour='Natural Ply'
+2025-08-21 16:52:15,832 INFO csv write: board_decorative.csv sku=52600 colour='Natural Ply'
+2025-08-21 16:52:15,832 INFO csv write: board_decorative.csv sku=52599 colour='Natural Ply'
+2025-08-21 16:52:15,832 INFO csv write: edgetape_decorative.csv sku=52609 colour='Natural Ply'
+2025-08-21 16:52:15,832 INFO csv write: edgetape_decorative.csv sku=52607 colour='Natural Ply'
+2025-08-21 16:52:15,832 INFO csv write: edgetape_decorative.csv sku=52611 colour='Natural Ply'
+2025-08-21 16:52:15,832 INFO csv write: edgetape_decorative.csv sku=52610 colour='Natural Ply'
+2025-08-21 16:52:15,833 INFO csv write: laminate.csv sku=52135 colour='Natural Ply'
+2025-08-21 16:52:15,833 INFO csv write: laminate.csv sku=52615 colour='Natural Ply'
+2025-08-21 16:52:15,833 INFO csv write: laminate.csv sku=52617 colour='Natural Ply'
+2025-08-21 16:52:15,833 INFO csv write: laminate.csv sku=52616 colour='Natural Ply'
+2025-08-21 16:52:15,834 INFO csv write: compact.csv sku=52505 colour='Natural Ply'
+2025-08-21 16:52:15,834 INFO [42/240] Done Natural Ply, rows=16, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']

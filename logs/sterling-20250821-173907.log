@@ -1,0 +1,18 @@
+2025-08-21 17:39:07,612 INFO [196/240] Processing Sterling  https://www.polytec.com.au/colour/sterling/
+2025-08-21 17:39:07,612 INFO run start colour=https://www.polytec.com.au/colour/sterling/
+2025-08-21 17:39:07,942 INFO colour name: Sterling
+2025-08-21 17:39:07,947 INFO finish tabs: 1
+2025-08-21 17:39:07,967 INFO tab 1/1 -> Ultramatt
+2025-08-21 17:39:07,982 INFO items in finish 'Ultramatt': 4
+2025-08-21 17:39:07,983 INFO range -> Board Decorative
+2025-08-21 17:39:09,103 INFO row 1: sku=51782 title='Ultraglaze MDF 182412 SS Sterling Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:39:09,846 INFO row 2: sku=51784 title='Ultraglaze MDF 182412 DS Sterling Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.74s
+2025-08-21 17:39:09,846 INFO range -> Edgetape Decorative
+2025-08-21 17:39:10,869 INFO row 3: sku=51785 title='ABS 1mm x 21mm UG 100m Ultraglaze Sterling Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:39:11,884 INFO row 4: sku=52790 title='ABS 1mm x 29mm UG 100m Ultraglaze Sterling Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.01s
+2025-08-21 17:39:11,884 INFO run end rows=4
+2025-08-21 17:39:11,885 INFO csv write: board_decorative.csv sku=51782 colour='Sterling'
+2025-08-21 17:39:11,885 INFO csv write: board_decorative.csv sku=51784 colour='Sterling'
+2025-08-21 17:39:11,885 INFO csv write: edgetape_decorative.csv sku=51785 colour='Sterling'
+2025-08-21 17:39:11,886 INFO csv write: edgetape_decorative.csv sku=52790 colour='Sterling'
+2025-08-21 17:39:11,886 INFO [196/240] Done Sterling, rows=4, ranges=['Board Decorative', 'Edgetape Decorative']

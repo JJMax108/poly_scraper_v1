@@ -1,0 +1,53 @@
+2025-08-21 16:54:33,208 INFO [53/240] Processing Marmo di Torre  https://www.polytec.com.au/colour/marmo-di-torre/
+2025-08-21 16:54:33,208 INFO run start colour=https://www.polytec.com.au/colour/marmo-di-torre/
+2025-08-21 16:54:33,608 INFO colour name: Marmo di Torre
+2025-08-21 16:54:33,612 INFO finish tabs: 1
+2025-08-21 16:54:33,635 INFO tab 1/1 -> Smooth
+2025-08-21 16:54:33,697 INFO items in finish 'Smooth': 13
+2025-08-21 16:54:33,697 INFO range -> Laminate
+2025-08-21 16:54:34,777 INFO row 1: sku=52108 title='Laminate Marmo di Torre Smooth 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 16:54:35,817 INFO row 2: sku=52877 title='Laminate Marmo di Torre Smooth HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:54:36,866 INFO row 3: sku=52879 title='Laminate Marmo di Torre Smooth Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:54:37,914 INFO row 4: sku=52878 title='Laminate Marmo di Torre Smooth HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:54:37,915 INFO range -> Compact
+2025-08-21 16:54:38,670 INFO row 5: sku=52171 title='Compact Laminate Marmo di Torre Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:54:38,670 INFO range -> Architectural
+2025-08-21 16:54:38,738 INFO MOQ for SKU 56951 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:38,738 INFO MOQ hint: Ordering details .
+2025-08-21 16:54:38,738 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:39,440 INFO row 6: sku=56951 title='Steccawood 24x34x3600 MDF MR E0 Marmo di Torre Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.77s
+2025-08-21 16:54:39,775 INFO MOQ for SKU 56354 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:39,775 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:40,493 INFO row 7: sku=56354 title='Steccawood 31x31x3600 MDF MR E0 Marmo di Torre' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 16:54:40,828 INFO MOQ for SKU 56360 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:40,828 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:41,537 INFO row 8: sku=56360 title='Steccawood 17x34x3600 MDF MR E0 Marmo di Torre Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.04s
+2025-08-21 16:54:41,897 INFO MOQ for SKU 56363 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:41,897 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:42,603 INFO row 9: sku=56363 title='Steccawood 17x34x3600 MDF MR E0 Marmo di Torre Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 16:54:42,944 INFO MOQ for SKU 56362 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:42,945 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:43,653 INFO row 10: sku=56362 title='Steccawood 24x48x3600 MDF MR E0 Marmo di Torre Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 16:54:43,995 INFO MOQ for SKU 56353 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:43,995 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:44,701 INFO row 11: sku=56353 title='Steccawood 17x38x3600 MDF MR E0 Marmo di Torre' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 16:54:45,044 INFO MOQ for SKU 56361 min=5 step=1 qty 1 -> 5
+2025-08-21 16:54:45,044 INFO MOQ hint: Minimum qty 5
+2025-08-21 16:54:45,749 INFO row 12: sku=56361 title='Steccawood 31x62x3600 MDF MR E0 Marmo di Torre Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 16:54:45,749 INFO range -> Solid Core
+2025-08-21 16:54:46,507 INFO row 13: sku=53832 title='Xenolith Marmo di Torre Smooth Solid Core 3660x1830 15mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:54:46,507 INFO run end rows=13
+2025-08-21 16:54:46,508 INFO csv write: laminate.csv sku=52108 colour='Marmo di Torre'
+2025-08-21 16:54:46,508 INFO csv write: laminate.csv sku=52877 colour='Marmo di Torre'
+2025-08-21 16:54:46,508 INFO csv write: laminate.csv sku=52879 colour='Marmo di Torre'
+2025-08-21 16:54:46,509 INFO csv write: laminate.csv sku=52878 colour='Marmo di Torre'
+2025-08-21 16:54:46,509 INFO csv write: compact.csv sku=52171 colour='Marmo di Torre'
+2025-08-21 16:54:46,509 INFO csv write: architectural.csv sku=56951 colour='Marmo di Torre'
+2025-08-21 16:54:46,509 INFO csv write: architectural.csv sku=56354 colour='Marmo di Torre'
+2025-08-21 16:54:46,509 INFO csv write: architectural.csv sku=56360 colour='Marmo di Torre'
+2025-08-21 16:54:46,510 INFO csv write: architectural.csv sku=56363 colour='Marmo di Torre'
+2025-08-21 16:54:46,510 INFO csv write: architectural.csv sku=56362 colour='Marmo di Torre'
+2025-08-21 16:54:46,510 INFO csv write: architectural.csv sku=56353 colour='Marmo di Torre'
+2025-08-21 16:54:46,510 INFO csv write: architectural.csv sku=56361 colour='Marmo di Torre'
+2025-08-21 16:54:46,510 INFO csv write: solid_core.csv sku=53832 colour='Marmo di Torre'
+2025-08-21 16:54:46,511 INFO [53/240] Done Marmo di Torre, rows=13, ranges=['Architectural', 'Compact', 'Laminate', 'Solid Core']

@@ -1,0 +1,11 @@
+2025-08-21 17:34:03,029 INFO [170/240] Processing Vittoria Pearl  https://www.polytec.com.au/colour/vittoria-pearl/
+2025-08-21 17:34:03,029 INFO run start colour=https://www.polytec.com.au/colour/vittoria-pearl/
+2025-08-21 17:34:03,348 INFO colour name: Vittoria Pearl
+2025-08-21 17:34:03,353 INFO finish tabs: 1
+2025-08-21 17:34:03,372 INFO tab 1/1 -> Gloss
+2025-08-21 17:34:03,376 INFO items in finish 'Gloss': 1
+2025-08-21 17:34:03,376 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:34:07,790 INFO row 1: sku= title='Style 1 - 3' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.41s
+2025-08-21 17:34:07,790 INFO run end rows=1
+2025-08-21 17:34:07,792 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Vittoria Pearl'
+2025-08-21 17:34:07,793 INFO [170/240] Done Vittoria Pearl, rows=1, ranges=['Thermolaminated Doors and Panels']

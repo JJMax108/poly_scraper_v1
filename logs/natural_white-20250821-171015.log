@@ -1,0 +1,38 @@
+2025-08-21 17:10:15,615 INFO [108/240] Processing Natural White  https://www.polytec.com.au/colour/natural-white/
+2025-08-21 17:10:15,615 INFO run start colour=https://www.polytec.com.au/colour/natural-white/
+2025-08-21 17:10:15,940 INFO colour name: Natural White
+2025-08-21 17:10:15,945 INFO finish tabs: 1
+2025-08-21 17:10:15,967 INFO tab 1/1 -> Matt
+2025-08-21 17:10:16,013 INFO items in finish 'Matt': 12
+2025-08-21 17:10:16,013 INFO range -> Board Decorative
+2025-08-21 17:10:17,136 INFO row 1: sku=14171 title='Particle 183618 DS Natural White Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:10:17,910 INFO row 2: sku=26488 title='LDF 253618  DS Natural White Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:10:18,669 INFO row 3: sku=26223 title='LDF 333618 DS Natural White Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:10:19,419 INFO row 4: sku=17021 title='Particle 253618 DS Natural White Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:10:19,493 INFO MOQ for SKU 14409 min=20 step=20 qty 1 -> 20
+2025-08-21 17:10:19,494 INFO MOQ hint: Pack Size: 20
+2025-08-21 17:10:19,494 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:10:20,201 INFO row 5: sku=14409 title='MDF 252418 DS Natural White Matt MR E0' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.78s
+2025-08-21 17:10:20,201 INFO range -> Edgetape Decorative
+2025-08-21 17:10:21,217 INFO row 6: sku=53284 title='ABS 1mm x 21mm UG 100m Natural White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:10:22,264 INFO row 7: sku=53285 title='ABS 1mm x 38mm UG 100m Natural White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:10:23,289 INFO row 8: sku=54013 title='ABS 1mm x 29mm UG 100m Natural White Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:10:23,289 INFO range -> Laminate
+2025-08-21 17:10:24,340 INFO row 9: sku=11173 title='Laminate Natural White Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:10:25,379 INFO row 10: sku=13105 title='Laminate Natural White Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:10:26,415 INFO row 11: sku=13107 title='Laminate Natural White Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:10:27,435 INFO row 12: sku=13106 title='Laminate Natural White Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:10:27,436 INFO run end rows=12
+2025-08-21 17:10:27,436 INFO csv write: board_decorative.csv sku=14171 colour='Natural White'
+2025-08-21 17:10:27,436 INFO csv write: board_decorative.csv sku=26488 colour='Natural White'
+2025-08-21 17:10:27,436 INFO csv write: board_decorative.csv sku=26223 colour='Natural White'
+2025-08-21 17:10:27,437 INFO csv write: board_decorative.csv sku=17021 colour='Natural White'
+2025-08-21 17:10:27,437 INFO csv write: board_decorative.csv sku=14409 colour='Natural White'
+2025-08-21 17:10:27,437 INFO csv write: edgetape_decorative.csv sku=53284 colour='Natural White'
+2025-08-21 17:10:27,437 INFO csv write: edgetape_decorative.csv sku=53285 colour='Natural White'
+2025-08-21 17:10:27,437 INFO csv write: edgetape_decorative.csv sku=54013 colour='Natural White'
+2025-08-21 17:10:27,437 INFO csv write: laminate.csv sku=11173 colour='Natural White'
+2025-08-21 17:10:27,437 INFO csv write: laminate.csv sku=13105 colour='Natural White'
+2025-08-21 17:10:27,437 INFO csv write: laminate.csv sku=13107 colour='Natural White'
+2025-08-21 17:10:27,438 INFO csv write: laminate.csv sku=13106 colour='Natural White'
+2025-08-21 17:10:27,438 INFO [108/240] Done Natural White, rows=12, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

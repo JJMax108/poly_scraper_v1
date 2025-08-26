@@ -1,0 +1,45 @@
+2025-08-21 17:40:46,180 INFO [207/240] Processing Truffle Lini  https://www.polytec.com.au/colour/truffle-lini/
+2025-08-21 17:40:46,181 INFO run start colour=https://www.polytec.com.au/colour/truffle-lini/
+2025-08-21 17:40:46,562 INFO colour name: Truffle Lini
+2025-08-21 17:40:46,570 INFO finish tabs: 2
+2025-08-21 17:40:46,594 INFO tab 1/2 -> Matt
+2025-08-21 17:40:46,657 INFO items in finish 'Matt': 12
+2025-08-21 17:40:46,657 INFO range -> Board Decorative
+2025-08-21 17:40:47,800 INFO row 1: sku=13019 title='MDF 162412 DS Truffle Lini Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:40:48,577 INFO row 2: sku=14184 title='Particle 183618 DS Truffle Lini Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:40:49,332 INFO row 3: sku=26536 title='LDF 333618 DS Truffle Lini Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:40:50,092 INFO row 4: sku=26504 title='LDF 253618  DS Truffle Lini Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:40:50,092 INFO range -> Edgetape Decorative
+2025-08-21 17:40:51,138 INFO row 5: sku=13055 title='Rigid 1mm x 21mm UG 100m Truffle Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:40:52,208 INFO row 6: sku=17720 title='Rigid 1mm x 21mm UG 20m Truffle Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:40:53,252 INFO row 7: sku=54008 title='ABS 1mm x 38mm UG 100m Truffle Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:40:54,305 INFO row 8: sku=44421 title='ABS 1mm x 29mm UG 100m Truffle Lini Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:40:54,305 INFO range -> Laminate
+2025-08-21 17:40:55,376 INFO row 9: sku=13100 title='Laminate Truffle Lini Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:40:56,419 INFO row 10: sku=11641 title='Laminate Truffle Lini Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:40:57,467 INFO row 11: sku=13101 title='Laminate Truffle Lini Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:40:58,522 INFO row 12: sku=13099 title='Laminate Truffle Lini Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:40:58,549 INFO tab 2/2 -> Sheen
+2025-08-21 17:40:58,562 INFO items in finish 'Sheen': 3
+2025-08-21 17:40:58,562 INFO range -> Board Decorative
+2025-08-21 17:40:59,558 INFO row 1: sku=26465 title='MDF 162412 DS Truffle Lini Sheen LMG E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.00s
+2025-08-21 17:40:59,559 INFO range -> Edgetape Decorative
+2025-08-21 17:41:00,595 INFO row 2: sku=20370 title='Rigid 1mm x 21mm UG 100m Truffle Lini Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:41:01,615 INFO row 3: sku=20373 title='Rigid 1mm x 22mm UG 20m Truffle Lini Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:41:01,616 INFO run end rows=15
+2025-08-21 17:41:01,616 INFO csv write: board_decorative.csv sku=13019 colour='Truffle Lini'
+2025-08-21 17:41:01,616 INFO csv write: board_decorative.csv sku=14184 colour='Truffle Lini'
+2025-08-21 17:41:01,617 INFO csv write: board_decorative.csv sku=26536 colour='Truffle Lini'
+2025-08-21 17:41:01,617 INFO csv write: board_decorative.csv sku=26504 colour='Truffle Lini'
+2025-08-21 17:41:01,617 INFO csv write: edgetape_decorative.csv sku=13055 colour='Truffle Lini'
+2025-08-21 17:41:01,617 INFO csv write: edgetape_decorative.csv sku=17720 colour='Truffle Lini'
+2025-08-21 17:41:01,617 INFO csv write: edgetape_decorative.csv sku=54008 colour='Truffle Lini'
+2025-08-21 17:41:01,617 INFO csv write: edgetape_decorative.csv sku=44421 colour='Truffle Lini'
+2025-08-21 17:41:01,617 INFO csv write: laminate.csv sku=13100 colour='Truffle Lini'
+2025-08-21 17:41:01,618 INFO csv write: laminate.csv sku=11641 colour='Truffle Lini'
+2025-08-21 17:41:01,618 INFO csv write: laminate.csv sku=13101 colour='Truffle Lini'
+2025-08-21 17:41:01,618 INFO csv write: laminate.csv sku=13099 colour='Truffle Lini'
+2025-08-21 17:41:01,618 INFO csv write: board_decorative.csv sku=26465 colour='Truffle Lini'
+2025-08-21 17:41:01,618 INFO csv write: edgetape_decorative.csv sku=20370 colour='Truffle Lini'
+2025-08-21 17:41:01,618 INFO csv write: edgetape_decorative.csv sku=20373 colour='Truffle Lini'
+2025-08-21 17:41:01,619 INFO [207/240] Done Truffle Lini, rows=15, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

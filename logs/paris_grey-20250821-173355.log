@@ -1,0 +1,14 @@
+2025-08-21 17:33:55,134 INFO [168/240] Processing Paris Grey  https://www.polytec.com.au/colour/paris-grey/
+2025-08-21 17:33:55,134 INFO run start colour=https://www.polytec.com.au/colour/paris-grey/
+2025-08-21 17:33:55,478 INFO colour name: Paris Grey
+2025-08-21 17:33:55,483 INFO finish tabs: 1
+2025-08-21 17:33:55,501 INFO tab 1/1 -> Gloss
+2025-08-21 17:33:55,509 INFO items in finish 'Gloss': 2
+2025-08-21 17:33:55,509 INFO range -> Board Decorative
+2025-08-21 17:33:56,647 INFO row 1: sku=45393 title='Ultraglaze MDF 182412 SS Paris Grey Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:33:56,648 INFO range -> Edgetape Decorative
+2025-08-21 17:33:58,267 INFO row 2: sku=45784 title='ABS 1mm x 23mm UG 100m Ultraglaze Paris Grey Gloss (Pepper D' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.62s
+2025-08-21 17:33:58,268 INFO run end rows=2
+2025-08-21 17:33:58,268 INFO csv write: board_decorative.csv sku=45393 colour='Paris Grey'
+2025-08-21 17:33:58,269 INFO csv write: edgetape_decorative.csv sku=45784 colour='Paris Grey'
+2025-08-21 17:33:58,269 INFO [168/240] Done Paris Grey, rows=2, ranges=['Board Decorative', 'Edgetape Decorative']

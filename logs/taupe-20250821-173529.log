@@ -1,0 +1,26 @@
+2025-08-21 17:35:29,088 INFO [177/240] Processing Taupe  https://www.polytec.com.au/colour/taupe/
+2025-08-21 17:35:29,088 INFO run start colour=https://www.polytec.com.au/colour/taupe/
+2025-08-21 17:35:29,535 INFO colour name: Taupe
+2025-08-21 17:35:29,542 INFO finish tabs: 2
+2025-08-21 17:35:29,580 INFO tab 1/2 -> Matt
+2025-08-21 17:35:29,611 INFO items in finish 'Matt': 5
+2025-08-21 17:35:29,611 INFO range -> Board Decorative
+2025-08-21 17:35:30,705 INFO row 1: sku=27035 title='MDF 162412 DS Taupe Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:35:30,705 INFO range -> Edgetape Decorative
+2025-08-21 17:35:31,758 INFO row 2: sku=19343 title='Rigid 1mm x 21mm UG 100m Taupe Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:35:32,802 INFO row 3: sku=19479 title='Rigid 1mm x 21mm UG 20m Taupe Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:35:33,836 INFO row 4: sku=44419 title='ABS 1mm x 29mm UG 100m Taupe Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:35:33,837 INFO range -> Laminate
+2025-08-21 17:35:34,887 INFO row 5: sku=26311 title='Laminate Taupe Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:35:34,911 INFO tab 2/2 -> Smooth
+2025-08-21 17:35:34,917 INFO items in finish 'Smooth': 1
+2025-08-21 17:35:34,917 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:35:39,353 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:35:39,353 INFO run end rows=6
+2025-08-21 17:35:39,354 INFO csv write: board_decorative.csv sku=27035 colour='Taupe'
+2025-08-21 17:35:39,354 INFO csv write: edgetape_decorative.csv sku=19343 colour='Taupe'
+2025-08-21 17:35:39,355 INFO csv write: edgetape_decorative.csv sku=19479 colour='Taupe'
+2025-08-21 17:35:39,355 INFO csv write: edgetape_decorative.csv sku=44419 colour='Taupe'
+2025-08-21 17:35:39,355 INFO csv write: laminate.csv sku=26311 colour='Taupe'
+2025-08-21 17:35:39,356 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Taupe'
+2025-08-21 17:35:39,357 INFO [177/240] Done Taupe, rows=6, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

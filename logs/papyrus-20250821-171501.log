@@ -1,0 +1,20 @@
+2025-08-21 17:15:01,364 INFO [135/240] Processing Papyrus  https://www.polytec.com.au/colour/papyrus/
+2025-08-21 17:15:01,365 INFO run start colour=https://www.polytec.com.au/colour/papyrus/
+2025-08-21 17:15:01,778 INFO colour name: Papyrus
+2025-08-21 17:15:01,783 INFO finish tabs: 1
+2025-08-21 17:15:01,804 INFO tab 1/1 -> Legato
+2025-08-21 17:15:01,823 INFO items in finish 'Legato': 5
+2025-08-21 17:15:01,823 INFO range -> Board Decorative
+2025-08-21 17:15:02,940 INFO row 1: sku=26769 title='MDF 182412 DS Papyrus Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:15:03,695 INFO row 2: sku=26770 title='MDF 183112 DS Papyrus Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:15:03,695 INFO range -> Edgetape Decorative
+2025-08-21 17:15:04,743 INFO row 3: sku=26791 title='ABS 1mm x 21mm UG 100m Papyrus Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:15:05,777 INFO row 4: sku=26793 title='ABS 1mm x 21mm UG 20m Papyrus Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:15:06,802 INFO row 5: sku=44242 title='ABS 1mm x 29mm UG 100m Papyrus Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.02s
+2025-08-21 17:15:06,802 INFO run end rows=5
+2025-08-21 17:15:06,802 INFO csv write: board_decorative.csv sku=26769 colour='Papyrus'
+2025-08-21 17:15:06,803 INFO csv write: board_decorative.csv sku=26770 colour='Papyrus'
+2025-08-21 17:15:06,803 INFO csv write: edgetape_decorative.csv sku=26791 colour='Papyrus'
+2025-08-21 17:15:06,803 INFO csv write: edgetape_decorative.csv sku=26793 colour='Papyrus'
+2025-08-21 17:15:06,803 INFO csv write: edgetape_decorative.csv sku=44242 colour='Papyrus'
+2025-08-21 17:15:06,804 INFO [135/240] Done Papyrus, rows=5, ranges=['Board Decorative', 'Edgetape Decorative']

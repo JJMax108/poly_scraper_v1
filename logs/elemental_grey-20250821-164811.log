@@ -1,0 +1,53 @@
+2025-08-21 16:48:11,627 INFO [27/240] Processing Elemental Grey  https://www.polytec.com.au/colour/elemental-grey/
+2025-08-21 16:48:11,627 INFO run start colour=https://www.polytec.com.au/colour/elemental-grey/
+2025-08-21 16:48:12,071 INFO colour name: Elemental Grey
+2025-08-21 16:48:12,079 INFO finish tabs: 2
+2025-08-21 16:48:12,104 INFO tab 1/2 -> Ravine
+2025-08-21 16:48:12,155 INFO items in finish 'Ravine': 9
+2025-08-21 16:48:12,155 INFO range -> Board Decorative
+2025-08-21 16:48:13,263 INFO row 1: sku=55622 title='MDF 322412 DS Elemental Grey Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 16:48:14,032 INFO row 2: sku=55619 title='MDF 182412 DS Elemental Grey Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:48:14,802 INFO row 3: sku=55620 title='MDF 183112 DS Elemental Grey Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:48:15,564 INFO row 4: sku=55621 title='MDF 252412 DS Elemental Grey Ravine MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:48:15,564 INFO range -> Edgetape Decorative
+2025-08-21 16:48:16,608 INFO row 5: sku=55624 title='ABS 1mm x 22mm UG 100m Elemental Grey Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:48:17,658 INFO row 6: sku=55626 title='ABS 1mm x 22mm UG 20m Elemental Grey Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:48:18,692 INFO row 7: sku=55627 title='ABS 1mm x 29mm UG 100m Elemental Grey Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:48:19,741 INFO row 8: sku=55628 title='ABS 1mm x 38mm UG 100m Elemental Grey Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:48:19,741 INFO range -> Laminate
+2025-08-21 16:48:20,773 INFO row 9: sku=55629 title='Laminate Elemental Grey Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:48:20,802 INFO tab 2/2 -> Smooth
+2025-08-21 16:48:20,835 INFO items in finish 'Smooth': 9
+2025-08-21 16:48:20,835 INFO range -> Board Decorative
+2025-08-21 16:48:21,967 INFO row 1: sku=52872 title='MDF 162412 DS Elemental Grey Smooth MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 16:48:21,967 INFO range -> Edgetape Decorative
+2025-08-21 16:48:23,012 INFO row 2: sku=52875 title='ABS 1mm x 21mm UG 100m Elemental Grey Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:48:24,057 INFO row 3: sku=52873 title='ABS 1mm x 21mm UG 20m Elemental Grey Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:48:25,110 INFO row 4: sku=52876 title='ABS 1mm x 29mm UG 100m Elemental Grey Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:48:25,110 INFO range -> Laminate
+2025-08-21 16:48:26,159 INFO row 5: sku=57816 title='Laminate Elemental Grey Smooth HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:48:27,207 INFO row 6: sku=57818 title='Laminate Elemental Grey Smooth Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:48:28,240 INFO row 7: sku=57815 title='Laminate Elemental Grey Smooth 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:48:29,272 INFO row 8: sku=57817 title='Laminate Elemental Grey Smooth HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:48:29,273 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:48:33,699 INFO row 9: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.43s
+2025-08-21 16:48:33,699 INFO run end rows=18
+2025-08-21 16:48:33,700 INFO csv write: board_decorative.csv sku=55622 colour='Elemental Grey'
+2025-08-21 16:48:33,701 INFO csv write: board_decorative.csv sku=55619 colour='Elemental Grey'
+2025-08-21 16:48:33,701 INFO csv write: board_decorative.csv sku=55620 colour='Elemental Grey'
+2025-08-21 16:48:33,701 INFO csv write: board_decorative.csv sku=55621 colour='Elemental Grey'
+2025-08-21 16:48:33,702 INFO csv write: edgetape_decorative.csv sku=55624 colour='Elemental Grey'
+2025-08-21 16:48:33,702 INFO csv write: edgetape_decorative.csv sku=55626 colour='Elemental Grey'
+2025-08-21 16:48:33,703 INFO csv write: edgetape_decorative.csv sku=55627 colour='Elemental Grey'
+2025-08-21 16:48:33,703 INFO csv write: edgetape_decorative.csv sku=55628 colour='Elemental Grey'
+2025-08-21 16:48:33,703 INFO csv write: laminate.csv sku=55629 colour='Elemental Grey'
+2025-08-21 16:48:33,703 INFO csv write: board_decorative.csv sku=52872 colour='Elemental Grey'
+2025-08-21 16:48:33,704 INFO csv write: edgetape_decorative.csv sku=52875 colour='Elemental Grey'
+2025-08-21 16:48:33,704 INFO csv write: edgetape_decorative.csv sku=52873 colour='Elemental Grey'
+2025-08-21 16:48:33,704 INFO csv write: edgetape_decorative.csv sku=52876 colour='Elemental Grey'
+2025-08-21 16:48:33,705 INFO csv write: laminate.csv sku=57816 colour='Elemental Grey'
+2025-08-21 16:48:33,705 INFO csv write: laminate.csv sku=57818 colour='Elemental Grey'
+2025-08-21 16:48:33,706 INFO csv write: laminate.csv sku=57815 colour='Elemental Grey'
+2025-08-21 16:48:33,706 INFO csv write: laminate.csv sku=57817 colour='Elemental Grey'
+2025-08-21 16:48:33,706 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Elemental Grey'
+2025-08-21 16:48:33,706 INFO [27/240] Done Elemental Grey, rows=18, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

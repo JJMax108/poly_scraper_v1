@@ -1,0 +1,16 @@
+2025-08-21 17:40:42,761 INFO [206/240] Processing Anthracite Metallic  https://www.polytec.com.au/colour/anthracite-metallic/
+2025-08-21 17:40:42,761 INFO run start colour=https://www.polytec.com.au/colour/anthracite-metallic/
+2025-08-21 17:40:43,164 INFO colour name: Anthracite Metallic
+2025-08-21 17:40:43,168 INFO finish tabs: 1
+2025-08-21 17:40:43,188 INFO tab 1/1 -> Gloss
+2025-08-21 17:40:43,202 INFO items in finish 'Gloss': 3
+2025-08-21 17:40:43,202 INFO range -> Board Decorative
+2025-08-21 17:40:44,313 INFO row 1: sku=45309 title='Ultraglaze MDF 182412 SS Anthracite Metallic Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:40:45,066 INFO row 2: sku=45307 title='Ultraglaze MDF 182412 DS Anthracite Metallic Gloss MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:40:45,067 INFO range -> Edgetape Decorative
+2025-08-21 17:40:46,115 INFO row 3: sku=45765 title='ABS 1mm x 22mm UG 100m Ultraglaze Anthracite Metallic Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:40:46,115 INFO run end rows=3
+2025-08-21 17:40:46,116 INFO csv write: board_decorative.csv sku=45309 colour='Anthracite Metallic'
+2025-08-21 17:40:46,116 INFO csv write: board_decorative.csv sku=45307 colour='Anthracite Metallic'
+2025-08-21 17:40:46,116 INFO csv write: edgetape_decorative.csv sku=45765 colour='Anthracite Metallic'
+2025-08-21 17:40:46,117 INFO [206/240] Done Anthracite Metallic, rows=3, ranges=['Board Decorative', 'Edgetape Decorative']

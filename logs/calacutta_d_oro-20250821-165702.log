@@ -1,0 +1,28 @@
+2025-08-21 16:57:02,059 INFO [69/240] Processing Calacutta D'oro  https://www.polytec.com.au/colour/calacutta-doro/
+2025-08-21 16:57:02,059 INFO run start colour=https://www.polytec.com.au/colour/calacutta-doro/
+2025-08-21 16:57:02,484 INFO colour name: Calacutta D'oro
+2025-08-21 16:57:02,489 INFO finish tabs: 1
+2025-08-21 16:57:02,507 INFO tab 1/1 -> Smooth
+2025-08-21 16:57:02,550 INFO items in finish 'Smooth': 8
+2025-08-21 16:57:02,550 INFO range -> Laminate
+2025-08-21 16:57:04,473 INFO row 1: sku=57523 title='Laminate Calacutta D'oro Smooth 0.7mm 3650x1360 - Film' stock=OK price=EMPTY qty_used=1 moq_min=1 step=1 time=1.92s
+2025-08-21 16:57:05,526 INFO row 2: sku=57524 title='Laminate Calacutta D'oro Smooth HL 0.7mm 3650x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:06,576 INFO row 3: sku=57526 title='Laminate Calacutta D'oro Smooth Q 1825 x 680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:07,625 INFO row 4: sku=57525 title='Laminate Calacutta D'oro Smooth HS 0.7mm 1825x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:07,626 INFO range -> Compact
+2025-08-21 16:57:08,382 INFO row 5: sku=51874 title='Compact Laminate Calacutta D'oro Smooth BC 2730x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:57:09,152 INFO row 6: sku=47645 title='Compact Laminate Calacutta D'oro Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:57:09,152 INFO range -> Alfresco Doors
+2025-08-21 16:57:13,604 INFO row 7: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 16:57:13,605 INFO range -> Solid Core
+2025-08-21 16:57:14,365 INFO row 8: sku=48007 title='Xenolith Calacutta D'oro Smooth Solid Core 3660x1830 15mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:57:14,365 INFO run end rows=8
+2025-08-21 16:57:14,366 INFO csv write: laminate.csv sku=57523 colour='Calacutta D'oro'
+2025-08-21 16:57:14,366 INFO csv write: laminate.csv sku=57524 colour='Calacutta D'oro'
+2025-08-21 16:57:14,367 INFO csv write: laminate.csv sku=57526 colour='Calacutta D'oro'
+2025-08-21 16:57:14,367 INFO csv write: laminate.csv sku=57525 colour='Calacutta D'oro'
+2025-08-21 16:57:14,367 INFO csv write: compact.csv sku=51874 colour='Calacutta D'oro'
+2025-08-21 16:57:14,367 INFO csv write: compact.csv sku=47645 colour='Calacutta D'oro'
+2025-08-21 16:57:14,368 INFO csv write: alfresco_doors.csv sku= colour='Calacutta D'oro'
+2025-08-21 16:57:14,368 INFO csv write: solid_core.csv sku=48007 colour='Calacutta D'oro'
+2025-08-21 16:57:14,368 INFO [69/240] Done Calacutta D'oro, rows=8, ranges=['Alfresco Doors', 'Compact', 'Laminate', 'Solid Core']

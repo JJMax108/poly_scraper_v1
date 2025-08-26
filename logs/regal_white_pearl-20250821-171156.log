@@ -1,0 +1,11 @@
+2025-08-21 17:11:56,324 INFO [116/240] Processing Regal White Pearl  https://www.polytec.com.au/colour/regal-white-pearl/
+2025-08-21 17:11:56,324 INFO run start colour=https://www.polytec.com.au/colour/regal-white-pearl/
+2025-08-21 17:11:56,794 INFO colour name: Regal White Pearl
+2025-08-21 17:11:56,799 INFO finish tabs: 1
+2025-08-21 17:11:56,815 INFO tab 1/1 -> Gloss
+2025-08-21 17:11:56,820 INFO items in finish 'Gloss': 1
+2025-08-21 17:11:56,820 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:12:01,225 INFO row 1: sku= title='Style 1 - 3' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.41s
+2025-08-21 17:12:01,226 INFO run end rows=1
+2025-08-21 17:12:01,226 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Regal White Pearl'
+2025-08-21 17:12:01,227 INFO [116/240] Done Regal White Pearl, rows=1, ranges=['Thermolaminated Doors and Panels']

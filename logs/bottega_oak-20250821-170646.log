@@ -1,0 +1,52 @@
+2025-08-21 17:06:46,420 INFO [95/240] Processing Bottega Oak  https://www.polytec.com.au/colour/bottega-oak/
+2025-08-21 17:06:46,421 INFO run start colour=https://www.polytec.com.au/colour/bottega-oak/
+2025-08-21 17:06:46,995 INFO colour name: Bottega Oak
+2025-08-21 17:06:46,999 INFO finish tabs: 1
+2025-08-21 17:06:47,020 INFO tab 1/1 -> Woodmatt
+2025-08-21 17:06:47,088 INFO items in finish 'Woodmatt': 19
+2025-08-21 17:06:47,088 INFO range -> Board Decorative
+2025-08-21 17:06:48,228 INFO row 1: sku=46826 title='MDF 162412 DS Bottega Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:06:49,004 INFO row 2: sku=47239 title='MDF 163112 DS Bottega Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:06:49,780 INFO row 3: sku=47438 title='MDF 183618 DS Bottega Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:06:50,545 INFO row 4: sku=47268 title='MDF 322412 DS Bottega Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:06:51,320 INFO row 5: sku=47253 title='MDF 252412 DS Bottega Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:06:52,089 INFO row 6: sku=47466 title='LDF 333618 DS Bottega Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:06:52,870 INFO row 7: sku=47452 title='LDF 253618 DS Bottega Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:06:53,640 INFO row 8: sku=58070 title='MDF 092712 DS Bottega Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:06:53,640 INFO range -> Edgetape Decorative
+2025-08-21 17:06:54,698 INFO row 9: sku=46775 title='ABS 1mm x 21mm UG 100m Bottega Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:06:55,743 INFO row 10: sku=46805 title='ABS 1mm x 21mm UG 20m Bottega Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:06:56,806 INFO row 11: sku=47216 title='ABS 1mm x 29mm UG 100m Bottega Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:06:57,880 INFO row 12: sku=47389 title='ABS 1mm x 38mm UG 100m Bottega Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:06:57,880 INFO range -> Laminate
+2025-08-21 17:06:58,931 INFO row 13: sku=48522 title='Laminate Bottega Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:06:59,974 INFO row 14: sku=48642 title='Laminate Bottega Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:07:01,047 INFO row 15: sku=48656 title='Laminate Bottega Oak Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:07:02,122 INFO row 16: sku=48621 title='Laminate Bottega Oak Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:07:02,122 INFO range -> Compact
+2025-08-21 17:07:02,907 INFO row 17: sku=47190 title='Compact Laminate Bottega Oak Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:07:02,907 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:07:07,352 INFO row 18: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 17:07:07,352 INFO range -> Architectural Internal Doors
+2025-08-21 17:07:11,805 INFO row 19: sku= title='35mm STD LDF E-Zero' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 17:07:11,805 INFO run end rows=19
+2025-08-21 17:07:11,806 INFO csv write: board_decorative.csv sku=46826 colour='Bottega Oak'
+2025-08-21 17:07:11,806 INFO csv write: board_decorative.csv sku=47239 colour='Bottega Oak'
+2025-08-21 17:07:11,807 INFO csv write: board_decorative.csv sku=47438 colour='Bottega Oak'
+2025-08-21 17:07:11,807 INFO csv write: board_decorative.csv sku=47268 colour='Bottega Oak'
+2025-08-21 17:07:11,807 INFO csv write: board_decorative.csv sku=47253 colour='Bottega Oak'
+2025-08-21 17:07:11,807 INFO csv write: board_decorative.csv sku=47466 colour='Bottega Oak'
+2025-08-21 17:07:11,808 INFO csv write: board_decorative.csv sku=47452 colour='Bottega Oak'
+2025-08-21 17:07:11,808 INFO csv write: board_decorative.csv sku=58070 colour='Bottega Oak'
+2025-08-21 17:07:11,808 INFO csv write: edgetape_decorative.csv sku=46775 colour='Bottega Oak'
+2025-08-21 17:07:11,808 INFO csv write: edgetape_decorative.csv sku=46805 colour='Bottega Oak'
+2025-08-21 17:07:11,808 INFO csv write: edgetape_decorative.csv sku=47216 colour='Bottega Oak'
+2025-08-21 17:07:11,809 INFO csv write: edgetape_decorative.csv sku=47389 colour='Bottega Oak'
+2025-08-21 17:07:11,809 INFO csv write: laminate.csv sku=48522 colour='Bottega Oak'
+2025-08-21 17:07:11,809 INFO csv write: laminate.csv sku=48642 colour='Bottega Oak'
+2025-08-21 17:07:11,809 INFO csv write: laminate.csv sku=48656 colour='Bottega Oak'
+2025-08-21 17:07:11,810 INFO csv write: laminate.csv sku=48621 colour='Bottega Oak'
+2025-08-21 17:07:11,810 INFO csv write: compact.csv sku=47190 colour='Bottega Oak'
+2025-08-21 17:07:11,810 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Bottega Oak'
+2025-08-21 17:07:11,810 INFO csv write: architectural_internal_doors.csv sku= colour='Bottega Oak'
+2025-08-21 17:07:11,811 INFO [95/240] Done Bottega Oak, rows=19, ranges=['Architectural Internal Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

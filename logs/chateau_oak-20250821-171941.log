@@ -1,0 +1,11 @@
+2025-08-21 17:19:41,376 INFO [159/240] Processing Chateau Oak  https://www.polytec.com.au/colour/chateau-oak/
+2025-08-21 17:19:41,376 INFO run start colour=https://www.polytec.com.au/colour/chateau-oak/
+2025-08-21 17:19:41,673 INFO colour name: Chateau Oak
+2025-08-21 17:19:41,678 INFO finish tabs: 1
+2025-08-21 17:19:41,694 INFO tab 1/1 -> Ravine
+2025-08-21 17:19:41,703 INFO items in finish 'Ravine': 1
+2025-08-21 17:19:41,703 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:19:46,113 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.41s
+2025-08-21 17:19:46,114 INFO run end rows=1
+2025-08-21 17:19:46,115 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Chateau Oak'
+2025-08-21 17:19:46,116 INFO [159/240] Done Chateau Oak, rows=1, ranges=['Thermolaminated Doors and Panels']

@@ -1,5 +1,5 @@
 # run_all_colours.py
-# Iterate every colour in colours_index.json in JSON order, with clear logs and controllable resume
+# Single-worker, max-speed pass across colours_index.json with hard resource blocking and crisp logs
 
 import asyncio
 import json
@@ -73,7 +73,7 @@ def load_colours_in_json_order() -> List[Dict[str, Any]]:
     data = json.loads(COLOURS_JSON.read_text())
     if not isinstance(data, list) or not data:
         raise SystemExit("No colours found in colours_index.json")
-    return data  # preserve file order exactly
+    return data
 
 def slice_from_name(items: List[Dict[str, Any]], from_name: str) -> List[Dict[str, Any]]:
     if not from_name:
@@ -83,6 +83,26 @@ def slice_from_name(items: List[Dict[str, Any]], from_name: str) -> List[Dict[st
         if c.get("name", "").strip().lower() == target:
             return items[i:]
     return items
+
+# hard resource blocking set
+BLOCKED_EXT = (".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".woff", ".woff2", ".ttf", ".otf", ".mp4", ".webm")
+BLOCKED_PARTS = (
+    "google-analytics", "googletagmanager", "gtag/js", "doubleclick", "facebook", "hotjar",
+    "segment.io", "/analytics", "/pixel", "/collect", "visualwebsiteoptimizer", "optimizely",
+)
+
+async def speed_routes(context):
+    async def route_handler(route):
+        req = route.request
+        url = req.url.lower()
+        if any(url.endswith(ext) for ext in BLOCKED_EXT):
+            return await route.abort()
+        if any(part in url for part in BLOCKED_PARTS):
+            return await route.abort()
+        if req.resource_type in ("image", "media", "font"):
+            return await route.abort()
+        return await route.continue_()
+    await context.route("**/*", route_handler)
 
 async def run_all(
     outdir: Path,
@@ -126,14 +146,32 @@ async def run_all(
     logger.info("===============================================")
 
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=headless)
-        context = await browser.new_context(storage_state=str(SESSION_FILE))
-        context.set_default_timeout(1800)
-        context.set_default_navigation_timeout(6000)
+        browser = await pw.chromium.launch(
+            headless=headless,
+            args=[
+                "--disable-gpu",
+                "--disable-background-networking",
+                "--disable-background-timer-throttling",
+                "--disable-renderer-backgrounding",
+                "--disable-extensions",
+                "--no-default-browser-check",
+                "--no-first-run",
+            ],
+        )
+        context = await browser.new_context(
+            storage_state=str(SESSION_FILE),
+            java_script_enabled=True,
+            viewport={"width": 1200, "height": 800},
+            service_workers="block",
+        )
+        context.set_default_timeout(1400)
+        context.set_default_navigation_timeout(4500)
+
+        await speed_routes(context)
 
         page = await context.new_page()
-        page.set_default_timeout(1800)
-        page.set_default_navigation_timeout(6000)
+        page.set_default_timeout(1400)
+        page.set_default_navigation_timeout(4500)
 
         touched_overall: Set[str] = set()
         written_rows = 0
@@ -181,7 +219,7 @@ async def run_all(
             finally:
                 logger.removeHandler(file_handler)
                 file_handler.close()
-                await page.wait_for_timeout(120)
+                await page.wait_for_timeout(60)  # tiny breather to look less botty
 
         await browser.close()
 

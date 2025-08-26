@@ -1,6 +1,5 @@
 # colour_worker.py
-# Per-item MOQ detection only, with optional retry if MOQ appears after first click
-# Multi tab finishes, overlay dismissal, detailed logging
+# Single worker hot path tuned for speed: resource-light, parallel stock+price, per-item MOQ
 
 from dataclasses import dataclass
 from datetime import datetime
@@ -8,6 +7,7 @@ from typing import List, Dict, Tuple, Optional, Callable, Set
 import re
 import time
 import logging
+import asyncio
 from playwright.async_api import Page, TimeoutError as PWTimeout, Locator, Response
 
 log = logging.getLogger("poly")
@@ -20,7 +20,7 @@ class ColourRow:
 
 # tiny helpers
 
-async def _visible_text_or_empty(loc: Locator, timeout: int = 900) -> str:
+async def _visible_text_or_empty(loc: Locator, timeout: int = 700) -> str:
     try:
         txt = await loc.text_content(timeout=timeout)
         return (txt or "").strip()
@@ -33,9 +33,9 @@ async def _clear_result_box(loc: Locator):
     except Exception:
         pass
 
-async def _wait_text_fast(loc: Locator, max_wait_ms: int = 1200) -> str:
+async def _wait_text_fast(loc: Locator, max_wait_ms: int = 900) -> str:
     try:
-        handle = await loc.element_handle(timeout=350)
+        handle = await loc.element_handle(timeout=220)
     except Exception:
         handle = None
     try:
@@ -47,11 +47,11 @@ async def _wait_text_fast(loc: Locator, max_wait_ms: int = 1200) -> str:
             )
     except PWTimeout:
         pass
-    return await _visible_text_or_empty(loc, timeout=280)
+    return await _visible_text_or_empty(loc, timeout=220)
 
 async def _js_set_qty(qty_input: Locator, value: int):
     try:
-        el = await qty_input.element_handle(timeout=320)
+        el = await qty_input.element_handle(timeout=220)
         if el:
             await qty_input.page.evaluate(
                 """(el, v) => {
@@ -65,19 +65,19 @@ async def _js_set_qty(qty_input: Locator, value: int):
     except Exception:
         pass
     try:
-        await qty_input.fill(str(value), timeout=380)
+        await qty_input.fill(str(value), timeout=260)
         await qty_input.blur()
     except Exception:
         pass
 
-async def _safe_click(btn: Locator, fast_timeout_ms: int = 620):
+async def _safe_click(btn: Locator, fast_timeout_ms: int = 480):
     try:
         await btn.click(force=True, no_wait_after=True, timeout=fast_timeout_ms)
         return True
     except Exception:
         pass
     try:
-        handle = await btn.element_handle(timeout=220)
+        handle = await btn.element_handle(timeout=180)
         if handle:
             await btn.page.evaluate("el => el.click()", handle)
             return True
@@ -104,9 +104,9 @@ async def _dismiss_overlays(page: Page):
     try:
         closers = page.locator(".reveal .close-button, .reveal [data-close], .modal [data-close]")
         n = await closers.count()
-        for i in range(min(n, 3)):
+        for i in range(min(n, 2)):
             try:
-                await closers.nth(i).click(force=True, timeout=200)
+                await closers.nth(i).click(force=True, timeout=150)
             except Exception:
                 pass
     except Exception:
@@ -158,7 +158,6 @@ async def _read_item_moq_hints(item: Locator) -> Tuple[Optional[int], Optional[i
 
     texts: List[str] = []
     try:
-        # Only scan within the item itself
         local_alerts = await item.locator(
             ":scope h5.alert, :scope h5.info, :scope h5.label.warning, "
             ":scope .label.warning, :scope .get-price-result, :scope .check-stock-result"
@@ -181,7 +180,7 @@ async def _read_item_moq_hints(item: Locator) -> Tuple[Optional[int], Optional[i
 
 def _bump_to_multiple(qty: int, min_qty: int, step: int) -> int:
     q = max(qty, min_qty)
-    if step > 1:
+    if step and step > 1:
         rem = q % step
         if rem != 0:
             q += (step - rem)
@@ -193,9 +192,8 @@ def _need_moq_retry(stock_text: str, price_text: str) -> bool:
 
 # per row ops
 
-async def _click_pair(
+async def _parallel_clicks_and_results(
     page: Page,
-    item: Locator,
     code: str,
     stock_btn: Locator,
     stock_result: Locator,
@@ -203,64 +201,54 @@ async def _click_pair(
     price_result: Locator,
     qty_input: Locator,
     qty_value: int,
-    wait_ms: int = 1100
+    wait_ms: int = 800
 ) -> Tuple[str, str]:
     await _clear_result_box(stock_result)
     await _clear_result_box(price_result)
     await _js_set_qty(qty_input, qty_value)
 
-    stock_text = ""
-    price_text = ""
-
-    try:
-        if code:
-            try:
-                async with page.expect_response(_resp_matcher_contains(code), timeout=1050):
+    async def do_stock():
+        try:
+            if code:
+                try:
+                    async with page.expect_response(_resp_matcher_contains(code), timeout=650):
+                        await _safe_click(stock_btn)
+                except PWTimeout:
                     await _safe_click(stock_btn)
-            except PWTimeout:
+            else:
                 await _safe_click(stock_btn)
-        else:
-            await _safe_click(stock_btn)
-        stock_text = await _wait_text_fast(stock_result, max_wait_ms=wait_ms) or "EMPTY"
-    except Exception:
-        stock_text = "ERROR"
+        except Exception:
+            pass
+        return await _wait_text_fast(stock_result, max_wait_ms=wait_ms) or "EMPTY"
 
-    try:
-        if code:
-            try:
-                async with page.expect_response(_resp_matcher_contains(code), timeout=1050):
+    async def do_price():
+        try:
+            if code:
+                try:
+                    async with page.expect_response(_resp_matcher_contains(code), timeout=650):
+                        await _safe_click(price_btn)
+                except PWTimeout:
                     await _safe_click(price_btn)
-            except PWTimeout:
+            else:
                 await _safe_click(price_btn)
-        else:
-            await _safe_click(price_btn)
-        price_text = await _wait_text_fast(price_result, max_wait_ms=wait_ms) or "EMPTY"
-    except Exception:
-        price_text = "ERROR"
+        except Exception:
+            pass
+        return await _wait_text_fast(price_result, max_wait_ms=wait_ms) or "EMPTY"
 
-    return stock_text, price_text
+    stock_text, price_text = await asyncio.gather(do_stock(), do_price())
+    return stock_text or "EMPTY", price_text or "EMPTY"
 
-async def _click_and_get_result(
-    page: Page,
-    item: Locator,
-    requested_qty: int
-) -> Tuple[str, str, int, int, int]:
-    """
-    Returns stock_text, price_text, used_qty, moq_min, moq_step
-    MOQ is scoped to this item only.
-    """
+async def _click_and_get_result(page: Page, item: Locator, requested_qty: int) -> Tuple[str, str, int, int, int]:
     await item.scroll_into_view_if_needed()
-    await page.wait_for_timeout(8)
 
-    # sku for nicer logs
     try:
-        sku_for_log = (await item.locator("span.label").first.text_content(timeout=420) or "").strip()
+        sku_for_log = (await item.locator("span.label").first.text_content(timeout=320) or "").strip()
     except Exception:
         sku_for_log = ""
 
     code = ""
     try:
-        code = await item.locator(".item-inputs").first.get_attribute("data-code", timeout=420) or ""
+        code = await item.locator(".item-inputs").first.get_attribute("data-code", timeout=320) or ""
     except Exception:
         pass
 
@@ -272,17 +260,14 @@ async def _click_and_get_result(
 
     await _dismiss_overlays(page)
 
-    # read hints inside this item only
     moq_min_hint, moq_step_hint, moq_texts = await _read_item_moq_hints(item)
-
-    # first pass quantity
     if moq_min_hint or moq_step_hint:
         moq_min = moq_min_hint or 1
         moq_step = moq_step_hint or 1
         used_qty = _bump_to_multiple(requested_qty, moq_min, moq_step)
         if used_qty != requested_qty or moq_min > 1 or moq_step > 1:
             log.info(f"MOQ for SKU {sku_for_log or code or '?'} min={moq_min} step={moq_step} qty {requested_qty} -> {used_qty}")
-            for line in (moq_texts or [])[:3]:
+            for line in (moq_texts or [])[:2]:
                 t = (line or "").strip()
                 if t:
                     log.info(f"MOQ hint: {t}")
@@ -291,14 +276,11 @@ async def _click_and_get_result(
         moq_step = 1
         used_qty = requested_qty
 
-    # click with initial used_qty
-    stock_text, price_text = await _click_pair(
-        page, item, code, stock_btn, stock_result, price_btn, price_result, qty_input, used_qty
+    stock_text, price_text = await _parallel_clicks_and_results(
+        page, code, stock_btn, stock_result, price_btn, price_result, qty_input, used_qty
     )
 
-    # if MOQ message appears only after first click, retry this item only
     if _need_moq_retry(stock_text, price_text):
-        # try to parse exact numbers from the result texts plus any new label text inside the item
         more_texts: List[str] = []
         try:
             more_texts.extend(await item.locator(":scope .check-stock-result, :scope .get-price-result").all_text_contents() or [])
@@ -311,31 +293,27 @@ async def _click_and_get_result(
         if bumped != used_qty:
             log.info(f"MOQ retry for SKU {sku_for_log or code or '?'} min={eff_min} step={eff_step} qty {used_qty} -> {bumped}")
             used_qty = bumped
-            stock_text, price_text = await _click_pair(
-                page, item, code, stock_btn, stock_result, price_btn, price_result, qty_input, used_qty, wait_ms=1100
+            stock_text, price_text = await _parallel_clicks_and_results(
+                page, code, stock_btn, stock_result, price_btn, price_result, qty_input, used_qty, wait_ms=800
             )
         moq_min = eff_min
         moq_step = eff_step
 
-    # final fallback one more quick try if both empty
     if stock_text in ("", "EMPTY") and price_text in ("", "EMPTY"):
         await _dismiss_overlays(page)
-        stock_text, price_text = await _click_pair(
-            page, item, code, stock_btn, stock_result, price_btn, price_result, qty_input, used_qty, wait_ms=900
+        stock_text, price_text = await _parallel_clicks_and_results(
+            page, code, stock_btn, stock_result, price_btn, price_result, qty_input, used_qty, wait_ms=700
         )
 
     return stock_text, price_text, used_qty, moq_min, moq_step
 
 async def _extract_specs_from_item(item: Locator) -> Dict[str, str]:
-    await item.scroll_into_view_if_needed()
-    await item.page.wait_for_timeout(5)
-
     try:
-        sku = (await item.locator("span.label").first.text_content(timeout=520) or "").strip()
+        sku = (await item.locator("span.label").first.text_content(timeout=320) or "").strip()
     except Exception:
         sku = ""
     try:
-        title = (await item.locator("h5").first.text_content(timeout=520) or "").strip()
+        title = (await item.locator("h5").first.text_content(timeout=320) or "").strip()
     except Exception:
         title = ""
 
@@ -345,7 +323,7 @@ async def _extract_specs_from_item(item: Locator) -> Dict[str, str]:
         count = await lis.count()
         for i in range(count):
             try:
-                txt = await lis.nth(i).text_content(timeout=320)
+                txt = await lis.nth(i).text_content(timeout=220)
             except Exception:
                 txt = ""
             if not txt:
@@ -361,7 +339,7 @@ async def _extract_specs_from_item(item: Locator) -> Dict[str, str]:
         pass
 
     try:
-        info = await item.locator("h5.info").first.text_content(timeout=380)
+        info = await item.locator("h5.info").first.text_content(timeout=280)
         if info and "Pack Size:" in info:
             specs["Pack Size"] = info.split("Pack Size:", 1)[1].strip()
     except Exception:
@@ -371,15 +349,13 @@ async def _extract_specs_from_item(item: Locator) -> Dict[str, str]:
     specs.setdefault("Title", title)
     return specs
 
-# tabs
-
 async def _get_finish_tabs(page: Page) -> List[Tuple[str, str]]:
     tabs = page.locator("#product-tabs li.tabs-title a")
     n = await tabs.count()
     out: List[Tuple[str, str]] = []
     for i in range(n):
         a = tabs.nth(i)
-        title = (await a.text_content(timeout=620) or "").strip()
+        title = (await a.text_content(timeout=420) or "").strip()
         href = (await a.get_attribute("href")) or ""
         out.append((title, href if href and href.startswith("#") else ""))
     return out or [("Default", "")]
@@ -390,16 +366,16 @@ async def _activate_tab(page: Page, title: str, href: str):
     n = await tabs.count()
     target = None
     for i in range(n):
-        t = (await tabs.nth(i).text_content(timeout=480) or "").strip()
+        t = (await tabs.nth(i).text_content(timeout=360) or "").strip()
         if t.lower() == title.lower():
             target = tabs.nth(i)
             break
     if not target:
         target = tabs.first
 
-    for _ in range(3):
+    for _ in range(2):
         try:
-            await target.click(timeout=800, force=True)
+            await target.click(timeout=650, force=True)
             break
         except Exception:
             await _dismiss_overlays(page)
@@ -407,11 +383,11 @@ async def _activate_tab(page: Page, title: str, href: str):
     if href.startswith("#"):
         pid = href[1:]
         try:
-            await page.wait_for_selector(f"div.tabs-panel.content.is-active#{pid}", timeout=2400)
+            await page.wait_for_selector(f"div.tabs-panel.content.is-active#{pid}", timeout=1600)
             return
         except PWTimeout:
             pass
-    await page.wait_for_selector("div.tabs-panel.content.is-active", timeout=2400)
+    await page.wait_for_selector("div.tabs-panel.content.is-active", timeout=1600)
 
 async def _iter_family_items_in_active_panel(page: Page):
     panel = page.locator("div.tabs-panel.content.is-active").first
@@ -435,21 +411,19 @@ async def _iter_family_items_in_active_panel(page: Page):
         handles.append(el)
     return list(zip(families, handles))
 
-# main
-
 async def process_colour(page: Page, url: str) -> List[ColourRow]:
     log.info(f"run start colour={url}")
     await page.goto(url, wait_until="domcontentloaded")
-    await page.wait_for_selector("#product-tabs", timeout=6000)
+    await page.wait_for_selector("#product-tabs", timeout=4500)
 
-    colour_name = (await page.locator(".product-hero h1").first.text_content(timeout=880) or "").strip()
+    colour_name = (await page.locator(".product-hero h1").first.text_content(timeout=720) or "").strip()
     log.info(f"colour name: {colour_name}")
 
     tabs = await _get_finish_tabs(page)
     log.info(f"finish tabs: {len(tabs)}")
 
     rows: List[ColourRow] = []
-    seen: Set[Tuple[str, str]] = set()  # (finish, sku)
+    seen: Set[Tuple[str, str]] = set()
 
     for idx_tab, (tab_title, tab_href) in enumerate(tabs, start=1):
         await _activate_tab(page, tab_title, tab_href)
@@ -528,8 +502,6 @@ async def process_colour(page: Page, url: str) -> List[ColourRow]:
                 f"stock={sflag} price={pflag} "
                 f"qty_used={used_qty} moq_min={moq_min} step={moq_step} time={dt:.2f}s"
             )
-
-            await page.wait_for_timeout(8)
 
     log.info(f"run end rows={len(rows)}")
     return rows

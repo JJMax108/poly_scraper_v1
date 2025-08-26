@@ -1,0 +1,14 @@
+2025-08-21 17:45:25,386 INFO [230/240] Processing Byzantine Oak  https://www.polytec.com.au/colour/byzantine-oak/
+2025-08-21 17:45:25,386 INFO run start colour=https://www.polytec.com.au/colour/byzantine-oak/
+2025-08-21 17:45:25,704 INFO colour name: Byzantine Oak
+2025-08-21 17:45:25,709 INFO finish tabs: 1
+2025-08-21 17:45:25,729 INFO tab 1/1 -> Ravine
+2025-08-21 17:45:25,738 INFO items in finish 'Ravine': 2
+2025-08-21 17:45:25,738 INFO range -> Edgetape Decorative
+2025-08-21 17:45:26,853 INFO row 1: sku=43416 title='ABS 2mm x 38mm UG 100m Byzantine Oak Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:45:26,855 INFO range -> Laminate
+2025-08-21 17:45:27,891 INFO row 2: sku=43800 title='Laminate Byzantine Oak Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:45:27,892 INFO run end rows=2
+2025-08-21 17:45:27,892 INFO csv write: edgetape_decorative.csv sku=43416 colour='Byzantine Oak'
+2025-08-21 17:45:27,892 INFO csv write: laminate.csv sku=43800 colour='Byzantine Oak'
+2025-08-21 17:45:27,893 INFO [230/240] Done Byzantine Oak, rows=2, ranges=['Edgetape Decorative', 'Laminate']

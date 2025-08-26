@@ -1,0 +1,17 @@
+2025-08-21 17:16:46,830 INFO [146/240] Processing Temple Stone  https://www.polytec.com.au/colour/temple-stone/
+2025-08-21 17:16:46,830 INFO run start colour=https://www.polytec.com.au/colour/temple-stone/
+2025-08-21 17:16:47,139 INFO colour name: Temple Stone
+2025-08-21 17:16:47,144 INFO finish tabs: 1
+2025-08-21 17:16:47,160 INFO tab 1/1 -> Matt
+2025-08-21 17:16:47,177 INFO items in finish 'Matt': 4
+2025-08-21 17:16:47,177 INFO range -> Laminate
+2025-08-21 17:16:48,309 INFO row 1: sku=34649 title='Laminate Temple Stone Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 17:16:49,351 INFO row 2: sku=34665 title='Laminate Temple Stone Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:16:50,390 INFO row 3: sku=34666 title='Laminate Temple Stone Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:16:51,435 INFO row 4: sku=34650 title='Laminate Temple Stone Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:16:51,435 INFO run end rows=4
+2025-08-21 17:16:51,436 INFO csv write: laminate.csv sku=34649 colour='Temple Stone'
+2025-08-21 17:16:51,436 INFO csv write: laminate.csv sku=34665 colour='Temple Stone'
+2025-08-21 17:16:51,436 INFO csv write: laminate.csv sku=34666 colour='Temple Stone'
+2025-08-21 17:16:51,436 INFO csv write: laminate.csv sku=34650 colour='Temple Stone'
+2025-08-21 17:16:51,437 INFO [146/240] Done Temple Stone, rows=4, ranges=['Laminate']

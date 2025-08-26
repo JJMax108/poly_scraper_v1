@@ -1,0 +1,36 @@
+2025-08-21 17:38:39,894 INFO [192/240] Processing Strata Grey  https://www.polytec.com.au/colour/strata-grey/
+2025-08-21 17:38:39,894 INFO run start colour=https://www.polytec.com.au/colour/strata-grey/
+2025-08-21 17:38:40,386 INFO colour name: Strata Grey
+2025-08-21 17:38:40,396 INFO finish tabs: 3
+2025-08-21 17:38:40,416 INFO tab 1/3 -> Matt
+2025-08-21 17:38:40,439 INFO items in finish 'Matt': 5
+2025-08-21 17:38:40,439 INFO range -> Board Decorative
+2025-08-21 17:38:41,575 INFO row 1: sku=25617 title='MDF 162412 DS Strata Grey Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:38:41,576 INFO range -> Edgetape Decorative
+2025-08-21 17:38:42,342 INFO row 2: sku=19342 title='Rigid 1mm x 21mm UG 100m Strata Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:38:43,104 INFO row 3: sku=19478 title='Rigid 1mm x 21mm UG 20m Strata Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:38:44,152 INFO row 4: sku=44418 title='ABS 1mm x 29mm UG 100m Strata Grey Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:38:44,152 INFO range -> Laminate
+2025-08-21 17:38:45,200 INFO row 5: sku=26306 title='Laminate Strata Grey Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:38:45,225 INFO tab 2/3 -> Sheen
+2025-08-21 17:38:45,239 INFO items in finish 'Sheen': 3
+2025-08-21 17:38:45,239 INFO range -> Board Decorative
+2025-08-21 17:38:46,865 INFO row 1: sku=25828 title='MDF 162412 DS Strata Grey Sheen LMG E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.63s
+2025-08-21 17:38:46,866 INFO range -> Edgetape Decorative
+2025-08-21 17:38:47,917 INFO row 2: sku=19521 title='Rigid 1mm x 21mm UG 100m Strata Grey Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:38:48,958 INFO row 3: sku=19530 title='Rigid 1mm x 21mm UG 20m Strata Grey Sheen' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:38:48,982 INFO tab 3/3 -> Smooth
+2025-08-21 17:38:48,986 INFO items in finish 'Smooth': 1
+2025-08-21 17:38:48,986 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:38:53,433 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 17:38:53,433 INFO run end rows=9
+2025-08-21 17:38:53,434 INFO csv write: board_decorative.csv sku=25617 colour='Strata Grey'
+2025-08-21 17:38:53,435 INFO csv write: edgetape_decorative.csv sku=19342 colour='Strata Grey'
+2025-08-21 17:38:53,435 INFO csv write: edgetape_decorative.csv sku=19478 colour='Strata Grey'
+2025-08-21 17:38:53,435 INFO csv write: edgetape_decorative.csv sku=44418 colour='Strata Grey'
+2025-08-21 17:38:53,435 INFO csv write: laminate.csv sku=26306 colour='Strata Grey'
+2025-08-21 17:38:53,436 INFO csv write: board_decorative.csv sku=25828 colour='Strata Grey'
+2025-08-21 17:38:53,436 INFO csv write: edgetape_decorative.csv sku=19521 colour='Strata Grey'
+2025-08-21 17:38:53,436 INFO csv write: edgetape_decorative.csv sku=19530 colour='Strata Grey'
+2025-08-21 17:38:53,437 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Strata Grey'
+2025-08-21 17:38:53,437 INFO [192/240] Done Strata Grey, rows=9, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

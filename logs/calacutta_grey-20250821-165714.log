@@ -1,0 +1,28 @@
+2025-08-21 16:57:14,431 INFO [70/240] Processing Calacutta Grey  https://www.polytec.com.au/colour/calacutta-grey/
+2025-08-21 16:57:14,431 INFO run start colour=https://www.polytec.com.au/colour/calacutta-grey/
+2025-08-21 16:57:14,825 INFO colour name: Calacutta Grey
+2025-08-21 16:57:14,830 INFO finish tabs: 1
+2025-08-21 16:57:14,852 INFO tab 1/1 -> Smooth
+2025-08-21 16:57:14,884 INFO items in finish 'Smooth': 8
+2025-08-21 16:57:14,884 INFO range -> Laminate
+2025-08-21 16:57:16,000 INFO row 1: sku=57519 title='Laminate Calacutta Grey Smooth 0.7mm 3650x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:57:17,045 INFO row 2: sku=57520 title='Laminate Calacutta Grey Smooth HL 0.7mm 3650x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:57:18,115 INFO row 3: sku=57522 title='Laminate Calacutta Grey Smooth Q 1825 x 680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:57:19,157 INFO row 4: sku=57521 title='Laminate Calacutta Grey Smooth HS 1825 x 1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:57:19,157 INFO range -> Compact
+2025-08-21 16:57:19,913 INFO row 5: sku=46487 title='Compact Laminate Calacutta Grey Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:57:21,480 INFO row 6: sku=51873 title='Compact Laminate Calacutta Grey Smooth BC 2730x1830 5mm' stock=OK price=EMPTY qty_used=1 moq_min=1 step=1 time=1.57s
+2025-08-21 16:57:21,480 INFO range -> Alfresco Doors
+2025-08-21 16:57:25,935 INFO row 7: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 16:57:25,935 INFO range -> Solid Core
+2025-08-21 16:57:26,698 INFO row 8: sku=48008 title='Xenolith Calacutta Grey Smooth Solid Core 3660x1830 15mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:57:26,699 INFO run end rows=8
+2025-08-21 16:57:26,699 INFO csv write: laminate.csv sku=57519 colour='Calacutta Grey'
+2025-08-21 16:57:26,699 INFO csv write: laminate.csv sku=57520 colour='Calacutta Grey'
+2025-08-21 16:57:26,700 INFO csv write: laminate.csv sku=57522 colour='Calacutta Grey'
+2025-08-21 16:57:26,700 INFO csv write: laminate.csv sku=57521 colour='Calacutta Grey'
+2025-08-21 16:57:26,700 INFO csv write: compact.csv sku=46487 colour='Calacutta Grey'
+2025-08-21 16:57:26,700 INFO csv write: compact.csv sku=51873 colour='Calacutta Grey'
+2025-08-21 16:57:26,701 INFO csv write: alfresco_doors.csv sku= colour='Calacutta Grey'
+2025-08-21 16:57:26,701 INFO csv write: solid_core.csv sku=48008 colour='Calacutta Grey'
+2025-08-21 16:57:26,701 INFO [70/240] Done Calacutta Grey, rows=8, ranges=['Alfresco Doors', 'Compact', 'Laminate', 'Solid Core']

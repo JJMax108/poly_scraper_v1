@@ -1,0 +1,249 @@
+2025-08-21 17:43:49,444 INFO [227/240] Processing Black  https://www.polytec.com.au/colour/black/
+2025-08-21 17:43:49,444 INFO run start colour=https://www.polytec.com.au/colour/black/
+2025-08-21 17:43:50,071 INFO colour name: Black
+2025-08-21 17:43:50,117 INFO finish tabs: 9
+2025-08-21 17:43:50,144 INFO tab 1/9 -> Finegrain
+2025-08-21 17:43:50,149 INFO items in finish 'Finegrain': 1
+2025-08-21 17:43:50,149 INFO range -> Edgetape Decorative
+2025-08-21 17:43:51,288 INFO row 1: sku=11151 title='Rigid 1mm x 21mm UG 100m Black Finegrain' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:43:51,322 INFO tab 2/9 -> Gloss
+2025-08-21 17:43:51,345 INFO items in finish 'Gloss': 5
+2025-08-21 17:43:51,345 INFO range -> Board Decorative
+2025-08-21 17:43:52,484 INFO row 1: sku=10569 title='MDF 182412 SS Black Gloss LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:43:53,259 INFO row 2: sku=7753 title='MDF 182412 DS Black Gloss LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:43:53,259 INFO range -> Edgetape Decorative
+2025-08-21 17:43:54,325 INFO row 3: sku=7614 title='ABS 1mm x 21mm UG 100m Black Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:43:55,392 INFO row 4: sku=17727 title='ABS 1mm x 21mm UG 20m Black Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:43:56,459 INFO row 5: sku=44267 title='ABS 1mm x 29mm UG 100m Black Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:43:56,499 INFO tab 3/9 -> Matt
+2025-08-21 17:43:56,640 INFO items in finish 'Matt': 22
+2025-08-21 17:43:56,640 INFO range -> Board Decorative
+2025-08-21 17:43:57,643 INFO row 1: sku=35170 title='MDF 162412 DS Black Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.00s
+2025-08-21 17:43:58,439 INFO row 2: sku=46526 title='MDF 163112 DS Black Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:43:59,222 INFO row 3: sku=420 title='MDF 182412 DS Black Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:00,001 INFO row 4: sku=14161 title='Particle 183618 DS Black Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:00,783 INFO row 5: sku=26636 title='Particle 253618 DS Black Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:01,570 INFO row 6: sku=26508 title='LDF 333618 DS Black Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:02,354 INFO row 7: sku=26474 title='LDF 253618 DS Black Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:02,355 INFO range -> Edgetape Decorative
+2025-08-21 17:44:03,438 INFO row 8: sku=43744 title='ABS 1mm x 22mm UG 100m Black Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:04,522 INFO row 9: sku=43722 title='ABS 1mm x 22mm UG 20m Black Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:05,602 INFO row 10: sku=48303 title='ABS 1mm x 38mm UG 100m Black Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:06,685 INFO row 11: sku=48302 title='ABS 1mm x 29mm UG 100m Black Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:06,685 INFO range -> Laminate
+2025-08-21 17:44:07,748 INFO row 12: sku=45847 title='Laminate Black Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:44:08,819 INFO row 13: sku=45848 title='Laminate Black Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:44:09,899 INFO row 14: sku=45849 title='Laminate Black Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:10,981 INFO row 15: sku=45850 title='Laminate Black Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:10,981 INFO range -> Compact
+2025-08-21 17:44:11,771 INFO row 16: sku=10693 title='Compact Laminate Black Matt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:12,548 INFO row 17: sku=55435 title='Compact Laminate Black Matt BC 3660x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:13,334 INFO row 18: sku=54023 title='Compact Laminate Black Matt BC 3660x1830 18mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:13,334 INFO range -> Board Commodity
+2025-08-21 17:44:14,124 INFO row 19: sku=474 title='Particle 162412 DS Black Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:14,900 INFO row 20: sku=25232 title='Particle 163618 DS Black Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:14,901 INFO range -> Batten
+2025-08-21 17:44:14,974 INFO MOQ for SKU 53608 min=5 step=5 qty 1 -> 5
+2025-08-21 17:44:14,974 INFO MOQ hint: Pack Size: 5
+2025-08-21 17:44:14,974 INFO MOQ hint: Minimum qty 5, multiples of 5 only.
+2025-08-21 17:44:15,693 INFO row 21: sku=53608 title='42 x 18 (2x1) 3600mm Black Matt Batten (For Rails)' stock=OK price=OK qty_used=5 moq_min=5 step=5 time=0.79s
+2025-08-21 17:44:15,693 INFO range -> Alfresco Doors
+2025-08-21 17:44:20,174 INFO row 22: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.48s
+2025-08-21 17:44:20,221 INFO tab 4/9 -> Natura
+2025-08-21 17:44:20,228 INFO items in finish 'Natura': 1
+2025-08-21 17:44:20,228 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:44:24,693 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.46s
+2025-08-21 17:44:24,742 INFO tab 5/9 -> Smooth
+2025-08-21 17:44:24,748 INFO items in finish 'Smooth': 1
+2025-08-21 17:44:24,748 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 17:44:29,216 INFO row 1: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.47s
+2025-08-21 17:44:29,273 INFO tab 6/9 -> Texture
+2025-08-21 17:44:29,334 INFO items in finish 'Texture': 16
+2025-08-21 17:44:29,334 INFO range -> Board Decorative
+2025-08-21 17:44:30,490 INFO row 1: sku=6604 title='MDF 162412 DS Black Texture MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.16s
+2025-08-21 17:44:31,261 INFO row 2: sku=6680 title='Particle 183618 DS Black Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:44:32,050 INFO row 3: sku=44981 title='LDF 253618 DS Black Texture STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:32,834 INFO row 4: sku=6658 title='MDF 182412 DS Black Texture MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:33,622 INFO row 5: sku=26509 title='LDF 333618 DS Black Texture MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:33,622 INFO range -> Edgetape Decorative
+2025-08-21 17:44:34,401 INFO row 6: sku=9053 title='Rigid 1mm x 21mm UG 100m Black Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:35,465 INFO row 7: sku=51836 title='ABS 1mm x 29mm UG 100m Black Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:44:36,253 INFO row 8: sku=17638 title='Rigid 1mm x 21mm UG 20m Black Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:37,338 INFO row 9: sku=54962 title='ABS 1mm x 38mm UG 100m Black Texture' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:37,338 INFO range -> Laminate
+2025-08-21 17:44:38,411 INFO row 10: sku=6711 title='Laminate Black Texture 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:44:39,517 INFO row 11: sku=8916 title='Laminate Black Texture Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:44:40,599 INFO row 12: sku=8776 title='Laminate Black Texture HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:41,809 INFO row 13: sku=8846 title='Laminate Black Texture HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.21s
+2025-08-21 17:44:41,809 INFO range -> Board Commodity
+2025-08-21 17:44:42,811 INFO row 14: sku=6639 title='Particle 162412 DS Black Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.00s
+2025-08-21 17:44:43,603 INFO row 15: sku=6650 title='Particle 163618 DS Black Texture MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:43,671 INFO MOQ for SKU 13399 min=30 step=30 qty 1 -> 30
+2025-08-21 17:44:43,671 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:44:43,671 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:44:44,381 INFO row 16: sku=13399 title='Particle 162418 DS Black Texture MR' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.78s
+2025-08-21 17:44:44,429 INFO tab 7/9 -> Ultramatt
+2025-08-21 17:44:44,455 INFO items in finish 'Ultramatt': 6
+2025-08-21 17:44:44,455 INFO range -> Board Decorative
+2025-08-21 17:44:45,222 INFO row 1: sku=48591 title='Ultraglaze MDF 182412 SS Black Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:44:45,990 INFO row 2: sku=53400 title='Ultraglaze MDF 183112 SS Black Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:44:46,779 INFO row 3: sku=48596 title='Ultraglaze MDF 182412 DS Black Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:44:47,560 INFO row 4: sku=53401 title='Ultraglaze MDF 183112 DS Black Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:47,560 INFO range -> Edgetape Decorative
+2025-08-21 17:44:48,650 INFO row 5: sku=48571 title='ABS 1mm x 21mm UG 100m Ultraglaze Black Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.09s
+2025-08-21 17:44:49,731 INFO row 6: sku=51839 title='ABS 1mm x 29mm UG 100m Black Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:49,778 INFO tab 8/9 -> Venette
+2025-08-21 17:44:49,810 INFO items in finish 'Venette': 8
+2025-08-21 17:44:49,810 INFO range -> Board Decorative
+2025-08-21 17:44:50,968 INFO row 1: sku=48356 title='MDF 182412 SS Black Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.16s
+2025-08-21 17:44:51,747 INFO row 2: sku=55209 title='MDF 183112 SS Black Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:52,528 INFO row 3: sku=47478 title='MDF 182412 DS Black Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:53,311 INFO row 4: sku=55207 title='MDF 183112 DS Black Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:54,096 INFO row 5: sku=48943 title='MDF 252412 SS Black Venette MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:44:54,096 INFO range -> Edgetape Decorative
+2025-08-21 17:44:55,174 INFO row 6: sku=46661 title='ABS 1mm x 21mm UG 100m Black Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:44:56,239 INFO row 7: sku=46903 title='ABS 1mm x 21mm UG 20m Black Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:44:57,310 INFO row 8: sku=48578 title='ABS 1mm x 29mm UG 100m Black Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:44:57,366 INFO tab 9/9 -> Woodmatt
+2025-08-21 17:44:57,466 INFO items in finish 'Woodmatt': 25
+2025-08-21 17:44:57,466 INFO range -> Board Decorative
+2025-08-21 17:44:58,622 INFO row 1: sku=47250 title='MDF 162412 DS Black Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.16s
+2025-08-21 17:44:59,419 INFO row 2: sku=47249 title='MDF 163112 DS Black Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:45:00,205 INFO row 3: sku=47449 title='MDF 183618 DS Black Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:45:01,003 INFO row 4: sku=47279 title='MDF 322412 DS Black Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:45:01,792 INFO row 5: sku=47265 title='MDF 252412 DS Black Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:45:02,591 INFO row 6: sku=47477 title='LDF 333618 DS Black Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:45:03,391 INFO row 7: sku=47463 title='LDF 253618 DS Black Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:45:03,391 INFO range -> Edgetape Decorative
+2025-08-21 17:45:04,197 INFO row 8: sku=47284 title='ABS 1mm x 21mm UG 100m Black Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:45:04,992 INFO row 9: sku=47285 title='ABS 1mm x 21mm UG 20m Black Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:45:06,074 INFO row 10: sku=47393 title='ABS 1mm x 38mm UG 100m Black Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:45:07,152 INFO row 11: sku=47374 title='ABS 1mm x 29mm UG 100m Black Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:45:08,237 INFO row 12: sku=47623 title='ABS 1mm x 55mm UG 20m Black Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 17:45:09,299 INFO row 13: sku=47633 title='ABS 1mm x 55mm UG 100m Black Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:45:09,299 INFO range -> Laminate
+2025-08-21 17:45:10,368 INFO row 14: sku=47234 title='Laminate Black Woodmatt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:45:10,369 INFO range -> Architectural
+2025-08-21 17:45:10,733 INFO MOQ for SKU 51547 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:10,733 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:11,457 INFO row 15: sku=51547 title='Steccawood 17x34x3600 MDF MR E0 Black Woodmatt Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:45:11,833 INFO MOQ for SKU 45115 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:11,833 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:12,557 INFO row 16: sku=45115 title='Steccawood 17x38x3600 MDF MR E0 Black Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.10s
+2025-08-21 17:45:12,915 INFO MOQ for SKU 55176 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:12,915 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:13,638 INFO row 17: sku=55176 title='Steccawood 17x34x3600 MDF MR E0 Black Woodmatt Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.08s
+2025-08-21 17:45:14,002 INFO MOQ for SKU 45117 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:14,002 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:14,723 INFO row 18: sku=45117 title='Steccawood 31x31x3600 MDF MR E0 Black Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:45:15,100 INFO MOQ for SKU 52994 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:15,100 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:15,824 INFO row 19: sku=52994 title='Steccawood 24x48x3600 MDF MR E0 Black Woodmatt Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.10s
+2025-08-21 17:45:16,183 INFO MOQ for SKU 48904 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:16,183 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:16,899 INFO row 20: sku=48904 title='Steccawood 40x100x3600 LDF MR E0 Black Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:45:17,266 INFO MOQ for SKU 46751 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:17,266 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:17,986 INFO row 21: sku=46751 title='Steccawood 50x100x3600 LDF MR E0 Black Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:45:18,350 INFO MOQ for SKU 51548 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:18,350 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:19,073 INFO row 22: sku=51548 title='Steccawood 31x62x3600 MDF MR E0 Black Woodmatt Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:45:19,455 INFO MOQ for SKU 45121 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:19,455 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:20,171 INFO row 23: sku=45121 title='Steccawood 31x65x3600 MDF MR E0 Black Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.10s
+2025-08-21 17:45:20,253 INFO MOQ for SKU 56938 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:20,254 INFO MOQ hint: Ordering details .
+2025-08-21 17:45:20,254 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:20,971 INFO row 24: sku=56938 title='Steccawood 24x34x3600 MDF MR E0 Black Woodmatt Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.80s
+2025-08-21 17:45:21,352 INFO MOQ for SKU 45123 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:21,352 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:22,064 INFO row 25: sku=45123 title='Steccawood 50x70x3600 LDF MR E0 Black Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.09s
+2025-08-21 17:45:22,064 INFO run end rows=85
+2025-08-21 17:45:22,064 INFO csv write: edgetape_decorative.csv sku=11151 colour='Black'
+2025-08-21 17:45:22,065 INFO csv write: board_decorative.csv sku=10569 colour='Black'
+2025-08-21 17:45:22,065 INFO csv write: board_decorative.csv sku=7753 colour='Black'
+2025-08-21 17:45:22,065 INFO csv write: edgetape_decorative.csv sku=7614 colour='Black'
+2025-08-21 17:45:22,065 INFO csv write: edgetape_decorative.csv sku=17727 colour='Black'
+2025-08-21 17:45:22,065 INFO csv write: edgetape_decorative.csv sku=44267 colour='Black'
+2025-08-21 17:45:22,065 INFO csv write: board_decorative.csv sku=35170 colour='Black'
+2025-08-21 17:45:22,066 INFO csv write: board_decorative.csv sku=46526 colour='Black'
+2025-08-21 17:45:22,066 INFO csv write: board_decorative.csv sku=420 colour='Black'
+2025-08-21 17:45:22,066 INFO csv write: board_decorative.csv sku=14161 colour='Black'
+2025-08-21 17:45:22,066 INFO csv write: board_decorative.csv sku=26636 colour='Black'
+2025-08-21 17:45:22,066 INFO csv write: board_decorative.csv sku=26508 colour='Black'
+2025-08-21 17:45:22,067 INFO csv write: board_decorative.csv sku=26474 colour='Black'
+2025-08-21 17:45:22,067 INFO csv write: edgetape_decorative.csv sku=43744 colour='Black'
+2025-08-21 17:45:22,067 INFO csv write: edgetape_decorative.csv sku=43722 colour='Black'
+2025-08-21 17:45:22,067 INFO csv write: edgetape_decorative.csv sku=48303 colour='Black'
+2025-08-21 17:45:22,067 INFO csv write: edgetape_decorative.csv sku=48302 colour='Black'
+2025-08-21 17:45:22,069 INFO csv write: laminate.csv sku=45847 colour='Black'
+2025-08-21 17:45:22,069 INFO csv write: laminate.csv sku=45848 colour='Black'
+2025-08-21 17:45:22,069 INFO csv write: laminate.csv sku=45849 colour='Black'
+2025-08-21 17:45:22,069 INFO csv write: laminate.csv sku=45850 colour='Black'
+2025-08-21 17:45:22,070 INFO csv write: compact.csv sku=10693 colour='Black'
+2025-08-21 17:45:22,070 INFO csv write: compact.csv sku=55435 colour='Black'
+2025-08-21 17:45:22,070 INFO csv write: compact.csv sku=54023 colour='Black'
+2025-08-21 17:45:22,070 INFO csv new: board_commodity.csv
+2025-08-21 17:45:22,071 INFO csv write: board_commodity.csv sku=474 colour='Black'
+2025-08-21 17:45:22,071 INFO csv write: board_commodity.csv sku=25232 colour='Black'
+2025-08-21 17:45:22,071 INFO csv new: batten.csv
+2025-08-21 17:45:22,071 INFO csv write: batten.csv sku=53608 colour='Black'
+2025-08-21 17:45:22,071 INFO csv write: alfresco_doors.csv sku= colour='Black'
+2025-08-21 17:45:22,072 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Black'
+2025-08-21 17:45:22,072 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Black'
+2025-08-21 17:45:22,072 INFO csv write: board_decorative.csv sku=6604 colour='Black'
+2025-08-21 17:45:22,072 INFO csv write: board_decorative.csv sku=6680 colour='Black'
+2025-08-21 17:45:22,072 INFO csv write: board_decorative.csv sku=44981 colour='Black'
+2025-08-21 17:45:22,072 INFO csv write: board_decorative.csv sku=6658 colour='Black'
+2025-08-21 17:45:22,072 INFO csv write: board_decorative.csv sku=26509 colour='Black'
+2025-08-21 17:45:22,073 INFO csv write: edgetape_decorative.csv sku=9053 colour='Black'
+2025-08-21 17:45:22,073 INFO csv write: edgetape_decorative.csv sku=51836 colour='Black'
+2025-08-21 17:45:22,073 INFO csv write: edgetape_decorative.csv sku=17638 colour='Black'
+2025-08-21 17:45:22,073 INFO csv write: edgetape_decorative.csv sku=54962 colour='Black'
+2025-08-21 17:45:22,073 INFO csv write: laminate.csv sku=6711 colour='Black'
+2025-08-21 17:45:22,073 INFO csv write: laminate.csv sku=8916 colour='Black'
+2025-08-21 17:45:22,073 INFO csv write: laminate.csv sku=8776 colour='Black'
+2025-08-21 17:45:22,074 INFO csv write: laminate.csv sku=8846 colour='Black'
+2025-08-21 17:45:22,074 INFO csv write: board_commodity.csv sku=6639 colour='Black'
+2025-08-21 17:45:22,074 INFO csv write: board_commodity.csv sku=6650 colour='Black'
+2025-08-21 17:45:22,074 INFO csv write: board_commodity.csv sku=13399 colour='Black'
+2025-08-21 17:45:22,074 INFO csv write: board_decorative.csv sku=48591 colour='Black'
+2025-08-21 17:45:22,074 INFO csv write: board_decorative.csv sku=53400 colour='Black'
+2025-08-21 17:45:22,074 INFO csv write: board_decorative.csv sku=48596 colour='Black'
+2025-08-21 17:45:22,074 INFO csv write: board_decorative.csv sku=53401 colour='Black'
+2025-08-21 17:45:22,075 INFO csv write: edgetape_decorative.csv sku=48571 colour='Black'
+2025-08-21 17:45:22,075 INFO csv write: edgetape_decorative.csv sku=51839 colour='Black'
+2025-08-21 17:45:22,075 INFO csv write: board_decorative.csv sku=48356 colour='Black'
+2025-08-21 17:45:22,075 INFO csv write: board_decorative.csv sku=55209 colour='Black'
+2025-08-21 17:45:22,075 INFO csv write: board_decorative.csv sku=47478 colour='Black'
+2025-08-21 17:45:22,075 INFO csv write: board_decorative.csv sku=55207 colour='Black'
+2025-08-21 17:45:22,075 INFO csv write: board_decorative.csv sku=48943 colour='Black'
+2025-08-21 17:45:22,076 INFO csv write: edgetape_decorative.csv sku=46661 colour='Black'
+2025-08-21 17:45:22,076 INFO csv write: edgetape_decorative.csv sku=46903 colour='Black'
+2025-08-21 17:45:22,076 INFO csv write: edgetape_decorative.csv sku=48578 colour='Black'
+2025-08-21 17:45:22,076 INFO csv write: board_decorative.csv sku=47250 colour='Black'
+2025-08-21 17:45:22,076 INFO csv write: board_decorative.csv sku=47249 colour='Black'
+2025-08-21 17:45:22,077 INFO csv write: board_decorative.csv sku=47449 colour='Black'
+2025-08-21 17:45:22,077 INFO csv write: board_decorative.csv sku=47279 colour='Black'
+2025-08-21 17:45:22,077 INFO csv write: board_decorative.csv sku=47265 colour='Black'
+2025-08-21 17:45:22,077 INFO csv write: board_decorative.csv sku=47477 colour='Black'
+2025-08-21 17:45:22,077 INFO csv write: board_decorative.csv sku=47463 colour='Black'
+2025-08-21 17:45:22,077 INFO csv write: edgetape_decorative.csv sku=47284 colour='Black'
+2025-08-21 17:45:22,077 INFO csv write: edgetape_decorative.csv sku=47285 colour='Black'
+2025-08-21 17:45:22,078 INFO csv write: edgetape_decorative.csv sku=47393 colour='Black'
+2025-08-21 17:45:22,078 INFO csv write: edgetape_decorative.csv sku=47374 colour='Black'
+2025-08-21 17:45:22,078 INFO csv write: edgetape_decorative.csv sku=47623 colour='Black'
+2025-08-21 17:45:22,078 INFO csv write: edgetape_decorative.csv sku=47633 colour='Black'
+2025-08-21 17:45:22,078 INFO csv write: laminate.csv sku=47234 colour='Black'
+2025-08-21 17:45:22,079 INFO csv write: architectural.csv sku=51547 colour='Black'
+2025-08-21 17:45:22,079 INFO csv write: architectural.csv sku=45115 colour='Black'
+2025-08-21 17:45:22,079 INFO csv write: architectural.csv sku=55176 colour='Black'
+2025-08-21 17:45:22,079 INFO csv write: architectural.csv sku=45117 colour='Black'
+2025-08-21 17:45:22,080 INFO csv write: architectural.csv sku=52994 colour='Black'
+2025-08-21 17:45:22,080 INFO csv write: architectural.csv sku=48904 colour='Black'
+2025-08-21 17:45:22,080 INFO csv write: architectural.csv sku=46751 colour='Black'
+2025-08-21 17:45:22,080 INFO csv write: architectural.csv sku=51548 colour='Black'
+2025-08-21 17:45:22,080 INFO csv write: architectural.csv sku=45121 colour='Black'
+2025-08-21 17:45:22,080 INFO csv write: architectural.csv sku=56938 colour='Black'
+2025-08-21 17:45:22,080 INFO csv write: architectural.csv sku=45123 colour='Black'
+2025-08-21 17:45:22,081 INFO [227/240] Done Black, rows=85, ranges=['Alfresco Doors', 'Architectural', 'Batten', 'Board Commodity', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

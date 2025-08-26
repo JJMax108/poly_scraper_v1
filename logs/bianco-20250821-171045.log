@@ -1,0 +1,62 @@
+2025-08-21 17:10:45,727 INFO [112/240] Processing Bianco  https://www.polytec.com.au/colour/bianco/
+2025-08-21 17:10:45,727 INFO run start colour=https://www.polytec.com.au/colour/bianco/
+2025-08-21 17:10:46,030 INFO colour name: Bianco
+2025-08-21 17:10:46,034 INFO finish tabs: 1
+2025-08-21 17:10:46,064 INFO tab 1/1 -> Woodmatt
+2025-08-21 17:10:46,115 INFO items in finish 'Woodmatt': 14
+2025-08-21 17:10:46,115 INFO range -> Edgetape Decorative
+2025-08-21 17:10:47,189 INFO row 1: sku=47601 title='ABS 1mm x 55mm UG 100m Bianco Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:10:48,231 INFO row 2: sku=47602 title='ABS 1mm x 55mm UG 20m Bianco Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:10:49,258 INFO row 3: sku=47603 title='ABS 1mm x 22mm UG 20m Bianco Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:10:49,258 INFO range -> Architectural
+2025-08-21 17:10:49,318 INFO MOQ for SKU 56947 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:49,318 INFO MOQ hint: Ordering details .
+2025-08-21 17:10:49,318 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:50,012 INFO row 4: sku=56947 title='Steccawood 24x34x3600 MDF MR E0 Bianco Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.75s
+2025-08-21 17:10:50,341 INFO MOQ for SKU 45133 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:50,341 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:51,043 INFO row 5: sku=45133 title='Steccawood 50x70x3600 LDF MR E0 Bianco Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.03s
+2025-08-21 17:10:51,370 INFO MOQ for SKU 51567 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:51,370 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:52,060 INFO row 6: sku=51567 title='Steccawood 17x34x3600 MDF MR E0 Bianco Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.02s
+2025-08-21 17:10:52,385 INFO MOQ for SKU 55185 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:52,385 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:53,078 INFO row 7: sku=55185 title='Steccawood 17x34x3600 MDF MR E0 Bianco Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.02s
+2025-08-21 17:10:53,424 INFO MOQ for SKU 53004 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:53,424 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:54,119 INFO row 8: sku=53004 title='Steccawood 24x48x3600 MDF MR E0 Bianco Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.04s
+2025-08-21 17:10:54,168 INFO MOQ for SKU 48905 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:54,168 INFO MOQ hint: Pack Size: 15 .
+2025-08-21 17:10:54,168 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:54,862 INFO row 9: sku=48905 title='Steccawood 40x100x3600 LDF MR E0 Bianco' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.74s
+2025-08-21 17:10:55,185 INFO MOQ for SKU 45125 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:55,186 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:55,891 INFO row 10: sku=45125 title='Steccawood 17x38x3600 MDF MR E0 Bianco Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.03s
+2025-08-21 17:10:56,226 INFO MOQ for SKU 45131 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:56,227 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:56,923 INFO row 11: sku=45131 title='Steccawood 31x65x3600 MDF MR E0 Bianco Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.03s
+2025-08-21 17:10:57,252 INFO MOQ for SKU 45127 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:57,252 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:57,943 INFO row 12: sku=45127 title='Steccawood 31x31x3600 MDF MR E0 Bianco Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.02s
+2025-08-21 17:10:58,270 INFO MOQ for SKU 51568 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:58,270 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:58,963 INFO row 13: sku=51568 title='Steccawood 31x62x3600 MDF MR E0 Bianco Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.02s
+2025-08-21 17:10:59,284 INFO MOQ for SKU 46750 min=5 step=1 qty 1 -> 5
+2025-08-21 17:10:59,284 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:10:59,977 INFO row 14: sku=46750 title='Steccawood 50x100x3600 LDF MR E0 Bianco Woodmatt' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.01s
+2025-08-21 17:10:59,977 INFO run end rows=14
+2025-08-21 17:10:59,978 INFO csv write: edgetape_decorative.csv sku=47601 colour='Bianco'
+2025-08-21 17:10:59,978 INFO csv write: edgetape_decorative.csv sku=47602 colour='Bianco'
+2025-08-21 17:10:59,978 INFO csv write: edgetape_decorative.csv sku=47603 colour='Bianco'
+2025-08-21 17:10:59,980 INFO csv write: architectural.csv sku=56947 colour='Bianco'
+2025-08-21 17:10:59,980 INFO csv write: architectural.csv sku=45133 colour='Bianco'
+2025-08-21 17:10:59,980 INFO csv write: architectural.csv sku=51567 colour='Bianco'
+2025-08-21 17:10:59,980 INFO csv write: architectural.csv sku=55185 colour='Bianco'
+2025-08-21 17:10:59,980 INFO csv write: architectural.csv sku=53004 colour='Bianco'
+2025-08-21 17:10:59,981 INFO csv write: architectural.csv sku=48905 colour='Bianco'
+2025-08-21 17:10:59,981 INFO csv write: architectural.csv sku=45125 colour='Bianco'
+2025-08-21 17:10:59,981 INFO csv write: architectural.csv sku=45131 colour='Bianco'
+2025-08-21 17:10:59,981 INFO csv write: architectural.csv sku=45127 colour='Bianco'
+2025-08-21 17:10:59,981 INFO csv write: architectural.csv sku=51568 colour='Bianco'
+2025-08-21 17:10:59,981 INFO csv write: architectural.csv sku=46750 colour='Bianco'
+2025-08-21 17:10:59,981 INFO [112/240] Done Bianco, rows=14, ranges=['Architectural', 'Edgetape Decorative']

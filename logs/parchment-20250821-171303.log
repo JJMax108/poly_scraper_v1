@@ -1,0 +1,37 @@
+2025-08-21 17:13:03,972 INFO [126/240] Processing Parchment  https://www.polytec.com.au/colour/parchment/
+2025-08-21 17:13:03,972 INFO run start colour=https://www.polytec.com.au/colour/parchment/
+2025-08-21 17:13:04,429 INFO colour name: Parchment
+2025-08-21 17:13:04,434 INFO finish tabs: 1
+2025-08-21 17:13:04,451 INFO tab 1/1 -> Matt
+2025-08-21 17:13:04,516 INFO items in finish 'Matt': 13
+2025-08-21 17:13:04,516 INFO range -> Board Decorative
+2025-08-21 17:13:05,662 INFO row 1: sku=25215 title='MDF 162412 DS Parchment Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.15s
+2025-08-21 17:13:06,417 INFO row 2: sku=13145 title='Particle 183618 DS Parchment Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:13:07,190 INFO row 3: sku=26490 title='LDF 253618  DS Parchment Matt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:13:07,954 INFO row 4: sku=26523 title='LDF 333618 DS Parchment Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:13:08,716 INFO row 5: sku=17023 title='Particle 253618 DS Parchment Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:13:08,716 INFO range -> Edgetape Decorative
+2025-08-21 17:13:09,765 INFO row 6: sku=19496 title='Rigid 1mm x 21mm UG 100m Parchment Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:13:10,828 INFO row 7: sku=19486 title='Rigid 1mm x 21mm UG 20m Parchment Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:13:11,883 INFO row 8: sku=44411 title='ABS 1mm x 29mm UG 100m Parchment Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:13:12,927 INFO row 9: sku=54003 title='ABS 1mm x 38mm UG 100m Parchment Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:13:12,927 INFO range -> Laminate
+2025-08-21 17:13:13,977 INFO row 10: sku=11168 title='Laminate Parchment Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:13:15,032 INFO row 11: sku=13102 title='Laminate Parchment Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:13:16,100 INFO row 12: sku=13104 title='Laminate Parchment Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:13:17,167 INFO row 13: sku=13103 title='Laminate Parchment Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:13:17,168 INFO run end rows=13
+2025-08-21 17:13:17,168 INFO csv write: board_decorative.csv sku=25215 colour='Parchment'
+2025-08-21 17:13:17,168 INFO csv write: board_decorative.csv sku=13145 colour='Parchment'
+2025-08-21 17:13:17,169 INFO csv write: board_decorative.csv sku=26490 colour='Parchment'
+2025-08-21 17:13:17,169 INFO csv write: board_decorative.csv sku=26523 colour='Parchment'
+2025-08-21 17:13:17,169 INFO csv write: board_decorative.csv sku=17023 colour='Parchment'
+2025-08-21 17:13:17,169 INFO csv write: edgetape_decorative.csv sku=19496 colour='Parchment'
+2025-08-21 17:13:17,169 INFO csv write: edgetape_decorative.csv sku=19486 colour='Parchment'
+2025-08-21 17:13:17,170 INFO csv write: edgetape_decorative.csv sku=44411 colour='Parchment'
+2025-08-21 17:13:17,170 INFO csv write: edgetape_decorative.csv sku=54003 colour='Parchment'
+2025-08-21 17:13:17,170 INFO csv write: laminate.csv sku=11168 colour='Parchment'
+2025-08-21 17:13:17,170 INFO csv write: laminate.csv sku=13102 colour='Parchment'
+2025-08-21 17:13:17,170 INFO csv write: laminate.csv sku=13104 colour='Parchment'
+2025-08-21 17:13:17,171 INFO csv write: laminate.csv sku=13103 colour='Parchment'
+2025-08-21 17:13:17,171 INFO [126/240] Done Parchment, rows=13, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

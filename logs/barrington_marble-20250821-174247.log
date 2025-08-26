@@ -1,0 +1,17 @@
+2025-08-21 17:42:47,192 INFO [218/240] Processing Barrington Marble  https://www.polytec.com.au/colour/barrington-marble/
+2025-08-21 17:42:47,192 INFO run start colour=https://www.polytec.com.au/colour/barrington-marble/
+2025-08-21 17:42:47,600 INFO colour name: Barrington Marble
+2025-08-21 17:42:47,605 INFO finish tabs: 1
+2025-08-21 17:42:47,625 INFO tab 1/1 -> Matt
+2025-08-21 17:42:47,643 INFO items in finish 'Matt': 4
+2025-08-21 17:42:47,643 INFO range -> Laminate
+2025-08-21 17:42:48,740 INFO row 1: sku=2053 title='Laminate Barrington Marble Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 17:42:49,800 INFO row 2: sku=8716 title='Laminate Barrington Marble Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:42:50,844 INFO row 3: sku=8856 title='Laminate Barrington Marble Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:42:51,894 INFO row 4: sku=8786 title='Laminate Barrington Marble Matt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:42:51,894 INFO run end rows=4
+2025-08-21 17:42:51,894 INFO csv write: laminate.csv sku=2053 colour='Barrington Marble'
+2025-08-21 17:42:51,895 INFO csv write: laminate.csv sku=8716 colour='Barrington Marble'
+2025-08-21 17:42:51,895 INFO csv write: laminate.csv sku=8856 colour='Barrington Marble'
+2025-08-21 17:42:51,895 INFO csv write: laminate.csv sku=8786 colour='Barrington Marble'
+2025-08-21 17:42:51,895 INFO [218/240] Done Barrington Marble, rows=4, ranges=['Laminate']

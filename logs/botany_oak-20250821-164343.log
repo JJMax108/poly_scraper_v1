@@ -1,0 +1,44 @@
+2025-08-21 16:43:43,599 INFO [8/240] Processing Botany Oak  https://www.polytec.com.au/colour/botany-oak/
+2025-08-21 16:43:43,600 INFO run start colour=https://www.polytec.com.au/colour/botany-oak/
+2025-08-21 16:43:44,034 INFO colour name: Botany Oak
+2025-08-21 16:43:44,040 INFO finish tabs: 1
+2025-08-21 16:43:44,061 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:43:44,120 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:43:44,120 INFO range -> Board Decorative
+2025-08-21 16:43:45,243 INFO row 1: sku=57151 title='MDF 182412 DS Botany Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:43:46,009 INFO row 2: sku=57152 title='MDF 183112 DS Botany Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:43:46,780 INFO row 3: sku=57153 title='MDF 252412 DS Botany Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:43:47,548 INFO row 4: sku=58456 title='MDF 183618 DS Botany Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:43:48,309 INFO row 5: sku=58068 title='MDF 092712 DS Botany Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:43:49,082 INFO row 6: sku=58457 title='LDF 253618 DS Botany Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:43:49,843 INFO row 7: sku=58458 title='LDF 333618 DS Botany Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:43:49,843 INFO range -> Edgetape Decorative
+2025-08-21 16:43:50,888 INFO row 8: sku=56880 title='ABS 1mm x 21mm UG 100m Botany Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:43:51,959 INFO row 9: sku=56881 title='ABS 1mm x 21mm UG 20m Botany Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:43:53,004 INFO row 10: sku=56883 title='ABS 1mm x 29mm UG 100m Botany Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:43:54,058 INFO row 11: sku=57415 title='ABS 1mm x 38mm UG 100m Botany Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:43:54,058 INFO range -> Laminate
+2025-08-21 16:43:55,089 INFO row 12: sku=56836 title='Laminate Botany Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:43:56,154 INFO row 13: sku=56837 title='Laminate Botany Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:43:57,204 INFO row 14: sku=56838 title='Laminate Botany Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:43:58,279 INFO row 15: sku=56839 title='Laminate Botany Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 16:43:58,279 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:44:02,739 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.46s
+2025-08-21 16:44:02,740 INFO run end rows=16
+2025-08-21 16:44:02,740 INFO csv write: board_decorative.csv sku=57151 colour='Botany Oak'
+2025-08-21 16:44:02,741 INFO csv write: board_decorative.csv sku=57152 colour='Botany Oak'
+2025-08-21 16:44:02,741 INFO csv write: board_decorative.csv sku=57153 colour='Botany Oak'
+2025-08-21 16:44:02,741 INFO csv write: board_decorative.csv sku=58456 colour='Botany Oak'
+2025-08-21 16:44:02,742 INFO csv write: board_decorative.csv sku=58068 colour='Botany Oak'
+2025-08-21 16:44:02,742 INFO csv write: board_decorative.csv sku=58457 colour='Botany Oak'
+2025-08-21 16:44:02,742 INFO csv write: board_decorative.csv sku=58458 colour='Botany Oak'
+2025-08-21 16:44:02,742 INFO csv write: edgetape_decorative.csv sku=56880 colour='Botany Oak'
+2025-08-21 16:44:02,742 INFO csv write: edgetape_decorative.csv sku=56881 colour='Botany Oak'
+2025-08-21 16:44:02,743 INFO csv write: edgetape_decorative.csv sku=56883 colour='Botany Oak'
+2025-08-21 16:44:02,743 INFO csv write: edgetape_decorative.csv sku=57415 colour='Botany Oak'
+2025-08-21 16:44:02,743 INFO csv write: laminate.csv sku=56836 colour='Botany Oak'
+2025-08-21 16:44:02,743 INFO csv write: laminate.csv sku=56837 colour='Botany Oak'
+2025-08-21 16:44:02,743 INFO csv write: laminate.csv sku=56838 colour='Botany Oak'
+2025-08-21 16:44:02,743 INFO csv write: laminate.csv sku=56839 colour='Botany Oak'
+2025-08-21 16:44:02,744 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Botany Oak'
+2025-08-21 16:44:02,744 INFO [8/240] Done Botany Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

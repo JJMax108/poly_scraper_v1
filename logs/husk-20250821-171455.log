@@ -1,0 +1,21 @@
+2025-08-21 17:14:55,575 INFO [134/240] Processing Husk  https://www.polytec.com.au/colour/husk/
+2025-08-21 17:14:55,576 INFO run start colour=https://www.polytec.com.au/colour/husk/
+2025-08-21 17:14:55,973 INFO colour name: Husk
+2025-08-21 17:14:55,978 INFO finish tabs: 1
+2025-08-21 17:14:55,996 INFO tab 1/1 -> Matt
+2025-08-21 17:14:56,016 INFO items in finish 'Matt': 5
+2025-08-21 17:14:56,017 INFO range -> Board Decorative
+2025-08-21 17:14:57,131 INFO row 1: sku=43701 title='MDF 162412 DS Husk Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:14:57,131 INFO range -> Edgetape Decorative
+2025-08-21 17:14:58,178 INFO row 2: sku=43748 title='ABS 1mm x 22mm UG 100m Husk Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:14:59,222 INFO row 3: sku=43725 title='ABS 1mm x 22mm UG 20m Husk Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:00,261 INFO row 4: sku=51663 title='ABS 1mm x 29mm UG 100m Husk Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:00,261 INFO range -> Laminate
+2025-08-21 17:15:01,300 INFO row 5: sku=33382 title='Laminate Husk Matt 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:15:01,300 INFO run end rows=5
+2025-08-21 17:15:01,301 INFO csv write: board_decorative.csv sku=43701 colour='Husk'
+2025-08-21 17:15:01,301 INFO csv write: edgetape_decorative.csv sku=43748 colour='Husk'
+2025-08-21 17:15:01,301 INFO csv write: edgetape_decorative.csv sku=43725 colour='Husk'
+2025-08-21 17:15:01,301 INFO csv write: edgetape_decorative.csv sku=51663 colour='Husk'
+2025-08-21 17:15:01,301 INFO csv write: laminate.csv sku=33382 colour='Husk'
+2025-08-21 17:15:01,302 INFO [134/240] Done Husk, rows=5, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

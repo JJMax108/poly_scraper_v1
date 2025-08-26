@@ -1,0 +1,276 @@
+2025-08-21 17:45:44,475 INFO [237/240] Processing Raw  https://www.polytec.com.au/colour/raw/
+2025-08-21 17:45:44,475 INFO run start colour=https://www.polytec.com.au/colour/raw/
+2025-08-21 17:45:44,891 INFO colour name: Raw
+2025-08-21 17:45:44,901 INFO finish tabs: 2
+2025-08-21 17:45:44,924 INFO tab 1/2 -> Raw
+2025-08-21 17:45:44,946 INFO items in finish 'Raw': 5
+2025-08-21 17:45:44,946 INFO range -> Architectural
+2025-08-21 17:45:45,379 INFO MOQ for SKU 53790 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:45,379 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:46,082 INFO row 1: sku=53790 title='Steccawood 17x34x3600 MDF MR E0 Raw Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.14s
+2025-08-21 17:45:46,150 INFO MOQ for SKU 56936 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:46,151 INFO MOQ hint: Ordering details .
+2025-08-21 17:45:46,151 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:46,854 INFO row 2: sku=56936 title='Steccawood 24x34x3600 MDF MR E0 Raw Peak' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=0.77s
+2025-08-21 17:45:47,208 INFO MOQ for SKU 55187 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:47,208 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:47,920 INFO row 3: sku=55187 title='Steccawood 17x34x3600 MDF MR E0 Raw Cove' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.07s
+2025-08-21 17:45:48,275 INFO MOQ for SKU 53791 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:48,275 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:48,973 INFO row 4: sku=53791 title='Steccawood 24x48x3600 MDF MR E0 Raw Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.05s
+2025-08-21 17:45:49,327 INFO MOQ for SKU 53792 min=5 step=1 qty 1 -> 5
+2025-08-21 17:45:49,327 INFO MOQ hint: Minimum qty 5
+2025-08-21 17:45:50,030 INFO row 5: sku=53792 title='Steccawood 31x62x3600 MDF MR E0 Raw Half Round' stock=OK price=OK qty_used=5 moq_min=5 step=1 time=1.06s
+2025-08-21 17:45:50,380 INFO tab 2/2 -> Sanded
+2025-08-21 17:45:50,704 INFO items in finish 'Sanded': 67
+2025-08-21 17:45:50,704 INFO range -> Board Raw
+2025-08-21 17:45:51,539 INFO row 1: sku=451989 title='MDF 16mm 2400 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.83s
+2025-08-21 17:45:52,358 INFO row 2: sku=451038 title='MDF 18mm 2400 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:45:53,174 INFO row 3: sku=452789 title='MDF 18mm 3600 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:45:53,991 INFO row 4: sku=150125 title='MDF 3mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:45:54,808 INFO row 5: sku=453340 title='MDF 18mm 3600 x 1800 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:45:55,619 INFO row 6: sku=452787 title='MDF 16mm 3600 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:45:56,419 INFO row 7: sku=452780 title='MDF 9mm 2400 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:45:57,220 INFO row 8: sku=112477 title='MDF 6mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:45:58,019 INFO row 9: sku=452794 title='MDF 32mm 2400 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:45:58,825 INFO row 10: sku=452785 title='MDF 12mm 2400 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:45:59,642 INFO row 11: sku=600009 title='MDF 32mm 3600 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:00,461 INFO row 12: sku=452790 title='MDF 25mm 2400 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:01,278 INFO row 13: sku=135677 title='MDF 16mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:02,071 INFO row 14: sku=452781 title='MDF 9mm 3600 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.79s
+2025-08-21 17:46:02,137 INFO MOQ for SKU 149251 min=50 step=50 qty 1 -> 50
+2025-08-21 17:46:02,137 INFO MOQ hint: Pack Size: 50
+2025-08-21 17:46:02,137 INFO MOQ hint: Minimum qty 50, multiples of 50 only.
+2025-08-21 17:46:02,855 INFO row 15: sku=149251 title='MDF 16mm 2100 x 1200 STD E0' stock=OK price=OK qty_used=50 moq_min=50 step=50 time=0.79s
+2025-08-21 17:46:02,939 INFO MOQ for SKU 450357 min=50 step=50 qty 1 -> 50
+2025-08-21 17:46:02,939 INFO MOQ hint: Pack Size: 50
+2025-08-21 17:46:02,939 INFO MOQ hint: Minimum qty 50, multiples of 50 only.
+2025-08-21 17:46:03,667 INFO row 16: sku=450357 title='MDF 16mm 2400 x 1200 MR E0 LMG' stock=OK price=OK qty_used=50 moq_min=50 step=50 time=0.81s
+2025-08-21 17:46:03,755 INFO MOQ for SKU 453222 min=50 step=50 qty 1 -> 50
+2025-08-21 17:46:03,755 INFO MOQ hint: Pack Size: 50
+2025-08-21 17:46:03,755 INFO MOQ hint: Minimum qty 50, multiples of 50 only.
+2025-08-21 17:46:04,484 INFO row 17: sku=453222 title='MDF 16mm 3115 x 1200 MR E0 LMG' stock=OK price=OK qty_used=50 moq_min=50 step=50 time=0.82s
+2025-08-21 17:46:04,568 INFO MOQ for SKU 601337 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:04,568 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:46:04,568 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:05,294 INFO row 18: sku=601337 title='MDF 18mm 3600 x 1200 MR E0 LMG' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.81s
+2025-08-21 17:46:05,387 INFO MOQ for SKU 601338 min=35 step=35 qty 1 -> 35
+2025-08-21 17:46:05,387 INFO MOQ hint: Pack Size: 35
+2025-08-21 17:46:05,387 INFO MOQ hint: Minimum qty 35, multiples of 35 only.
+2025-08-21 17:46:06,113 INFO row 19: sku=601338 title='MDF 21mm 3115 x 1200 MR E0 LMG' stock=OK price=OK qty_used=35 moq_min=35 step=35 time=0.82s
+2025-08-21 17:46:06,202 INFO MOQ for SKU 440766 min=150 step=150 qty 1 -> 150
+2025-08-21 17:46:06,202 INFO MOQ hint: Pack Size: 150
+2025-08-21 17:46:06,202 INFO MOQ hint: Minimum qty 150, multiples of 150 only.
+2025-08-21 17:46:06,927 INFO row 20: sku=440766 title='MDF 3mm 2400 x 1800 STD E0' stock=OK price=OK qty_used=150 moq_min=150 step=150 time=0.82s
+2025-08-21 17:46:07,010 INFO MOQ for SKU 132474 min=22 step=22 qty 1 -> 22
+2025-08-21 17:46:07,010 INFO MOQ hint: Pack Size: 22
+2025-08-21 17:46:07,011 INFO MOQ hint: Minimum qty 22, multiples of 22 only.
+2025-08-21 17:46:07,737 INFO row 21: sku=132474 title='MDF 32mm 2700 x 1200 STD E0' stock=OK price=OK qty_used=22 moq_min=22 step=22 time=0.81s
+2025-08-21 17:46:07,810 INFO MOQ for SKU 137060 min=20 step=20 qty 1 -> 20
+2025-08-21 17:46:07,810 INFO MOQ hint: Pack Size: 20
+2025-08-21 17:46:07,810 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:46:08,533 INFO row 22: sku=137060 title='MDF 32mm 3600 x 600 STD E0' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.80s
+2025-08-21 17:46:08,611 INFO MOQ for SKU 125487 min=200 step=200 qty 1 -> 200
+2025-08-21 17:46:08,612 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:46:08,612 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:46:09,343 INFO row 23: sku=125487 title='MDF 4mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.81s
+2025-08-21 17:46:09,423 INFO MOQ for SKU 119052 min=80 step=80 qty 1 -> 80
+2025-08-21 17:46:09,424 INFO MOQ hint: Pack Size: 80
+2025-08-21 17:46:09,424 INFO MOQ hint: Minimum qty 80, multiples of 80 only.
+2025-08-21 17:46:10,150 INFO row 24: sku=119052 title='MDF 9mm 2100 x 1200 STD E0' stock=OK price=OK qty_used=80 moq_min=80 step=80 time=0.81s
+2025-08-21 17:46:10,240 INFO MOQ for SKU 143901 min=80 step=80 qty 1 -> 80
+2025-08-21 17:46:10,240 INFO MOQ hint: Pack Size: 80
+2025-08-21 17:46:10,240 INFO MOQ hint: Minimum qty 80, multiples of 80 only.
+2025-08-21 17:46:10,963 INFO row 25: sku=143901 title='MDF 9mm 2700 x 1200 STD E0' stock=OK price=OK qty_used=80 moq_min=80 step=80 time=0.81s
+2025-08-21 17:46:11,040 INFO MOQ for SKU 601431 min=80 step=80 qty 1 -> 80
+2025-08-21 17:46:11,040 INFO MOQ hint: Pack Size: 80
+2025-08-21 17:46:11,040 INFO MOQ hint: Minimum qty 80, multiples of 80 only.
+2025-08-21 17:46:11,761 INFO row 26: sku=601431 title='MDF 9mm 3300 x 1200 MR E0' stock=OK price=OK qty_used=80 moq_min=80 step=80 time=0.80s
+2025-08-21 17:46:12,581 INFO row 27: sku=452786 title='MDF 12mm 3600 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:13,400 INFO row 28: sku=452792 title='MDF 25mm 3600 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:14,219 INFO row 29: sku=1829 title='Particle 16mm 2400 x 1200 MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:15,035 INFO row 30: sku=112507 title='MDF 18mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:15,837 INFO row 31: sku=601331 title='MDF 16mm 3600 x 1800 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.80s
+2025-08-21 17:46:16,650 INFO row 32: sku=1185 title='Particle 18mm 2400 x 1200 MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:17,463 INFO row 33: sku=109376 title='MDF 12mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:18,273 INFO row 34: sku=137356 title='MDF 32mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:19,097 INFO row 35: sku=149960 title='MDF 16mm 3600 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:19,909 INFO row 36: sku=120396 title='MDF 12mm 3600 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:20,730 INFO row 37: sku=1844 title='Particle 32.8mm 2400 x 1200 MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:21,546 INFO row 38: sku=132154 title='MDF 25mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:22,359 INFO row 39: sku=601327 title='MDF 9mm 2700 x 1200 MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:23,170 INFO row 40: sku=1838 title='Particle 25mm 2400 x 1200 MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:23,978 INFO row 41: sku=452859 title='MDF 9mm 2400 x 1200 STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:24,058 INFO MOQ for SKU 53057 min=20 step=20 qty 1 -> 20
+2025-08-21 17:46:24,059 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:46:24,059 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:46:24,784 INFO row 42: sku=53057 title='Particle 18mm 3600 x 1800 MR (Pack 20)' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.81s
+2025-08-21 17:46:24,879 INFO MOQ for SKU 601339 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:24,879 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:46:24,879 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:25,602 INFO row 43: sku=601339 title='MDF 25mm 2700 x 1200 MR E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:46:25,693 INFO MOQ for SKU 601333 min=45 step=45 qty 1 -> 45
+2025-08-21 17:46:25,693 INFO MOQ hint: Pack Size: 45
+2025-08-21 17:46:25,693 INFO MOQ hint: Minimum qty 45, multiples of 45 only.
+2025-08-21 17:46:26,443 INFO row 44: sku=601333 title='MDF 18mm 2700 x 1200 MR E0' stock=OK price=OK qty_used=45 moq_min=45 step=45 time=0.84s
+2025-08-21 17:46:27,256 INFO row 45: sku=50247 title='Particle 9mm 2400 x 1200 MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.81s
+2025-08-21 17:46:27,341 INFO MOQ for SKU 600986 min=45 step=45 qty 1 -> 45
+2025-08-21 17:46:27,341 INFO MOQ hint: Pack Size: 45 .
+2025-08-21 17:46:27,341 INFO MOQ hint: Minimum qty 45, multiples of 45 only.
+2025-08-21 17:46:28,073 INFO row 46: sku=600986 title='MDF 18mm 3115 x 1200 MR E0' stock=OK price=OK qty_used=45 moq_min=45 step=45 time=0.82s
+2025-08-21 17:46:28,156 INFO MOQ for SKU 1842 min=20 step=20 qty 1 -> 20
+2025-08-21 17:46:28,157 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:46:28,157 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:46:28,886 INFO row 47: sku=1842 title='Particle 25mm 3600 x 1800 MR' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.81s
+2025-08-21 17:46:28,977 INFO MOQ for SKU 452788 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:28,977 INFO MOQ hint: Pack Size: 30
+2025-08-21 17:46:28,977 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:29,702 INFO row 48: sku=452788 title='MDF 16mm 2400 x 1800 MR E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:46:29,787 INFO MOQ for SKU 52980 min=12 step=12 qty 1 -> 12
+2025-08-21 17:46:29,787 INFO MOQ hint: Pack Size: 12 .
+2025-08-21 17:46:29,787 INFO MOQ hint: Minimum qty 12, multiples of 12 only.
+2025-08-21 17:46:30,518 INFO row 49: sku=52980 title='Particle 32.8mm 3660 x 1840 MR' stock=OK price=OK qty_used=12 moq_min=12 step=12 time=0.82s
+2025-08-21 17:46:30,607 INFO MOQ for SKU 48466 min=25 step=25 qty 1 -> 25
+2025-08-21 17:46:30,607 INFO MOQ hint: Pack Size: 25 .
+2025-08-21 17:46:30,607 INFO MOQ hint: Minimum qty 25, multiples of 25 only.
+2025-08-21 17:46:31,337 INFO row 50: sku=48466 title='MDF 21mm 3600 x 1200 MR E0 LMG' stock=OK price=OK qty_used=25 moq_min=25 step=25 time=0.82s
+2025-08-21 17:46:31,421 INFO MOQ for SKU 452793 min=20 step=20 qty 1 -> 20
+2025-08-21 17:46:31,421 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:46:31,421 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:46:32,149 INFO row 51: sku=452793 title='MDF 25mm 2400 x 1800 MR E0' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.81s
+2025-08-21 17:46:32,970 INFO row 52: sku=48790 title='Particle 12mm 2400 x 1200 MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.82s
+2025-08-21 17:46:33,055 INFO MOQ for SKU 112229 min=45 step=45 qty 1 -> 45
+2025-08-21 17:46:33,056 INFO MOQ hint: Pack Size: 45 .
+2025-08-21 17:46:33,056 INFO MOQ hint: Minimum qty 45, multiples of 45 only.
+2025-08-21 17:46:33,787 INFO row 53: sku=112229 title='MDF 18mm 2700 x 1200 STD E0' stock=OK price=OK qty_used=45 moq_min=45 step=45 time=0.82s
+2025-08-21 17:46:33,871 INFO MOQ for SKU 601430 min=80 step=80 qty 1 -> 80
+2025-08-21 17:46:33,871 INFO MOQ hint: Pack Size: 80 .
+2025-08-21 17:46:33,871 INFO MOQ hint: Minimum qty 80, multiples of 80 only.
+2025-08-21 17:46:34,600 INFO row 54: sku=601430 title='MDF 9mm 3000 x 1200 MR E0' stock=OK price=OK qty_used=80 moq_min=80 step=80 time=0.81s
+2025-08-21 17:46:34,688 INFO MOQ for SKU 601328 min=60 step=60 qty 1 -> 60
+2025-08-21 17:46:34,688 INFO MOQ hint: Pack Size: 60
+2025-08-21 17:46:34,688 INFO MOQ hint: Minimum qty 60, multiples of 60 only.
+2025-08-21 17:46:35,422 INFO row 55: sku=601328 title='MDF 12mm 2700 x 1200 MR E0' stock=OK price=OK qty_used=60 moq_min=60 step=60 time=0.82s
+2025-08-21 17:46:35,503 INFO MOQ for SKU 53056 min=20 step=20 qty 1 -> 20
+2025-08-21 17:46:35,504 INFO MOQ hint: Pack Size: 20 .
+2025-08-21 17:46:35,504 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:46:36,231 INFO row 56: sku=53056 title='Particle 16mm 3600 x 1800 MR (Pack 20)' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.81s
+2025-08-21 17:46:36,324 INFO MOQ for SKU 452817 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:36,324 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:46:36,324 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:37,032 INFO row 57: sku=452817 title='MDF 18mm 2400 x 1800 MR E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.80s
+2025-08-21 17:46:37,122 INFO MOQ for SKU 601336 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:37,122 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:46:37,122 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:37,850 INFO row 58: sku=601336 title='MDF 18mm 3115 x 1200 MR E0 LMG' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:46:37,936 INFO MOQ for SKU 145973 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:37,936 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:46:37,937 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:38,663 INFO row 59: sku=145973 title='MDF 18mm 3600 x 1200 STD E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.81s
+2025-08-21 17:46:38,753 INFO MOQ for SKU 121636 min=30 step=30 qty 1 -> 30
+2025-08-21 17:46:38,753 INFO MOQ hint: Pack Size: 30 .
+2025-08-21 17:46:38,753 INFO MOQ hint: Minimum qty 30, multiples of 30 only.
+2025-08-21 17:46:39,482 INFO row 60: sku=121636 title='MDF 18mm 2400 x 1800 STD E0' stock=OK price=OK qty_used=30 moq_min=30 step=30 time=0.82s
+2025-08-21 17:46:39,570 INFO MOQ for SKU 450112 min=160 step=160 qty 1 -> 160
+2025-08-21 17:46:39,570 INFO MOQ hint: Pack Size: 160 .
+2025-08-21 17:46:39,570 INFO MOQ hint: Minimum qty 160, multiples of 160 only.
+2025-08-21 17:46:40,299 INFO row 61: sku=450112 title='MDF 4.75mm 2400 x 1200 MR E0' stock=OK price=OK qty_used=160 moq_min=160 step=160 time=0.82s
+2025-08-21 17:46:40,385 INFO MOQ for SKU 601007 min=45 step=45 qty 1 -> 45
+2025-08-21 17:46:40,385 INFO MOQ hint: Pack Size: 45 .
+2025-08-21 17:46:40,385 INFO MOQ hint: Minimum qty 45, multiples of 45 only.
+2025-08-21 17:46:41,120 INFO row 62: sku=601007 title='MDF 16mm 3115 x 1200 MR E0' stock=OK price=OK qty_used=45 moq_min=45 step=45 time=0.82s
+2025-08-21 17:46:41,201 INFO MOQ for SKU 132451 min=20 step=20 qty 1 -> 20
+2025-08-21 17:46:41,201 INFO MOQ hint: Pack Size: 20
+2025-08-21 17:46:41,201 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:46:41,934 INFO row 63: sku=132451 title='MDF 16mm 3600 x 1800 STD E0' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.81s
+2025-08-21 17:46:42,017 INFO MOQ for SKU 601334 min=40 step=40 qty 1 -> 40
+2025-08-21 17:46:42,018 INFO MOQ hint: Pack Size: 40
+2025-08-21 17:46:42,018 INFO MOQ hint: Minimum qty 40, multiples of 40 only.
+2025-08-21 17:46:42,748 INFO row 64: sku=601334 title='MDF 18mm 2400 x 1200 MR E0 LMG' stock=OK price=OK qty_used=40 moq_min=40 step=40 time=0.81s
+2025-08-21 17:46:42,839 INFO MOQ for SKU 129154 min=20 step=20 qty 1 -> 20
+2025-08-21 17:46:42,839 INFO MOQ hint: Pack Size: 20
+2025-08-21 17:46:42,840 INFO MOQ hint: Minimum qty 20, multiples of 20 only.
+2025-08-21 17:46:43,566 INFO row 65: sku=129154 title='MDF 25mm 3600 x 1200 STD E0' stock=OK price=OK qty_used=20 moq_min=20 step=20 time=0.82s
+2025-08-21 17:46:43,651 INFO MOQ for SKU 161648 min=200 step=200 qty 1 -> 200
+2025-08-21 17:46:43,651 INFO MOQ hint: Pack Size: 200
+2025-08-21 17:46:43,651 INFO MOQ hint: Minimum qty 200, multiples of 200 only.
+2025-08-21 17:46:44,386 INFO row 66: sku=161648 title='MDF 3mm 2700 x 1200 STD E0' stock=OK price=OK qty_used=200 moq_min=200 step=200 time=0.82s
+2025-08-21 17:46:44,467 INFO MOQ for SKU 104473 min=15 step=15 qty 1 -> 15
+2025-08-21 17:46:44,467 INFO MOQ hint: Pack Size: 15 .
+2025-08-21 17:46:44,467 INFO MOQ hint: Minimum qty 15, multiples of 15 only.
+2025-08-21 17:46:45,200 INFO row 67: sku=104473 title='MDF 32mm 3600 x 1200 STD E0' stock=OK price=OK qty_used=15 moq_min=15 step=15 time=0.81s
+2025-08-21 17:46:45,201 INFO run end rows=72
+2025-08-21 17:46:45,202 INFO csv write: architectural.csv sku=53790 colour='Raw'
+2025-08-21 17:46:45,202 INFO csv write: architectural.csv sku=56936 colour='Raw'
+2025-08-21 17:46:45,203 INFO csv write: architectural.csv sku=55187 colour='Raw'
+2025-08-21 17:46:45,203 INFO csv write: architectural.csv sku=53791 colour='Raw'
+2025-08-21 17:46:45,203 INFO csv write: architectural.csv sku=53792 colour='Raw'
+2025-08-21 17:46:45,203 INFO csv new: board_raw.csv
+2025-08-21 17:46:45,203 INFO csv write: board_raw.csv sku=451989 colour='Raw'
+2025-08-21 17:46:45,203 INFO csv write: board_raw.csv sku=451038 colour='Raw'
+2025-08-21 17:46:45,204 INFO csv write: board_raw.csv sku=452789 colour='Raw'
+2025-08-21 17:46:45,204 INFO csv write: board_raw.csv sku=150125 colour='Raw'
+2025-08-21 17:46:45,204 INFO csv write: board_raw.csv sku=453340 colour='Raw'
+2025-08-21 17:46:45,204 INFO csv write: board_raw.csv sku=452787 colour='Raw'
+2025-08-21 17:46:45,204 INFO csv write: board_raw.csv sku=452780 colour='Raw'
+2025-08-21 17:46:45,204 INFO csv write: board_raw.csv sku=112477 colour='Raw'
+2025-08-21 17:46:45,204 INFO csv write: board_raw.csv sku=452794 colour='Raw'
+2025-08-21 17:46:45,205 INFO csv write: board_raw.csv sku=452785 colour='Raw'
+2025-08-21 17:46:45,205 INFO csv write: board_raw.csv sku=600009 colour='Raw'
+2025-08-21 17:46:45,205 INFO csv write: board_raw.csv sku=452790 colour='Raw'
+2025-08-21 17:46:45,205 INFO csv write: board_raw.csv sku=135677 colour='Raw'
+2025-08-21 17:46:45,205 INFO csv write: board_raw.csv sku=452781 colour='Raw'
+2025-08-21 17:46:45,205 INFO csv write: board_raw.csv sku=149251 colour='Raw'
+2025-08-21 17:46:45,205 INFO csv write: board_raw.csv sku=450357 colour='Raw'
+2025-08-21 17:46:45,206 INFO csv write: board_raw.csv sku=453222 colour='Raw'
+2025-08-21 17:46:45,206 INFO csv write: board_raw.csv sku=601337 colour='Raw'
+2025-08-21 17:46:45,206 INFO csv write: board_raw.csv sku=601338 colour='Raw'
+2025-08-21 17:46:45,206 INFO csv write: board_raw.csv sku=440766 colour='Raw'
+2025-08-21 17:46:45,206 INFO csv write: board_raw.csv sku=132474 colour='Raw'
+2025-08-21 17:46:45,206 INFO csv write: board_raw.csv sku=137060 colour='Raw'
+2025-08-21 17:46:45,207 INFO csv write: board_raw.csv sku=125487 colour='Raw'
+2025-08-21 17:46:45,207 INFO csv write: board_raw.csv sku=119052 colour='Raw'
+2025-08-21 17:46:45,207 INFO csv write: board_raw.csv sku=143901 colour='Raw'
+2025-08-21 17:46:45,207 INFO csv write: board_raw.csv sku=601431 colour='Raw'
+2025-08-21 17:46:45,207 INFO csv write: board_raw.csv sku=452786 colour='Raw'
+2025-08-21 17:46:45,208 INFO csv write: board_raw.csv sku=452792 colour='Raw'
+2025-08-21 17:46:45,208 INFO csv write: board_raw.csv sku=1829 colour='Raw'
+2025-08-21 17:46:45,208 INFO csv write: board_raw.csv sku=112507 colour='Raw'
+2025-08-21 17:46:45,208 INFO csv write: board_raw.csv sku=601331 colour='Raw'
+2025-08-21 17:46:45,208 INFO csv write: board_raw.csv sku=1185 colour='Raw'
+2025-08-21 17:46:45,208 INFO csv write: board_raw.csv sku=109376 colour='Raw'
+2025-08-21 17:46:45,208 INFO csv write: board_raw.csv sku=137356 colour='Raw'
+2025-08-21 17:46:45,208 INFO csv write: board_raw.csv sku=149960 colour='Raw'
+2025-08-21 17:46:45,209 INFO csv write: board_raw.csv sku=120396 colour='Raw'
+2025-08-21 17:46:45,209 INFO csv write: board_raw.csv sku=1844 colour='Raw'
+2025-08-21 17:46:45,209 INFO csv write: board_raw.csv sku=132154 colour='Raw'
+2025-08-21 17:46:45,209 INFO csv write: board_raw.csv sku=601327 colour='Raw'
+2025-08-21 17:46:45,209 INFO csv write: board_raw.csv sku=1838 colour='Raw'
+2025-08-21 17:46:45,209 INFO csv write: board_raw.csv sku=452859 colour='Raw'
+2025-08-21 17:46:45,209 INFO csv write: board_raw.csv sku=53057 colour='Raw'
+2025-08-21 17:46:45,210 INFO csv write: board_raw.csv sku=601339 colour='Raw'
+2025-08-21 17:46:45,210 INFO csv write: board_raw.csv sku=601333 colour='Raw'
+2025-08-21 17:46:45,210 INFO csv write: board_raw.csv sku=50247 colour='Raw'
+2025-08-21 17:46:45,210 INFO csv write: board_raw.csv sku=600986 colour='Raw'
+2025-08-21 17:46:45,210 INFO csv write: board_raw.csv sku=1842 colour='Raw'
+2025-08-21 17:46:45,210 INFO csv write: board_raw.csv sku=452788 colour='Raw'
+2025-08-21 17:46:45,210 INFO csv write: board_raw.csv sku=52980 colour='Raw'
+2025-08-21 17:46:45,210 INFO csv write: board_raw.csv sku=48466 colour='Raw'
+2025-08-21 17:46:45,211 INFO csv write: board_raw.csv sku=452793 colour='Raw'
+2025-08-21 17:46:45,211 INFO csv write: board_raw.csv sku=48790 colour='Raw'
+2025-08-21 17:46:45,211 INFO csv write: board_raw.csv sku=112229 colour='Raw'
+2025-08-21 17:46:45,211 INFO csv write: board_raw.csv sku=601430 colour='Raw'
+2025-08-21 17:46:45,211 INFO csv write: board_raw.csv sku=601328 colour='Raw'
+2025-08-21 17:46:45,211 INFO csv write: board_raw.csv sku=53056 colour='Raw'
+2025-08-21 17:46:45,211 INFO csv write: board_raw.csv sku=452817 colour='Raw'
+2025-08-21 17:46:45,212 INFO csv write: board_raw.csv sku=601336 colour='Raw'
+2025-08-21 17:46:45,212 INFO csv write: board_raw.csv sku=145973 colour='Raw'
+2025-08-21 17:46:45,212 INFO csv write: board_raw.csv sku=121636 colour='Raw'
+2025-08-21 17:46:45,212 INFO csv write: board_raw.csv sku=450112 colour='Raw'
+2025-08-21 17:46:45,212 INFO csv write: board_raw.csv sku=601007 colour='Raw'
+2025-08-21 17:46:45,212 INFO csv write: board_raw.csv sku=132451 colour='Raw'
+2025-08-21 17:46:45,212 INFO csv write: board_raw.csv sku=601334 colour='Raw'
+2025-08-21 17:46:45,213 INFO csv write: board_raw.csv sku=129154 colour='Raw'
+2025-08-21 17:46:45,213 INFO csv write: board_raw.csv sku=161648 colour='Raw'
+2025-08-21 17:46:45,213 INFO csv write: board_raw.csv sku=104473 colour='Raw'
+2025-08-21 17:46:45,213 INFO [237/240] Done Raw, rows=72, ranges=['Architectural', 'Board Raw']

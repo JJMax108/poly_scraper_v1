@@ -1,0 +1,44 @@
+2025-08-21 17:00:45,384 INFO [84/240] Processing Casentino Beech  https://www.polytec.com.au/colour/casentino-beech/
+2025-08-21 17:00:45,384 INFO run start colour=https://www.polytec.com.au/colour/casentino-beech/
+2025-08-21 17:00:45,795 INFO colour name: Casentino Beech
+2025-08-21 17:00:45,801 INFO finish tabs: 1
+2025-08-21 17:00:45,819 INFO tab 1/1 -> Woodmatt
+2025-08-21 17:00:45,879 INFO items in finish 'Woodmatt': 16
+2025-08-21 17:00:45,879 INFO range -> Board Decorative
+2025-08-21 17:00:47,016 INFO row 1: sku=46820 title='MDF 162412 DS Casentino Beech Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:00:47,784 INFO row 2: sku=47240 title='MDF 163112 DS Casentino Beech Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:00:48,563 INFO row 3: sku=47439 title='MDF 183618 DS Casentino Beech Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.78s
+2025-08-21 17:00:49,316 INFO row 4: sku=47269 title='MDF 322412 DS Casentino Beech Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:00:50,091 INFO row 5: sku=47256 title='MDF 252412 DS Casentino Beech Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:00:50,847 INFO row 6: sku=47467 title='LDF 333618 DS Casentino Beech Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:00:51,616 INFO row 7: sku=47453 title='LDF 253618 DS Casentino Beech Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:00:51,616 INFO range -> Edgetape Decorative
+2025-08-21 17:00:52,691 INFO row 8: sku=46595 title='ABS 1mm x 21mm UG 100m Casentino Beech Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:00:53,728 INFO row 9: sku=46798 title='ABS 1mm x 21mm UG 20m Casentino Beech Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:00:54,763 INFO row 10: sku=47376 title='ABS 1mm x 38mm UG 100m Casentino Beech Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:00:55,815 INFO row 11: sku=47209 title='ABS 1mm x 29mm UG 100m Casentino Beech Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:00:55,815 INFO range -> Laminate
+2025-08-21 17:00:56,846 INFO row 12: sku=48514 title='Laminate Casentino Beech Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:00:57,878 INFO row 13: sku=48635 title='Laminate Casentino Beech Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:00:58,936 INFO row 14: sku=48649 title='Laminate Casentino Beech Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:00:59,994 INFO row 15: sku=48612 title='Laminate Casentino Beech Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 17:00:59,995 INFO range -> Compact
+2025-08-21 17:01:00,762 INFO row 16: sku=52508 title='Compact Laminate Casentino Beech Woodmatt BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:01:00,762 INFO run end rows=16
+2025-08-21 17:01:00,764 INFO csv write: board_decorative.csv sku=46820 colour='Casentino Beech'
+2025-08-21 17:01:00,764 INFO csv write: board_decorative.csv sku=47240 colour='Casentino Beech'
+2025-08-21 17:01:00,764 INFO csv write: board_decorative.csv sku=47439 colour='Casentino Beech'
+2025-08-21 17:01:00,765 INFO csv write: board_decorative.csv sku=47269 colour='Casentino Beech'
+2025-08-21 17:01:00,765 INFO csv write: board_decorative.csv sku=47256 colour='Casentino Beech'
+2025-08-21 17:01:00,765 INFO csv write: board_decorative.csv sku=47467 colour='Casentino Beech'
+2025-08-21 17:01:00,765 INFO csv write: board_decorative.csv sku=47453 colour='Casentino Beech'
+2025-08-21 17:01:00,766 INFO csv write: edgetape_decorative.csv sku=46595 colour='Casentino Beech'
+2025-08-21 17:01:00,766 INFO csv write: edgetape_decorative.csv sku=46798 colour='Casentino Beech'
+2025-08-21 17:01:00,766 INFO csv write: edgetape_decorative.csv sku=47376 colour='Casentino Beech'
+2025-08-21 17:01:00,766 INFO csv write: edgetape_decorative.csv sku=47209 colour='Casentino Beech'
+2025-08-21 17:01:00,767 INFO csv write: laminate.csv sku=48514 colour='Casentino Beech'
+2025-08-21 17:01:00,767 INFO csv write: laminate.csv sku=48635 colour='Casentino Beech'
+2025-08-21 17:01:00,767 INFO csv write: laminate.csv sku=48649 colour='Casentino Beech'
+2025-08-21 17:01:00,767 INFO csv write: laminate.csv sku=48612 colour='Casentino Beech'
+2025-08-21 17:01:00,767 INFO csv write: compact.csv sku=52508 colour='Casentino Beech'
+2025-08-21 17:01:00,768 INFO [84/240] Done Casentino Beech, rows=16, ranges=['Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate']

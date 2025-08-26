@@ -1,0 +1,17 @@
+2025-08-21 16:58:38,855 INFO [77/240] Processing Tunisia Stone  https://www.polytec.com.au/colour/tunisia-stone/
+2025-08-21 16:58:38,855 INFO run start colour=https://www.polytec.com.au/colour/tunisia-stone/
+2025-08-21 16:58:39,163 INFO colour name: Tunisia Stone
+2025-08-21 16:58:39,168 INFO finish tabs: 1
+2025-08-21 16:58:39,188 INFO tab 1/1 -> Matera
+2025-08-21 16:58:39,205 INFO items in finish 'Matera': 4
+2025-08-21 16:58:39,206 INFO range -> Laminate
+2025-08-21 16:58:40,363 INFO row 1: sku=47494 title='Laminate Tunisia Stone Matera Q 0.7mm 1830x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.16s
+2025-08-21 16:58:41,393 INFO row 2: sku=46560 title='Laminate Tunisia Stone Matera HL 0.7mm 3650x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:58:42,436 INFO row 3: sku=46436 title='Laminate Tunisia Stone Matera 0.7mm 3650x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:58:43,469 INFO row 4: sku=46579 title='Laminate Tunisia Stone Matera HS 0.7mm 1830x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:58:43,469 INFO run end rows=4
+2025-08-21 16:58:43,469 INFO csv write: laminate.csv sku=47494 colour='Tunisia Stone'
+2025-08-21 16:58:43,470 INFO csv write: laminate.csv sku=46560 colour='Tunisia Stone'
+2025-08-21 16:58:43,470 INFO csv write: laminate.csv sku=46436 colour='Tunisia Stone'
+2025-08-21 16:58:43,470 INFO csv write: laminate.csv sku=46579 colour='Tunisia Stone'
+2025-08-21 16:58:43,471 INFO [77/240] Done Tunisia Stone, rows=4, ranges=['Laminate']

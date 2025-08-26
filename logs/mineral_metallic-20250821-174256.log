@@ -1,0 +1,18 @@
+2025-08-21 17:42:56,889 INFO [220/240] Processing Mineral Metallic  https://www.polytec.com.au/colour/mineral-metallic/
+2025-08-21 17:42:56,892 INFO run start colour=https://www.polytec.com.au/colour/mineral-metallic/
+2025-08-21 17:42:57,228 INFO colour name: Mineral Metallic
+2025-08-21 17:42:57,232 INFO finish tabs: 1
+2025-08-21 17:42:57,253 INFO tab 1/1 -> Ultramatt
+2025-08-21 17:42:57,266 INFO items in finish 'Ultramatt': 4
+2025-08-21 17:42:57,266 INFO range -> Board Decorative
+2025-08-21 17:42:58,380 INFO row 1: sku=49875 title='Ultraglaze MDF 182412 SS Mineral Metallic Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.11s
+2025-08-21 17:42:59,150 INFO row 2: sku=49874 title='Ultraglaze MDF 182412 DS Mineral Metallic Ultramatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:42:59,150 INFO range -> Edgetape Decorative
+2025-08-21 17:43:00,196 INFO row 3: sku=51843 title='ABS 1mm x 29mm UG 100m Ultraglaze Mineral Metallic Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:43:01,250 INFO row 4: sku=49881 title='ABS 1mm x 21mm UG 100m Ultraglaze Mineral Metallic Ultramatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:43:01,250 INFO run end rows=4
+2025-08-21 17:43:01,252 INFO csv write: board_decorative.csv sku=49875 colour='Mineral Metallic'
+2025-08-21 17:43:01,252 INFO csv write: board_decorative.csv sku=49874 colour='Mineral Metallic'
+2025-08-21 17:43:01,253 INFO csv write: edgetape_decorative.csv sku=51843 colour='Mineral Metallic'
+2025-08-21 17:43:01,253 INFO csv write: edgetape_decorative.csv sku=49881 colour='Mineral Metallic'
+2025-08-21 17:43:01,254 INFO [220/240] Done Mineral Metallic, rows=4, ranges=['Board Decorative', 'Edgetape Decorative']

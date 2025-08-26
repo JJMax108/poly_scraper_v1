@@ -1,0 +1,14 @@
+2025-08-21 17:45:36,256 INFO [234/240] Processing Saffron Oak  https://www.polytec.com.au/colour/saffron-oak/
+2025-08-21 17:45:36,256 INFO run start colour=https://www.polytec.com.au/colour/saffron-oak/
+2025-08-21 17:45:36,571 INFO colour name: Saffron Oak
+2025-08-21 17:45:36,577 INFO finish tabs: 1
+2025-08-21 17:45:36,597 INFO tab 1/1 -> Ravine
+2025-08-21 17:45:36,605 INFO items in finish 'Ravine': 2
+2025-08-21 17:45:36,605 INFO range -> Edgetape Decorative
+2025-08-21 17:45:37,722 INFO row 1: sku=43418 title='ABS 2mm x 38mm UG 100m Saffron Oak Ravine' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:45:37,722 INFO range -> Laminate
+2025-08-21 17:45:38,751 INFO row 2: sku=43801 title='Laminate Saffron Oak Ravine 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:45:38,751 INFO run end rows=2
+2025-08-21 17:45:38,751 INFO csv write: edgetape_decorative.csv sku=43418 colour='Saffron Oak'
+2025-08-21 17:45:38,752 INFO csv write: laminate.csv sku=43801 colour='Saffron Oak'
+2025-08-21 17:45:38,752 INFO [234/240] Done Saffron Oak, rows=2, ranges=['Edgetape Decorative', 'Laminate']

@@ -1,0 +1,83 @@
+2025-08-21 16:57:32,350 INFO [72/240] Processing Grey Cement  https://www.polytec.com.au/colour/grey-cement/
+2025-08-21 16:57:32,350 INFO run start colour=https://www.polytec.com.au/colour/grey-cement/
+2025-08-21 16:57:32,854 INFO colour name: Grey Cement
+2025-08-21 16:57:32,869 INFO finish tabs: 4
+2025-08-21 16:57:32,894 INFO tab 1/4 -> Legato
+2025-08-21 16:57:32,916 INFO items in finish 'Legato': 5
+2025-08-21 16:57:32,916 INFO range -> Board Decorative
+2025-08-21 16:57:34,059 INFO row 1: sku=47481 title='MDF 182412 DS Grey Cement Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 16:57:34,820 INFO row 2: sku=49017 title='MDF 183112 DS Grey Cement Legato MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:57:34,820 INFO range -> Edgetape Decorative
+2025-08-21 16:57:35,859 INFO row 3: sku=46896 title='ABS 1mm x 21mm UG 100m Grey Cement Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:57:36,907 INFO row 4: sku=46901 title='ABS 1mm x 21mm UG 20m Grey Cement Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:37,961 INFO row 5: sku=48972 title='ABS 1mm x 29mm UG 100m Grey Cement Legato' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:37,989 INFO tab 2/4 -> Matera
+2025-08-21 16:57:38,007 INFO items in finish 'Matera': 4
+2025-08-21 16:57:38,007 INFO range -> Laminate
+2025-08-21 16:57:39,144 INFO row 1: sku=46430 title='Laminate Grey Cement Matera 0.7mm 3650x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 16:57:40,213 INFO row 2: sku=46554 title='Laminate Grey Cement Matera HL 0.7mm 3650x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:57:41,282 INFO row 3: sku=47154 title='Laminate Grey Cement Matera Q 0.7mm 1830x680 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:57:42,326 INFO row 4: sku=46573 title='Laminate Grey Cement Matera HS 0.7mm 1830x1360 - Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:57:42,359 INFO tab 3/4 -> Matt
+2025-08-21 16:57:42,383 INFO items in finish 'Matt': 6
+2025-08-21 16:57:42,383 INFO range -> Board Decorative
+2025-08-21 16:57:43,516 INFO row 1: sku=51234 title='Particle 183618 DS Grey Cement Matt MR' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 16:57:45,238 INFO row 2: sku=57058 title='LDF 253618 DS Grey Cement Matt STD E0' stock=OK price=EMPTY qty_used=1 moq_min=1 step=1 time=1.72s
+2025-08-21 16:57:46,006 INFO row 3: sku=57059 title='LDF 333618 DS Grey Cement Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:57:46,007 INFO range -> Edgetape Decorative
+2025-08-21 16:57:47,057 INFO row 4: sku=57060 title='ABS 1mm x 21mm UG 100m Grey Cement Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:48,108 INFO row 5: sku=57062 title='ABS 1mm x 38mm UG 100m Grey Cement Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:49,178 INFO row 6: sku=57061 title='ABS 1mm x 29mm UG 100m Grey Cement Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:57:49,213 INFO tab 4/4 -> Smooth
+2025-08-21 16:57:49,262 INFO items in finish 'Smooth': 14
+2025-08-21 16:57:49,262 INFO range -> Board Decorative
+2025-08-21 16:57:50,387 INFO row 1: sku=56681 title='MDF 183112 DS Grey Cement Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:57:51,150 INFO row 2: sku=56683 title='MDF 323112 DS Grey Cement Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:57:51,921 INFO row 3: sku=56682 title='MDF 253112 DS Grey Cement Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:57:51,922 INFO range -> Edgetape Decorative
+2025-08-21 16:57:52,962 INFO row 4: sku=53969 title='ABS 1mm x 21mm UG 100m Grey Cement Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:57:54,009 INFO row 5: sku=53934 title='ABS 1mm x 38mm UG 100m Grey Cement Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:55,047 INFO row 6: sku=53970 title='ABS 1mm x 29mm UG 100m Grey Cement Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:57:55,047 INFO range -> Laminate
+2025-08-21 16:57:56,114 INFO row 7: sku=54669 title='Laminate Grey Cement Smooth 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:57:57,166 INFO row 8: sku=54670 title='Laminate Grey Cement Smooth HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:58,232 INFO row 9: sku=54671 title='Laminate Grey Cement Smooth HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:57:59,279 INFO row 10: sku=54672 title='Laminate Grey Cement Smooth Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:57:59,279 INFO range -> Compact
+2025-08-21 16:58:00,040 INFO row 11: sku=51875 title='Compact Laminate Grey Cement Smooth BC 2730x1830 5mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:58:00,799 INFO row 12: sku=47646 title='Compact Laminate Grey Cement Smooth BC 3660x1830 13mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:58:00,799 INFO range -> Alfresco Doors
+2025-08-21 16:58:05,245 INFO row 13: sku= title='5mm Compact Laminate Insert' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 16:58:05,245 INFO range -> Solid Core
+2025-08-21 16:58:06,004 INFO row 14: sku=48384 title='Xenolith Grey Cement Smooth Solid Core 3660x1830 15mm' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:58:06,004 INFO run end rows=29
+2025-08-21 16:58:06,005 INFO csv write: board_decorative.csv sku=47481 colour='Grey Cement'
+2025-08-21 16:58:06,005 INFO csv write: board_decorative.csv sku=49017 colour='Grey Cement'
+2025-08-21 16:58:06,005 INFO csv write: edgetape_decorative.csv sku=46896 colour='Grey Cement'
+2025-08-21 16:58:06,006 INFO csv write: edgetape_decorative.csv sku=46901 colour='Grey Cement'
+2025-08-21 16:58:06,006 INFO csv write: edgetape_decorative.csv sku=48972 colour='Grey Cement'
+2025-08-21 16:58:06,006 INFO csv write: laminate.csv sku=46430 colour='Grey Cement'
+2025-08-21 16:58:06,006 INFO csv write: laminate.csv sku=46554 colour='Grey Cement'
+2025-08-21 16:58:06,006 INFO csv write: laminate.csv sku=47154 colour='Grey Cement'
+2025-08-21 16:58:06,006 INFO csv write: laminate.csv sku=46573 colour='Grey Cement'
+2025-08-21 16:58:06,007 INFO csv write: board_decorative.csv sku=51234 colour='Grey Cement'
+2025-08-21 16:58:06,007 INFO csv write: board_decorative.csv sku=57058 colour='Grey Cement'
+2025-08-21 16:58:06,007 INFO csv write: board_decorative.csv sku=57059 colour='Grey Cement'
+2025-08-21 16:58:06,007 INFO csv write: edgetape_decorative.csv sku=57060 colour='Grey Cement'
+2025-08-21 16:58:06,007 INFO csv write: edgetape_decorative.csv sku=57062 colour='Grey Cement'
+2025-08-21 16:58:06,008 INFO csv write: edgetape_decorative.csv sku=57061 colour='Grey Cement'
+2025-08-21 16:58:06,008 INFO csv write: board_decorative.csv sku=56681 colour='Grey Cement'
+2025-08-21 16:58:06,008 INFO csv write: board_decorative.csv sku=56683 colour='Grey Cement'
+2025-08-21 16:58:06,008 INFO csv write: board_decorative.csv sku=56682 colour='Grey Cement'
+2025-08-21 16:58:06,008 INFO csv write: edgetape_decorative.csv sku=53969 colour='Grey Cement'
+2025-08-21 16:58:06,008 INFO csv write: edgetape_decorative.csv sku=53934 colour='Grey Cement'
+2025-08-21 16:58:06,009 INFO csv write: edgetape_decorative.csv sku=53970 colour='Grey Cement'
+2025-08-21 16:58:06,009 INFO csv write: laminate.csv sku=54669 colour='Grey Cement'
+2025-08-21 16:58:06,009 INFO csv write: laminate.csv sku=54670 colour='Grey Cement'
+2025-08-21 16:58:06,009 INFO csv write: laminate.csv sku=54671 colour='Grey Cement'
+2025-08-21 16:58:06,009 INFO csv write: laminate.csv sku=54672 colour='Grey Cement'
+2025-08-21 16:58:06,009 INFO csv write: compact.csv sku=51875 colour='Grey Cement'
+2025-08-21 16:58:06,010 INFO csv write: compact.csv sku=47646 colour='Grey Cement'
+2025-08-21 16:58:06,010 INFO csv write: alfresco_doors.csv sku= colour='Grey Cement'
+2025-08-21 16:58:06,010 INFO csv write: solid_core.csv sku=48384 colour='Grey Cement'
+2025-08-21 16:58:06,010 INFO [72/240] Done Grey Cement, rows=29, ranges=['Alfresco Doors', 'Board Decorative', 'Compact', 'Edgetape Decorative', 'Laminate', 'Solid Core']

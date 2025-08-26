@@ -1,0 +1,44 @@
+2025-08-21 16:45:58,501 INFO [15/240] Processing Blackened Oak  https://www.polytec.com.au/colour/blackened-oak/
+2025-08-21 16:45:58,501 INFO run start colour=https://www.polytec.com.au/colour/blackened-oak/
+2025-08-21 16:45:58,913 INFO colour name: Blackened Oak
+2025-08-21 16:45:58,918 INFO finish tabs: 1
+2025-08-21 16:45:58,936 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:45:59,017 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:45:59,017 INFO range -> Board Decorative
+2025-08-21 16:46:00,143 INFO row 1: sku=57175 title='MDF 182412 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 16:46:00,905 INFO row 2: sku=57176 title='MDF 183112 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:46:01,675 INFO row 3: sku=57177 title='MDF 252412 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:46:02,444 INFO row 4: sku=58450 title='MDF 183618 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:46:03,206 INFO row 5: sku=58452 title='LDF 333618 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:46:03,972 INFO row 6: sku=58062 title='MDF 092712 DS Blackened Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:46:04,741 INFO row 7: sku=58451 title='LDF 253618 DS Blackened Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:46:04,741 INFO range -> Edgetape Decorative
+2025-08-21 16:46:05,801 INFO row 8: sku=56904 title='ABS 1mm x 21mm UG 100m Blackened Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:46:06,903 INFO row 9: sku=56905 title='ABS 1mm x 21mm UG 20m Blackened Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.10s
+2025-08-21 16:46:07,967 INFO row 10: sku=56907 title='ABS 1mm x 29mm UG 100m Blackened Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:46:09,034 INFO row 11: sku=57421 title='ABS 1mm x 38mm UG 100m Blackened Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:46:09,034 INFO range -> Laminate
+2025-08-21 16:46:10,104 INFO row 12: sku=56860 title='Laminate Blackened Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:46:11,151 INFO row 13: sku=56861 title='Laminate Blackened Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:46:12,201 INFO row 14: sku=56863 title='Laminate Blackened Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:46:13,265 INFO row 15: sku=56862 title='Laminate Blackened Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:46:13,265 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:46:17,710 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.44s
+2025-08-21 16:46:17,710 INFO run end rows=16
+2025-08-21 16:46:17,711 INFO csv write: board_decorative.csv sku=57175 colour='Blackened Oak'
+2025-08-21 16:46:17,711 INFO csv write: board_decorative.csv sku=57176 colour='Blackened Oak'
+2025-08-21 16:46:17,712 INFO csv write: board_decorative.csv sku=57177 colour='Blackened Oak'
+2025-08-21 16:46:17,712 INFO csv write: board_decorative.csv sku=58450 colour='Blackened Oak'
+2025-08-21 16:46:17,712 INFO csv write: board_decorative.csv sku=58452 colour='Blackened Oak'
+2025-08-21 16:46:17,712 INFO csv write: board_decorative.csv sku=58062 colour='Blackened Oak'
+2025-08-21 16:46:17,713 INFO csv write: board_decorative.csv sku=58451 colour='Blackened Oak'
+2025-08-21 16:46:17,713 INFO csv write: edgetape_decorative.csv sku=56904 colour='Blackened Oak'
+2025-08-21 16:46:17,713 INFO csv write: edgetape_decorative.csv sku=56905 colour='Blackened Oak'
+2025-08-21 16:46:17,714 INFO csv write: edgetape_decorative.csv sku=56907 colour='Blackened Oak'
+2025-08-21 16:46:17,714 INFO csv write: edgetape_decorative.csv sku=57421 colour='Blackened Oak'
+2025-08-21 16:46:17,714 INFO csv write: laminate.csv sku=56860 colour='Blackened Oak'
+2025-08-21 16:46:17,714 INFO csv write: laminate.csv sku=56861 colour='Blackened Oak'
+2025-08-21 16:46:17,715 INFO csv write: laminate.csv sku=56863 colour='Blackened Oak'
+2025-08-21 16:46:17,715 INFO csv write: laminate.csv sku=56862 colour='Blackened Oak'
+2025-08-21 16:46:17,715 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Blackened Oak'
+2025-08-21 16:46:17,716 INFO [15/240] Done Blackened Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

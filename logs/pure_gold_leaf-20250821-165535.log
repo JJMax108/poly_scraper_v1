@@ -1,0 +1,27 @@
+2025-08-21 16:55:35,923 INFO [62/240] Processing Pure Gold Leaf  https://www.polytec.com.au/colour/pure-gold-leaf/
+2025-08-21 16:55:35,923 INFO run start colour=https://www.polytec.com.au/colour/pure-gold-leaf/
+2025-08-21 16:55:36,331 INFO colour name: Pure Gold Leaf
+2025-08-21 16:55:36,337 INFO finish tabs: 1
+2025-08-21 16:55:36,361 INFO tab 1/1 -> Matt
+2025-08-21 16:55:36,391 INFO items in finish 'Matt': 8
+2025-08-21 16:55:36,391 INFO range -> Board Decorative
+2025-08-21 16:55:37,515 INFO row 1: sku=46834 title='MDF 162412 DS Pure Gold Leaf Matt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:55:37,515 INFO range -> Edgetape Decorative
+2025-08-21 16:55:38,559 INFO row 2: sku=46815 title='ABS 1mm x 22mm UG 100m Pure Gold Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:39,592 INFO row 3: sku=46811 title='ABS 1mm x 22mm UG 20m Pure Gold Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:55:40,635 INFO row 4: sku=51850 title='ABS 1mm x 29mm UG 100m Pure Gold Leaf Matt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:40,636 INFO range -> Laminate
+2025-08-21 16:55:41,676 INFO row 5: sku=46440 title='Laminate Pure Gold Leaf Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:55:42,709 INFO row 6: sku=46587 title='Laminate Pure Gold Leaf Matt HS 1825 x 1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:55:43,771 INFO row 7: sku=46564 title='Laminate Pure Gold Leaf Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:55:44,828 INFO row 8: sku=47498 title='Laminate Pure Gold Leaf Matt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:55:44,828 INFO run end rows=8
+2025-08-21 16:55:44,828 INFO csv write: board_decorative.csv sku=46834 colour='Pure Gold Leaf'
+2025-08-21 16:55:44,828 INFO csv write: edgetape_decorative.csv sku=46815 colour='Pure Gold Leaf'
+2025-08-21 16:55:44,829 INFO csv write: edgetape_decorative.csv sku=46811 colour='Pure Gold Leaf'
+2025-08-21 16:55:44,829 INFO csv write: edgetape_decorative.csv sku=51850 colour='Pure Gold Leaf'
+2025-08-21 16:55:44,829 INFO csv write: laminate.csv sku=46440 colour='Pure Gold Leaf'
+2025-08-21 16:55:44,829 INFO csv write: laminate.csv sku=46587 colour='Pure Gold Leaf'
+2025-08-21 16:55:44,829 INFO csv write: laminate.csv sku=46564 colour='Pure Gold Leaf'
+2025-08-21 16:55:44,830 INFO csv write: laminate.csv sku=47498 colour='Pure Gold Leaf'
+2025-08-21 16:55:44,830 INFO [62/240] Done Pure Gold Leaf, rows=8, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

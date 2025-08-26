@@ -1,0 +1,46 @@
+2025-08-21 16:49:36,345 INFO [32/240] Processing Forage  https://www.polytec.com.au/colour/forage/
+2025-08-21 16:49:36,345 INFO run start colour=https://www.polytec.com.au/colour/forage/
+2025-08-21 16:49:36,667 INFO colour name: Forage
+2025-08-21 16:49:36,674 INFO finish tabs: 2
+2025-08-21 16:49:36,698 INFO tab 1/2 -> Smooth
+2025-08-21 16:49:36,734 INFO items in finish 'Smooth': 10
+2025-08-21 16:49:36,734 INFO range -> Board Decorative
+2025-08-21 16:49:37,858 INFO row 1: sku=52840 title='MDF 162412 DS Forage Smooth MR E0 Film' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:49:38,622 INFO row 2: sku=56678 title='MDF 183112 DS Forage Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:49:39,381 INFO row 3: sku=56679 title='MDF 253112 DS Forage Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:49:40,150 INFO row 4: sku=56680 title='MDF 323112 DS Forage Smooth MR E0 Film Down' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:49:40,150 INFO range -> Edgetape Decorative
+2025-08-21 16:49:41,212 INFO row 5: sku=52843 title='ABS 1mm x 21mm UG 100m Forage Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:49:42,255 INFO row 6: sku=52841 title='ABS 1mm x 21mm UG 20m Forage Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:49:43,331 INFO row 7: sku=52844 title='ABS 1mm x 29mm UG 100m Forage Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:49:44,415 INFO row 8: sku=53524 title='ABS 1mm x 38mm UG 100m Forage Smooth' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.08s
+2025-08-21 16:49:44,415 INFO range -> Laminate
+2025-08-21 16:49:45,454 INFO row 9: sku=52122 title='Laminate Forage Smooth 0.7mm 3650x1220' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:49:45,454 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:49:49,908 INFO row 10: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 16:49:49,940 INFO tab 2/2 -> Venette
+2025-08-21 16:49:49,961 INFO items in finish 'Venette': 5
+2025-08-21 16:49:49,961 INFO range -> Board Decorative
+2025-08-21 16:49:51,081 INFO row 1: sku=54728 title='MDF 182412 SS Forage Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 16:49:51,843 INFO row 2: sku=54729 title='MDF 182412 DS Forage Venette LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:49:51,843 INFO range -> Edgetape Decorative
+2025-08-21 16:49:52,889 INFO row 3: sku=54730 title='ABS 1mm x 21mm UG 100m Forage Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:49:53,938 INFO row 4: sku=54731 title='ABS 1mm x 21mm UG 20m Forage Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:49:54,969 INFO row 5: sku=54733 title='ABS 1mm x 29mm UG 100m Forage Venette' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 16:49:54,970 INFO run end rows=15
+2025-08-21 16:49:54,971 INFO csv write: board_decorative.csv sku=52840 colour='Forage'
+2025-08-21 16:49:54,971 INFO csv write: board_decorative.csv sku=56678 colour='Forage'
+2025-08-21 16:49:54,971 INFO csv write: board_decorative.csv sku=56679 colour='Forage'
+2025-08-21 16:49:54,972 INFO csv write: board_decorative.csv sku=56680 colour='Forage'
+2025-08-21 16:49:54,972 INFO csv write: edgetape_decorative.csv sku=52843 colour='Forage'
+2025-08-21 16:49:54,972 INFO csv write: edgetape_decorative.csv sku=52841 colour='Forage'
+2025-08-21 16:49:54,973 INFO csv write: edgetape_decorative.csv sku=52844 colour='Forage'
+2025-08-21 16:49:54,973 INFO csv write: edgetape_decorative.csv sku=53524 colour='Forage'
+2025-08-21 16:49:54,973 INFO csv write: laminate.csv sku=52122 colour='Forage'
+2025-08-21 16:49:54,974 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Forage'
+2025-08-21 16:49:54,974 INFO csv write: board_decorative.csv sku=54728 colour='Forage'
+2025-08-21 16:49:54,974 INFO csv write: board_decorative.csv sku=54729 colour='Forage'
+2025-08-21 16:49:54,974 INFO csv write: edgetape_decorative.csv sku=54730 colour='Forage'
+2025-08-21 16:49:54,974 INFO csv write: edgetape_decorative.csv sku=54731 colour='Forage'
+2025-08-21 16:49:54,975 INFO csv write: edgetape_decorative.csv sku=54733 colour='Forage'
+2025-08-21 16:49:54,975 INFO [32/240] Done Forage, rows=15, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']

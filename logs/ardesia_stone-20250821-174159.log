@@ -1,0 +1,17 @@
+2025-08-21 17:41:59,273 INFO [211/240] Processing Ardesia Stone  https://www.polytec.com.au/colour/ardesia-stone/
+2025-08-21 17:41:59,273 INFO run start colour=https://www.polytec.com.au/colour/ardesia-stone/
+2025-08-21 17:41:59,679 INFO colour name: Ardesia Stone
+2025-08-21 17:41:59,684 INFO finish tabs: 1
+2025-08-21 17:41:59,705 INFO tab 1/1 -> Matt
+2025-08-21 17:41:59,724 INFO items in finish 'Matt': 4
+2025-08-21 17:41:59,725 INFO range -> Laminate
+2025-08-21 17:42:00,849 INFO row 1: sku=35032 title='Laminate Ardesia Stone Matt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:42:01,900 INFO row 2: sku=35033 title='Laminate Ardesia Stone Matt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:42:02,946 INFO row 3: sku=35061 title='Laminate Ardesia Stone Matt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:42:03,999 INFO row 4: sku=35058 title='Laminate Ardesia Stone Matt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:42:04,000 INFO run end rows=4
+2025-08-21 17:42:04,000 INFO csv write: laminate.csv sku=35032 colour='Ardesia Stone'
+2025-08-21 17:42:04,000 INFO csv write: laminate.csv sku=35033 colour='Ardesia Stone'
+2025-08-21 17:42:04,000 INFO csv write: laminate.csv sku=35061 colour='Ardesia Stone'
+2025-08-21 17:42:04,001 INFO csv write: laminate.csv sku=35058 colour='Ardesia Stone'
+2025-08-21 17:42:04,001 INFO [211/240] Done Ardesia Stone, rows=4, ranges=['Laminate']

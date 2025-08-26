@@ -1,0 +1,24 @@
+2025-08-21 17:08:22,358 INFO [100/240] Processing New Ultra White  https://www.polytec.com.au/colour/new-ultra-white/
+2025-08-21 17:08:22,358 INFO run start colour=https://www.polytec.com.au/colour/new-ultra-white/
+2025-08-21 17:08:22,746 INFO colour name: New Ultra White
+2025-08-21 17:08:22,751 INFO finish tabs: 1
+2025-08-21 17:08:22,771 INFO tab 1/1 -> Gloss
+2025-08-21 17:08:22,798 INFO items in finish 'Gloss': 7
+2025-08-21 17:08:22,798 INFO range -> Board Decorative
+2025-08-21 17:08:23,916 INFO row 1: sku=43820 title='MDF 182412 SS New Ultra White Gloss LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.12s
+2025-08-21 17:08:24,668 INFO row 2: sku=43859 title='MDF 183112 SS New Ultra White Gloss LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:08:25,411 INFO row 3: sku=44237 title='MDF 182412 DS New Ultra White Gloss LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.74s
+2025-08-21 17:08:26,166 INFO row 4: sku=44238 title='MDF 183112 DS New Ultra White Gloss LMG E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:08:26,166 INFO range -> Edgetape Decorative
+2025-08-21 17:08:26,919 INFO row 5: sku=44529 title='ABS 1mm x 21mm UG 100m New Ultra White Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:08:27,668 INFO row 6: sku=44528 title='ABS 1mm x 21mm UG 20m New Ultra White Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 17:08:28,695 INFO row 7: sku=44271 title='ABS 1mm x 29mm UG 100m New Ultra White Gloss' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.03s
+2025-08-21 17:08:28,695 INFO run end rows=7
+2025-08-21 17:08:28,695 INFO csv write: board_decorative.csv sku=43820 colour='New Ultra White'
+2025-08-21 17:08:28,696 INFO csv write: board_decorative.csv sku=43859 colour='New Ultra White'
+2025-08-21 17:08:28,696 INFO csv write: board_decorative.csv sku=44237 colour='New Ultra White'
+2025-08-21 17:08:28,696 INFO csv write: board_decorative.csv sku=44238 colour='New Ultra White'
+2025-08-21 17:08:28,696 INFO csv write: edgetape_decorative.csv sku=44529 colour='New Ultra White'
+2025-08-21 17:08:28,696 INFO csv write: edgetape_decorative.csv sku=44528 colour='New Ultra White'
+2025-08-21 17:08:28,697 INFO csv write: edgetape_decorative.csv sku=44271 colour='New Ultra White'
+2025-08-21 17:08:28,697 INFO [100/240] Done New Ultra White, rows=7, ranges=['Board Decorative', 'Edgetape Decorative']

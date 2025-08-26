@@ -1,0 +1,35 @@
+2025-08-21 17:01:00,830 INFO [85/240] Processing Palace Teak  https://www.polytec.com.au/colour/palace-teak/
+2025-08-21 17:01:00,830 INFO run start colour=https://www.polytec.com.au/colour/palace-teak/
+2025-08-21 17:01:01,257 INFO colour name: Palace Teak
+2025-08-21 17:01:01,262 INFO finish tabs: 1
+2025-08-21 17:01:01,284 INFO tab 1/1 -> Woodmatt
+2025-08-21 17:01:01,333 INFO items in finish 'Woodmatt': 12
+2025-08-21 17:01:01,333 INFO range -> Board Decorative
+2025-08-21 17:01:02,478 INFO row 1: sku=47226 title='MDF 162412 DS Palace Teak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.14s
+2025-08-21 17:01:03,240 INFO row 2: sku=47227 title='MDF 163112 DS Palace Teak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:01:04,005 INFO row 3: sku=47264 title='MDF 252412 DS Palace Teak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:01:04,770 INFO row 4: sku=47278 title='MDF 322412 DS Palace Teak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 17:01:04,771 INFO range -> Edgetape Decorative
+2025-08-21 17:01:05,541 INFO row 5: sku=47177 title='ABS 1mm x 21mm UG 100m Palace Teak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:01:06,306 INFO row 6: sku=47286 title='ABS 1mm x 21mm UG 20m Palace Teak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 17:01:07,351 INFO row 7: sku=47179 title='ABS 1mm x 38mm UG 100m Palace Teak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:01:08,399 INFO row 8: sku=47178 title='ABS 1mm x 29mm UG 100m Palace Teak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:01:08,400 INFO range -> Laminate
+2025-08-21 17:01:09,446 INFO row 9: sku=48528 title='Laminate Palace Teak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:01:10,483 INFO row 10: sku=48646 title='Laminate Palace Teak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 17:01:11,536 INFO row 11: sku=48625 title='Laminate Palace Teak Woodmatt HS 0.7mm 1830x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 17:01:12,603 INFO row 12: sku=48660 title='Laminate Palace Teak Woodmatt Q 0.7mm 1830x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 17:01:12,603 INFO run end rows=12
+2025-08-21 17:01:12,604 INFO csv write: board_decorative.csv sku=47226 colour='Palace Teak'
+2025-08-21 17:01:12,604 INFO csv write: board_decorative.csv sku=47227 colour='Palace Teak'
+2025-08-21 17:01:12,604 INFO csv write: board_decorative.csv sku=47264 colour='Palace Teak'
+2025-08-21 17:01:12,604 INFO csv write: board_decorative.csv sku=47278 colour='Palace Teak'
+2025-08-21 17:01:12,605 INFO csv write: edgetape_decorative.csv sku=47177 colour='Palace Teak'
+2025-08-21 17:01:12,605 INFO csv write: edgetape_decorative.csv sku=47286 colour='Palace Teak'
+2025-08-21 17:01:12,605 INFO csv write: edgetape_decorative.csv sku=47179 colour='Palace Teak'
+2025-08-21 17:01:12,605 INFO csv write: edgetape_decorative.csv sku=47178 colour='Palace Teak'
+2025-08-21 17:01:12,605 INFO csv write: laminate.csv sku=48528 colour='Palace Teak'
+2025-08-21 17:01:12,606 INFO csv write: laminate.csv sku=48646 colour='Palace Teak'
+2025-08-21 17:01:12,606 INFO csv write: laminate.csv sku=48625 colour='Palace Teak'
+2025-08-21 17:01:12,606 INFO csv write: laminate.csv sku=48660 colour='Palace Teak'
+2025-08-21 17:01:12,607 INFO [85/240] Done Palace Teak, rows=12, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate']

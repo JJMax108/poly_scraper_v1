@@ -1,0 +1,44 @@
+2025-08-21 16:45:38,310 INFO [14/240] Processing Rubra Oak  https://www.polytec.com.au/colour/rubra-oak/
+2025-08-21 16:45:38,311 INFO run start colour=https://www.polytec.com.au/colour/rubra-oak/
+2025-08-21 16:45:38,726 INFO colour name: Rubra Oak
+2025-08-21 16:45:38,731 INFO finish tabs: 1
+2025-08-21 16:45:38,751 INFO tab 1/1 -> Woodmatt
+2025-08-21 16:45:38,826 INFO items in finish 'Woodmatt': 16
+2025-08-21 16:45:38,827 INFO range -> Board Decorative
+2025-08-21 16:45:39,959 INFO row 1: sku=57179 title='MDF 182412 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.13s
+2025-08-21 16:45:40,730 INFO row 2: sku=57180 title='MDF 183112 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:45:41,490 INFO row 3: sku=57181 title='MDF 252412 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.76s
+2025-08-21 16:45:42,260 INFO row 4: sku=58477 title='MDF 183618 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:45:43,027 INFO row 5: sku=58090 title='MDF 092712 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:45:43,795 INFO row 6: sku=58479 title='LDF 333618 DS Rubra Oak Woodmatt MR E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.77s
+2025-08-21 16:45:44,544 INFO row 7: sku=58478 title='LDF 253618 DS Rubra Oak Woodmatt STD E0' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=0.75s
+2025-08-21 16:45:44,544 INFO range -> Edgetape Decorative
+2025-08-21 16:45:45,604 INFO row 8: sku=56908 title='ABS 1mm x 21mm UG 100m Rubra Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.06s
+2025-08-21 16:45:46,671 INFO row 9: sku=56909 title='ABS 1mm x 21mm UG 20m Rubra Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:45:47,713 INFO row 10: sku=56911 title='ABS 1mm x 29mm UG 100m Rubra Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.04s
+2025-08-21 16:45:49,011 INFO row 11: sku=57422 title='ABS 1mm x 38mm UG 100m Rubra Oak Woodmatt' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.30s
+2025-08-21 16:45:49,011 INFO range -> Laminate
+2025-08-21 16:45:50,679 INFO row 12: sku=56864 title='Laminate Rubra Oak Woodmatt 0.7mm 3650x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.67s
+2025-08-21 16:45:51,733 INFO row 13: sku=56865 title='Laminate Rubra Oak Woodmatt HL 0.7mm 3650x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.05s
+2025-08-21 16:45:52,801 INFO row 14: sku=56866 title='Laminate Rubra Oak Woodmatt HS 0.7mm 1825x1360' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.07s
+2025-08-21 16:45:53,974 INFO row 15: sku=56867 title='Laminate Rubra Oak Woodmatt Q 0.7mm 1825x680' stock=OK price=OK qty_used=1 moq_min=1 step=1 time=1.17s
+2025-08-21 16:45:53,974 INFO range -> Thermolaminated Doors and Panels
+2025-08-21 16:45:58,429 INFO row 16: sku= title='Style 1 - 6' stock=EMPTY price=EMPTY qty_used=1 moq_min=1 step=1 time=4.45s
+2025-08-21 16:45:58,430 INFO run end rows=16
+2025-08-21 16:45:58,433 INFO csv write: board_decorative.csv sku=57179 colour='Rubra Oak'
+2025-08-21 16:45:58,434 INFO csv write: board_decorative.csv sku=57180 colour='Rubra Oak'
+2025-08-21 16:45:58,434 INFO csv write: board_decorative.csv sku=57181 colour='Rubra Oak'
+2025-08-21 16:45:58,434 INFO csv write: board_decorative.csv sku=58477 colour='Rubra Oak'
+2025-08-21 16:45:58,435 INFO csv write: board_decorative.csv sku=58090 colour='Rubra Oak'
+2025-08-21 16:45:58,435 INFO csv write: board_decorative.csv sku=58479 colour='Rubra Oak'
+2025-08-21 16:45:58,435 INFO csv write: board_decorative.csv sku=58478 colour='Rubra Oak'
+2025-08-21 16:45:58,436 INFO csv write: edgetape_decorative.csv sku=56908 colour='Rubra Oak'
+2025-08-21 16:45:58,436 INFO csv write: edgetape_decorative.csv sku=56909 colour='Rubra Oak'
+2025-08-21 16:45:58,436 INFO csv write: edgetape_decorative.csv sku=56911 colour='Rubra Oak'
+2025-08-21 16:45:58,436 INFO csv write: edgetape_decorative.csv sku=57422 colour='Rubra Oak'
+2025-08-21 16:45:58,436 INFO csv write: laminate.csv sku=56864 colour='Rubra Oak'
+2025-08-21 16:45:58,437 INFO csv write: laminate.csv sku=56865 colour='Rubra Oak'
+2025-08-21 16:45:58,437 INFO csv write: laminate.csv sku=56866 colour='Rubra Oak'
+2025-08-21 16:45:58,437 INFO csv write: laminate.csv sku=56867 colour='Rubra Oak'
+2025-08-21 16:45:58,437 INFO csv write: thermolaminated_doors_and_panels.csv sku= colour='Rubra Oak'
+2025-08-21 16:45:58,438 INFO [14/240] Done Rubra Oak, rows=16, ranges=['Board Decorative', 'Edgetape Decorative', 'Laminate', 'Thermolaminated Doors and Panels']
